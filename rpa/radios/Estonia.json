@@ -1,0 +1,457 @@
+[
+    {
+        "name": "\u00c4rip\u00e4eva Raadio",
+        "url": "https://www.aripaev.ee/raadio/stream.mp3",
+        "favicon": "https://www.aripaev.ee/favicons/aripaev/favicon.ico"
+    },
+    {
+        "name": "DFM",
+        "url": "https://le10.euddn.net/6ba757fbb07c38b4203333f8da597dfe02364614545d611faee0cae3d5054c28998483e6a36ae77e8017007b680acfd8f3d9469776bc6bf03bec160af728b4e948a98efed04587b8dfe7a058ed6643a614aa6443b182f8f2ae0ccbd5fbb35c505217badbf4aff456020c96c0a214f787619f1c7ac0b589b36b9388395e577132f54b72799791f65ab27e574488f80f605c7d5d207c982f533fa02509dd85d1d6/dfm.mp3",
+        "favicon": "https://dfm.pleier.ee/favicons/dfm/apple-touch-icon.png"
+    },
+    {
+        "name": "Duo Country",
+        "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/dc_duocountry.aac",
+        "favicon": "https://raadioduo.pleier.ee/favicons/duo/apple-touch-icon.png"
+    },
+    {
+        "name": "Duo Party",
+        "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/duodance.aac",
+        "favicon": "https://f302.pmo.ee/L3qQOIrm8IQjKoZDAoI7ouLHfe8=/460x460/smart/filters:quality(90)/https://f303.pmo.ee/media/2024/03/duoparty-ruut.jpg"
+    },
+    {
+        "name": "Duo Rock",
+        "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/rokk.aac",
+        "favicon": "https://f302.pmo.ee/9fiNHF2zDHnAOorNiKg4V0He9XM=/460x460/smart/filters:quality(90)/https://f303.pmo.ee/media/2023/07/duo-rock.png"
+    },
+    {
+        "name": "Elmari tantsu\u00f5htu 24/7",
+        "url": "http://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac",
+        "favicon": "https://elmar.pleier.ee/favicons/elmar/favicon-32x32.png"
+    },
+    {
+        "name": "ERR Klassikaraadio",
+        "url": "http://icecast.err.ee/klassikaraadio.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "ERR Raadio 2",
+        "url": "http://icecast.err.ee/raadio2.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "ERR Raadio 2 - 320kbps",
+        "url": "http://icecast.err.ee/raadio2korge.mp3.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "ERR Raadio 4",
+        "url": "http://icecast.err.ee/raadio4.mp3?type=.mp3/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "FinEst Radio",
+        "url": "https://shoutcast.finestfm.fi/stream/1/:80/;stream",
+        "favicon": "https://finestfm.fi/upload/623c699818c312.68089185.ico"
+    },
+    {
+        "name": "Happy U",
+        "url": "http://www.happyu.ee/streaming/happyu.m3u",
+        "favicon": "http://www.happyu.ee/favicon.ico"
+    },
+    {
+        "name": "Hard FM Estonia",
+        "url": "http://s5.radio.co/s69e02764f/listen",
+        "favicon": "https://www.hardfm.net/uploads/1/3/7/9/137906599/published/hard-fm-logo-new-2.png"
+    },
+    {
+        "name": "Hitmix Estonia",
+        "url": "https://stream.hitmix.ee:8443/HIT_320",
+        "favicon": "https://hitmix.ee/wp-content/uploads/2020/12/cropped-hitmix-fav-180x180.png"
+    },
+    {
+        "name": "IDA",
+        "url": "https://broadcast.idaidaida.net:8000/stream",
+        "favicon": "https://idaidaida.net/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "IDA Raadio - Tallinn",
+        "url": "https://broadcast.idaidaida.net:8000/stream",
+        "favicon": "https://idaidaida.net/_nuxt/icons/icon_512x512.4be776.png"
+    },
+    {
+        "name": "Kaguraadio",
+        "url": "https://locomanoco.vlevelscdn.net/radio/kaguraadio.stream/playlist.m3u8",
+        "favicon": "http://www.kaguraadio.ee/wp-content/uploads/2019/11/cropped-Kaguraadio-logo4-32x32.jpg"
+    },
+    {
+        "name": "KlaRa Jazz",
+        "url": "https://icecast.err.ee/klarajazz.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Klara Jazz",
+        "url": "http://icecast.err.ee/klarajazz.opus",
+        "favicon": ""
+    },
+    {
+        "name": "KlaRa Klassika",
+        "url": "https://icecast.err.ee/klaraklassika.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Klara Klassika (128 kbps Ogg Opus) | Eesti Rahvusringh\u00e4\u00e4ling | err.ee",
+        "url": "http://icecast.err.ee/klaraklassika.opus",
+        "favicon": ""
+    },
+    {
+        "name": "KlaRa Nostalgia",
+        "url": "https://icecast.err.ee/klaranostalgia.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Klara Nostalgia (128 kbps Ogg Opus) | Eesti Rahvusringh\u00e4\u00e4ling | err.ee",
+        "url": "http://icecast.err.ee/klaranostalgia.opus",
+        "favicon": ""
+    },
+    {
+        "name": "Klassikaraadio (128 kbps Ogg Opus) | Eesti Rahvusringh\u00e4\u00e4ling | klassikaraadio.err.ee",
+        "url": "http://icecast.err.ee/klassikaraadio.opus",
+        "favicon": ""
+    },
+    {
+        "name": "Kuma FM 101.0",
+        "url": "http://5.39.16.62:8004/tre",
+        "favicon": ""
+    },
+    {
+        "name": "MyHits",
+        "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac",
+        "favicon": "https://myhits.pleier.ee/favicons/myhits/apple-touch-icon.png"
+    },
+    {
+        "name": "NRJ",
+        "url": "https://edge01.cdn.bitflip.ee:8888/NRJ?_i=5b8169cb",
+        "favicon": "https://site.prelive.sky.ee/sites/default/files/2021-08/nrj.svg"
+    },
+    {
+        "name": "NRJ Tallinn",
+        "url": "https://edge03.cdn.bitflip.ee:8888/NRJ",
+        "favicon": ""
+    },
+    {
+        "name": "Pereraadio Kuressaare",
+        "url": "http://icecast.pereraadio.ee:8000/Kuressaare",
+        "favicon": ""
+    },
+    {
+        "name": "Pereraadio Kuressaare",
+        "url": "http://icecast.pereraadio.ee:8000/Kuressaare",
+        "favicon": ""
+    },
+    {
+        "name": "Pereraadio Tallinn",
+        "url": "http://icecast.pereraadio.ee:8000/Tallinn",
+        "favicon": ""
+    },
+    {
+        "name": "Pereraadio Tallinn",
+        "url": "http://icecast.pereraadio.ee:8000/Tallinn",
+        "favicon": ""
+    },
+    {
+        "name": "Pereraadio Tartu",
+        "url": "http://icecast.pereraadio.ee:8000/Tartu",
+        "favicon": ""
+    },
+    {
+        "name": "Pereraadio Tartu",
+        "url": "http://icecast.pereraadio.ee:8000/Tartu",
+        "favicon": ""
+    },
+    {
+        "name": "Power Hit Radio",
+        "url": "https://ice.leviracloud.eu/phr96-aac?",
+        "favicon": "http://power.tv3.ee/favicon.ico"
+    },
+    {
+        "name": "R2 Eesti",
+        "url": "https://icecast.err.ee/r2eestikorge.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R2Altpop",
+        "url": "http://icecast.err.ee/r2alternatiiv.opus",
+        "favicon": ""
+    },
+    {
+        "name": "r2chill",
+        "url": "http://icecast.err.ee/r2chill.opus",
+        "favicon": ""
+    },
+    {
+        "name": "R2Extra Altpop",
+        "url": "https://lonestarr.err.ee/live/r2altkorge/index.m3u8?id=95846420454178&short=true",
+        "favicon": ""
+    },
+    {
+        "name": "R2p",
+        "url": "https://icecast.err.ee/r2p.opus",
+        "favicon": ""
+    },
+    {
+        "name": "R2Pop",
+        "url": "http://icecast.err.ee/r2pop.opus",
+        "favicon": ""
+    },
+    {
+        "name": "R2Rock",
+        "url": "http://icecast.err.ee/r2rock.opus",
+        "favicon": ""
+    },
+    {
+        "name": "Raadio 2 (128 kbps Ogg Opus) | Eesti Rahvusringh\u00e4\u00e4ling | r2.err.ee",
+        "url": "http://icecast.err.ee/raadio2.opus",
+        "favicon": ""
+    },
+    {
+        "name": "Raadio 2 (HQ)",
+        "url": "http://icecast.err.ee/raadio2korge.mp3.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "Raadio 2 HQ",
+        "url": "http://icecast.err.ee/raadio2korge.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Raadio 7",
+        "url": "https://edge05.cdn.bitflip.ee:8888/R7",
+        "favicon": ""
+    },
+    {
+        "name": "Raadio Duo",
+        "url": "https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac",
+        "favicon": "https://raadioduo.pleier.ee/favicons/duo/apple-touch-icon.png"
+    },
+    {
+        "name": "Raadio Elmar",
+        "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac",
+        "favicon": "https://elmar.pleier.ee/favicons/elmar/apple-touch-icon.png"
+    },
+    {
+        "name": "Raadio Kadi",
+        "url": "https://edge06.cdn.bitflip.ee:8888/kadi",
+        "favicon": "https://kadi.ee/favicon.ico"
+    },
+    {
+        "name": "Raadio Kuku",
+        "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3",
+        "favicon": "https://kuku.pleier.ee/favicons/kuku/apple-touch-icon.png"
+    },
+    {
+        "name": "Raadio KUKU",
+        "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_low.mp3",
+        "favicon": "https://kuku.pleier.ee/favicons/kuku/apple-touch-icon.png"
+    },
+    {
+        "name": "Raadio Relax FM",
+        "url": "https://stream.relaxfm.ee/relax",
+        "favicon": ""
+    },
+    {
+        "name": "Raadio Relax International",
+        "url": "https://stream.relaxfm.ee/international",
+        "favicon": ""
+    },
+    {
+        "name": "Raadio Tallinn",
+        "url": "http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Raadio Tallinn (128 kbps Ogg Opus) | Eesti Rahvusringh\u00e4\u00e4ling | raadiotallinn.err.ee",
+        "url": "http://icecast.err.ee/raadiotallinn.opus",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Azathoth Revival",
+        "url": "https://cast4.asurahosting.com/proxy/aadu/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Eli",
+        "url": "http://icecast.pereraadio.ee:8000/RadioEli",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Eli",
+        "url": "http://icecast.pereraadio.ee:8000/RadioEli",
+        "favicon": ""
+    },
+    {
+        "name": "Relax cafe",
+        "url": "https://stream.relaxfm.ee/cafe",
+        "favicon": ""
+    },
+    {
+        "name": "Relax cafe",
+        "url": "https://stream.relaxfm.ee/cafe",
+        "favicon": ""
+    },
+    {
+        "name": "Relax cafe",
+        "url": "https://stream.relaxfm.ee/cafe",
+        "favicon": ""
+    },
+    {
+        "name": "Relax FM Eesti",
+        "url": "https://stream.relaxfm.ee/relax",
+        "favicon": "https://site.prelive.sky.ee/sites/default/files/2023-11/relax_fm.svg"
+    },
+    {
+        "name": "Retro FM Estonia",
+        "url": "https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b",
+        "favicon": "https://sky.ee/favicon.ico"
+    },
+    {
+        "name": "Retro FM Estonia",
+        "url": "https://stream.skymedia.ee/live/RETRO_AAC",
+        "favicon": "https://sky.ee/favicon.ico"
+    },
+    {
+        "name": "Rock FM",
+        "url": "https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186",
+        "favicon": "https://sky.ee/favicon.ico"
+    },
+    {
+        "name": "Semeinoje Radio",
+        "url": "http://icecast.pereraadio.ee:8000/Semeinoje",
+        "favicon": ""
+    },
+    {
+        "name": "Semeinoje Radio",
+        "url": "http://icecast.pereraadio.ee:8000/Semeinoje",
+        "favicon": ""
+    },
+    {
+        "name": "Sky Plus",
+        "url": "https://stream.skymedia.ee/live/SKYPLUS",
+        "favicon": "https://sky.ee/favicon.ico"
+    },
+    {
+        "name": "Sky Plus",
+        "url": "https://skymedia-live.bitflip.ee/SKYPLUS",
+        "favicon": "https://sky.ee/favicon.ico"
+    },
+    {
+        "name": "Sky Plus DnB",
+        "url": "https://edge03.cdn.bitflip.ee:8888/NRJdnb",
+        "favicon": "https://sky.ee/favicon.ico"
+    },
+    {
+        "name": "Sky-Radio",
+        "url": "https://stream.skymedia.ee/live/SKY",
+        "favicon": ""
+    },
+    {
+        "name": "Sooviraadio",
+        "url": "http://media.uunox.net:8888/listen.pls",
+        "favicon": "http://sooviraadio.net/favicon.ico"
+    },
+    {
+        "name": "SSS-Radio",
+        "url": "http://217.146.76.112:8000/sss-radio",
+        "favicon": "http://www.sss-radio.ee/favicon.ico"
+    },
+    {
+        "name": "SSS-Radio",
+        "url": "https://uvn-76-112.tll01.zonevs.eu/sss-radio",
+        "favicon": "https://sss-radio.ee/wp-content/uploads/2022/08/cropped-SSS-Radio-2.png"
+    },
+    {
+        "name": "Star Fm",
+        "url": "https://ice.leviracloud.eu/star96-aac",
+        "favicon": "https://starfm.tv3.ee/ui/images/icons//apple-icon-120x120.png"
+    },
+    {
+        "name": "Star FM Eesti",
+        "url": "https://ice.leviracloud.eu/starFMEesti96-aac",
+        "favicon": "https://starfm.tv3.ee/ui/images/icons//apple-icon-120x120.png"
+    },
+    {
+        "name": "Tartu Pereraadio",
+        "url": "http://bee.pereraadio.ee:8000/",
+        "favicon": ""
+    },
+    {
+        "name": "Tre Raadio Kesk-Eesti",
+        "url": "http://cdn.treraadio.ee/kesk-eesti-tre",
+        "favicon": "https://keskeesti.treraadio.ee/favicon.ico"
+    },
+    {
+        "name": "Tre Raadio P\u00e4rnu",
+        "url": "http://cdn.treraadio.ee/parnu-tre",
+        "favicon": "https://parnu.treraadio.ee/favicon.ico"
+    },
+    {
+        "name": "Tre Raadio P\u00f5hja-Eesti",
+        "url": "http://cdn.treraadio.ee/pohja-tre",
+        "favicon": "https://pohjaeesti.treraadio.ee/favicon.ico"
+    },
+    {
+        "name": "Tre Raadio Rapla",
+        "url": "https://cdn.treraadio.ee/rapla-tre",
+        "favicon": "https://rapla.treraadio.ee/favicon.ico"
+    },
+    {
+        "name": "Tre Raadio Ring FM",
+        "url": "https://cdn.treraadio.ee/ringfm",
+        "favicon": "https://ringfm.treraadio.ee/apple-touch-icon.png"
+    },
+    {
+        "name": "Tre Raadio Ruut FM",
+        "url": "https://cdn.treraadio.ee/ruutfm",
+        "favicon": "https://ruutfm.treraadio.ee/apple-touch-icon.png"
+    },
+    {
+        "name": "Tre Raadio Virumaa",
+        "url": "http://sc2.treraadio.ee/viru-tre",
+        "favicon": "https://viru.treraadio.ee/favicon.ico"
+    },
+    {
+        "name": "VIKERRAADIO",
+        "url": "http://icecast.err.ee/vikerraadiokorge.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "VIKERRAADIO",
+        "url": "http://icecast.err.ee/vikerraadiokorge.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Vikerraadio",
+        "url": "http://icecast.err.ee/vikerraadio.mp3",
+        "favicon": "https://i.ibb.co/tmy5mXw/Vikerraadio.png"
+    },
+    {
+        "name": "Vikerraadio",
+        "url": "http://icecast.err.ee/vikerraadio.mp3.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "Vikerraadio (128 kbps Ogg Opus) | Eesti Rahvusringh\u00e4\u00e4ling | vikerraadio.err.ee",
+        "url": "http://icecast.err.ee/vikerraadio.opus",
+        "favicon": ""
+    },
+    {
+        "name": "V\u00f5mba FM",
+        "url": "https://c4.radioboss.fm:18123/stream.m3u",
+        "favicon": "https://xn--vmbafm-pxa.fi/wp-content/uploads/2020/09/cropped-vomba-fm-logo-180x180.png"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e 4 / Raadio 4 (128 kbps Ogg Opus) | Eesti Rahvusringh\u00e4\u00e4ling | r4.err.ee",
+        "url": "http://icecast.err.ee/raadio4.opus",
+        "favicon": ""
+    }
+]

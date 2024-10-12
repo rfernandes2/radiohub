@@ -1,0 +1,467 @@
+[
+    {
+        "name": "101.5 Chula Radio",
+        "url": "http://radio11.plathong.net:7590/;stream.mp3",
+        "favicon": "https://curadio.chula.ac.th/v2022/assets/img/cu_radio_plus.ico"
+    },
+    {
+        "name": "102.5 Get FM",
+        "url": "https://radio12.plathong.net/7172/;stream",
+        "favicon": "https://static-media.streema.com/media/cache/ef/68/ef68d582ed389ae164936830004fc8ea.jpg"
+    },
+    {
+        "name": "106 Family News Radio",
+        "url": "https://radio11.plathong.net/7138/;stream.mp3",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/5vfxsvfwzgqm.png"
+    },
+    {
+        "name": "106.5 Green Wave",
+        "url": "https://atimeonline.smartclick.co.th/green",
+        "favicon": "https://media.atime.live/editor/station/c50d1595-aacc-4fb6-ba94-46e91242d540.png"
+    },
+    {
+        "name": "666 Radio Station Khonkaen - FM 90.75",
+        "url": "http://media.login.in.th:8845/;",
+        "favicon": ""
+    },
+    {
+        "name": "90 rakthai",
+        "url": "http://radio11.plathong.net:8896/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "90.5 Smart News \u0e21\u0e34\u0e15\u0e34\u0e02\u0e48\u0e32\u0e27",
+        "url": "http://live3.smartbomb.co.th:8624/;stream.mp3",
+        "favicon": "http://www.smartbomb.co.th/assets/images/favicon/apple-icon-120x120.png"
+    },
+    {
+        "name": "91.5 FM Panzer Radio Station",
+        "url": "http://radio.servradio.com:9398/;stream.mp3",
+        "favicon": "https://1.bp.blogspot.com/--_GwnuYDbyo/YDHq2ipNXjI/AAAAAAAAabg/1N6BIOibG0UE7rkiUea3ZsNpwg0SY4TMQCLcBGAsYHQ/s90/91.5fm.png"
+    },
+    {
+        "name": "94 Bangkok Smile",
+        "url": "http://fm94.tv5.co.th:8000/fm94ch3",
+        "favicon": "https://static-media.streema.com/media/cache/83/2c/832c5cf81ed3452bcbd15ebcc2564e5c.jpg"
+    },
+    {
+        "name": "ALTV (Low 144p)",
+        "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_144p/index.m3u8",
+        "favicon": "https://www.altv.tv/favicon.ico"
+    },
+    {
+        "name": "Ban Kruat FM 99.25 MHz \u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e27\u0e14\u0e40\u0e27\u0e34\u0e25\u0e14\u0e4c ",
+        "url": "http://lnwradio.hostsevenplus.com:9564/",
+        "favicon": ""
+    },
+    {
+        "name": "Best Radio FM. 89.0 MHz.",
+        "url": "https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20221224_224842100.jpg?alt=media&token=14ad1c01-346a-4bc2-9b6c-6750e28e4a1c"
+    },
+    {
+        "name": "BigFM RadioSocial",
+        "url": "http://media.login.in.th:8195/;stream.mp3",
+        "favicon": "http://www.bigfm.fm/favicon.ico"
+    },
+    {
+        "name": "BKK.FM",
+        "url": "https://rsas.bkk.fm/radio",
+        "favicon": "https://bkk.fm/images/favicons/favicon-32x32.png"
+    },
+    {
+        "name": "Bluewave 97",
+        "url": "https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream",
+        "favicon": "https://www.bluewave97.com/favicon.ico"
+    },
+    {
+        "name": "Bluewave 97 (CR)",
+        "url": "http://112.121.151.133:8109/live",
+        "favicon": "https://www.bluewave97.com/favicon.ico"
+    },
+    {
+        "name": "Chill",
+        "url": "https://atimeonline.smartclick.co.th/chill",
+        "favicon": "https://media.atime.live/editor/station/f7e3cab6-2376-48f8-8013-97733693c770.png"
+    },
+    {
+        "name": "Chill Online",
+        "url": "https://atimeonline.smartclick.co.th/chill",
+        "favicon": ""
+    },
+    {
+        "name": "City Radio Pattaya",
+        "url": "https://streaming.thaismarthost.com:8020/ctmobile.mp3",
+        "favicon": "https://www.google.com/search?q=city+radio+pattaya+image&client=ms-android-samsung-rvo1&sca_esv=560456375&tbm=isch&prmd=ivmn&sxsrf=AB5stBg0hgv0cfEt9fOgebSWtZydVE2N-Q:1693126672868&source=lnms&sa=X&ved=2ahUKEwjhjJWvvPyAAxUOSvEDHWlfDKsQ_AUoAXoECAQQAQ&biw=412&bih=717&dpr=2.63#imgrc=lZ9y-1h-iqw0tM"
+    },
+    {
+        "name": "cityradio pattaya",
+        "url": "https://streaming.thaismarthost.com/radio/8020/ctmobile.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Cool fahrenheit",
+        "url": "https://coolism-web.cdn.byteark.com/;stream/1",
+        "favicon": "http://www.coolism.net/favicon.ico"
+    },
+    {
+        "name": "Cool Fahrenheit",
+        "url": "https://coolism-web.cdn.byteark.com/;stream/1",
+        "favicon": "https://www.coolism.net/favicon.ico"
+    },
+    {
+        "name": "Cool fahrenheit",
+        "url": "https://coolism-web3rd.cdn.byteark.com/stream/1/",
+        "favicon": "http://www.coolism.net/favicon.ico"
+    },
+    {
+        "name": "COOLISM",
+        "url": "https://coolism-web.cdn.byteark.com/;stream/1",
+        "favicon": "https://www.coolism.net/favicon.ico"
+    },
+    {
+        "name": "Dootv Ch33",
+        "url": "http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ch3HDLogo.png/200px-Ch3HDLogo.png"
+    },
+    {
+        "name": "Dootv Nation22",
+        "url": "http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nationtv.png/120px-Nationtv.png"
+    },
+    {
+        "name": "Eazy FM 105.5",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EAZYFM_1055AAC.aac",
+        "favicon": "https://eazyfm.teroradio.com/assets/images/favicon.ico?version=2.0"
+    },
+    {
+        "name": "EFM",
+        "url": "https://atimeonline3.smartclick.co.th/efm",
+        "favicon": "https://media.atime.live/editor/station/d5aa8ffc-4326-4f2b-9693-d6cb74c7b958.png"
+    },
+    {
+        "name": "Fabulous 103",
+        "url": "https://fabulous.thailandstreaming.net/fabulous.mp3",
+        "favicon": "https://alwayspattaya.com/favicon.ico"
+    },
+    {
+        "name": "Flex 104.5",
+        "url": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+        "favicon": "https://www.flexconnect.net/wp-content/uploads/2021/04/cropped-favicon2-180x180.png"
+    },
+    {
+        "name": "FM 91",
+        "url": "https://www.fm91bkk.com:8900/;stream.mp3",
+        "favicon": "https://www.fm91bkk.com/favicon.ico"
+    },
+    {
+        "name": "FM 96.5 - Thinking Radio",
+        "url": "https://rcdn.mcot.net/radiocdn_edge/fm965.stream_aac/playlist.m3u8",
+        "favicon": "https://thinkingradio.mcot.net/img/icons/favicon-32x32.png"
+    },
+    {
+        "name": "FM ONE",
+        "url": "https://apps4.mcot.net/stream578.aac",
+        "favicon": ""
+    },
+    {
+        "name": "FM99",
+        "url": "https://rcdn.mcot.net/radiocdn_edge/fm99.stream_aac/chunklist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Friends Bangkok",
+        "url": "http://210.1.60.244:8000/FriendsBangkok",
+        "favicon": "http://www.friendsbangkok.com/directory_template_frontend/img/fav.png"
+    },
+    {
+        "name": "GREENWAVE",
+        "url": "https://atimeonline2.smartclick.co.th/green",
+        "favicon": ""
+    },
+    {
+        "name": "Greenweve",
+        "url": "https://atimeonline3.smartclick.co.th/green",
+        "favicon": "https://media.atime.live/editor/station/c50d1595-aacc-4fb6-ba94-46e91242d540.png"
+    },
+    {
+        "name": "Huahin Radio Thailand",
+        "url": "https://inter1.plathong.net/7008/;stream.mp3",
+        "favicon": "https://huahinmusicradio.blogspot.com/favicon.ico"
+    },
+    {
+        "name": "Isan FM 98",
+        "url": "http://radio11.plathong.net:8900/stream.mp3",
+        "favicon": "http://img.sedoparking.com/templates/logos/sedo_logo.png"
+    },
+    {
+        "name": "JS 100",
+        "url": "http://103.246.19.203:8004/listen.pls?sid=1",
+        "favicon": ""
+    },
+    {
+        "name": "JS100",
+        "url": "http://103.246.19.203:8004/stream?type=http&nocache=145",
+        "favicon": ""
+    },
+    {
+        "name": "Looktung Eing",
+        "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+        "favicon": "https://www.eingdoi.com/favicon.ico"
+    },
+    {
+        "name": "Looktung Eingdoi",
+        "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+        "favicon": "http://eingdoi.com/favicon.ico"
+    },
+    {
+        "name": "Looktung Eingdoi",
+        "url": "https://radio.garden/api/ara/content/listen/8n_MZrpC/channel.mp3",
+        "favicon": "https://www.eingdoi.com/favicon.ico"
+    },
+    {
+        "name": "Looktung Eingdoi",
+        "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+        "favicon": "https://www.eingdoi.com/favicon.ico"
+    },
+    {
+        "name": "MCOT 100.5",
+        "url": "https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Mcot Radio Buriram 92.0 FM",
+        "url": "http://rstream.mcot.net:9050/",
+        "favicon": ""
+    },
+    {
+        "name": "MCOT \u0e2d\u0e38\u0e14\u0e23\u0e18\u0e32\u0e19\u0e35",
+        "url": "http://rstream.mcot.net:9044/;.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "MET107",
+        "url": "https://rcdn.mcot.net/radiocdn_edge/fm107.stream_aac/chunklist.m3u8",
+        "favicon": "https://www.met107.fm/favicon.ico"
+    },
+    {
+        "name": "Metro Radio 90.5 Khon Kaen",
+        "url": "http://radio4.thzhost.com:4114/;",
+        "favicon": ""
+    },
+    {
+        "name": "Mommaemradio",
+        "url": "http://112.121.150.133:9386/autodj",
+        "favicon": ""
+    },
+    {
+        "name": "Mommaemradio",
+        "url": "http://112.121.150.133:9386/autodj",
+        "favicon": ""
+    },
+    {
+        "name": "Mommaemradio",
+        "url": "https://radio.garden/api/ara/content/listen/JQQSk8M9/channel.mp3?r=1&1722272627481",
+        "favicon": ""
+    },
+    {
+        "name": "Rad Radio",
+        "url": "http://radio1.serverradio.net:8592/;?type=http",
+        "favicon": ""
+    },
+    {
+        "name": "Rad Radio",
+        "url": "http://radio1.serverradio.net:8592/;?type=http",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Samui Online",
+        "url": "https://stream.mixadance.fm/radiosamui",
+        "favicon": ""
+    },
+    {
+        "name": "requestradio",
+        "url": "http://27.254.142.208:8300/;",
+        "favicon": ""
+    },
+    {
+        "name": "RequestRadio Dance",
+        "url": "https://cast.requestradio.in.th:850//stream/3",
+        "favicon": "https://www.requestradio.in.th/danceremix/wp-content/uploads/2016/07/cropped-icon-150x150.png"
+    },
+    {
+        "name": "RequestRadio Inter",
+        "url": "https://cast.requestradio.in.th:840//stream/3",
+        "favicon": "https://www.requestradio.in.th/inter/wp-content/uploads/2016/07/cropped-icon-150x150.png"
+    },
+    {
+        "name": "requestradio String",
+        "url": "https://cast.requestradio.in.th:2199/tunein/shoutcast1.pls",
+        "favicon": ""
+    },
+    {
+        "name": "RequestRadio \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e0a\u0e35\u0e27\u0e34\u0e15",
+        "url": "https://cast.requestradio.in.th:830/stream/",
+        "favicon": "https://www.requestradio.in.th/forlife/wp-content/uploads/2016/07/cropped-icon-150x150.png"
+    },
+    {
+        "name": "requestradio/looktung/",
+        "url": "http://27.254.142.208:8300/",
+        "favicon": "https://www.requestradio.in.th/looktung/wp-content/uploads/2017/10/cropped-icon-150x150.png"
+    },
+    {
+        "name": "Sunshine Radio",
+        "url": "http://c1.hostpleng.cloud:8046/live",
+        "favicon": "http://www.sunshinefm.com/favicon/apple-icon-120x120.png"
+    },
+    {
+        "name": "Sunshine Radio Pattaya",
+        "url": "http://c1.hostpleng.cloud:8046/live",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20221225_111045884.jpg?alt=media&token=d158b313-d323-4a25-880d-a640b3cf3e12"
+    },
+    {
+        "name": "Sunshine Radio Pattaya",
+        "url": "http://c1.hostpleng.cloud:8046/live",
+        "favicon": "http://www.sunshinefm.com/2020/images/logo.png"
+    },
+    {
+        "name": "talay 90.25FM",
+        "url": "https://stream.talay.asia/talay",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/272/talay-9025.c2ab9312.png"
+    },
+    {
+        "name": "Thai PBS TV",
+        "url": "http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "ThaiTV MCOT",
+        "url": "https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MCOT-Modernnine_TV_EN_2002.svg/250px-MCOT-Modernnine_TV_EN_2002.svg.png"
+    },
+    {
+        "name": "ThaiTV ThaiPBS",
+        "url": "https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "ThaiTV TNN16",
+        "url": "https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TNN16_Logo.png/200px-TNN16_Logo.png"
+    },
+    {
+        "name": "TheSpot.FM",
+        "url": "https://audio-edge-kef8b.ams.s.radiomast.io/ce7b352b-a993-4451-8c9c-9c6e615402f8",
+        "favicon": "https://players.rcast.net/uploads/images/202302/img_x300_63ec9fcc435db2-75589572-30318629.png"
+    },
+    {
+        "name": "Top News",
+        "url": "https://live.topnews.co.th/hls/topnews.m3u8",
+        "favicon": "https://images.topnews.co.th/2021/04/cropped-topnews-fav-2-180x180.png?x-image-process=style/webp"
+    },
+    {
+        "name": "Top News (Mobile Stream)",
+        "url": "https://live3.topnews.co.th/hls/mobile_v1.m3u8",
+        "favicon": "https://images.topnews.co.th/2022/07/logo_top-news-online-425x107.png"
+    },
+    {
+        "name": "\u0e04\u0e25\u0e37\u0e48\u0e19\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14",
+        "url": "https://rcdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8",
+        "favicon": "https://thinkingradio.mcot.net/img/icons/favicon-32x32.png"
+    },
+    {
+        "name": "\u0e14\u0e19\u0e15\u0e23\u0e35\u0e2a\u0e35\u0e2a\u0e31\u0e19 \u0e2b\u0e32\u0e14\u0e43\u0e2b\u0e0d\u0e48",
+        "url": "https://apps4.mcot.net/stream843.aac",
+        "favicon": ""
+    },
+    {
+        "name": "\u0e1a\u0e49\u0e32\u0e19\u0e18\u0e31\u0e21\u0e21\u0e30",
+        "url": "https://radio10.plathong.net/7238/;stream.mp3",
+        "favicon": "https://www.dhammahome.com/images/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "\u0e21\u0e34\u0e15\u0e34\u0e02\u0e48\u0e32\u0e27 90.5",
+        "url": "http://live3.smartbomb.co.th:8624/;stream.mp3",
+        "favicon": "http://www.smartbomb.co.th/assets/images/favicon/apple-icon-120x120.png"
+    },
+    {
+        "name": "\u0e25\u0e49\u0e32\u0e19\u0e19\u0e32 \u0e40\u0e23\u0e14\u0e34\u0e42\u0e2d ",
+        "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+        "favicon": "https://www.lannaradio.com/favicon.ico"
+    },
+    {
+        "name": "\u0e25\u0e32\u0e19\u0e19\u0e32\u0e40\u0e23\u0e14\u0e34\u0e42\u0e2d",
+        "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+        "favicon": "https://www.lannaradio.com/favicon.ico"
+    },
+    {
+        "name": "\u0e25\u0e39\u0e01\u0e17\u0e38\u0e48\u0e07 \u0e23\u0e31\u0e01\u0e44\u0e17\u0e22 \u0e59\u0e50",
+        "url": "http://radio11.plathong.net:8896/;stream.mp3",
+        "favicon": "http://www.90rakthai.com/favicon.ico"
+    },
+    {
+        "name": "\u0e25\u0e39\u0e01\u0e17\u0e38\u0e48\u0e07\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23",
+        "url": "https://rcdn.mcot.net/radiocdn_edge/fm95.stream_aac/chunklist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u0e25\u0e39\u0e01\u0e17\u0e38\u0e48\u0e07\u0e40\u0e19\u0e47\u0e15\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e04",
+        "url": "http://media.login.in.th:8200/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "\u0e25\u0e39\u0e01\u0e17\u0e38\u0e48\u0e07\u0e40\u0e19\u0e47\u0e15\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e04",
+        "url": "http://media.login.in.th:8200/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "\u0e27\u0e31\u0e14\u0e1b\u0e32\u0e01\u0e1a\u0e48\u0e2d",
+        "url": "http://radio1.siamlivehost.com:8001/;",
+        "favicon": "http://www.watpakbo.com/images/dham-jak.png"
+    },
+    {
+        "name": "\u0e27\u0e31\u0e14\u0e1b\u0e48\u0e32\u0e44\u0e17\u0e23\u0e07\u0e32\u0e21",
+        "url": "https://radio10.plathong.net/7110/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "\u0e27\u0e31\u0e14\u0e1b\u0e48\u0e32\u0e44\u0e17\u0e23\u0e07\u0e32\u0e21",
+        "url": "https://radio10.plathong.net/7110/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "\u0e27\u0e34\u0e17\u0e22\u0e38\u0e27\u0e31\u0e14\u0e19\u0e32\u0e22\u0e42\u0e23\u0e07",
+        "url": "http://103.7.56.219:4106/",
+        "favicon": ""
+    },
+    {
+        "name": "\u0e27\u0e34\u0e17\u0e22\u0e38\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e2d\u0e34\u0e2a\u0e25\u0e32\u0e21",
+        "url": "https://radio12.plathong.net/7234/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "\u0e2a\u0e27\u0e1e.91",
+        "url": "http://122.155.16.48:8955/;stream.mp3",
+        "favicon": "http://fm91bkk.com/favicon.ico"
+    },
+    {
+        "name": "\u0e2a\u0e31\u0e07\u0e06\u0e17\u0e32\u0e19\u0e18\u0e23\u0e21",
+        "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
+        "favicon": ""
+    },
+    {
+        "name": "\u0e2a\u0e31\u0e07\u0e06\u0e17\u0e32\u0e19\u0e18\u0e23\u0e23\u0e21",
+        "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
+        "favicon": ""
+    },
+    {
+        "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e0a\u0e35\u0e27\u0e34\u0e15",
+        "url": "https://cast.requestradio.in.th:830/stream/",
+        "favicon": ""
+    },
+    {
+        "name": "\u0e44\u0e17\u0e22\u0e25\u0e32\u0e19\u0e19\u0e32\u0e40\u0e23\u0e14\u0e34\u0e42\u0e2d FM 106.5 \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e15\u0e32\u0e01",
+        "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+        "favicon": "https://www.lannaradio.com/favicon.ico"
+    }
+]

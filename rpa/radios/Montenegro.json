@@ -1,0 +1,287 @@
+[
+    {
+        "name": "54HOUSE.FM CLUB",
+        "url": "https://54house.fm:9013/stream",
+        "favicon": "https://www.54house.fm/fileadmin/templates/images/logo_54house.png"
+    },
+    {
+        "name": "Antena M",
+        "url": "http://radioservis.me:8010/antenamlive",
+        "favicon": "http://antenam.net/assets-web/images/favicon.ico"
+    },
+    {
+        "name": "Aroma radio",
+        "url": "http://5.63.151.52:7025/;",
+        "favicon": "https://aromamarketi.me/wp-content/themes/aroma/frontend_stuff/assets/images/favicon/v3/apple-icon-120x120.png"
+    },
+    {
+        "name": "Bru\u0161kin",
+        "url": "https://player.radiobruskin.me/proxy/radiobruskin/stream",
+        "favicon": "https://i0.wp.com/radiobruskin.me/wp-content/uploads/2020/10/cropped-favicon-bruskin.png?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "Bum radio",
+        "url": "https://r.name.ba:7324/;",
+        "favicon": ""
+    },
+    {
+        "name": "City Radio",
+        "url": "http://eu7.fastcast4u.com:6166/;",
+        "favicon": ""
+    },
+    {
+        "name": "Druga\u010dija Radio Stanica",
+        "url": "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Druga\u010dija Radio Stanica",
+        "url": "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Elmag Jazz",
+        "url": "http://radio.elmag.me/jazz.mp3",
+        "favicon": "https://www.elmag.me/wp-content/uploads/2018/01/favicon-114.png"
+    },
+    {
+        "name": "Jupok radio",
+        "url": "http://176.9.59.144:8062/",
+        "favicon": ""
+    },
+    {
+        "name": "Jupok radio",
+        "url": "http://176.9.59.144:8062/",
+        "favicon": ""
+    },
+    {
+        "name": "Mag radio",
+        "url": "http://radio.elmag.me/mag.mp3",
+        "favicon": "https://www.magradio.me/wp-content/uploads/2018/01/favicon-114.png"
+    },
+    {
+        "name": "Novi Elmag radio",
+        "url": "http://radio.elmag.me/elmag.mp3",
+        "favicon": "https://www.elmag.me/wp-content/uploads/2018/01/favicon-114.png"
+    },
+    {
+        "name": "Play Radio Montenegro",
+        "url": "https://stream.playradio.me:8443/play-me.mp3",
+        "favicon": "https://www.playradio.me/assets/webmanifest/favicon.ico"
+    },
+    {
+        "name": "Radio Andrijevica",
+        "url": "https://mpc2.mediacp.eu/stream/andrijevica/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Andrijevica",
+        "url": "https://mpc2.mediacp.eu/stream/andrijevica/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Bar",
+        "url": "http://livestream.barinfo.me:9000/;",
+        "favicon": "https://barinfo.me/wp-content/uploads/2019/02/favicon.ico"
+    },
+    {
+        "name": "Radio Bar - Crna Gora",
+        "url": "http://livestream.barinfo.me:9000/;*.mp3",
+        "favicon": "https://barinfo.me/wp-content/uploads/2019/02/favicon.ico"
+    },
+    {
+        "name": "RADIO BAR 96.9 FM",
+        "url": "https://streaming2.locucionar.com/proxy/radiobar?mp=/stream",
+        "favicon": "https://www.radiobar969.com/wp-content/uploads/2023/08/cropped-logo-180x180.png"
+    },
+    {
+        "name": "Radio Berane",
+        "url": "https://stream.iradio.pro/proxy/radioberane?mp=/stream;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Berane",
+        "url": "https://stream.iradio.pro/proxy/radioberane?mp=/stream;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Bijelo Polje",
+        "url": "http://136.243.134.202:8122/stream",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20221111_045357378.jpg?alt=media&token=9b818362-966d-459d-a4b7-15c41f43fa34"
+    },
+    {
+        "name": "Radio Boka News",
+        "url": "http://bokanews.me:8000/source",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Budva",
+        "url": "https://c8.radioboss.fm:18199/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Cetinje",
+        "url": "http://78.129.228.187:8007/stream",
+        "favicon": "https://i0.wp.com/cetinjskilist.com/wp-content/uploads/2021/12/cropped-rtv-cetinje.png?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "Radio Crne Gore 1",
+        "url": "https://rtcg.ipradio.rs:9008/;",
+        "favicon": "http://www.rtcg.me/assets/img/favicons_old/apple-icon-180x180.png"
+    },
+    {
+        "name": "Radio Crne Gore 2 R98",
+        "url": "https://r98.ipradio.rs:10100/;",
+        "favicon": "http://www.rtcg.me/assets/img/favicons/apple-icon-180x180.png"
+    },
+    {
+        "name": "Radio D Podgorica",
+        "url": "http://tachyon.shoutca.st:8289/xstream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Delfin",
+        "url": "http://176.9.59.144:8032/",
+        "favicon": "https://www.radiodelfin.me/images/radios/favicon/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Elmag Caffe",
+        "url": "https://radio.elmag.me/cafe.mp3",
+        "favicon": "https://www.elmag.me/wp-content/uploads/2018/01/favicon-114.png"
+    },
+    {
+        "name": "Radio Elmag Evergreen",
+        "url": "https://radio.elmag.me/evergreen.mp3",
+        "favicon": "https://www.elmag.me/wp-content/uploads/2018/01/favicon-114.png"
+    },
+    {
+        "name": "Radio Elmag Folk Gold",
+        "url": "https://radio.elmag.me/folkgold.mp3",
+        "favicon": "https://www.elmag.me/wp-content/uploads/2018/01/favicon-114.png"
+    },
+    {
+        "name": "Radio Elmag Izvorne i Starogradske",
+        "url": "https://radio.elmag.me/izvorne.mp3",
+        "favicon": "https://www.elmag.me/wp-content/uploads/2018/01/favicon-114.png"
+    },
+    {
+        "name": "Radio Elmag Kids",
+        "url": "https://radio.elmag.me/kids.mp3",
+        "favicon": "https://www.elmag.me/wp-content/uploads/2018/01/favicon-114.png"
+    },
+    {
+        "name": "Radio Elmag Love",
+        "url": "https://radio.elmag.me/love.mp3",
+        "favicon": "https://www.elmag.me/wp-content/uploads/2018/01/favicon-144.png"
+    },
+    {
+        "name": "Radio Elmag Nostalgija",
+        "url": "https://radio.elmag.me/nostalgija.mp3",
+        "favicon": "https://www.elmag.me/wp-content/uploads/2018/01/favicon-114.png"
+    },
+    {
+        "name": "Radio Elmag Party",
+        "url": "https://radio.elmag.me/party.mp3",
+        "favicon": "https://www.elmag.me/wp-content/uploads/2018/01/favicon-114.png"
+    },
+    {
+        "name": "Radio Elmag Pop Rock EX YU",
+        "url": "https://radio.elmag.me/poprock.mp3",
+        "favicon": "https://www.elmag.me/wp-content/uploads/2018/01/favicon-114.png"
+    },
+    {
+        "name": "Radio\u00a0Fatih",
+        "url": "https://radioservis.me/radio/8070/radiofatih?1702660538716",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Glas Plava",
+        "url": "https://glasplava-rowrigos.radioca.st/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Kotor",
+        "url": "https://stream.iradio.pro/proxy/radiokotor?mp=/stream",
+        "favicon": "https://radiokotor.info/images/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio Kr\u0161",
+        "url": "https://stream.radiokrs.me:8443/lq.mp3",
+        "favicon": "https://radiokrs.com/favicon.png"
+    },
+    {
+        "name": "Radio Petnjica",
+        "url": "https://ubnt.xtraya.com/radiopetnjica,mp3?t=1721723733130",
+        "favicon": "https://www.radiopetnjica.me/favicon.ico"
+    },
+    {
+        "name": "Radio Porto Montenegro",
+        "url": "https://malta1491.startdedicated.de:8443/main",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Renome",
+        "url": "https://r.name.ba:7316/",
+        "favicon": "https://m.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Radio S1 Crna Gora",
+        "url": "https://stream.radios.rs:9008/;",
+        "favicon": "https://www.radios.rs/images/radios/favicon/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio S2 Crna Gora",
+        "url": "https://stream.radios.rs:9010/;",
+        "favicon": "https://www.radios.rs/images/radios/favicon/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio S3 Crna Gora",
+        "url": "https://stream.radios.rs:9018/",
+        "favicon": "https://www.radios.rs/images/radios/favicon/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Saraj",
+        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/s",
+        "favicon": "http://radiogora.org/wp-content/uploads/2021/01/cropped-radio-gora-fav512-512-180x180.png"
+    },
+    {
+        "name": "Radio Svetigora",
+        "url": "http://svetigoralive.com:8879/;",
+        "favicon": "https://svetigora.com/wp-content/uploads/2017/08/cropped-svetigora_logo-3-150x150.png"
+    },
+    {
+        "name": "Radio Tivat",
+        "url": "https://radio.dukahosting.com/8008/stream",
+        "favicon": "http://radiotivat.com/wp-content/uploads/2023/10/cropped-viber_image_2023-10-30_21-53-11-420-180x180.png"
+    },
+    {
+        "name": "Rcg Yug",
+        "url": "https://rtcg.ipradio.rs:9103/;",
+        "favicon": "http://www.rtcg.me/assets/img/favicons/apple-icon-180x180.png"
+    },
+    {
+        "name": "Reggaeneracija Montenegro",
+        "url": "http://5.189.179.77:8000/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Skadar",
+        "url": "http://radioservis.me:8050/radioskadar",
+        "favicon": "https://radioskadar.com/favicon.ico"
+    },
+    {
+        "name": "TDI Radio Crna Gora",
+        "url": "https://streaming.tdiradio.com/crnagora.mp3",
+        "favicon": "https://tdiradio.com/wp-content/uploads/2022/05/cropped-tds-180x180.png"
+    },
+    {
+        "name": "TURBO RADIO",
+        "url": "https://montestream.xyz/listen/turbo_radio/radio.mp3",
+        "favicon": "https://turboradio.xyz/images/turbo_radio.png#joomlaImage://local-images/turbo_radio.png?width=260&height=104"
+    },
+    {
+        "name": "\u0420\u0426\u0413 Classic",
+        "url": "https://rtcg1.ipradio.rs:9100/listen.pls",
+        "favicon": "https://rtcg.me/assets/img/favicons/apple-icon-180x180.png"
+    }
+]

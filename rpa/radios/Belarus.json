@@ -1,0 +1,357 @@
+[
+    {
+        "name": "Aplus Beat",
+        "url": "http://107.173.210.247:9000/aplus_beat_128.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "Aplus One (aac, 16 kb/s)",
+        "url": "http://s.aplus.fm:9000/aplus_16.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Aplus Progressive Techno",
+        "url": "https://shoutcast.aplus.fm/aplus_progressive-techno_128.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "gjr",
+        "url": "https://kathy.torontocast.com:3375/stream",
+        "favicon": "https://hpanel.hostinger.com/favicons/hostinger.png"
+    },
+    {
+        "name": "http://ice-the.musicradio.com/CapitalXTRANationalM",
+        "url": "http://ice-the.musicradio.com/CapitalXTRANationalMP3",
+        "favicon": "http://ice-the.musicradio.com/favicon.ico"
+    },
+    {
+        "name": "humor fm Minsk",
+        "url": "http://live.humorfm.by:8000/veseloe",
+        "favicon": "http://humorfm.by/apple-touch-icon.png"
+    },
+    {
+        "name": "iFree FM",
+        "url": "https://fm.ifree.pro:1045/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Legendy FM",
+        "url": "http://live.legendy.by:8000/legendyfm",
+        "favicon": ""
+    },
+    {
+        "name": "Lider FM",
+        "url": "https://icecast.lider-fm.by/liderfm",
+        "favicon": "https://liderfm.by/wp-content/uploads/2018/12/cropped-logo_f-180x180.png"
+    },
+    {
+        "name": "Love Is Radio Belarus",
+        "url": "https://myradio24.org/3355",
+        "favicon": ""
+    },
+    {
+        "name": "Milky Way Radio",
+        "url": "https://milky-way.network/320kbps.m4a",
+        "favicon": "https://milky-way.network/favicon.ico"
+    },
+    {
+        "name": "niepokalanov ",
+        "url": "http://88.199.169.10:7600/rn.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "niepokalanov ",
+        "url": "http://88.199.169.10:7600/rn.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio 4YOU",
+        "url": "https://myradio24.org/2455",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Grodno ",
+        "url": "https://stream.radiogrodno.by:8005/live",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Plato",
+        "url": "https://azura.radioplato.by/radio/8000/radio.mp3",
+        "favicon": "https://radioplato.by/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Racyja",
+        "url": "http://air.racyja.com:8000/racja320",
+        "favicon": ""
+    },
+    {
+        "name": "Radio retro",
+        "url": "https://air.sammit.tv/retro",
+        "favicon": "https://www.prfm.ru/favicon.ico"
+    },
+    {
+        "name": "Radio Roks",
+        "url": "https://stream.pcradio.ru/roks_minsk-hi",
+        "favicon": "https://roks.com/assets/templates/img/logo.png"
+    },
+    {
+        "name": "Radio Roks Minsk",
+        "url": "https://stream.pcradio.ru/roks_minsk-hi",
+        "favicon": "https://roks.com/assets/templates/img/logo.png"
+    },
+    {
+        "name": "Radio s13",
+        "url": "https://c34.radioboss.fm:18099/stream",
+        "favicon": "https://s13.live/_img/apple-touch-icon.png"
+    },
+    {
+        "name": "s13",
+        "url": "https://c34.radioboss.fm:18099/stream",
+        "favicon": ""
+    },
+    {
+        "name": "s13 Radio",
+        "url": "https://c28.radioboss.fm:18099/stream",
+        "favicon": "https://s13.live/_img/apple-touch-icon.png"
+    },
+    {
+        "name": "Trance ",
+        "url": "http://185.33.21.112/trance_64a",
+        "favicon": ""
+    },
+    {
+        "name": "Unistar - 2000-\u0435",
+        "url": "https://stream.unistar.by/unistar_best_internal/unistar_best/playlist.m3u8",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/unistar-7e64d.appspot.com/o/mobile-app-assets%2Fplaceholders%2Flogo_best.jpg?alt=media&token=6f8efc1a-84f5-450f-b0fb-22b13032660e"
+    },
+    {
+        "name": "Unistar - \u0412 \u0442\u0435\u043c\u043f\u0435",
+        "url": "https://stream.unistar.by/unistar_fast_internal/unistar_fast/playlist.m3u8",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/unistar-7e64d.appspot.com/o/mobile-app-assets%2Fplaceholders%2Flogo_tempo.jpg?alt=media&token=9d65e0b3-94f9-44da-8a35-fc4fc046da76"
+    },
+    {
+        "name": "Unistar - \u041a\u0430\u0432\u0435\u0440\u044b",
+        "url": "https://stream.unistar.by/unistar_covers_internal/unistar_covers/playlist.m3u8",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/unistar-7e64d.appspot.com/o/mobile-app-assets%2Fplaceholders%2Flogo_covers_en.jpg?alt=media&token=f2278c23-b711-4f19-a356-76999bea8c9c"
+    },
+    {
+        "name": "Unistar - \u041c\u043e\u0439 \u0440\u043e\u043a-\u043d-\u0440\u043e\u043b\u043b",
+        "url": "https://stream.unistar.by/unistar_rock_internal/unistar_rock/playlist.m3u8",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/unistar-7e64d.appspot.com/o/mobile-app-assets%2Fplaceholders%2Flogo_rock.jpg?alt=media&token=42f2ff36-5b5b-4f66-b6b2-bc7a5a6f1297"
+    },
+    {
+        "name": "Unistar - \u041e\u0444\u0438\u0441\u043d\u044b\u0439 \u041a\u0430\u043d\u0430\u043b",
+        "url": "https://stream.unistar.by/unistar_office_internal/unistar_office/playlist.m3u8",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/unistar-7e64d.appspot.com/o/mobile-app-assets%2Fplaceholders%2Flogo_office.jpg?alt=media&token=850a4e01-13e8-4a13-97a6-7c95e1941411"
+    },
+    {
+        "name": "Unistar - \u0421\u0432\u0435\u0436\u0438\u0435 \u0425\u0438\u0442\u044b",
+        "url": "https://stream.unistar.by/unistar_top_internal/unistar_top/playlist.m3u8",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/unistar-7e64d.appspot.com/o/mobile-app-assets%2Fplaceholders%2Flogo_top.jpg?alt=media&token=15d2ad9b-4515-433f-9cf3-77a649c29ced"
+    },
+    {
+        "name": "Unistar - \u042d\u0444\u0438\u0440",
+        "url": "https://stream.unistar.by/unistar_main_internal/unistar_main/playlist.m3u8",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/unistar-7e64d.appspot.com/o/mobile-app-assets%2Fplaceholders%2Flogo_main.jpg?alt=media&token=81292aa0-cfc4-4f7b-8aac-95b9e9a9414b"
+    },
+    {
+        "name": "Z\u0435\u0444\u0438\u0440 FM",
+        "url": "http://178.124.152.212:8008/Zefir",
+        "favicon": ""
+    },
+    {
+        "name": "\u0410\u0432\u0442\u043e\u0440\u0430\u0434\u0438\u043e",
+        "url": "http://live.humorfm.by:8000/avtoradio-high.m3u",
+        "favicon": "http://avtoradio.by/favicon-32x32.png"
+    },
+    {
+        "name": "\u0410\u0432\u0442\u043e\u0440\u0430\u0434\u0438\u043e \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+        "url": "http://live.humorfm.by:8000/avtoradio-high",
+        "favicon": "http://avtoradio.by/favicon-32x32.png"
+    },
+    {
+        "name": "\u0410\u0432\u0442\u043e\u0440\u0430\u0434\u0438\u043e \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c Low",
+        "url": "http://live.humorfm.by:8000/avtoradio-low",
+        "favicon": "http://avtoradio.by/favicon-32x32.png"
+    },
+    {
+        "name": "\u0410\u0434\u043a\u0440\u044b\u0442\u0430\u0435 \u0421\u043b\u043e\u0432\u0430",
+        "url": "https://rs.radioslovo.net:4005/radio?1619348678875",
+        "favicon": ""
+    },
+    {
+        "name": "\u0412\u0430\u0442\u044b\u043a\u0430\u043d\u0441\u043a\u0430\u0435 \u0440\u0430\u0434\u044b\u0451",
+        "url": "https://radio.vaticannews.va/stream-be",
+        "favicon": ""
+    },
+    {
+        "name": "\u0413\u043e\u0440\u043e\u0434 FM \u0411\u0440\u0435\u0441\u0442 97,7",
+        "url": "https://stream2.datacenter.by/GorodFM",
+        "favicon": "https://gorodfm.by/templates/g5_helium/favicon.ico"
+    },
+    {
+        "name": "\u0415\u045e\u0440\u0430\u0440\u0430\u0434\u044b\u0451 Alternative",
+        "url": "http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910",
+        "favicon": "https://euroradio.fm/themes/custom/euroradio/favicon.ico"
+    },
+    {
+        "name": "\u0415\u045e\u0440\u0430\u0440\u0430\u0434\u044b\u0451 BY",
+        "url": "http://stream1.euroradio.fm:8000/euroradio1",
+        "favicon": "https://euroradio.fm/themes/custom/euroradio/favicon.ico"
+    },
+    {
+        "name": "\u0415\u045e\u0440\u0430\u0440\u0430\u0434\u044b\u0451 Soft Rock",
+        "url": "http://stream1.euroradio.fm:8000/euroradio3?seed=1493711245",
+        "favicon": "https://euroradio.fm/themes/custom/euroradio/favicon.ico"
+    },
+    {
+        "name": "\u041a\u0430\u043d\u0430\u043b \"\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430\"",
+        "url": "https://stream2.datacenter.by/kultura",
+        "favicon": ""
+    },
+    {
+        "name": "\u041a\u043e\u043c\u043f\u0430\u0441 FM",
+        "url": "https://radio.mil.by/live",
+        "favicon": ""
+    },
+    {
+        "name": "\u041c\u0412-\u0420\u0430\u0434\u0438\u043e",
+        "url": "https://stream2.datacenter.by/mvradio",
+        "favicon": ""
+    },
+    {
+        "name": "\u041c\u0435\u043b\u043e\u0434\u0438\u0438 \u0412\u0435\u043a\u0430 96.2fm",
+        "url": "https://radiorecord.hostingradio.ru/sd9096.aacp",
+        "favicon": ""
+    },
+    {
+        "name": "\u041d\u043e\u0432\u043e\u0435 \u0440\u0430\u0434\u0438\u043e",
+        "url": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+        "favicon": "https://novoeradio.by/favicon.ico"
+    },
+    {
+        "name": "\u041d\u043e\u0432\u043e\u0435 \u0440\u0430\u0434\u0438\u043e - Fresh",
+        "url": "https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio",
+        "favicon": "https://www.novoeradio.by/favicon.ico"
+    },
+    {
+        "name": "\u041d\u043e\u0432\u043e\u0435 \u0440\u0430\u0434\u0438\u043e - MegaMix",
+        "url": "https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio",
+        "favicon": "https://www.novoeradio.by/favicon.ico"
+    },
+    {
+        "name": "\u041d\u043e\u0432\u043e\u0435 \u0440\u0430\u0434\u0438\u043e - Top Non-Stop",
+        "url": "https://live.novoeradio.by:444/live/novoeradio_TOP100_aac128/icecast.audio",
+        "favicon": "https://www.novoeradio.by/uploads/images/settings/314c6f5a-0e1c-4ace-aa91-aba0ca3e2599_logo.svg"
+    },
+    {
+        "name": "\u041f\u0435\u0440\u0432\u043e\u0435 \u0441\u043e\u044e\u0437\u043d\u043e\u0435 \u0440\u0430\u0434\u0438\u043e\u0451",
+        "url": "https://souz.hostingradio.ru:80/souz128.mp3",
+        "favicon": "https://belros.tv/local/templates/2019/favicon.ico"
+    },
+    {
+        "name": "\u041f\u0435\u0440\u0448\u044b \u043d\u0430\u0446\u044b\u044f\u043d\u0430\u043b\u044c\u043d\u044b",
+        "url": "https://stream2.datacenter.by/1kanal",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240103_144927611.jpg?alt=media&token=c38ff5b9-0196-4671-a6e4-fae70c1cf60c"
+    },
+    {
+        "name": "\u041f\u0435\u0440\u0448\u044b \u041d\u0430\u0446\u044b\u044f\u043d\u0430\u043b\u044c\u043d\u044b \u043a\u0430\u043d\u0430\u043b \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u0433\u0430 \u0440\u0430\u0434\u044b\u0451",
+        "url": "https://stream2.datacenter.by/1kanal",
+        "favicon": "https://static.tildacdn.com/tild3461-6633-4430-a264-373430336431/belorusskoe-radio-kv.jpg"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c FM/Radio Belarus FM",
+        "url": "http://stream2.datacenter.by:8009/belarusfm",
+        "favicon": ""
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c/Radio Belarus",
+        "url": "http://stream2.datacenter.by:8008/belarus",
+        "favicon": ""
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u0411\u0440\u0435\u0441\u0442 104.8 Fm",
+        "url": "https://stream2.datacenter.by:2199/tunein/trkbres1.pls",
+        "favicon": "https://radiobrestfm.by/templates/default/images/favicon.ico"
+    },
+    {
+        "name": "\u0420\u0410\u0414\u0418\u041e \u0413\u0420\u041e\u0414\u041d\u041e",
+        "url": "https://stream.radiogrodno.by:8005/live",
+        "favicon": ""
+    },
+    {
+        "name": "\u0440\u0430\u0434\u0438\u043e \u041c\u0438\u043d\u0441\u043a 92.4",
+        "url": "https://radio.mk.by:8443/radiominsk",
+        "favicon": ""
+    },
+    {
+        "name": "\u0440\u0430\u0434\u0438\u043e \u041c\u0438\u043d\u0441\u043a 92.4",
+        "url": "https://radio.mk.by:8443/radiominsk",
+        "favicon": ""
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u041c\u043e\u0433\u0438\u043b\u0451\u0432",
+        "url": "https://stream2.datacenter.by/tvrmogilev",
+        "favicon": ""
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e-\u0412\u0438\u0442\u0435\u0431\u0441\u043a",
+        "url": "http://radio.vtv.by:8000/radio_vitebsk_128",
+        "favicon": ""
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u0443\u0441FM",
+        "url": "https://stream2.datacenter.by/radiusfm_main",
+        "favicon": "https://radiusfm.by/favicon.ico"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u044b\u0451 \"\u0421\u0442\u0430\u043b\u0456\u0446\u0430\"",
+        "url": "https://stream2.datacenter.by/stalica",
+        "favicon": ""
+    },
+    {
+        "name": "\u0420\u0430\u0434\u044b\u0451 Relax",
+        "url": "http://live.humorfm.by:8000/radiorelax",
+        "favicon": "http://radiorelax.by//apple-touch-icon.png"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u044b\u0451 \u041c\u0430\u0440\u044b\u044f",
+        "url": "https://server.radiorm.by:8443/live",
+        "favicon": "https://www.radiomaria.by/images/icons/icon-128.png"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u044b\u0435 \u041c\u0430\u0440\u044b\u044f ",
+        "url": "https://server.radiorm.by:8443/live",
+        "favicon": "https://www.radiomaria.by/images/icons/icon-128.png"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u044b\u0451 \u0420\u0430\u0446\u044b\u044f",
+        "url": "http://air.racyja.com:8000/racja128",
+        "favicon": ""
+    },
+    {
+        "name": "\u0420\u0430\u0434\u044b\u0451 \u0421\u0432\u0430\u0431\u043e\u0434\u0430. \u041d\u0430\u0432\u0456\u043d\u044b \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u0456",
+        "url": "https://rfe10.akacast.akamaistream.net/7/894/437768/v1/ibb.akacast.akamaistream.net/rfe10",
+        "favicon": "http://www.svaboda.org/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "\u0421\u0432\u043e\u0435 \u0420\u0430\u0434\u0438\u043e (\u041f\u0438\u043d\u0441\u043a)",
+        "url": "https://live.svoyoradio.by:8443/svoyoradio",
+        "favicon": "https://svoyoradio.by/apple-touch-icon.png"
+    },
+    {
+        "name": "\u0421\u043e\u043b\u043e\u0432\u044c\u0435\u0432",
+        "url": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
+        "favicon": ""
+    },
+    {
+        "name": "\u0421\u043e\u043b\u043e\u0432\u044c\u0435\u0432",
+        "url": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
+        "favicon": ""
+    },
+    {
+        "name": "\u042e\u043c\u043e\u0440 FM",
+        "url": "http://live.humorfm.by:8000/veseloeradio",
+        "favicon": "http://humorfm.by/apple-touch-icon.png"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Ch\u00e9rie FM",
+        "url": "http://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac",
+        "favicon": ""
+    },
+    {
+        "name": "chwitiweb",
+        "url": "https://www.radioking.com/play/chwitiweb",
+        "favicon": "https://www.chwitiweb.com/upload/5c44efa98a0fe3.17228419.ico"
+    },
+    {
+        "name": "chwitiweb Cayenne",
+        "url": "https://listen.radioking.com/radio/190309/stream/232540",
+        "favicon": "http://www.chwitiweb.com/upload/5c44efa98a0fe3.17228419.ico"
+    },
+    {
+        "name": "chwitiweb GF stream",
+        "url": "https://listen.radioking.com/radio/190309/stream/232540",
+        "favicon": "https://chwitiweb.com/upload/5c44efa98a0fe3.17228419.ico"
+    },
+    {
+        "name": "Guyane 1\u00e8re",
+        "url": "https://guyane.ice.infomaniak.ch/guyane-128.mp3",
+        "favicon": "https://la1ere.francetvinfo.fr/favicon.ico"
+    },
+    {
+        "name": "M\u00e9tis FM",
+        "url": "https://str0.creacast.com/metisfm.mp3",
+        "favicon": "https://metis.fm/uploads/media/metisfm/logo_metis_50.jpg"
+    },
+    {
+        "name": "Nostalgie",
+        "url": "http://2stream.dyndns.org:8000/nostalgieguy",
+        "favicon": ""
+    },
+    {
+        "name": "NRJ Guyane 97,3 FM",
+        "url": "http://broadcast.infomaniak.ch/nrjguyane-64.mp3",
+        "favicon": "https://upload.wikimedia.org/wikipedia/fr/6/6c/Nrj_guyane.png"
+    }
+]

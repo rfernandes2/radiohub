@@ -1,0 +1,102 @@
+[
+    {
+        "name": ". \u0627\u0644\u0642\u0627\u0631\u0626 \u0645\u062d\u0645\u062f \u0623\u064a\u0648\u0628 ",
+        "url": "https://qurango.net/radio/mohammed_ayyub",
+        "favicon": ""
+    },
+    {
+        "name": ".. \u0645\u062e\u062a\u0635\u0631 \u0627\u0644\u062a\u0641\u0633\u064a\u0631 ",
+        "url": "https://qurango.net/radio/mukhtasartafsir",
+        "favicon": ""
+    },
+    {
+        "name": "Al araby",
+        "url": "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio",
+        "favicon": "https://www.alaraby.com/themes/custom/arabytv/favicon.ico"
+    },
+    {
+        "name": "Al Jazeeera (English)",
+        "url": "http://live-hls-web-aje.getaj.net/AJE/06.m3u8",
+        "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png"
+    },
+    {
+        "name": "Al Jazeera - Arabic",
+        "url": "http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8",
+        "favicon": "http://www.aljazeera.net/favicon.ico"
+    },
+    {
+        "name": "Al Jazeera - Arabic",
+        "url": "http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8",
+        "favicon": "https://www.aljazeera.net/favicon.ico"
+    },
+    {
+        "name": "Al Jazeera (English)",
+        "url": "http://live-hls-web-aje.getaj.net/AJE/06.m3u8",
+        "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png"
+    },
+    {
+        "name": "aljazeera ",
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Aljazeera Arabic",
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "favicon": "https://www.aljazeera.net/favicon.ico"
+    },
+    {
+        "name": "Aljazeera English",
+        "url": "http://live-hls-web-aje.getaj.net/AJE/06.m3u8",
+        "favicon": "https://www.aljazeera.com/favicon.ico"
+    },
+    {
+        "name": "Dagher_",
+        "url": "https://stream.zeno.fm/iafq9jbztjluv",
+        "favicon": "https://tools.zeno.fm/favicon.ico"
+    },
+    {
+        "name": "Qabayan Radio 94.3 FM",
+        "url": "https://c2.radioboss.fm:18478/stream",
+        "favicon": "https://static.wixstatic.com/media/418af1_49879588b7204884b90d4994f7f25d3e%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/418af1_49879588b7204884b90d4994f7f25d3e%7Emv2.png"
+    },
+    {
+        "name": "Radio Olive 106.3",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac",
+        "favicon": "https://olive.qa/wp-content/uploads/2019/06/OLIVE-LOGO--110x110.png"
+    },
+    {
+        "name": "SUNO 91.7",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3",
+        "favicon": "https://suno.qa/wp-content/uploads/2018/11/suno-full-282x300.png"
+    },
+    {
+        "name": "Suno Malayalam FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3",
+        "favicon": "https://suno.qa/wp-content/uploads/2017/09/cropped-radiologo-150x150.png"
+    },
+    {
+        "name": "\u0625\u0630\u0627\u0639\u0629 \u0637\u0631\u064a\u0642 \u0627\u0644\u0633\u0644\u0641\n\n",
+        "url": "https://airtime.salafwayfm.ly/",
+        "favicon": ""
+    },
+    {
+        "name": "\u0627\u0630\u0627\u0639\u0629 \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645",
+        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+        "favicon": ""
+    },
+    {
+        "name": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0635\u0648\u062a",
+        "url": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
+        "favicon": "https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png"
+    },
+    {
+        "name": "\u062a\u0641\u0633\u064a\u0631 \u0628\u0646 \u0639\u062b\u064a\u0645\u064a\u0646 \u0631\u062d\u0645\u0647 \u0627\u0644\u0644\u0647",
+        "url": "https://qurango.net/radio/tafseer",
+        "favicon": ""
+    },
+    {
+        "name": "\u0642\u0646\u0627\u0629 \u0627\u0644\u062c\u0632\u064a\u0631\u0629",
+        "url": "https://live-hls-web-aja.getaj.net/AJA/06.m3u8",
+        "favicon": "https://www.aljazeera.net/favicon.ico"
+    }
+]

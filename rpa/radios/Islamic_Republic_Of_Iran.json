@@ -1,0 +1,317 @@
+[
+    {
+        "name": " Radio Navahang",
+        "url": "https://navairan.com/;stream.nsv",
+        "favicon": "https://www.navahang.com/apple-touch-icon.png"
+    },
+    {
+        "name": "..mohammed_ayyub",
+        "url": "https://qurango.net/radio/mohammed_ayyub",
+        "favicon": ""
+    },
+    {
+        "name": ".al quran radio ",
+        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+        "favicon": ""
+    },
+    {
+        "name": "caltexmusic",
+        "url": "http://n13.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABeB5OHJQA07FIiDdZAZNHWw",
+        "favicon": ""
+    },
+    {
+        "name": "enationFM",
+        "url": "http://dal4.ir.enationfm.stream:8308/;",
+        "favicon": ""
+    },
+    {
+        "name": "Faz",
+        "url": "http://www.radiofaaz.com:8000/radiofaaz",
+        "favicon": ""
+    },
+    {
+        "name": "faz",
+        "url": "http://voa-19.akacast.akamaistream.net/7/309/322031/v1/ibb.akacast.akamaist",
+        "favicon": ""
+    },
+    {
+        "name": "go",
+        "url": "https://stream.zeno.fm/v5kxmagseg0uv",
+        "favicon": ""
+    },
+    {
+        "name": "go",
+        "url": "https://stream.zeno.fm/v5kxmagseg0uv",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "hamsafar",
+        "url": "http://stream.radiojar.com/pyea7q9h5ehvv.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "Iran International (HTTPS stream)",
+        "url": "https://stream.radiojar.com/iintl_c",
+        "favicon": "https://www.iranintl.com/favicon.ico"
+    },
+    {
+        "name": "Iran On Air",
+        "url": "http://ice41.securenetsystems.net/KIRN",
+        "favicon": "http://www.iranonair.com/favicon.ico"
+    },
+    {
+        "name": "iraninternational",
+        "url": "https://radio.iraninternational.app/iintl_c",
+        "favicon": "https://iranintl.com/favicon.ico"
+    },
+    {
+        "name": "IRIB_Ava",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-nama-ava/playlist.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Booshehr",
+        "url": "http://s0.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-booshehr/playlist.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Eghtesad",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-eghtesad/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "IRIB_Enghelab",
+        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-monasebati/chunklist_w38298230.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "IRIB_English",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-english/chunklist_w1656473412.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Esfahan",
+        "url": "http://s0.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-esfahan/playlist.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Farhang",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-farhang/playlist.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Fars",
+        "url": "http://s0.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-fars/playlist.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Goftegoo",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-goftego/chunklist_w755519715.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Iran",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-iran/playlist.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Javan",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-javan/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "IRIB_Khalije fars",
+        "url": "http://s0.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-hormozgan/playlist.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Khoozestan",
+        "url": "http://s0.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-khoozestan/playlist.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Maaref",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-maaref/chunklist_w315273789.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Namayesh",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/playlist.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Namayesh",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/playlist.m3u8",
+        "favicon": "http://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Payam",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-payam/playlist.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Quran",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-quran/chunklist_w847745462.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Saba",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-saba/playlist.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Salamat",
+        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-salamat/chunklist_w902576092.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Talavat",
+        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-talavat/chunklist_w2140215930.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Tehran",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-tehran/playlist.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Varzesh",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "IRIB_Yasooj",
+        "url": "http://s0.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-yasuj/playlist.m3u8",
+        "favicon": "https://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "parsa",
+        "url": "http://parsa.icdndhcp.com:18000/stream",
+        "favicon": "https://lh5.googleusercontent.com/proxy/25PMsUBa3Z6So8cdvAyZT7_93NyV26cJNuTTDY4xk6aJU1lcKPByf2C7o2HbrGrv-QxPvbI3dio2D39zYlgi1v6nLg"
+    },
+    {
+        "name": "Radio Eram",
+        "url": "http://37.59.47.192:8200/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Faaz",
+        "url": "https://free.rcast.net/230792",
+        "favicon": "https://u.jimcdn.com/cms/o/s2b5bb3bcc3909d4b/img/favicon.png?t=1393430712"
+    },
+    {
+        "name": "Radio Iran International",
+        "url": "https://radio.iraninternational.app/iintl_c",
+        "favicon": "https://ott.iranintl.com/images/ii-player-poster.webp"
+    },
+    {
+        "name": "Radio Khatereh",
+        "url": "https://servidor22-5.brlogic.com:7160/live?source=website",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240131_175345383.jpg?alt=media&token=c4e2364b-712a-4a70-b802-895b56ecbd68"
+    },
+    {
+        "name": "Radio Mojahed - \u0631\u0627\u062f\u06cc\u0648 \u0645\u062c\u0627\u0647\u062f",
+        "url": "https://s2.radio.co/s830691c74/listen",
+        "favicon": "https://assets.mojahedin.org/assets/images/fav.png"
+    },
+    {
+        "name": "Radio Mojdeh",
+        "url": "http://ic2326.c1261.fast-serv.com/rm128",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Mojdeh - Iranian Farsi/Persian Christian music and talk",
+        "url": "https://ic2326.c1261.fastserv.com/rm128",
+        "favicon": ""
+    },
+    {
+        "name": "radio negah roshan",
+        "url": "https://r.ngr1.ir/stream.ogg.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "radio negah roshan",
+        "url": "https://r.ngr1.ir/stream.ogg",
+        "favicon": ""
+    },
+    {
+        "name": "radio Negahe Roshan",
+        "url": "https://r.ngr1.ir/stream.ogg",
+        "favicon": ""
+    },
+    {
+        "name": "Radio persian",
+        "url": "http://r.pgbu.ir:8000/live",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Sarcheshme",
+        "url": "http://sarcheshmeh.icdndhcp.com:18452/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Tehran",
+        "url": "https://live4.presstv.ir/irib/irib1/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio-Mazandaran",
+        "url": "http://s0.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-mazandaran/playlist.m3u8",
+        "favicon": "http://iranseda.ir/img/favicon-iranseda.png"
+    },
+    {
+        "name": "RadioSimorgh",
+        "url": "https://stream.zeno.fm/jl8n7thgcdftv",
+        "favicon": ""
+    },
+    {
+        "name": "RadioSimorgh Authentic Iranian music",
+        "url": "https://stream.zeno.fm/9svfnobkrxrvv",
+        "favicon": "https://drive.google.com/file/d/14pqOm4XzVJvRZa9oV3Iq9GeTPlIVhxdV/view?usp=drivesdk"
+    },
+    {
+        "name": "RadioYar",
+        "url": "https://shoutcast.glwiz.com/RadioYAR.mp3",
+        "favicon": "https://www.radioyar.com/favicon.ico"
+    },
+    {
+        "name": "shabro",
+        "url": "http://sptt.ir:8000/radio.ogg.",
+        "favicon": ""
+    },
+    {
+        "name": "shabro",
+        "url": "http://sptt.ir:8000/radio.ogg",
+        "favicon": ""
+    },
+    {
+        "name": "WS3 Radio Tahran Arabic",
+        "url": "https://live.arabicradio.net/hls/arabic_high.m3u8",
+        "favicon": "https://arabicradio.net/style/img/favicon.png"
+    },
+    {
+        "name": "\u0622\u0648\u0646\u06af \u06a9\u0644\u0627\u067e",
+        "url": "https://stream.zeno.fm/fpabqr8pd9zuv",
+        "favicon": "https://sites.google.com/view/radio-avangtvclup"
+    },
+    {
+        "name": "\u0627\u0645\u0628\u062f\u062f",
+        "url": "http://auds1.intacs.com/adorationgospelfm",
+        "favicon": ""
+    },
+    {
+        "name": "\u0627\u06cc\u0631\u0627\u0646\u200e  Radio Liberty (Iran) (official stream)",
+        "url": "https://stream.radiojar.com/cp13r2cpn3quv",
+        "favicon": "https://www.radiofarda.com/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "\u0632\u064a\u0627\u0631\u062a (\u0627\u0644\u0632\u064a\u0627\u0631\u0627\u062a)",
+        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-ziarat/chunklist_w2134049895.m3u8",
+        "favicon": "http://radio.iranseda.ir/imagesdynamic/?c=radio-ziarat"
+    },
+    {
+        "name": "\u0642\u0631\u0622\u0646\u060c \u0637\u0639\u0645 \u0622\u0641\u062a\u0627\u0628 (\u0632\u0646\u062f\u0647)",
+        "url": "http://s1.cdn2.iranseda.ir:1935/liveedge/radio-quran/chunklist_w1668184178.m3u8",
+        "favicon": "http://radio.iranseda.ir/imagesdynamic/?c=radio-quran"
+    }
+]

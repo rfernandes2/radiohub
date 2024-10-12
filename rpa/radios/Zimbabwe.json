@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Capitalk 100.4FM Harare",
+        "url": "https://edge.iono.fm/xice/162_medium.aac",
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s295932d.png"
+    },
+    {
+        "name": "CENTRAL RADIO 98.5",
+        "url": "https://centralstream.zbc.co.zw:8000/radio.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Nehanda Radio",
+        "url": "https://eu4.fastcast4u.com/proxy/lancguma?mp=/1",
+        "favicon": "https://i0.wp.com/nehandaradio.com/wp-content/uploads/2021/01/cropped-NehandaRadioFavicon-512x512-1.jpg?fit=192%2C192&ssl=1"
+    },
+    {
+        "name": "Star FM 89.7",
+        "url": "https://edge.iono.fm/xice/159_medium.aac",
+        "favicon": "https://cdn-profiles.tunein.com/s182260/images/logod.png"
+    },
+    {
+        "name": "Star FM 89.7",
+        "url": "https://edge.iono.fm/xice/159_medium.aac",
+        "favicon": "https://starfm.co.zw/wp-content/uploads/2024/02/1622107846_3723-65x65.png"
+    }
+]

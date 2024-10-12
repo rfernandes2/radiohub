@@ -1,0 +1,32 @@
+[
+    {
+        "name": "DIMusic Club Trance Benin \ud83c\udde7\ud83c\uddef ",
+        "url": "http://stream2.dimusic.club:11499/dim2?type=.aac",
+        "favicon": ""
+    },
+    {
+        "name": "DIMusic Trance Club  \ud83c\udde7\ud83c\uddef ",
+        "url": "http://stream1.dimusic.club:11534/rw?type=.aac",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240605_205404475.jpg?alt=media&token=7e00c4a6-0db7-4d46-a07f-986ccc98b821"
+    },
+    {
+        "name": "ORTF Radio B\u00e9nin Alafia",
+        "url": "https://www.radioking.com/play/radio-benin-alafia/368243",
+        "favicon": "https://ortb.bj/storage/2021/05/cropped-nav-2-180x180.png"
+    },
+    {
+        "name": "Radio Cotonou 94.3",
+        "url": "https://stream.zeno.fm/o9bspgm4y78vv",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Radio Frissons 95.2 Cotonou",
+        "url": "http://frissonsradio.ice.infomaniak.ch/frissonsradio-128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Plan\u00e8te 95.7 Cotonou",
+        "url": "https://listen.radioking.com/radio/111193/stream/150295",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    }
+]

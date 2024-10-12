@@ -1,0 +1,42 @@
+[
+    {
+        "name": "96.9 FM GuardianRadio",
+        "url": "https://radiostreams.streamcomedia.com:8000/969guardianradio",
+        "favicon": "https://guardiantalkradio.com/wp-content/themes/guardianradio/images/logo_site1.png"
+    },
+    {
+        "name": "96.9FM GuardianRadio",
+        "url": "https://radiostreams.streamcomedia.com:8000/969guardianradio",
+        "favicon": "https://guardiantalkradio.com/wp-content/themes/guardianradio/images/logo_site1.png"
+    },
+    {
+        "name": "Bahamian or Nuttin",
+        "url": "https://s2.reliastream.com/proxy/rumcayme?mp=/stream",
+        "favicon": "https://img1.wsimg.com/isteam/ip/3828e59f-f1ce-4e2a-8946-b8dbdfaadc31/favicon/78d0b8fe-c6cf-4ef3-a4dc-f5284754eed2.png/:/rs=w:64,h:64,m"
+    },
+    {
+        "name": "Bahamianor Nuttin 92.5 FM",
+        "url": "https://s2.reliastream.com/proxy/rumcayme?mp=/stream",
+        "favicon": "https://img1.wsimg.com/isteam/ip/3828e59f-f1ce-4e2a-8946-b8dbdfaadc31/favicon/78d0b8fe-c6cf-4ef3-a4dc-f5284754eed2.png/:/rs=w:64,h:64,m"
+    },
+    {
+        "name": "Global 99.5 FM",
+        "url": "http://ice64.securenetsystems.net/GLOBALBS",
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s206590q.png"
+    },
+    {
+        "name": "KLPM88.9FM",
+        "url": "https://s4.radio.co/s440e54fd7/listen",
+        "favicon": "https://static.wixstatic.com/media/249659_55091b3ac9f04fceaf3ac20064631af8%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/249659_55091b3ac9f04fceaf3ac20064631af8%7Emv2.jpg"
+    },
+    {
+        "name": "LCLHST R1",
+        "url": "http://s1.radio.lclhst.net:1437/r1",
+        "favicon": ""
+    },
+    {
+        "name": "LCLHST R2",
+        "url": "http://s1.radio.lclhst.net:1437/r2",
+        "favicon": ""
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "name": " EXA FM: Muzik\u00eb pop n\u00eb anglisht dhe spanjisht",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "favicon": "https://www.exafm.com/favicon.ico"
+    },
+    {
+        "name": ".\u0627\u0644\u0642\u0631\u0622\u0646",
+        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+        "favicon": ""
+    },
+    {
+        "name": "Albania News 24 TV",
+        "url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+        "favicon": "https://www.balkanweb.com/icon//apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "Alfa & Omega Radio",
+        "url": "http://cp13.shoutcheap.com:8094/;?1721828214059",
+        "favicon": ""
+    },
+    {
+        "name": "chili moje",
+        "url": "https://media-ssl.musicradio.com/ChillMP3",
+        "favicon": "https://media-ssl.musicradio.com/favicon.ico"
+    },
+    {
+        "name": "chili moje",
+        "url": "https://media-ssl.musicradio.com/ChillMP3",
+        "favicon": "https://media-ssl.musicradio.com/favicon.ico"
+    },
+    {
+        "name": "chili moje",
+        "url": "https://media-ssl.musicradio.com/ChillMP3",
+        "favicon": "https://media-ssl.musicradio.com/favicon.ico"
+    },
+    {
+        "name": "Chill Radio",
+        "url": "http://eu8.fastcast4u.com/proxy/chillradio?mp=/1",
+        "favicon": ""
+    },
+    {
+        "name": "Chill Radio",
+        "url": "https://eu8.fastcast4u.com/proxy/chillradio?mp=/1",
+        "favicon": ""
+    },
+    {
+        "name": "City Radio - Tirana 88.0 FM",
+        "url": "https://cp1.sednastream.com/proxy/cityradio?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "CLUB FM",
+        "url": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream",
+        "favicon": "https://clubfm.al/wp-content/uploads/2022/01/Logo-Club-FM-768x432.png"
+    },
+    {
+        "name": "Club FM Kosova",
+        "url": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream",
+        "favicon": "https://clubfm.al/wp-content/uploads/2022/01/Kosove-768x432.png"
+    },
+    {
+        "name": "Eurostar Radio - Tirana 94.4 FM",
+        "url": "http://radioeurostar.al:9000/stream",
+        "favicon": "http://www.radioeurostar.al/favicon.ico"
+    },
+    {
+        "name": "MCN Radio - Tirana 103.1 FM",
+        "url": "http://46.183.121.48:8000/mcn",
+        "favicon": ""
+    },
+    {
+        "name": "My Music Radio - Tirana 97.3 FM",
+        "url": "https://live.top-media.al/mmr",
+        "favicon": "https://www.topalbaniaradio.com/v7/wp-content/themes/topalbaniaradio/images/site-icons/apple-touch-icon.png"
+    },
+    {
+        "name": "Paper Radio",
+        "url": "https://business.playfm.al:8160/paperfm",
+        "favicon": "https://paper.fm/wp-content/uploads/2024/01/Paper-Favicon-1.png"
+    },
+    {
+        "name": "Phish Radio",
+        "url": "https://streaming.radio.co/sd71de59b3/listen",
+        "favicon": "https://jempradio.com/wp-content/uploads/2022/01/cropped-favicon3-180x180.png"
+    },
+    {
+        "name": "Play Radio - Tirana 91.1 FM",
+        "url": "http://n0d.radiojar.com/sx7zrht0pg0uv",
+        "favicon": "https://static.wixstatic.com/media/d54aed_0851a7076cf84e8f86d3e34466c25d60%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/d54aed_0851a7076cf84e8f86d3e34466c25d60%7emv2.png"
+    },
+    {
+        "name": "Play Radio Albania",
+        "url": "http://stream.radiojar.com/sx7zrht0pg0uv",
+        "favicon": "https://static.wixstatic.com/media/d54aed_0851a7076cf84e8f86d3e34466c25d60%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/d54aed_0851a7076cf84e8f86d3e34466c25d60%7emv2.png"
+    },
+    {
+        "name": "PLAY RADIO ALBANIA",
+        "url": "https://stream.radiojar.com/sx7zrht0pg0uv",
+        "favicon": "https://playfm.al/assets/play4.png"
+    },
+    {
+        "name": "Radio burimi",
+        "url": "https://stream-156.zeno.fm/vzp9uf0u3ehvv?zs=Jubk5XJHTEC2zFWm3mOTfA",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Club FM - Tirana 100.4 MHz",
+        "url": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio DJ",
+        "url": "https://radio.albaniaradiodj.al/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Kontakt - Tirana 89.3 FM",
+        "url": "http://84.20.83.24:88/broadwavehigh.mp3?src=1",
+        "favicon": "http://fb.com/favicon.ico"
+    },
+    {
+        "name": "RADIO MARIA ALBANIA",
+        "url": "http://dreamsiteradiocp2.com:8028/stream",
+        "favicon": "https://www.radiomaria.al/favicon.ico"
+    },
+    {
+        "name": "Radio One - Tirana 95.2 FM",
+        "url": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Ora News",
+        "url": "https://radio.oranews.tv:8443/stream",
+        "favicon": "https://www.oranews.tv/ikona/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio Ora News - Tirana 96.7 FM",
+        "url": "https://radio.oranews.tv:8443/stream",
+        "favicon": "https://www.oranews.tv/ikona/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio plus 102.2 FM",
+        "url": "https://cast2.my-control-panel.com/proxy/radiopl1/stream",
+        "favicon": "https://www.radioplus.fm/Theme/Air/assets/img/radioplus.svg"
+    },
+    {
+        "name": "Radio Shqip - Tirana 92.0 MHz",
+        "url": "https://cp1.sednastream.com/proxy/radioshqip?mp=/stream",
+        "favicon": "http://shqipfm.al/favicon.ico"
+    },
+    {
+        "name": "Radio Tirana 1",
+        "url": "http://79.106.48.2:8000/radiotirana1",
+        "favicon": "https://rtsh-radio.s3.eu-central-1.amazonaws.com/2020/11/12cc0403e4c6491b8ab4b6f6f8c18426.png"
+    },
+    {
+        "name": "Radio-BLLACA",
+        "url": "https://stream.zeno.fm/0smrlmhdbxuuv",
+        "favicon": ""
+    },
+    {
+        "name": "Radio-BLLACA",
+        "url": "https://stream.zeno.fm/0smrlmhdbxuuv",
+        "favicon": ""
+    },
+    {
+        "name": "Radio-BLLACA",
+        "url": "https://stream.zeno.fm/0smrlmhdbxuuv",
+        "favicon": ""
+    },
+    {
+        "name": "Radio-BLLACA",
+        "url": "https://stream.zeno.fm/0smrlmhdbxuuv",
+        "favicon": ""
+    },
+    {
+        "name": "Radio-BLLACA",
+        "url": "https://stream.zeno.fm/0smrlmhdbxuuv",
+        "favicon": ""
+    },
+    {
+        "name": "Radio-BLLACA",
+        "url": "https://stream.zeno.fm/0smrlmhdbxuuv",
+        "favicon": ""
+    },
+    {
+        "name": "Radio-BLLACA",
+        "url": "https://stream.zeno.fm/0smrlmhdbxuuv",
+        "favicon": ""
+    },
+    {
+        "name": "RadioOne",
+        "url": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Raduo-BLLACA",
+        "url": "https://stream.zeno.fm/0smrlmhdbxuuv",
+        "favicon": ""
+    },
+    {
+        "name": "RTSH Radio Tirana International",
+        "url": "http://79.106.48.2:8000/rti",
+        "favicon": "https://static-media.streema.com/media/cache/5f/2f/5f2f19e9ec58297d250593785d6db54d.jpg"
+    },
+    {
+        "name": "sasaram",
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio075/chunklist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "test",
+        "url": "http://stream-uk1.radioparadise.com/aac-320",
+        "favicon": "https://yastatic.net/s3/home-static/_/nova/b839aa04.png"
+    },
+    {
+        "name": "Tirana Jazz Radio",
+        "url": "https://live.tiranajazzradio.com:8443/stream",
+        "favicon": "https://tiranajazzradio.com/img/logo.jpg"
+    },
+    {
+        "name": "Tirana Jazz Radio",
+        "url": "http://live.tiranajazzradio.com:8000/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Top Albania Radio - Tirana 100 .0 FM",
+        "url": "https://live.topgold.al/tar",
+        "favicon": "https://www.topalbaniaradio.com/v7/wp-content/themes/topalbaniaradio/images/site-icons/apple-touch-icon.png"
+    },
+    {
+        "name": "Top Albanian Radio",
+        "url": "https://live.top-media.al/tar",
+        "favicon": "https://www.topalbaniaradio.com/v7/wp-content/themes/topalbaniaradio/images/site-icons/apple-touch-icon.png"
+    },
+    {
+        "name": "Top Gold Radio - Tirana 100.8 FM",
+        "url": "https://live.topgold.al/topgold",
+        "favicon": "https://www.topalbaniaradio.com/v7/wp-content/themes/topalbaniaradio/images/site-icons/apple-touch-icon.png"
+    },
+    {
+        "name": "\u0625\u0630\u0627\u0639\u0629 \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 ",
+        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+        "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg"
+    },
+    {
+        "name": "\u0627\u0630\u0627\u0639\u0629 \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645",
+        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+        "favicon": ""
+    }
+]

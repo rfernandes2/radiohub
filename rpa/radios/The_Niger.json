@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Radio BLAU Leipzig (trocken 320kbps)",
+        "url": "http://icecast.radioblau.de:8000/blau_320_dry",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Dallol 92.8 Dogondoutchi",
+        "url": "https://stream.zeno.fm/orv3efzpotytv",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Radio Farah",
+        "url": "https://stream.zeno.fm/f9zacil8jwgtv",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Garkuwa 107 Maradi",
+        "url": "https://stream.zeno.fm/x0a1r1qu1nhvv",
+        "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FDCdou6BCtrji1HAzoWbi0dJL_Vo4Y-H5ApUfZeTDvsA%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnNWVtNXRBb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJalpPZHBBa01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3Mjc3MjkwMDA.webp&w=1920&q=100"
+    },
+    {
+        "name": "Radio Gaskia Zinder",
+        "url": "https://stream.zeno.fm/wmhdhhdhakhvv",
+        "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FwSv2dJSfCJQ6KFx1lVMpgDJId69jExk0ZFZWl7-xYlc%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJcnFqeGlBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJX295eTN3c01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE4OTY1MDIwMDA.webp&w=1920&q=100"
+    },
+    {
+        "name": "Radio Moubarak 91.1 Ouallam",
+        "url": "https://stream.zeno.fm/ocexarwh8o8tv",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Radio T\u00e9l\u00e9vision T\u00e9n\u00e9re",
+        "url": "https://stream.zeno.fm/y1xvpw44hf1tv",
+        "favicon": "https://68gamebai.bike/wp-content/uploads/2024/05/cropped-favicon-68gamebai-bike-180x180.png"
+    },
+    {
+        "name": "Radio Zamani Maradi",
+        "url": "https://stream.zeno.fm/avyi72funjftv",
+        "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fxv1O1erZxJZWa9wIQnokbsn344JXyxSy_tcDAiZnum0%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzk4MDcxNmJmLWYwOWUtNDhhNi04ZTJlLWM1NzM5NDY2NzkxNS9pbWFnZS8_dXBkYXRlZD0xNjcxMDI4NDkwMDAw.webp&w=1920&q=100"
+    },
+    {
+        "name": "Wadata Radio 107.4 Niamey",
+        "url": "http://stream.zeno.fm/1y2c3qbgbchvv",
+        "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FeXRzgIpFQtGkWxTGDvHPzhN_Qpzg5BdAhLyidZTSBRM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUR3OS1fajhnZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUR3MTUyUTZ3b01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjExNTUwNzYwMDA.webp&w=1920&q=100"
+    }
+]

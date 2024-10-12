@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Horizon FM 104.4 Ouagadougou",
+        "url": "https://stream.zeno.fm/0945crn4bf9uv",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Horizon FM Koudougou",
+        "url": "https://stream.zeno.fm/s2ypmeg0cf9uv",
+        "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F5m245sYwrn60FSlooLyJVQQd4va8juLiquoR0fEuLho%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUR3MVozZ3pna01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUR3cGJ2MHFRb01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE5MjAwNTUwMDA.webp&w=1920&q=100"
+    },
+    {
+        "name": "Optima FM 106.8 Ouagadougou",
+        "url": "https://stream.zeno.fm/ktrcvrs2dy8uv",
+        "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FjpPbD88oQFJ0PrMLwy_x_I8qDafxJtKULdoenxuzVXo%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnNmJMMGdBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUN3Z2NyWHp3b01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjA4NjI3MTgwMDA.webp&w=1920&q=100"
+    },
+    {
+        "name": "Radio Balafon 102.7 Bobo-Dioulasso",
+        "url": "https://stream.zeno.fm/v3ddfda0cf9uv",
+        "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FS4Xw77RvYYJ43McEXD9pSB2eqb0z7I6zSUQGvrinQvI%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUR3MVozZ3pna01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUR3dFlmSGxRZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjA1NTQ4NzAwMDA.webp&w=1920&q=100"
+    },
+    {
+        "name": "Radio Biwi Inter",
+        "url": "https://sonic.mediacp.eu/8040/;",
+        "favicon": "https://www.radiobizi.com/templates/radiowave/includes/images/ios/icon@2x.png"
+    },
+    {
+        "name": "Radio Bizi Inter",
+        "url": "https://sonic.mediacp.eu/8040/;",
+        "favicon": "https://www.radiobizi.com/templates/radiowave/includes/images/ios/icon@2x.png"
+    },
+    {
+        "name": "Radio Legende",
+        "url": "https://stream.zeno.fm/p1e2466d6ehvv",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Rqdio Biwi Inter",
+        "url": "https://sonic.mediacp.eu/8040/;",
+        "favicon": "https://www.radiobizi.com/templates/radiowave/includes/images/ios/icon@2x.png"
+    },
+    {
+        "name": "Rqdio Bizi Inter",
+        "url": "https://sonic.mediacp.eu/8040/;",
+        "favicon": "https://www.radiobizi.com/templates/radiowave/includes/images/ios/icon@2x.png"
+    }
+]

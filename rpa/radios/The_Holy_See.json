@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Radio Vaticana Belarus",
+        "url": "https://radio.vaticannews.va/stream-be",
+        "favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Vaticana Bulgaria",
+        "url": "https://radio.vaticannews.va/stream-bg",
+        "favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png"
+    },
+    {
+        "name": "Radio Vaticana \u010ce\u0161tina",
+        "url": "https://radio.vaticannews.va/stream-cs",
+        "favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Vaticana Deutsch",
+        "url": "https://radio.vaticannews.va/stream-de",
+        "favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png"
+    },
+    {
+        "name": "Radio Vaticana English",
+        "url": "https://radio.vaticannews.va/stream-en",
+        "favicon": "https://media.vaticannews.va/media/content/dam-archive/vaticannews/multimedia/2021/02/09/2021.02.09-Logo-Radio-Vaticana.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1000.563.jpeg"
+    },
+    {
+        "name": "Radio Vaticana Espa\u00f1ol spanish",
+        "url": "https://radio.vaticannews.va/stream-es",
+        "favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png"
+    },
+    {
+        "name": "Radio Vaticana Hrvatski",
+        "url": "https://radio.vaticannews.va/stream-hr",
+        "favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Vaticana Italia",
+        "url": "https://radio.vaticannews.va/stream-it",
+        "favicon": "https://www.vaticannews.va/favicon.ico"
+    },
+    {
+        "name": "Radio Vaticana Polska",
+        "url": "https://radio.vaticannews.va/stream-pl",
+        "favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Vaticana Rom\u00e2nia",
+        "url": "https://radio.vaticannews.va/stream-ro",
+        "favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Vaticana Sloven\u0161\u010dina",
+        "url": "https://radio.vaticannews.va/stream-sl",
+        "favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Vaticana Solven\u010dina",
+        "url": "https://radio.vaticannews.va/stream-sk",
+        "favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Vaticana Ukraine",
+        "url": "https://radio.vaticannews.va/stream-uk",
+        "favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png"
+    }
+]

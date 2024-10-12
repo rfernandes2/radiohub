@@ -1,0 +1,447 @@
+[
+    {
+        "name": "Arirang Radio",
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b3256000_sleng.m3u8",
+        "favicon": "https://www.arirang.com/favicon.ico"
+    },
+    {
+        "name": "Arirang Radio",
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "favicon": "https://arirang.com/favicon.ico"
+    },
+    {
+        "name": "Arirang TV",
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "favicon": "http://www.arirang.co.kr/favicon.ico"
+    },
+    {
+        "name": "befm",
+        "url": "http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Big B Radio - Kpop",
+        "url": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
+        "favicon": "https://bigbradio.net/sites/default/files/favicon.ico"
+    },
+    {
+        "name": "BOX : K-POP \ucf00\uc774\ud31d",
+        "url": "https://ss-edge.joeycast.com/kpop.mp3",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240318_170004676.jpg?alt=media&token=d8063519-587e-47c3-89c8-241c6fb29f8d"
+    },
+    {
+        "name": "BOX : K-POP \ucf00\uc774\ud31d",
+        "url": "https://ss-edge.joeycast.com/kpop.mp3",
+        "favicon": "https://boxradio.net/wp-content/uploads/2023/04/cropped-hdhekw-180x180.png"
+    },
+    {
+        "name": "BOX : K-POP \ucf00\uc774\ud31d",
+        "url": "https://play.streamafrica.net/kpopradio",
+        "favicon": ""
+    },
+    {
+        "name": "Buddhist Broadcasting System TV",
+        "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Buddhist True Network TV",
+        "url": "http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "CBS \uc74c\uc545 FM",
+        "url": "https://zstream.win/radio/cbs/musicfm",
+        "favicon": ""
+    },
+    {
+        "name": "CBS \uc74c\uc545FM",
+        "url": "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8",
+        "favicon": "https://www.cbs.co.kr/data/cbs/upload/save/company/cbs16901960123237.png"
+    },
+    {
+        "name": "Clasico kbs",
+        "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+        "favicon": ""
+    },
+    {
+        "name": "CPBC TV",
+        "url": "http://onair1.cpbc.co.kr:1935/tv/mp4:live720/playlist.m3u8",
+        "favicon": "http://www.cpbc.co.kr/favicon.ico"
+    },
+    {
+        "name": "ebs tune in",
+        "url": "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "EBS TV-1",
+        "url": "http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "EBS TV-2",
+        "url": "http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "EBS TV-e",
+        "url": "http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "EBS TV-i",
+        "url": "http://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "EBS TV-Kids",
+        "url": "http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "EBS TV-Plus 2",
+        "url": "http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Floyd Server (Rock Ballad...From 09/25/05)",
+        "url": "http://1.uicl.co.kr:8000/;",
+        "favicon": "http://online-radio.eu/favicon.ico"
+    },
+    {
+        "name": "Fred Film Radio(\ud55c\uad6d\uc5b4)",
+        "url": "https://s10.webradio-hosting.com/proxy/fredradiokr/stream",
+        "favicon": "http://www.fred.fm/favicon.ico"
+    },
+    {
+        "name": "GFN 98.7 FM",
+        "url": "http://218.157.19.198:8000/;stream/1",
+        "favicon": "http://gfn.or.kr/images/tong/common/favicon_gfn.ico"
+    },
+    {
+        "name": "Gugak FM",
+        "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8",
+        "favicon": "https://www.igbf.kr/gugak_web/img/apple-touch-icon.png"
+    },
+    {
+        "name": "GugakFM",
+        "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w253831608.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "GugakFM",
+        "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w1653570079.m3u8",
+        "favicon": "https://www.igbf.kr/gugak_web/img/apple-touch-icon.png"
+    },
+    {
+        "name": "gukak",
+        "url": "http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Gukak TV",
+        "url": "http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Gwangju Foreign Language Network 98.7 - English",
+        "url": "http://218.157.19.198:8000/",
+        "favicon": "http://gfn.or.kr/images/tong/common/favicon_gfn.ico"
+    },
+    {
+        "name": "http://211.221.46.79:1935/live/mp4:BusanMBC.Live-FM-0415/playlist.m3u8",
+        "url": "http://211.221.46.79:1935/live/mp4:BusanMBC.Live-FM-0415/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "HUG",
+        "url": "http://stream.zeno.fm/0966xr1y8p8uv",
+        "favicon": ""
+    },
+    {
+        "name": "iFM \uacbd\uc778\ubc29\uc190",
+        "url": "http://180.131.1.27:1935/live/bora1/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "JTV \ub9e4\uc9c1FM",
+        "url": "https://61ff3340258d2.streamlock.net/jtv_radio/myStream/chunklist_w111659793.m3u8",
+        "favicon": "https://jtv.co.kr/2021/favicon.ico"
+    },
+    {
+        "name": "KBS 1R",
+        "url": "http://serpent0.duckdns.org:8088/kbs1radio.pls",
+        "favicon": "https://res.static.kbs.co.kr/favicon.png"
+    },
+    {
+        "name": "KBS 1Radio",
+        "url": "http://serpent0.duckdns.org:8088/kbs2radio.pls",
+        "favicon": "https://res.static.kbs.co.kr/favicon.png"
+    },
+    {
+        "name": "KBS Classic FM",
+        "url": "https://zstream.win/pls/kbs_1fm.pls",
+        "favicon": ""
+    },
+    {
+        "name": "KBS Classic FM",
+        "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+        "favicon": ""
+    },
+    {
+        "name": "KBS Classic FM",
+        "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+        "favicon": ""
+    },
+    {
+        "name": "KBS Classic FM",
+        "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+        "favicon": "http://www.kbs.co.kr//resources/images/favorite/favorite.png"
+    },
+    {
+        "name": "KBS Classic FM",
+        "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+        "favicon": ""
+    },
+    {
+        "name": "KBS Classic FM",
+        "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+        "favicon": ""
+    },
+    {
+        "name": "KBS Classic FM",
+        "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+        "favicon": "https://res.static.kbs.co.kr/favicon.png"
+    },
+    {
+        "name": "kbs classic fm",
+        "url": "http://serpent0.duckdns.org:8088/kbs1fm.pls",
+        "favicon": ""
+    },
+    {
+        "name": "KBS Classic FM",
+        "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+        "favicon": "http://www.kbs.co.kr//resources/images/favorite/favorite.png"
+    },
+    {
+        "name": "KBS Cool FM",
+        "url": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
+        "favicon": "https://res.static.kbs.co.kr/favicon.png"
+    },
+    {
+        "name": "KBS Cool FM",
+        "url": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
+        "favicon": "http://www.kbs.co.kr//resources/images/favorite/favorite.png"
+    },
+    {
+        "name": "KBS Cool FM",
+        "url": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
+        "favicon": "http://www.kbs.co.kr//resources/images/favorite/favorite.png"
+    },
+    {
+        "name": "KBS Cool FM",
+        "url": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
+        "favicon": "http://www.kbs.co.kr//resources/images/favorite/favorite.png"
+    },
+    {
+        "name": "KBS Cool FM",
+        "url": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
+        "favicon": "https://res.static.kbs.co.kr/favicon.png"
+    },
+    {
+        "name": "KBS World Arabic Radio",
+        "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00001/playlist.m3u8",
+        "favicon": "http://world.kbs.co.kr/favicon.ico"
+    },
+    {
+        "name": "KBS WORLD Chinese Radio",
+        "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00002/playlist.m3u8",
+        "favicon": "http://world.kbs.co.kr/favicon.ico"
+    },
+    {
+        "name": "KBS World Chinese Radio",
+        "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00002/playlist.m3u8",
+        "favicon": "http://world.kbs.co.kr/favicon.ico"
+    },
+    {
+        "name": "KBS World French Radio",
+        "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00004/playlist.m3u8",
+        "favicon": "http://world.kbs.co.kr/favicon.ico"
+    },
+    {
+        "name": "KBS World German Radio",
+        "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00005/playlist.m3u8",
+        "favicon": "http://world.kbs.co.kr/favicon.ico"
+    },
+    {
+        "name": "KBS World Japanese Radio",
+        "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00007/playlist.m3u8",
+        "favicon": "http://world.kbs.co.kr/favicon.ico"
+    },
+    {
+        "name": "KBS World Russian Radio",
+        "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00009/playlist.m3u8",
+        "favicon": "http://world.kbs.co.kr/favicon.ico"
+    },
+    {
+        "name": "KBS World Spanish Radio",
+        "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00010/playlist.m3u8",
+        "favicon": "http://world.kbs.co.kr/favicon.ico"
+    },
+    {
+        "name": "KBS World TV",
+        "url": "http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8",
+        "favicon": "http://kbsworldimage.kbs.co.kr/images/kbsworld_logo_new.png"
+    },
+    {
+        "name": "KBS World Vietnamese Radio",
+        "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00011/playlist.m3u8",
+        "favicon": "http://world.kbs.co.kr/favicon.ico"
+    },
+    {
+        "name": "KBS_kor",
+        "url": "http://serpent0.duckdns.org:8088/kbs1radio.pls",
+        "favicon": "https://static.kbs.co.kr/www/20240926112647/resources/images/favicon/favicon.png"
+    },
+    {
+        "name": "kbs\ud574\ud53cfm",
+        "url": "http://serpent0.duckdns.org:8088/kbs2radio.pls",
+        "favicon": ""
+    },
+    {
+        "name": "Korea Work TV",
+        "url": "http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Listen.moe (K-Pop)",
+        "url": "https://listen.moe/kpop/fallback",
+        "favicon": "https://listen.moe/favicon.ico"
+    },
+    {
+        "name": "Listen.moe Kpop",
+        "url": "https://listen.moe/kpop/stream",
+        "favicon": "https://listen.moe/favicon.ico"
+    },
+    {
+        "name": "Listen.Moe KPop Vorbis",
+        "url": "https://listen.moe/kpop/stream",
+        "favicon": "https://listen.moe/favicon.ico"
+    },
+    {
+        "name": "MBC FM",
+        "url": "http://serpent0.duckdns.org:8088/mbcsfm.pls",
+        "favicon": ""
+    },
+    {
+        "name": "MBC FM for you",
+        "url": "http://serpent0.duckdns.org:8088/mbcfm.pls",
+        "favicon": "https://m.imbc.com/images/icon.png?202404030504"
+    },
+    {
+        "name": "MBC FM4U",
+        "url": "http://serpent0.duckdns.org:8088/mbcfm.pls",
+        "favicon": "http://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png"
+    },
+    {
+        "name": "MBC\ucda9\ubd81 FM4U",
+        "url": "http://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "MBC\ucda9\ubd81 \ud45c\uc900FM",
+        "url": "http://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Oldpop Cafe",
+        "url": "http://cast.oldpopcafe.net:7080/",
+        "favicon": ""
+    },
+    {
+        "name": "RADIO FOX STYLE",
+        "url": "http://stream.zeno.fm/leyjhheodeutv",
+        "favicon": ""
+    },
+    {
+        "name": "SBS Love FM",
+        "url": "http://serpent0.duckdns.org:8088/sbs2fm.pls",
+        "favicon": ""
+    },
+    {
+        "name": "SBS Love FM",
+        "url": "http://serpent0.duckdns.org:8088/sbs2fm.pls",
+        "favicon": ""
+    },
+    {
+        "name": "SBS Power FM",
+        "url": "http://serpent0.duckdns.org:8088/sbsfm.pls",
+        "favicon": ""
+    },
+    {
+        "name": "TBN \uad50\ud1b5\ubc29\uc1a1",
+        "url": "http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "TBN \uc6b8\uc0b0\uad50\ud1b5\ubc29\uc1a1",
+        "url": "http://radio2.tbn.or.kr:1935/ulsan/myStream/playlist.m3u8",
+        "favicon": "https://tbn.or.kr/images/common/logo_9.png"
+    },
+    {
+        "name": "TJB \ud30c\uc6cc FM (POWER FM)",
+        "url": "http://1.245.74.5/radiolive/radio_64k/playlist.m3u8",
+        "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gtyKRVfArK.png"
+    },
+    {
+        "name": "WOW CCM",
+        "url": "http://wowccm.iptime.org:8000/stream/1/",
+        "favicon": "https://images.app.goo.gl/ace67skP1qBC1abH8"
+    },
+    {
+        "name": "\ub9c8\ud3ecFM",
+        "url": "http://115.85.182.39/mapofm?type=.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "\ube44\uc804\ud2b8\ub85c\ud2b8",
+        "url": "http://smrlsepfh.inlive.co.kr/live/listen.pls",
+        "favicon": ""
+    },
+    {
+        "name": "\uc548\ub3d9MBC AM",
+        "url": "http://andong.webcasting.co.kr:1935/live/amlive/playlist.m3u8",
+        "favicon": "https://andongmbc.co.kr/main/favicon.ico"
+    },
+    {
+        "name": "\uc548\ub3d9MBC FM4U",
+        "url": "https://live.andongmbc.co.kr/live/fmlive/chunklist_w778150571.m3u8",
+        "favicon": "https://andongmbc.co.kr/main/favicon.ico"
+    },
+    {
+        "name": "\uc548\ub3d9MBC FM4U",
+        "url": "https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\uc62c\ub4dc\ud31d\uce74\ud398",
+        "url": "http://cast.oldpopcafe.net:7080/",
+        "favicon": ""
+    },
+    {
+        "name": "\ud2b8\ub85c\ud2b8 \ub118\ubc84\uc6d0",
+        "url": "http://sun3303.inlive.co.kr/live/listen.pls",
+        "favicon": ""
+    },
+    {
+        "name": "\ud2b8\ub85c\ud2b8 \uc8fc\ub9c9",
+        "url": "http://live10.inlive.co.kr:10560/",
+        "favicon": ""
+    },
+    {
+        "name": "\ud3c9\uc591FM",
+        "url": "https://listen7.myradio24.com/69366",
+        "favicon": "https://www.behindthecurtain-northkorea.com/favicon.ico"
+    }
+]

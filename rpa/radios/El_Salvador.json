@@ -1,0 +1,247 @@
+[
+    {
+        "name": "100.7 Stereo",
+        "url": "https://stream20.usastreams.com/8138/stream",
+        "favicon": "https://cdn-profiles.tunein.com/s221823/images/logog.png?t=1"
+    },
+    {
+        "name": "100.7 Stereo",
+        "url": "https://stream20.usastreams.com/8138/stream",
+        "favicon": ""
+    },
+    {
+        "name": "105 Salsa ",
+        "url": "https://stream.zeno.fm/mdn371ycuwzuv",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "107.7 Fuego",
+        "url": "https://mgv-fuego.akamaized.net/hls/live/2039834/MGV_FUEGO/0/streamPlaylist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "92.5 Club",
+        "url": "http://158.69.200.1:8030/stream",
+        "favicon": "https://miradio.com.sv/wp-content/uploads/2022/06/cropped-favicon-10-180x180.png"
+    },
+    {
+        "name": "COOL FM 89.3",
+        "url": "http://media.dominiocreativo.com:8006/coolfm",
+        "favicon": "https://statics-v3.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg"
+    },
+    {
+        "name": "Cuscatl\u00e1n 98.5 FM",
+        "url": "http://icecasthd.net:8298/;",
+        "favicon": "https://cadenacuscatlan.com.sv/assets/img/logo.png "
+    },
+    {
+        "name": "Exa FM 91.3 El Salvador",
+        "url": "http://158.69.219.162:8028/stream",
+        "favicon": "https://miradio.com.sv/wp-content/uploads/2022/06/cropped-favicon-10-180x180.png"
+    },
+    {
+        "name": "Exa FM El Salvador",
+        "url": "http://158.69.219.162:8028/",
+        "favicon": "http://exaelsalvador.com/wp-content/uploads/2020/01/cropped-favicon-01-1-180x180.png"
+    },
+    {
+        "name": "Femenina",
+        "url": "https://sp4.colombiatelecom.com.co/8028/stream",
+        "favicon": "https://cdn-profiles.tunein.com/s13206/images/logog.png?t=161313"
+    },
+    {
+        "name": "Fm cristiana ",
+        "url": "http://195.154.33.87:7530/;",
+        "favicon": ""
+    },
+    {
+        "name": "FM Globo 93.3",
+        "url": "http://158.69.219.162:8026/stream",
+        "favicon": "https://miradio.com.sv/wp-content/uploads/2022/06/cropped-favicon-10-180x180.png"
+    },
+    {
+        "name": "Impacto Sonsonate 106.1 FM",
+        "url": "https://radio.elsalvadordigital.net/proxy/impacto1/;",
+        "favicon": ""
+    },
+    {
+        "name": "La Central 103.7 FM",
+        "url": "https://radio.videct.com/8176/stream",
+        "favicon": "https://lacentralfm.com/favicon.ico"
+    },
+    {
+        "name": "La Jefa Radio El Salvador",
+        "url": "http://stream.zeno.fm/b264csn0sy8uv",
+        "favicon": "https://lajefaradio.blogspot.com/favicon.ico"
+    },
+    {
+        "name": "La Mejor FM 98.9",
+        "url": "http://158.69.219.162:8024/stream",
+        "favicon": "https://miradio.com.sv/wp-content/uploads/2022/06/cropped-favicon-10-180x180.png"
+    },
+    {
+        "name": "La Tribu FM",
+        "url": "https://streamer.radio.co/s3a3c12873/listen",
+        "favicon": "https://latribu.fm/logo2.png"
+    },
+    {
+        "name": "Plenitud Radio",
+        "url": "https://ssl.rockhost.com/proxy/plenitud?mp=/mp3_64",
+        "favicon": "https://radio.elim.org.sv/plenitud/tmp/images/default.png"
+    },
+    {
+        "name": "Radio  Cadena YSKL La Poderosa",
+        "url": "http://media.dominiocreativo.com:8000/radioyskl",
+        "favicon": "https://radioyskl.com/wp-content/uploads/2019/04/cropped-yskl-150x150.png"
+    },
+    {
+        "name": "Radio Bautista",
+        "url": "https://s2.radio.co/s3a7dc3d82/listen",
+        "favicon": "https://tabernaculo.net/favicon.ico"
+    },
+    {
+        "name": "Radio El Camino",
+        "url": "https://www.streamingcp.com:2000/stream/elcaminofm/;",
+        "favicon": "https://iglesiadelcamino.org/wp-content/uploads/2020/06/logo.png"
+    },
+    {
+        "name": "Radio El Mundo - 93.7 FM",
+        "url": "http://streaming.mundoclasicaupa.com:8000/radioelmundo",
+        "favicon": "https://www.radioelmundo.com.sv/wp-content/uploads/2024/09/cropped-seagulls-180x180.png"
+    },
+    {
+        "name": "Radio Femenina | 102.5 FM",
+        "url": "https://sp4.colombiatelecom.com.co/8028/stream",
+        "favicon": "https://femenina.com.sv/wp-content/uploads/2020/02/Femenina-logo-1.png"
+    },
+    {
+        "name": "Radio La Campirana ",
+        "url": "http://195.154.33.87:7206/",
+        "favicon": "https://m.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Radio La Paz FM",
+        "url": "https://stream.consultoradas.com/8042/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio L\u00e1ser Espa\u00f1ol",
+        "url": "https://sp4.colombiatelecom.com.co/8030/stream",
+        "favicon": "https://www.laser.com.sv/wp-content/uploads/2020/09/cropped-favicon-180x180.png"
+    },
+    {
+        "name": "Radio L\u00e1ser Ingl\u00e9s",
+        "url": "https://sp4.colombiatelecom.com.co/8032/stream",
+        "favicon": "https://www.laser.com.sv/wp-content/uploads/2020/09/cropped-favicon-180x180.png"
+    },
+    {
+        "name": "Radio Mar\u00eda El Salvador 107.3 FM",
+        "url": "http://dreamsiteradiocp.com:8098/stream",
+        "favicon": "http://www.radiomaria.org.sv/favicon.ico"
+    },
+    {
+        "name": "Radio Mercado Metapan",
+        "url": "https://centova.playerfullhd.com/proxy/brfrtxcf/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Mil 80 101.7 FM",
+        "url": "https://radio.videct.com/8002/stream",
+        "favicon": "https://www.mil80.com/favicon.ico"
+    },
+    {
+        "name": "Radio Nacional de El Salvador  - 96.9",
+        "url": "https://streamingcwsradio30.com/8156/stream",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RNES_logo.svg/320px-RNES_logo.svg.png"
+    },
+    {
+        "name": "Radio Restauracion",
+        "url": "https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_64",
+        "favicon": "https://radio.elim.org.sv/restauracion/tmp/images/default.jpg"
+    },
+    {
+        "name": "Radio Rumba Latina",
+        "url": "https://c11.radioboss.fm:18303/stream",
+        "favicon": "https://radiorumbalatina.com/wp-content/uploads/2023/10/cropped-onfire-180x180.png"
+    },
+    {
+        "name": "Radio Rumba Latina",
+        "url": "https://c11.radioboss.fm:8303/stream",
+        "favicon": "https://radiorumbalatina.com/wp-content/uploads/2023/10/LOGO2021.png"
+    },
+    {
+        "name": "Radio Salem 92.5",
+        "url": "http://streamingcontrol.com:8500/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Sonora 104.5 FM",
+        "url": "http://190.5.147.67:8000/radiosonora",
+        "favicon": "http://www.radiosonora.com.sv/ico.ico"
+    },
+    {
+        "name": "Radio Sonora 104.5 FM",
+        "url": "http://190.5.147.67:8000/radiosonora.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Supra 90.5 FM",
+        "url": "https://stream-52.zeno.fm/cpoqmejvb7ftv?zs=r9mYF1zHSD-C0In5SO_XUg",
+        "favicon": "https://www.radiosupra905.com/files/uploads/2022/10/mini-logo.png"
+    },
+    {
+        "name": "Radio Verdad 95.7 FM",
+        "url": "https://cloudstream2036.conectarhosting.com/8168/stream",
+        "favicon": "https://www.radioverdad.com/wp-content/uploads/2021/01/logoRVerdad_mini.png"
+    },
+    {
+        "name": "Radio Verdad 95.7 FM | Voz del Pentecostes",
+        "url": "https://cloudstream2036.conectarhosting.com/8168/stream",
+        "favicon": "https://www.radioverdad.com/wp-content/uploads/2020/11/cropped-radioverdad-icon-180x180.png"
+    },
+    {
+        "name": "Radio YSKL 104.1 FM",
+        "url": "https://media.dominiocreativo.com:8000/stream/1/",
+        "favicon": "https://radioyskl.com/wp-content/uploads/2019/04/cropped-yskl-150x150.png"
+    },
+    {
+        "name": "Radio YSUCA, 91.7 FM",
+        "url": "https://fast.citrus3.com:8314/stream",
+        "favicon": "https://ysuca.org.sv/wp-content/plugins/under-construction-page/themes/images/favicon.png"
+    },
+    {
+        "name": "Radio YSUCA, 91.7 FM",
+        "url": "https://fast.citrus3.com:8314/stream",
+        "favicon": "https://ysuca.org.sv/wp-content/uploads/2024/08/favicon-base-blanca-circle.png"
+    },
+    {
+        "name": "Radio YSUCA, 91.7 FM",
+        "url": "https://fast.citrus3.com:8314/stream",
+        "favicon": "https://ysuca.org.sv/wp-content/uploads/2024/08/favicon-base-blanca-circle.png"
+    },
+    {
+        "name": "Restauracion / 100.5 FM - Mision Cristiana Elim",
+        "url": "https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_320",
+        "favicon": "https://www.elim.org.sv/wp-content/uploads/2023/04/cropped-imagotipo-elim-blanco-1-180x180.png"
+    },
+    {
+        "name": "Scan 96.1",
+        "url": "http://158.69.200.1:8022/stream",
+        "favicon": "https://miradio.com.sv/wp-content/uploads/2022/06/cropped-favicon-10-180x180.png"
+    },
+    {
+        "name": "Taylor Swift Radio",
+        "url": "https://stream.zeno.fm/xiothj9jrxfvv",
+        "favicon": "https://e1.pngegg.com/pngimages/630/656/png-clipart-taylor-swift-taylor-swift-1-thumbnail.png"
+    },
+    {
+        "name": "Xtremevibes",
+        "url": "https://c17.radioboss.fm:8162/stream",
+        "favicon": "https://xtremevibes.com/img/covers/cover.png"
+    },
+    {
+        "name": "YXY 105.7",
+        "url": "http://158.69.200.1:8020/stream",
+        "favicon": "https://miradio.com.sv/wp-content/uploads/2022/06/cropped-favicon-10-180x180.png"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "ESDES Radio",
+        "url": "https://radio.es-des.com/listen/esdes_radio/radio.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "ESDES TV Radio",
+        "url": "https://radio.es-des.com/listen/esdes_radio/radio.mp3",
+        "favicon": "https://www.netproweb.com/esdes512.png"
+    },
+    {
+        "name": "Hopefy Radio MG",
+        "url": "https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3",
+        "favicon": "https://hopefy.fanantenanahoanao.org/static/uploads/album_art.1718582233.png"
+    },
+    {
+        "name": "NetPro TV",
+        "url": "https://radio.netpro.mg/arretbus23.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Paradisagasy",
+        "url": "http://www.radioparadisagasy.com/stream/radioparadisagasy.m3u",
+        "favicon": "http://www.radioparadisagasy.com/img/favicon-96x96.png"
+    },
+    {
+        "name": "Radio des jeunes (RDJ)",
+        "url": "http://rdj966.net:8000/rdj966.mp3",
+        "favicon": "http://www.rdj.mg/wp-content/uploads/2024/07/cropped-rdj-logo2-180x180.png"
+    },
+    {
+        "name": "Radio Don Bosco",
+        "url": "http://onair15.xdevel.com:9248/;",
+        "favicon": ""
+    },
+    {
+        "name": "RADIO VAOVAO MAHASOA",
+        "url": "http://91.121.148.49:7777/",
+        "favicon": ""
+    },
+    {
+        "name": "RDJ",
+        "url": "http://rdj966.net:8000/rdj966.mp3",
+        "favicon": "https://www.rdj.mg/wp-content/uploads/2024/07/cropped-rdj-logo2-180x180.png"
+    },
+    {
+        "name": "RNA Madagascar",
+        "url": "http://drs-live-rna.gasy-internet.info:9001/;",
+        "favicon": "http://www.rna-madagascar.com/favicon.ico"
+    },
+    {
+        "name": "Taratra",
+        "url": "http://41.188.43.211:8000/taratraradio.mp3",
+        "favicon": "https://newsmada.com/wp-content/uploads/2022/11/favicon.png"
+    }
+]

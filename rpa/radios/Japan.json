@@ -1,0 +1,942 @@
+[
+    {
+        "name": ".quran",
+        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+        "favicon": ""
+    },
+    {
+        "name": "#Radio Quran",
+        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+        "favicon": ""
+    },
+    {
+        "name": "775\u30e9\u30a4\u30d6\u30ea\u30fcFM",
+        "url": "https://mtist.as.smartstream.ne.jp/30026/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "99.1 HD3 - J1 HD",
+        "url": "http://maggie.torontocast.com:8004/hd",
+        "favicon": "https://mmo.aiircdn.com/387/60c2869c5240f.png"
+    },
+    {
+        "name": "A&G+",
+        "url": "https://www.uniqueradio.jp/agapps/hls/cdn.m3u8",
+        "favicon": "https://www.joqr.co.jp/wp/wp-content/themes/joqr/img/favicon.ico"
+    },
+    {
+        "name": "AFN GO TOKYO",
+        "url": "http://playerservices.streamtheworld.com/m3u/AFNP_TKO.m3u",
+        "favicon": "https://afngo.net/favicon.ico"
+    },
+    {
+        "name": "Agape's JPop/Anisong Radio",
+        "url": "http://nas.agapec.fun:81/public/agapes_anisong_radio/playlist.pls",
+        "favicon": "http://nas.agapec.fun:81/static/icons/production/192.png"
+    },
+    {
+        "name": "AIR STATION HIBIKI",
+        "url": "https://mtist.as.smartstream.ne.jp/30052/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "ALR Jazz Radio",
+        "url": "http://radio30.virtualtronics.com:2199/tunein/abaco-stream.pls",
+        "favicon": "https://www.alrjazz.com/favicon.ico"
+    },
+    {
+        "name": "Anime Para Ti",
+        "url": "https://stream.zeno.fm/qpn8mkt8c4duv",
+        "favicon": "https://images.zeno.fm/TrBD3tEtOJbMAdKu3XR64pWUT2XTjBhzgn2n2w_lFnE/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBeF92bDF3b01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBZ0lEeWlBb01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NTAweDUwMCZ1cGRhdGVkPTE2NjI3NzM0MjEwMDA.webp"
+    },
+    {
+        "name": "AshiyaRadio\u301c\u30a2\u30b7\u30e4\u30fb\u30e9\u30c2\u30f2\u301c",
+        "url": "https://s3.radio.co/sc8d895604/listen",
+        "favicon": "https://static.wixstatic.com/media/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png/v1/fill/w_1070,h_1080,al_c/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png"
+    },
+    {
+        "name": "asia DREAM radio - Japan Hits",
+        "url": "https://cast1.torontocast.com:2120/;.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Asia DREAM Radio - Japan Hits",
+        "url": "https://cast1.torontocast.com:2120/stream",
+        "favicon": "https://asiadreamradio.torontocast.stream/stations/images/newstream/japanhits@2x.png"
+    },
+    {
+        "name": "B\uff65FM791",
+        "url": "https://mtist.as.smartstream.ne.jp/30010/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "BAN-BAN\u30e9\u30b8\u30aa",
+        "url": "https://mtist.as.smartstream.ne.jp/30078/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "BAY WAVE \u5869\u7ac8\u306e\u30e9\u30b8\u30aa",
+        "url": "https://mtist.as.smartstream.ne.jp/30056/livestream/playlist.m3u8",
+        "favicon": "https://superradio.cc/favicon.ico"
+    },
+    {
+        "name": "BeFM",
+        "url": "https://mtist.as.smartstream.ne.jp/30079/livestream/playlist.m3u8",
+        "favicon": "https://superradio.cc/favicon.ico"
+    },
+    {
+        "name": "Big B Radio - Jpop",
+        "url": "https://antares.dribbcast.com/proxy/jpop?mp=/s",
+        "favicon": "https://bigbradio.net/sites/default/files/favicon.ico"
+    },
+    {
+        "name": "Big B Radio #JPOP",
+        "url": "https://antares.dribbcast.com/proxy/jpop?mp=/s",
+        "favicon": "https://bigbradio.net/sites/default/files/logo-transparent-sm.png"
+    },
+    {
+        "name": "BOOTY FM",
+        "url": "http://60.45.66.12:88/bootyfm",
+        "favicon": ""
+    },
+    {
+        "name": "BOX : J-POP RADIO - \u30b8\u30a7\u30a4\u30dd\u30c3\u30d7",
+        "url": "https://boxradio-edge-07.streamafrica.net/jpop",
+        "favicon": ""
+    },
+    {
+        "name": "BOX : Japan City Pop -\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7",
+        "url": "https://play.streamafrica.net/JapanCityPop",
+        "favicon": ""
+    },
+    {
+        "name": "Chofu FM",
+        "url": "https://mtist.as.smartstream.ne.jp/30039/livestream/chunklist.m3u8",
+        "favicon": "https://www.chofu-fm.com/favicon.ico"
+    },
+    {
+        "name": "COMI\u00d7TEN",
+        "url": "https://mtist.as.smartstream.ne.jp/30077/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Dada More",
+        "url": "http://dadamore2.ddo.jp:8000/",
+        "favicon": "https://parts.jbbs.shitaraba.net/img/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "DARAZ FM",
+        "url": "https://mtist.as.smartstream.ne.jp/30053/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM Kahoku 78.7 (FM\u304b\u307b\u304f, JOZZ5AM-FM, 78.7 MHz, Kahoku City, Ishikawa)",
+        "url": "http://radio.kahoku.net:8000/;",
+        "favicon": ""
+    },
+    {
+        "name": "FM Kawaguchi 856 studio (FM\u5ddd\u53e3)",
+        "url": "https://mtist.as.smartstream.ne.jp/30035/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM Mot.com",
+        "url": "https://mtist.as.smartstream.ne.jp/30019/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM N1",
+        "url": "https://mtist.as.smartstream.ne.jp/30001/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM RADIO3 (\u30e9\u30b8\u30aa3)",
+        "url": "https://mtist.as.smartstream.ne.jp/30007/livestream/playlist.m3u8",
+        "favicon": "https://superradio.cc/favicon.ico"
+    },
+    {
+        "name": "FM \u30b8\u30e3\u30f3\u30b0\u30eb",
+        "url": "https://mtist.as.smartstream.ne.jp/30013/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u30a2\u30c3\u30d7\u30eb",
+        "url": "https://mtist.as.smartstream.ne.jp/30090/livestream/playlist.m3u8",
+        "favicon": "https://superradio.cc/favicon.ico"
+    },
+    {
+        "name": "FM\u3044\u3057\u304c\u304d\u30b5\u30f3\u30b5\u30f3\u30e9\u30b8\u30aa",
+        "url": "https://mtist.as.smartstream.ne.jp/30069/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "fm\u3044\u305a\u307f",
+        "url": "https://mtist.as.smartstream.ne.jp/30018/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u3044\u308f\u304d",
+        "url": "https://mtist.as.smartstream.ne.jp/30009/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u3046\u3057\u304f\u3046\u308c\u3057\u304f\u653e\u9001",
+        "url": "https://mtist.as.smartstream.ne.jp/30021/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u304a\u305f\u308b",
+        "url": "https://mtist.as.smartstream.ne.jp/30025/livestream/playlist.m3u8",
+        "favicon": "https://superradio.cc/favicon.ico"
+    },
+    {
+        "name": "FM\u304a\u3068\u304f\u306b",
+        "url": "https://mtist.as.smartstream.ne.jp/30063/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\uff26\uff2d\u30ab\u30aa\u30f3",
+        "url": "https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u304e\u306e\u308f\u3093",
+        "url": "https://mtist.as.smartstream.ne.jp/30093/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u305f\u3061\u304b\u308f",
+        "url": "https://mtist.as.smartstream.ne.jp/30033/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u305f\u3093\u3054",
+        "url": "https://mtist.as.smartstream.ne.jp/30073/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u3068\u3088\u307f",
+        "url": "https://mtist.as.smartstream.ne.jp/30083/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u306e\u3079\u304a\u304b",
+        "url": "https://mtist.as.smartstream.ne.jp/30088/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u306f\u307e\u306a\u3059",
+        "url": "http://mtist.as.smartstream.ne.jp/30004/livestream/playlist.m3u8",
+        "favicon": "https://fm761.jp/favicon.ico"
+    },
+    {
+        "name": "FM\u306f\u307e\u306a\u3059\u30b8\u30e3\u30d1\u30f3",
+        "url": "http://mtist.as.smartstream.ne.jp/30004/livestream/playlist.m3u8",
+        "favicon": "https://fm761.jp/favicon.ico"
+    },
+    {
+        "name": "FM\u306f\u307e\u306a\u3059\u30b8\u30e3\u30d1\u30f3",
+        "url": "http://mtist.as.smartstream.ne.jp/30004/livestream/playlist.m3u8",
+        "favicon": "https://fm761.jp/favicon.ico"
+    },
+    {
+        "name": "FM\u306f\u307e\u306a\u3059\u30b8\u30e3\u30d1\u30f3",
+        "url": "http://mtist.as.smartstream.ne.jp/30004/livestream/playlist.m3u8",
+        "favicon": "https://fm761.jp/favicon.ico"
+    },
+    {
+        "name": "FM\u306f\u307e\u306a\u3059\u30b8\u30e3\u30d1\u30f3",
+        "url": "http://mtist.as.smartstream.ne.jp/30004/livestream/playlist.m3u8",
+        "favicon": "https://fm761.jp/favicon.ico"
+    },
+    {
+        "name": "FM\u3071\u308b\u308b\u3093",
+        "url": "https://mtist.as.smartstream.ne.jp/30022/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u3072\u305f\u3061",
+        "url": "https://mtist.as.smartstream.ne.jp/30023/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u3075\u3063\u304b\u3061\u3083\u3093",
+        "url": "https://mtist.as.smartstream.ne.jp/30047/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u30e1\u30a4\u30d7\u30eb",
+        "url": "https://mtist.as.smartstream.ne.jp/30015/livestream/playlist.m3u8",
+        "favicon": "https://superradio.cc/favicon.ico"
+    },
+    {
+        "name": "FM\u3084\u3093\u3070\u308b",
+        "url": "https://mtist.as.smartstream.ne.jp/30095/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u3086\u30fc\u3068\u3074\u3042",
+        "url": "https://mtist.as.smartstream.ne.jp/30030/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM\u308a\u3079\u30fc\u308b",
+        "url": "http://mtist.as.smartstream.ne.jp/30074/livestream/playlist.m3u8",
+        "favicon": "https://fm837.com/favicon.ico"
+    },
+    {
+        "name": "FM\u308f\u305f\u3089\u305b",
+        "url": "https://mtist.as.smartstream.ne.jp/30048/livestream/playlist.m3u8",
+        "favicon": "https://fm-watarase.com/wp-content/uploads/2023/05/cropped-%E3%82%B5%E3%82%A4%E3%83%88%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3-180x180.png"
+    },
+    {
+        "name": "FM\u308f\u305f\u3089\u305b",
+        "url": "https://mtist.as.smartstream.ne.jp/30048/livestream/playlist.m3u8",
+        "favicon": "https://fm-watarase.com/wp-content/uploads/2023/05/cropped-%E3%82%B5%E3%82%A4%E3%83%88%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3-180x180.png"
+    },
+    {
+        "name": "FM\u4e16\u7530\u8c37",
+        "url": "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a",
+        "favicon": "https://fmsetagaya.com/wp/wp-content/uploads/2019/01/rogo01.gif"
+    },
+    {
+        "name": "FM\u90a3\u8987 (FM Naha)",
+        "url": "https://mtist.as.smartstream.ne.jp/30068/livestream/chunklist.m3u8",
+        "favicon": "http://www.fmnaha.jp/favicon.ico"
+    },
+    {
+        "name": "Fred Film Radio(\u65e5\u672c\u8a9e)",
+        "url": "https://s10.webradio-hosting.com/proxy/fredradiojp/stream",
+        "favicon": "http://www.fred.fm/favicon.ico"
+    },
+    {
+        "name": "Free FM 80 Tokyo",
+        "url": "https://freefm80.radioca.st/",
+        "favicon": ""
+    },
+    {
+        "name": "Free FM Tokyo",
+        "url": "https://rocafmadrid.radioca.st/",
+        "favicon": ""
+    },
+    {
+        "name": "Free FM Tokyo",
+        "url": "https://rocafmadrid.radioca.st/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Friends Forever 128kbps MP3",
+        "url": "https://s5.radio.co/s6140c7241/listen",
+        "favicon": "https://images.radio.co/station_logos/s6140c7241.20230806034636.jpg"
+    },
+    {
+        "name": "Friends Forever 64kbps AAC",
+        "url": "https://s5.radio.co/s6140c7241/low",
+        "favicon": "https://images.radio.co/station_logos/s6140c7241.20230806034636.jpg"
+    },
+    {
+        "name": "Gensokyo Radio",
+        "url": "https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u",
+        "favicon": "https://gensokyoradio.net/favicon.ico"
+    },
+    {
+        "name": "Gensokyo Radio (Enhanced)",
+        "url": "https://stream.gensokyoradio.net/3",
+        "favicon": "https://stream.gensokyoradio.net/images/logo.png"
+    },
+    {
+        "name": "Gensokyo Radio (OGG)",
+        "url": "https://stream.gensokyoradio.net/2",
+        "favicon": "https://stream.gensokyoradio.net/images/logo.png"
+    },
+    {
+        "name": "Gensokyo Radio (Original)",
+        "url": "https://stream.gensokyoradio.net/1",
+        "favicon": "https://stream.gensokyoradio.net/images/logo.png"
+    },
+    {
+        "name": "Gotann",
+        "url": "https://gotanno.love:8443/;",
+        "favicon": ""
+    },
+    {
+        "name": "Gotanno Radio 89.2",
+        "url": "https://gotanno.love:8443/;",
+        "favicon": ""
+    },
+    {
+        "name": "Gotanno Radio 89.2",
+        "url": "https://gotanno.love:8443/;",
+        "favicon": ""
+    },
+    {
+        "name": "Gotanno Radio 89.2",
+        "url": "https://gotanno.love:8443/;",
+        "favicon": ""
+    },
+    {
+        "name": "Hitsujikai Radio",
+        "url": "http://streaming.radio.co/se4a8e6a93/listen",
+        "favicon": "https://www.hitsujikai-radio.com/favicon.ico"
+    },
+    {
+        "name": "Hitsujikai Radio",
+        "url": "http://streaming.radio.co/se4a8e6a93/listen",
+        "favicon": "https://images.radio.co/station_logos/se4a8e6a93.jpg"
+    },
+    {
+        "name": "J-Club Club Bandstand",
+        "url": "https://cast1.torontocast.com:2060/;.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "J-Club Powerplay HipHop",
+        "url": "https://kathy.torontocast.com:3350/;",
+        "favicon": ""
+    },
+    {
+        "name": "J-Club Powerplay HipHop(Asia DREAM Radio)",
+        "url": "https://kathy.torontocast.com:3350/;?shoutcast",
+        "favicon": ""
+    },
+    {
+        "name": "J-Pop Powerplay",
+        "url": "https://kathy.torontocast.com:3560/;",
+        "favicon": ""
+    },
+    {
+        "name": "J-POP Powerplay",
+        "url": "https://kathy.torontocast.com:3560/",
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s260995g.png"
+    },
+    {
+        "name": "J-POP Powerplay",
+        "url": "https://kathy.torontocast.com:3560/",
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s260995g.png"
+    },
+    {
+        "name": "J-Pop Powerplay Kawaii",
+        "url": "https://kathy.torontocast.com:3060/;",
+        "favicon": "https://asiadreamradio.torontocast.stream/stations/images/newstream/ppkawaii300@2x.png"
+    },
+    {
+        "name": "J-Pop Powerplay Kawaii(asia dream radio)",
+        "url": "https://kathy.torontocast.com:3060/;?shoutcast",
+        "favicon": ""
+    },
+    {
+        "name": "J-Pop Sakura",
+        "url": "https://cast1.torontocast.com:2170/stream",
+        "favicon": ""
+    },
+    {
+        "name": "J-Pop Sakura Natsukashii",
+        "url": "https://cast1.torontocast.com:2170/;",
+        "favicon": "https://www.radio.net/assets/fav/apple-touch-icon.png"
+    },
+    {
+        "name": "J-Pop Sakura \u61d0\u304b\u3057\u3044 asia DREAM radio",
+        "url": "https://cast1.torontocast.com:2170/;.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "J-Rock PowerPlay",
+        "url": "https://kathy.torontocast.com:3340/stream",
+        "favicon": ""
+    },
+    {
+        "name": "J-Rock Powerplay(Asia DREAM Radio)",
+        "url": "https://kathy.torontocast.com:3340/;?shoutcast",
+        "favicon": ""
+    },
+    {
+        "name": "J1 Gold (HTTP)",
+        "url": "http://jenny.torontocast.com:8062/",
+        "favicon": ""
+    },
+    {
+        "name": "J1 HITS",
+        "url": "https://jenny.torontocast.com:2000/stream/J1HITS?_=184325",
+        "favicon": "https://mmo.aiircdn.com/387/5e763985f1dab.png"
+    },
+    {
+        "name": "J1 Hits (HTTP)",
+        "url": "http://jenny.torontocast.com:8056/",
+        "favicon": ""
+    },
+    {
+        "name": "J1 XTRA (HTTP)",
+        "url": "http://jenny.torontocast.com:8058/",
+        "favicon": ""
+    },
+    {
+        "name": "J1HD - Southern California",
+        "url": "http://maggie.torontocast.com:8004/",
+        "favicon": "https://mmo.aiircdn.com/387/60c2869c5240f.png"
+    },
+    {
+        "name": "Japan Hits ",
+        "url": "http://cast1.torontocast.com/JapanHits",
+        "favicon": "https://www.radio-addict.com/media/stream/c58c8e25-0ab8-49e0-b8f8-cead0314db32_EF35D8D263F9AE4B328A70D9E9BA3F98_japanhits.jpeg"
+    },
+    {
+        "name": "Jazz Sakura",
+        "url": "https://kathy.torontocast.com:3330/;",
+        "favicon": "https://asiadreamradio.torontocast.stream/stations/images/newstream/JazzSakuraLogo512jp@2x.png"
+    },
+    {
+        "name": "Jazz Sakura (asia dream radio)",
+        "url": "http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "JPHiP Radio",
+        "url": "http://radio.jphip.com:8800/listen.pls",
+        "favicon": "http://jphip.com/jphip.ico"
+    },
+    {
+        "name": "JPHiP Radio",
+        "url": "http://radio.jphip.com:8800/listen.pls",
+        "favicon": "http://radio.jphip.com/favicon.ico"
+    },
+    {
+        "name": "JPopsuki Radio",
+        "url": "http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls",
+        "favicon": "https://jpopsuki.eu/favicon.ico"
+    },
+    {
+        "name": "KBS World TV",
+        "url": "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8",
+        "favicon": "http://world.kbs.co.kr/favicon.ico"
+    },
+    {
+        "name": "Kishiwada Radio",
+        "url": "http://61.89.201.27:8000/radikishi.mp3",
+        "favicon": "http://www.radiokishiwada.jp/data/html/template/default/img/common/favicon.ico"
+    },
+    {
+        "name": "KOCO\u30e9\u30b8",
+        "url": "https://mtist.as.smartstream.ne.jp/30020/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "KyotoUriverside\u00a0from riverside of Yura River in Kyoto University Ashiu research forest (Miyama, Kyoto)",
+        "url": "http://locus.creacast.com:9001/kyoto_cyberforesthydro.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Listen.moe J-Pop (MP3)",
+        "url": "https://listen.moe/fallback",
+        "favicon": "https://listen.moe/favicon.ico"
+    },
+    {
+        "name": "Listen.Moe JPop Vorbis",
+        "url": "https://listen.moe/stream",
+        "favicon": "https://listen.moe/favicon.ico"
+    },
+    {
+        "name": "Moon Mission Recordings",
+        "url": "http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk5.internet-radio.com:8306/listen.pls&t=.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "NHK Radio 1 (NHK\u30e9\u30b8\u30aa\u7b2c1) ",
+        "url": "https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8",
+        "favicon": "https://www.nhk.or.jp/radio/assets/img/badge_r1.svg"
+    },
+    {
+        "name": "NHK Radio 2 (\u30e9\u30b8\u30aa\u7b2c2)",
+        "url": "https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023501/nhkradiruakr2/master48k.m3u8",
+        "favicon": "https://www.nhk.or.jp/radio/assets/img/badge_r2.svg"
+    },
+    {
+        "name": "NHK Radio One",
+        "url": "https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8",
+        "favicon": "https://www.nhk.or.jp/favicon.ico"
+    },
+    {
+        "name": "NHK WORLD RADIO JAPAN",
+        "url": "http://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263949/live_s.m3u8",
+        "favicon": "https://www3.nhk.or.jp/favicon.ico"
+    },
+    {
+        "name": "NHK World Radio Japan - Japanese",
+        "url": "https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263943/live_s.m3u8",
+        "favicon": "https://www3.nhk.or.jp/favicon.ico"
+    },
+    {
+        "name": "NHK World Radio Japan - Japanese",
+        "url": "https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263943/live_s.m3u8",
+        "favicon": "https://www3.nhk.or.jp/favicon.ico"
+    },
+    {
+        "name": "NHK World-Japan Radio Multi-language",
+        "url": "https://nhkwlive-radio.akamaized.net/hls/live/2032384/radio-rs5/index_07.m3u8",
+        "favicon": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg"
+    },
+    {
+        "name": "NHK-FM",
+        "url": "http://mnet.x10.mx/nhkfm.m3u8",
+        "favicon": "https://www.nhk.or.jp/favicon.ico"
+    },
+    {
+        "name": "NHK-FM Tokyo",
+        "url": "https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master48k.m3u8",
+        "favicon": "https://www.nhk.or.jp/radio/assets/img/badge_fm.svg"
+    },
+    {
+        "name": "NHK-FM Tokyo",
+        "url": "https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master48k.m3u8",
+        "favicon": "https://www.nhk.or.jp/favicon.ico"
+    },
+    {
+        "name": "NHK\u534e\u8bed\u00b7\u97e9\u8bed\u5e7f\u64ad",
+        "url": "https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263945/live_s.m3u8",
+        "favicon": "https://www.nhk.or.jp/nhk-600x600.png"
+    },
+    {
+        "name": "NHK\u56fd\u9645\u5e7f\u64ad\uff08\u534e\u8bed\u65f6\u95f412:00\uff09",
+        "url": "https://nhkwlive-radio.akamaized.net/hls/live/2032383/radio-rs4/index_06.m3u8",
+        "favicon": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg"
+    },
+    {
+        "name": "NHK\u56fd\u9645\u5e7f\u64ad\uff08\u534e\u8bed\u65f6\u95f419:30\u300120:30\u300121:30\u300122:30\uff09",
+        "url": "https://nhkwlive-radio.akamaized.net/hls/live/2032381/radio-rs1/index_03.m3u8",
+        "favicon": "https://www.nhk.or.jp/favicon.ico"
+    },
+    {
+        "name": "Nightwave Plaza MP3 182",
+        "url": "http://radio.plaza.one/mp3",
+        "favicon": "https://plaza.one/icons/apple-touch-icon.png?v=7knqx0ar5k"
+    },
+    {
+        "name": "Nightwave Plaza OPUS 96",
+        "url": "http://radio.plaza.one/opus",
+        "favicon": ""
+    },
+    {
+        "name": "OnlyHits Japan",
+        "url": "https://j.onlyhit.us/play",
+        "favicon": "https://j.onlyhit.us/favicon.ico"
+    },
+    {
+        "name": "Opening Radio",
+        "url": "http://stream.zeno.fm/tza2ayy47qruv",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Otaku Music Radio",
+        "url": "https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882",
+        "favicon": ""
+    },
+    {
+        "name": "otohama\u00a0Coastal Soundscape from The University of Tokyo International Coastal Research Center (Otsuchi, Iwate)",
+        "url": "http://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Ottava",
+        "url": "http://ottava2.out.airtime.pro:8000/ottava2_a",
+        "favicon": "https://ottava.jp/img/common/touch_icon.png"
+    },
+    {
+        "name": "Patchwork Archive - VTuber Songs and Covers",
+        "url": "https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u",
+        "favicon": "https://files.catbox.moe/rq3d0t.png"
+    },
+    {
+        "name": "R/a/dio",
+        "url": "https://relay0.r-a-d.io/main.mp3",
+        "favicon": "http://r-a-d.io/favicon.ico"
+    },
+    {
+        "name": "Radio Eigekai Indies TYO",
+        "url": "https://n0d.radiojar.com/66zgtscuc1duv",
+        "favicon": "https://www.radio-eigekai.com/newimg/home/indiestyo/up.png"
+    },
+    {
+        "name": "Radio Kishiwada",
+        "url": "http://61.89.201.27:8000/radikishi.mp3",
+        "favicon": "http://radiokishiwada.jp/page/wp-content/uploads/2023/05/splogo.png"
+    },
+    {
+        "name": "Radio Mix Kyoto FM87.0",
+        "url": "https://mtist.as.smartstream.ne.jp/30071/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Rainwave All",
+        "url": "https://relay.rainwave.cc/all.mp3?1:MF0d8GHw2d",
+        "favicon": "https://rainwave.cc/static/images4/ios/152.png"
+    },
+    {
+        "name": "Real Love Music - Radio Future Funk",
+        "url": "https://stream-152.zeno.fm/48533y95cnruv?zs=doyTUcjfTvCVtBOS3nlI8g",
+        "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FWtp4rficSoRkzoffxPqNLfVEEfOKQEjUVgHsqS4Bl8g%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnbnBLeXJBa01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURnM3R2aHpnb01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjIyNDU1MTAwMDA.webp&w=2048&q=100"
+    },
+    {
+        "name": "Real Love Music - Radio Future Funk",
+        "url": "https://stream-152.zeno.fm/48533y95cnruv?zs=doyTUcjfTvCVtBOS3nlI8g",
+        "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FWtp4rficSoRkzoffxPqNLfVEEfOKQEjUVgHsqS4Bl8g%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnbnBLeXJBa01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURnM3R2aHpnb01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjIyNDU1MTAwMDA.webp&w=2048&q=100"
+    },
+    {
+        "name": "REDS WAVE",
+        "url": "https://mtist.as.smartstream.ne.jp/30008/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Retro PC GAME MUSIC Streaming Radio",
+        "url": "http://gyusyabu.ddo.jp:8000/listen.pls",
+        "favicon": "http://gyusyabu.ddo.jp/favicon.ico"
+    },
+    {
+        "name": "Shonan Beach FM",
+        "url": "http://150.95.174.29:8000/by_the_sea",
+        "favicon": "https://www.beachfm.co.jp/wp-content/themes/welcart_basic-voll-beachfm/img/common/sp_logo.png"
+    },
+    {
+        "name": "Shonan Beach FM 78.9",
+        "url": "http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a",
+        "favicon": "https://www.beachfm.co.jp/favicon.ico"
+    },
+    {
+        "name": "SOUND UP STATION NFRS",
+        "url": "https://stream2.rcast.net/70945",
+        "favicon": "https://static.wixstatic.com/ficons/1173e1_15807acf4a474b03a67c854178f38727~mv2.ico"
+    },
+    {
+        "name": "stereoanime",
+        "url": "https://radio.stereoanime.net/listen/stereoanime/128",
+        "favicon": ""
+    },
+    {
+        "name": "S\u00faper Tokio Radio",
+        "url": "https://streamer.radio.co/s83eb8ff39/listen",
+        "favicon": ""
+    },
+    {
+        "name": "Tatsuro Yamashita Radio",
+        "url": "https://stream.zeno.fm/p83d0vdp54zuv",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "tilderadio",
+        "url": "https://tilderadio.org/listen",
+        "favicon": ""
+    },
+    {
+        "name": "Tokyo Rose Radio",
+        "url": "http://bluford.torontocast.com:8006/stream",
+        "favicon": "http://i.ibb.co/DCdhKwd/rose.png"
+    },
+    {
+        "name": "Tokyo Star Radio",
+        "url": "http://mtist.as.smartstream.ne.jp/30081/livestream/playlist.m3u8",
+        "favicon": "https://775fm.com/favicon.ico"
+    },
+    {
+        "name": "Tokyo Star Radio",
+        "url": "https://mtist.as.smartstream.ne.jp/30081/livestream/playlist.m3u8",
+        "favicon": "https://775fm.com/wp-content/themes/hfm2/images/logo.png"
+    },
+    {
+        "name": "Tokyo Star Radio(\u516b\u738b\u5b50FM)",
+        "url": "https://mtist.as.smartstream.ne.jp/30081/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Vaporwave",
+        "url": "http://radio.plaza.one/ogg",
+        "favicon": "https://plaza.one/icons/circle.png"
+    },
+    {
+        "name": "Vocaloid Radio",
+        "url": "http://curiosity.shoutca.st:8019/128",
+        "favicon": ""
+    },
+    {
+        "name": "Vocaloid Radio",
+        "url": "http://curiosity.shoutca.st:8019/128",
+        "favicon": ""
+    },
+    {
+        "name": "Voice of the Planet Ottava",
+        "url": "http://voiceoftheplanet.out.airtime.pro:8000/voiceoftheplanet_a",
+        "favicon": "https://ottava.jp/planet/ottava_twitter.png"
+    },
+    {
+        "name": "wi-radio",
+        "url": "https://mtist.as.smartstream.ne.jp/30087/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "WREP",
+        "url": "http://c13.radioboss.fm:8200/stream",
+        "favicon": "https://wrep.jp/favicon.ico"
+    },
+    {
+        "name": "WVVV V96.9",
+        "url": "https://ice5.securenetsystems.net/WVVVFM",
+        "favicon": ""
+    },
+    {
+        "name": "yamanakako\u00a0from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)",
+        "url": "http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "\u3042\u307e\u307f\u30a8\u30d5\u30a8\u30e0",
+        "url": "https://mtist.as.smartstream.ne.jp/30054/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u30a8\u30d5\u30a8\u30e0EGAO",
+        "url": "https://mtist.as.smartstream.ne.jp/30040/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u30a8\u30d5\u30a8\u30e0\u305f\u3064\u3054\u3046",
+        "url": "https://mtist.as.smartstream.ne.jp/30072/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u30a8\u30d5\u30a8\u30e0\u4e16\u7530\u8c37",
+        "url": "http://mtist.as.smartstream.ne.jp/30027/livestream/playlist.m3u8",
+        "favicon": "https://fmsetagaya.com/wp/wp-content/uploads/2019/01/cropped-icon512-180x180.gif"
+    },
+    {
+        "name": "\u30a8\u30d5\u30a8\u30e0\u693f\u53f0",
+        "url": "https://mtist.as.smartstream.ne.jp/30014/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u30aa\u30ad\u30e9\u30b8",
+        "url": "https://mtist.as.smartstream.ne.jp/30066/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u30ab\u30b7\u30aa\u30da\u30a2FM",
+        "url": "https://mtist.as.smartstream.ne.jp/30050/livestream/playlist.m3u8",
+        "favicon": "https://superradio.cc/favicon.ico"
+    },
+    {
+        "name": "\u304b\u308f\u3055\u304d\uff26\uff2d",
+        "url": "https://mtist.as.smartstream.ne.jp/30046/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u304e\u306e\u308f\u3093\u30b7\u30c6\u30a3FM",
+        "url": "https://mtist.as.smartstream.ne.jp/30098/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u305f\u304b\u306f\u304eFM",
+        "url": "https://mtist.as.smartstream.ne.jp/30075/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u305f\u3053\u307f\u3093FM",
+        "url": "https://mtist.as.smartstream.ne.jp/30119/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u30c1\u30e7\u30af\u30e9\u30b8",
+        "url": "https://mtist.as.smartstream.ne.jp/30085/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u306a\u3068\u3089\u3058801",
+        "url": "https://mtist.as.smartstream.ne.jp/30092/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u30cf\u30ed\u30fc\u30cf\u30c3\u30d4\u30fc\u30fb\u3053\u3057\u304c\u3084\u30a8\u30d5\u30a8\u30e0",
+        "url": "https://mtist.as.smartstream.ne.jp/30096/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u30d5\u30e9\u30ef\u30fc\u30e9\u30b8\u30aa",
+        "url": "https://mtist.as.smartstream.ne.jp/30002/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u307e\u3048\u3070\u3057CITY\u30a8\u30d5\u30a8\u30e0",
+        "url": "https://mtist.as.smartstream.ne.jp/30043/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u307f\u3084\u3053\u30cf\u30fc\u30d0\u30fc\u30e9\u30b8\u30aa",
+        "url": "https://mtist.as.smartstream.ne.jp/30097/livestream/playlist.m3u8",
+        "favicon": "https://superradio.cc/favicon.ico"
+    },
+    {
+        "name": "\u30e9\u30b8\u30aa\u30fb\u30df\u30e5\u30fc",
+        "url": "https://mtist.as.smartstream.ne.jp/30006/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u30e9\u30b8\u30aa\u30ab\u30ed\u30b9\u30b5\u30c3\u30dd\u30ed FM78.1",
+        "url": "https://mtist.as.smartstream.ne.jp/30034/livestream/playlist.m3u8",
+        "favicon": "https://superradio.cc/favicon.ico"
+    },
+    {
+        "name": "\u30e9\u30b8\u30aa\u30b9\u30a4\u30fc\u30c8",
+        "url": "https://mtist.as.smartstream.ne.jp/30061/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u30e9\u30b8\u30aa\u77f3\u5dfb",
+        "url": "https://mtist.as.smartstream.ne.jp/30037/livestream/playlist.m3u8",
+        "favicon": "https://superradio.cc/favicon.ico"
+    },
+    {
+        "name": "\u30e9\u30c2\u30aa\u3082\u308a\u304a\u304b FM76.9",
+        "url": "https://mtist.as.smartstream.ne.jp/30017/livestream/playlist.m3u8",
+        "favicon": "https://superradio.cc/favicon.ico"
+    },
+    {
+        "name": "\u30e9\u30c2\u30aa\u6c17\u4ed9\u6cbc",
+        "url": "https://mtist.as.smartstream.ne.jp/30094/livestream/playlist.m3u8",
+        "favicon": "https://superradio.cc/favicon.ico"
+    },
+    {
+        "name": "\u30ec\u30a4\u30f3\u30dc\u30fc\u30bf\u30a6\u30f3FM",
+        "url": "https://mtist.as.smartstream.ne.jp/30036/livestream/playlist.m3u8",
+        "favicon": "https://superradio.cc/favicon.ico"
+    },
+    {
+        "name": "\u4eac\u90fd\u4e09\u6761\u30e9\u30b8\u30aa\u30ab\u30d5\u30a7",
+        "url": "https://mtist.as.smartstream.ne.jp/30082/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u6566\u8cc0FM",
+        "url": "https://mtist.as.smartstream.ne.jp/30012/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u6a2a\u624b\u304b\u307e\u304f\u3089\u30a8\u30d5\u30a8\u30e0",
+        "url": "https://mtist.as.smartstream.ne.jp/30076/livestream/playlist.m3u8",
+        "favicon": "https://superradio.cc/favicon.ico"
+    },
+    {
+        "name": "\u7f8a\u98fc\u3044\u30e9\u30b8\u30aa(Hitsujikai Radio / Shepherd radio)",
+        "url": "https://streaming.radio.co/se4a8e6a93/low",
+        "favicon": "https://images.radio.co/station_logos/se4a8e6a93.jpg"
+    },
+    {
+        "name": "\u8abf\u5e03FM",
+        "url": "https://mtist.as.smartstream.ne.jp/30039/livestream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u8d85\uff01A&G+",
+        "url": "http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8?",
+        "favicon": "https://www.joqr.co.jp/wp/wp-content/themes/joqr/img/favicon.ico"
+    },
+    {
+        "name": "\u9e7f\u89d2\u304d\u308a\u305f\u3093\u307dFM",
+        "url": "https://mtist.as.smartstream.ne.jp/30089/livestream/playlist.m3u8",
+        "favicon": ""
+    }
+]

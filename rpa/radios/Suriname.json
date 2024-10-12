@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Radio 10 Magic FM",
+        "url": "https://s5.radio.co/s85a633f73/listen",
+        "favicon": ""
+    },
+    {
+        "name": "Radio 10 Magic FM",
+        "url": "https://s5.radio.co/s85a633f73/listen",
+        "favicon": "https://images.radio.co/station_logos/s85a633f73.20220705111511.jpg"
+    },
+    {
+        "name": "Radio 10 Magic FM",
+        "url": "https://s5.radio.co/s85a633f73/listen",
+        "favicon": "https://images.radio.co/station_logos/s85a633f73.20220705111511.jpg"
+    },
+    {
+        "name": "Radio Apintie",
+        "url": "http://surilive.com:8000/str",
+        "favicon": "https://www.apintie.sr/apple-touch-icon-114x114-precomposed.png"
+    },
+    {
+        "name": "Radio Garuda",
+        "url": "http://162.244.80.245:8012/",
+        "favicon": "https://rtv-garudasuriname.com/wp-content/uploads/2018/12/logo.png"
+    },
+    {
+        "name": "Radio Ishara",
+        "url": "https://www.liveradio.es/http://nickerie.webhop.net:8000/stream",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Radio Shruti",
+        "url": "https://rs.suricloud.com/radio/8000/radio.mp3",
+        "favicon": ""
+    }
+]

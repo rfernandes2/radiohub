@@ -1,0 +1,312 @@
+[
+    {
+        "name": "103 (FM 103.1)",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac",
+        "favicon": "https://mmo.aiircdn.com/943/63d062c743beb.png"
+    },
+    {
+        "name": "104.7 HIT",
+        "url": "http://streams.y2kwebs.com:9310/stream/1/",
+        "favicon": "https://1047hit.com/wp-content/uploads/2020/12/cropped-512-hit-180x180.png"
+    },
+    {
+        "name": "1047hit",
+        "url": "https://live.turadio.stream:7004/stream;",
+        "favicon": "https://1047hit.com/wp-content/uploads/2020/12/cropped-512-hit-180x180.png"
+    },
+    {
+        "name": "95.5 Jazz ",
+        "url": "https://streaming.radio.co/s36bd2a451/listen",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/8/27408.v8.png"
+    },
+    {
+        "name": "Amor FM 93.9",
+        "url": "https://player.hostingtico.com/proxy/8094",
+        "favicon": "https://giftmall.co.jp/favicon.ico"
+    },
+    {
+        "name": "Amplify 95.5 FM",
+        "url": "https://streams.radio.co/s7e8f19c33/listen",
+        "favicon": ""
+    },
+    {
+        "name": "Azul 99.9 FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC.aac",
+        "favicon": "https://mmo.aiircdn.com/943/63d062c6d0e2c.png"
+    },
+    {
+        "name": "Bendiciendo Radio",
+        "url": "http://infinityfm.radioca.st:9093/;",
+        "favicon": ""
+    },
+    {
+        "name": "B\u00e9same Costa Rica - 89.9 FM - TIRB - Multimedios Radio - San Jos\u00e9, Costa Rica",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CR_SC.mp3",
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s110346g.png"
+    },
+    {
+        "name": "Charanga Radio",
+        "url": "https://radio.co.cr/listen/charanga/radio.mp3",
+        "favicon": "https://radio.co.cr/static/icons/production/120.png"
+    },
+    {
+        "name": "Classics Pop & Rock",
+        "url": "http://c9.radioboss.fm:8035/stream",
+        "favicon": "https://static.wixstatic.com/media/88b483_c2a525ad452f44a9881d8d1414a67d25~mv2.jpg/v1/fill/w_510,h_510,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/88b483_c2a525ad452f44a9881d8d1414a67d25~mv2.jpg"
+    },
+    {
+        "name": "CLUB DANCE MUSIC",
+        "url": "https://stream.zeno.fm/5x4sda9kxtzuv",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Colosal FM 88.3",
+        "url": "https://5eac7b031d945.streamlock.net/canal3/canal3/playlist.m3u8",
+        "favicon": "https://colosalstereo.com/IMG/BotonRadio.png"
+    },
+    {
+        "name": "Columbia Est\u00e9reo 92.7 FM",
+        "url": "https://s5.radio.co/sca838cc60/listen",
+        "favicon": "https://columbiaestereo.com/wp-content/uploads/2022/09/fndo-rosa-05-2-768x244.png"
+    },
+    {
+        "name": "CRC 89.1 RADIO",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC.aac",
+        "favicon": "https://mmo.aiircdn.com/943/63d05efc1bbc6.png"
+    },
+    {
+        "name": "Dabar",
+        "url": "https://a1.asurahosting.com:8720/radio.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Dabar Radio",
+        "url": "https://a1.asurahosting.com:8720/radio.mp3/;",
+        "favicon": "https://dabarradio.org/wp-content/uploads/2018/03/logo-2-700x512.jpg"
+    },
+    {
+        "name": "Diay Radio",
+        "url": "https://radio.co.cr/listen/radio/radio.mp3",
+        "favicon": "https://radio.co.cr/static/icons/production/120.png"
+    },
+    {
+        "name": "Elite radio 88.5 FM",
+        "url": "https://stream20.usastreams.com/8008/stream",
+        "favicon": "https://eliteradiocr.com/wp-content/uploads/2023/01/cropped-cropped-Logotipo-1.png"
+    },
+    {
+        "name": "Exa FM Costa Rica",
+        "url": "https://alba-cr-exa-exa.stream.mediatiquestream.com/index.m3u8",
+        "favicon": "https://www.exacr.com/wp-content/uploads/2023/08/logo-exacr.png"
+    },
+    {
+        "name": "Faro del Caribe 97.1 FM y 1080 AM",
+        "url": "https://sp.unoredcdn.net/8032/stream",
+        "favicon": ""
+    },
+    {
+        "name": "HIT La FM",
+        "url": "https://radios.hitmedios.com/8002/stream",
+        "favicon": "https://hitlaradio.com/wp-content/uploads/2024/06/android-chrome-192x192-1.png"
+    },
+    {
+        "name": "IQ Radio",
+        "url": "http://rtvhd.net:9942/;stream/1",
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s50287q.png"
+    },
+    {
+        "name": "IQ Radio 105.5 FM",
+        "url": "http://rtvhd.net:9942/;",
+        "favicon": "http://www.iqmedios.com/imgsnuevas/fabiconiq.png"
+    },
+    {
+        "name": "JAZZ 95.5 FM",
+        "url": "https://streaming.radio.co/s36bd2a451/listen",
+        "favicon": "https://955jazz.com/wp-content/uploads/2022/08/Logo-Jazz.png"
+    },
+    {
+        "name": "La Caliente 90.7 FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/QTEJA_CRAAC_SC",
+        "favicon": ""
+    },
+    {
+        "name": "Los 40 Principales Costa Rica",
+        "url": "http://provisioning.streamtheworld.com/pls/LOS40_CR.pls",
+        "favicon": ""
+    },
+    {
+        "name": "LOS40 Costa Rica - 104.3 FM - Todos los \u00e9xitos - Multimedios Radio - San Jos\u00e9, Costa Rica",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CRAAC.aac",
+        "favicon": "http://los40cr00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png"
+    },
+    {
+        "name": "Mundo Rock Radio",
+        "url": "https://as100.globalhost1.com/8046/stream",
+        "favicon": "https://radio.mundorockcr.com/wp-content/uploads/2021/08/LogoLogout.png"
+    },
+    {
+        "name": "Nueve Cuatro Siete - 94.7 FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_947AAC.aac?_=819140",
+        "favicon": "https://mmo.aiircdn.com/943/63d062c76c332.png"
+    },
+    {
+        "name": "Ok Radio 105.5 FM",
+        "url": "http://okradio.rtvhd.net:8130/;stream/1",
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s9039g.png"
+    },
+    {
+        "name": "Planet 107.5",
+        "url": "https://stream20.usastreams.com/8094/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Planet 107.5",
+        "url": "https://stream20.usastreams.com/8094/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Planet 107.5",
+        "url": "https://stream20.usastreams.com/8094/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Puerto Lim\u00f3n Radio",
+        "url": "https://puertolimonradio-rowrigos.radioca.st/listen.pls?sid=1",
+        "favicon": "https://puertolimonradio.com/favicon.ico"
+    },
+    {
+        "name": "RADIO 1075",
+        "url": "http://65.60.45.74:8400/;stream/1;",
+        "favicon": "http://www.radio1075.com/assets/img/basic/logo2.png"
+    },
+    {
+        "name": "Radio Casino",
+        "url": "https://host.rowrigo.com/listen/radiocasino/radiocasino",
+        "favicon": "https://radiocasino.net/wp-content/uploads/2024/06/logo-radiocasino.jpg"
+    },
+    {
+        "name": "Radio Casino 98.3FM",
+        "url": "https://host.rowrigo.com/listen/radiocasino/radiocasino",
+        "favicon": "https://radiocasino.net/wp-content/uploads/2024/06/logo-radiocasino.jpg"
+    },
+    {
+        "name": "Radio Costa",
+        "url": "https://sonicpanel.globalstream.pro:10979/;",
+        "favicon": "https://radiocosta.eu/wp-content/uploads/2024/03/logo-2024-768x384.png"
+    },
+    {
+        "name": "Radio Disney Costa Rica",
+        "url": "http://ic.streann.com:8000/disneycostarica",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Disney Costa Rica - 101.1 FM - San Jos\u00e9, Costa Rica",
+        "url": "https://ic.streann.com/disneycostarica",
+        "favicon": "https://cr.radiodisney.com/favicon.ico"
+    },
+    {
+        "name": "Radio Disney Costa Rica - 101.1 FM - San Jos\u00e9, Costa Rica",
+        "url": "http://ic.streann.com:8000/disneycostarica",
+        "favicon": "https://cr.radiodisney.com/favicon.ico"
+    },
+    {
+        "name": "Radio Frecuencia Tierra",
+        "url": "http://68.235.35.243:9008/stream",
+        "favicon": "https://www.frecuenciatierra.com/wp-content/uploads/2012/11/cropped-cuadrado-125-x-1251-180x180.png"
+    },
+    {
+        "name": "Radio Hit 104.7",
+        "url": "https://live.turadio.stream:7004/stream?type=http&nocache=596",
+        "favicon": "https://1047hit.com/wp-content/uploads/2020/12/512-hit.png"
+    },
+    {
+        "name": "Radio Mar\u00eda Costa Rica - 100.7 FM",
+        "url": "http://dreamsiteradiocp2.com:8044/stream",
+        "favicon": "http://www.radiomaria.cr/favicon.ico"
+    },
+    {
+        "name": "Radio Mil Recuerdos Stereo",
+        "url": "https://sechin.grupocentroserver.com/radio/8060/radio.mp3",
+        "favicon": "https://sechin.grupocentroserver.com/static/uploads/browser_icon/120.1696292562.png"
+    },
+    {
+        "name": "Radio Mil Recuerdos Stereo",
+        "url": "https://sechin.grupocentroserver.com/radio/8060/radio.mp3",
+        "favicon": "https://www.radiomilrecuerdos.com/favicon.ico"
+    },
+    {
+        "name": "Radio Musical 97.5",
+        "url": "https://live.turadio.stream:7005/stream?type=http&nocache=596",
+        "favicon": "https://radiomusical.com/wp-content/uploads/2020/11/logo-musical.png"
+    },
+    {
+        "name": "Radio Nova CR",
+        "url": "http://centova.hostingtico.com:8016/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Omega 105.1 FM",
+        "url": "https://centova.hostingtico.com:7008/;",
+        "favicon": "http://www.radioomega.fm/imgsnuevas/Banner.png"
+    },
+    {
+        "name": "Radio Omega 105.1 FM",
+        "url": "http://rtvhd.net:9932/listen.pls",
+        "favicon": "http://www.radioomega.fm/img/logoomega1051.png"
+    },
+    {
+        "name": "Radio Platino",
+        "url": "http://stream.zeno.fm/tet7d7sz2yzuv",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Revoluci\u00f3n",
+        "url": "https://stream.zeno.fm/ftcx2988uwzuv",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Sinfonola 90.3FM",
+        "url": "http://streams.y2kwebs.com:9972/",
+        "favicon": "https://radiosinfonola.com/wp-content/uploads/2021/01/cropped-logo-180x180.png"
+    },
+    {
+        "name": "Radio Spectro",
+        "url": "https://stream20.usastreams.com/8090/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Se\u00f1al Radio Elite",
+        "url": "https://stream20.usastreams.com/8008/;",
+        "favicon": ""
+    },
+    {
+        "name": "Tamarindo Radio",
+        "url": "http://s1.voscast.com:11392/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Teletica Radio",
+        "url": "https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Tiquicia Rock",
+        "url": "https://usa19.fastcast4u.com:5860/;?type=http&nocache=1690470873",
+        "favicon": "https://tiquiciarock.com/wp-content/uploads/2023/04/cropped-tiquiciarock-logo-512x512-1-1-180x180.png"
+    },
+    {
+        "name": "Urbano 106 - 105.9 FM - San Jos\u00e9, Costa Rica",
+        "url": "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1",
+        "favicon": "https://i0.wp.com/www.urbano106.com/wp-content/uploads/2018/10/LOGO-PARA-WEBS.png"
+    },
+    {
+        "name": "Vox FM Costa Rica - 105.5 FM - San Jos\u00e9, Costa Rica",
+        "url": "http://okradio.rtvhd.net:8130/;",
+        "favicon": "https://play-lh.googleusercontent.com/IJcwUyG1cXzwS7F_-3eWdplPwODutJ6YnkP_g6_DjLAehTgxTsTloTSJUUsfsC2Bg9I"
+    },
+    {
+        "name": "Zeta FM 95.1",
+        "url": "https://virtualtronics.net/proxy/zetafm?mp=/stream",
+        "favicon": "https://www.zetafmcr.com/favicon.ico"
+    }
+]

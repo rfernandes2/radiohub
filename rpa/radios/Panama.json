@@ -1,0 +1,97 @@
+[
+    {
+        "name": "AM Original 1180 Veraguas",
+        "url": "http://rosetta.shoutca.st:9264/stream",
+        "favicon": "https://amoriginal.net/wp-content/uploads/2024/03/cropped-logo_am_original_v2_512x512-180x180.png"
+    },
+    {
+        "name": "Antena 8 100.1 FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac",
+        "favicon": "https://www.antena8.com/wp-content/uploads/2020/05/cropped-favicom-02-180x180.png"
+    },
+    {
+        "name": "Blast panama",
+        "url": "https://stream.mixesurbanospty.com:8020/blasturbana.mp3",
+        "favicon": "https://www.blastent.com/index_files/logo_x2.png"
+    },
+    {
+        "name": "CHT FM 107.7",
+        "url": "https://radios.host-pa.com:8046/;",
+        "favicon": ""
+    },
+    {
+        "name": "Cool FM 89.3 Panama City",
+        "url": "http://provisioning.streamtheworld.com/pls/COOLFMAAC.pls",
+        "favicon": "https://www.coolfmpanama.com/wp-content/uploads/2021/05/cropped-favicom-violeta-1-180x180.png"
+    },
+    {
+        "name": "Crisol FM",
+        "url": "https://pcbrothers.net/8002/stream",
+        "favicon": "https://sertv.gob.pa/crisolfm/wp-content/uploads/sites/2/2020/05/2020-crisolfm-logo.png"
+    },
+    {
+        "name": "Est\u00e9reo Azul 100.9 FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ESTEREOAZULAAC.aac",
+        "favicon": "https://www.estereoazul.com/wp-content/uploads/2019/03/logo-azul-1.png"
+    },
+    {
+        "name": "Exa FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "favicon": "https://www.exafm.com/favicon.ico"
+    },
+    {
+        "name": "Fabulosa Est\u00e9reo 100.5 FM",
+        "url": "https://www.streaming507.net:8130/stream",
+        "favicon": "https://fabulosaestereo.com/wp-content/uploads/2018/05/logofabulosa.png"
+    },
+    {
+        "name": "Faro de David 104.5 FM",
+        "url": "https://tv.farodedavid.com:8002/live;",
+        "favicon": "https://resonant-puppy-f63713.netlify.app/img/logoWeb2.png"
+    },
+    {
+        "name": "Festival 1540 AM",
+        "url": "http://streaming507.net:8128/stream",
+        "favicon": "https://festival1540am.com/wp-content/uploads/2016/01/LOGO-NUEVO-transparente1.png"
+    },
+    {
+        "name": "Flow 92.7 FM",
+        "url": "http://streaming507.net:9980/stream",
+        "favicon": "https://statics-v3.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg"
+    },
+    {
+        "name": "LIKE 105 FM",
+        "url": "https://www.streaming507.net:8020/stream",
+        "favicon": "https://i0.wp.com/www.like105.com/wp-content/uploads/2020/07/Like-1057fm-Logo-2020-Blanco.png?resize=768%2C768&ssl=1"
+    },
+    {
+        "name": "Los 40 Principales Panam\u00e1",
+        "url": "http://provisioning.streamtheworld.com/pls/LOS40_PAN.pls",
+        "favicon": ""
+    },
+    {
+        "name": "Original Stereo 90.7 FM",
+        "url": "http://rosetta.shoutca.st:8931/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Disney Panam\u00e1",
+        "url": "http://ic.streann.com:8000/disneypanama",
+        "favicon": ""
+    },
+    {
+        "name": "RADIO MARIA PANAMA",
+        "url": "http://dreamsiteradiocp.com:8082/stream",
+        "favicon": "http://www.radiomaria.pa/favicon.ico"
+    },
+    {
+        "name": "Rumba FM",
+        "url": "https://laradiossl.online:10355/;stream.nsv",
+        "favicon": "https://radioparallevar.com/wp-content/uploads/2021/09/cropped-rpll_hd-isologo-180x180.png"
+    },
+    {
+        "name": "XTREME MUSIC RADIO",
+        "url": "https://radios.sonicp.com/8020/stream",
+        "favicon": "https://static.wixstatic.com/media/1728fa_8ff77ffd99004cda9ca904cbe9dc25a5~mv2.png/v1/fill/w_233,h_72,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/XTREME%20negro.png"
+    }
+]

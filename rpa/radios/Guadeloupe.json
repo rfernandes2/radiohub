@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DIMusic Club Guadeloupe \ud83c\uddec\ud83c\uddf5 ",
+        "url": "http://stream1.dimusic.club:11496/live?type=.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Guadeloupe 1\u00e8re",
+        "url": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
+        "favicon": "https://la1ere.francetvinfo.fr/favicon.ico"
+    },
+    {
+        "name": "Zouk Newz",
+        "url": "https://zouknews.ice.infomaniak.ch/zouknews-192.mp3",
+        "favicon": ""
+    }
+]

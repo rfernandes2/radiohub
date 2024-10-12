@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Alive - Live Music Radio around the clock (24h Blues, Rock, Pop)",
+        "url": "http://stream.laut.fm/alive",
+        "favicon": ""
+    },
+    {
+        "name": "Manx Radio FM",
+        "url": "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.aac",
+        "favicon": "https://platform.aiircdn.com/sitelogos/147-T9L9fKDrZLR6Boqmmu5h.png"
+    }
+]

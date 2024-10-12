@@ -1,0 +1,152 @@
+[
+    {
+        "name": "BBC Nepali",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio",
+        "favicon": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/nepali/images/icons/icon-128x128.png"
+    },
+    {
+        "name": "BBC Nepali 103 MHz",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio",
+        "favicon": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/nepali/images/icons/icon-128x128.png"
+    },
+    {
+        "name": "BFBS Gurkha Radio",
+        "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
+        "favicon": "https://radio.bfbs.com/icons/icon-512x512.png?v=0afec91a27aaa6d57f2b000c6fbe8cac"
+    },
+    {
+        "name": "Capital FM 92.4",
+        "url": "http://streaming.softnep.net:8037/;",
+        "favicon": ""
+    },
+    {
+        "name": "Chitwan Online FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC227_SC",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/7/30037.v5.png"
+    },
+    {
+        "name": "CIN Khabar",
+        "url": "https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60",
+        "favicon": "https://www.cinkhabar.com/themes/cinkhabar/images/favicon.png"
+    },
+    {
+        "name": "Hits FM 91.2",
+        "url": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1",
+        "favicon": "https://www.hitsfm.com.np/wordpress/wp-content/uploads/2016/12/cropped-fvi-icon-1-180x180.png"
+    },
+    {
+        "name": "Kalika FM",
+        "url": "http://kalika-stream.softnep.com:7740/;",
+        "favicon": "https://www.kalikanews.com/themes/kalikanews/images/favicon.png"
+    },
+    {
+        "name": "Kalika FM 95.2 FM",
+        "url": "http://www.surfmusic.de/m3u/kalika-fm-95-2-fm,16363.m3u",
+        "favicon": "https://www.kalikanews.com/themes/kalikanews/images/favicon.png"
+    },
+    {
+        "name": "Kantipur FM",
+        "url": "https://radio-broadcast.ekantipur.com/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Khozee Radio",
+        "url": "http://216.55.141.189:8060/stream/1/",
+        "favicon": "https://www.hamropatro.com/favicon.ico"
+    },
+    {
+        "name": "KOOL FM 90.3",
+        "url": "https://streaming.softnep.net:10944/;stream.nsv&type=mp3&volume=70",
+        "favicon": "https://www.kool903.com/themes/kool903/images/logo.png?v=1.1"
+    },
+    {
+        "name": "Naya Radio",
+        "url": "http://live.itech.host:1110/;",
+        "favicon": "https://www.nayafm.com.np/style/icon2.png"
+    },
+    {
+        "name": "Radio Adhyatma Jyoti",
+        "url": "https://stream.hamropatro.com/8074",
+        "favicon": "https://radioaj.com.np/img/logo.png"
+    },
+    {
+        "name": "Radio Audio",
+        "url": "https://stream.zeno.fm/fvrx47wpg0quv",
+        "favicon": "https://www.aradioaudio.com/content/images/size/w1000/2021/08/radioaudiologo-8.png"
+    },
+    {
+        "name": "Radio Himalaya",
+        "url": "https://live.itech.host/himalayaradio?1588276425741",
+        "favicon": "http://img.sedoparking.com/templates/logos/sedo_logo.png"
+    },
+    {
+        "name": "Radio Kantipur",
+        "url": "https://radio-broadcast.ekantipur.com/stream",
+        "favicon": "http://radio-jcss-cdn.ekantipur.com/images/kfm_logo.png"
+    },
+    {
+        "name": "Radio Kantipur",
+        "url": "https://radio-broadcast.ekantipur.com/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Kantipur FM 96.1 MHz",
+        "url": "https://radio-broadcast.ekantipur.com/stream",
+        "favicon": "http://radio-jcss-cdn.ekantipur.com/images/kfm_logo.png"
+    },
+    {
+        "name": "Radio Kantipur FM 96.1 MHz",
+        "url": "https://radio-broadcast.ekantipur.com/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Nepal",
+        "url": "https://stream1.radionepal.gov.np/live/",
+        "favicon": "https://radionepal.gov.np/wp-content/themes/rdnpnew/images/icon/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Sahino",
+        "url": "http://live.itech.host:7093/live",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Sathi",
+        "url": "http://live.itech.host:7115/live",
+        "favicon": "https://www.radiosathi.com/themes/radio-sathi/favicon.png"
+    },
+    {
+        "name": "RadioSagar",
+        "url": "https://eu1.fastcast4u.com/proxy/radiosag?mp=/stream/1/",
+        "favicon": ""
+    },
+    {
+        "name": "Swadesh 93.2 FM",
+        "url": "http://216.55.141.189:8653/stream?type=http&nocache=66846",
+        "favicon": ""
+    },
+    {
+        "name": "Swadesh FM",
+        "url": "https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3?1700834587158",
+        "favicon": "https://www.hamropatro.com/favicon.ico"
+    },
+    {
+        "name": "Ujyaalo 90 Network",
+        "url": "http://stream.zenolive.com/wtuvp08xq1duv",
+        "favicon": ""
+    },
+    {
+        "name": "Ultima\u011b radio",
+        "url": "https://ultimae-bofaradio.radioca.st/",
+        "favicon": ""
+    },
+    {
+        "name": "Vijaya FM 101.6",
+        "url": "https://live.itech.host:3320/stream",
+        "favicon": ""
+    },
+    {
+        "name": "\u0930\u0947\u0921\u093f\u092f\u094b \u0939\u093f\u092e\u093e\u0932\u092f",
+        "url": "https://live.itech.host/himalayaradio",
+        "favicon": ""
+    }
+]

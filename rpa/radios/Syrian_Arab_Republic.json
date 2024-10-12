@@ -1,0 +1,137 @@
+[
+    {
+        "name": ".. \u0645\u062e\u062a\u0635\u0631 \u0627\u0644\u062a\u0641\u0633\u064a\u0631 ",
+        "url": "https://qurango.net/radio/mukhtasartafsir",
+        "favicon": ""
+    },
+    {
+        "name": "Al Aan FM",
+        "url": "https://c20.radioboss.fm:8543/stream",
+        "favicon": "https://cdn.alaan.tv/nuz/img/akhbaralaan-logo.png"
+    },
+    {
+        "name": "AL MADDINA FM",
+        "url": "https://stream.almadinafm.com/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Arta FM",
+        "url": "http://edge.mixlr.com/channel/qtgru",
+        "favicon": "https://www.artafm.com/sites/all/themes/simpl/favicon.png"
+    },
+    {
+        "name": "Arta Radio",
+        "url": "http://edge.mixlr.com/channel/qtgru",
+        "favicon": "http://www.artafm.com/sites/all/themes/simpl/favicon.png"
+    },
+    {
+        "name": "Asima Online Radio",
+        "url": "https://asima.out.airtime.pro/asima_a",
+        "favicon": "https://www.asima-online.net/wp-content/uploads/2020/06/cropped-logo-asima-180x180.png"
+    },
+    {
+        "name": "Asima Online Radio",
+        "url": "http://asima.out.airtime.pro:8000/asima_a",
+        "favicon": "https://www.asima-online.net/wp-content/uploads/2020/06/cropped-logo-asima-180x180.png"
+    },
+    {
+        "name": "denge cudi",
+        "url": "https://denge-cudi.stream.laut.fm/denge-cudi?pl=m3u",
+        "favicon": ""
+    },
+    {
+        "name": "Denge Qamishlo",
+        "url": "https://dengeqamishlo.stream.laut.fm/dengeqamishlo",
+        "favicon": ""
+    },
+    {
+        "name": "Emaar FM Radio",
+        "url": "https://stream-149.zeno.fm/4luag56o066uv",
+        "favicon": "https://www.emaarradio.com/images/logo.png"
+    },
+    {
+        "name": "Emaar FM Radio",
+        "url": "https://stream-149.zeno.fm/4luag56o066uv",
+        "favicon": "https://www.emaarradio.com/images/logo.png"
+    },
+    {
+        "name": "Emaar FM Radio",
+        "url": "https://stream-149.zeno.fm/4luag56o066uv",
+        "favicon": ""
+    },
+    {
+        "name": "Exclusively Meat Loaf",
+        "url": "https://streaming.exclusive.radio/er/meatloaf/icecast.audio",
+        "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png"
+    },
+    {
+        "name": "Farah FM",
+        "url": "http://167.114.3.184:8000/;",
+        "favicon": ""
+    },
+    {
+        "name": "Farah FM",
+        "url": "https://radio.farah.fm/",
+        "favicon": ""
+    },
+    {
+        "name": "Melody FM 97.9 Syria",
+        "url": "http://streaming.inet.sy:8000/melodyfm",
+        "favicon": ""
+    },
+    {
+        "name": "Mix FM Syria",
+        "url": "https://stream.mixfmsyria.net/;stream.mp3",
+        "favicon": "https://mixfmsyria.net/images/mixfmlogo11.png"
+    },
+    {
+        "name": "Ninar Radio",
+        "url": "http://ninarfm.grtvstream.com:8896/;",
+        "favicon": "http://cdn.onlineradiobox.com/img/logo/0/74160.png"
+    },
+    {
+        "name": "Radio Fann",
+        "url": "http://188.247.86.66/RadioFann/Audio128/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "sham fm",
+        "url": "http://radioshamfm.grtvstream.com:2199/tunein/shamfm.pls",
+        "favicon": "https://sham.fm/assets/apple-touch-icon.png"
+    },
+    {
+        "name": "Sham FM",
+        "url": "https://radioshamfm.grtvstream.com:8400/;",
+        "favicon": "https://sham.fm/assets/apple-touch-icon.png"
+    },
+    {
+        "name": "syria sat",
+        "url": "http://radioliveb.rtv.gov.sy:8002/Sat",
+        "favicon": ""
+    },
+    {
+        "name": "Syria Sat",
+        "url": "http://radioliveb.rtv.gov.sy:8008/Sat",
+        "favicon": ""
+    },
+    {
+        "name": "Watan FM (Idlib, Hama, Halab)",
+        "url": "http://192.99.170.8:5470/;/;stream.mp3",
+        "favicon": "https://watan.fm/favicon.ico"
+    },
+    {
+        "name": "\u0642\u062f\u064a\u0645 FM",
+        "url": "http://usa6.fastcast4u.com:5109/live",
+        "favicon": ""
+    },
+    {
+        "name": "\u0644\u0627 \u0627\u0644\u0642\u0627\u0631\u0626 \u0645\u062d\u0645\u062f \u0623\u064a\u0648\u0628 ",
+        "url": "https://qurango.net/radio/mohammed_ayyub",
+        "favicon": ""
+    },
+    {
+        "name": "\u0646\u062c\u0648\u0645 \u0627\u0641 \u0627\u0645",
+        "url": "http://185.105.4.53:4423/;stream.mp3",
+        "favicon": "https://static2.mytuner.mobi/media/tvos_radios/tyd3ljmwus9b.jpg"
+    }
+]

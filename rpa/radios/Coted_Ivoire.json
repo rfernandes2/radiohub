@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Radio Alpha Blondy 97.9 Abidjan",
+        "url": "https://www.radioking.com/play/alphablondyfm",
+        "favicon": "http://alphablondyfm.ci/alfa.ico"
+    },
+    {
+        "name": "Radio Maria Ivory Coast",
+        "url": "https://dreamsiteradioplayer.it/wf/wfivorycoast/?pl=vlc&c=Radio%20Maria%20C%C3%B4te%20D%27Ivoire",
+        "favicon": "https://www.radiomaria.ci/wp-content/uploads/2016/09/per-itunes.jpg"
+    },
+    {
+        "name": "Radio Nostalgie 101.1 Abidjan",
+        "url": "http://213.136.96.14:8000/nostalgie2.mp3",
+        "favicon": "https://www.nostalgie.ci/sites/default/files/nosta.ico"
+    },
+    {
+        "name": "Trace FM C\u00f4te d\u2019Ivoire",
+        "url": "http://stream.trace.tv/trace_fm_ci-midfi.aac",
+        "favicon": "https://trace.ci/wp-content/uploads/2019/11/cropped-cropped-favicon-100x100.png"
+    }
+]

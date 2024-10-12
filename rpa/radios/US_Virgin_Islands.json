@@ -1,0 +1,32 @@
+[
+    {
+        "name": " EXA FM: Pop music in Spanish and English",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac"
+    },
+    {
+        "name": "Beach Bar Radio",
+        "url": "https://streaming.radio.co/s23d2a636c/listen",
+        "favicon": "https://beachbarstjohn.com/wp-content/uploads/2021/05/the-beach-bar-logo-horizontal-fullcolor.png"
+    },
+    {
+        "name": "BRN Radio - Arabic Channel",
+        "url": "http://192.241.185.108:8094/stream",
+        "favicon": "http://brnradio.com/favicon.ico"
+    },
+    {
+        "name": "Hiphop",
+        "url": "http://listen.181fm.com/181-oldschool_128k.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "WSTX-AM 970 Christiansted",
+        "url": "http://wstxradio2.serverroom.net:8340/;",
+        "favicon": ""
+    },
+    {
+        "name": "WSTX-FM 100.3 Christiansted",
+        "url": "http://wstxradio.serverroom.net:7490/;",
+        "favicon": ""
+    }
+]

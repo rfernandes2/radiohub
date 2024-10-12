@@ -1,0 +1,12 @@
+[
+    {
+        "name": " EXA FM: Popmusik p\u00e5 engelska och spanska",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "favicon": "https://cdn-profiles.tunein.com/s90984/images/logog.png"
+    },
+    {
+        "name": "\u00c5lands Radio",
+        "url": "https://stream.alandsradio.ax/stream.ogg",
+        "favicon": "https://alandsradio.ax/sites/default/files/favicon_artv.ico"
+    }
+]

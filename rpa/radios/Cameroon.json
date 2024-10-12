@@ -1,0 +1,27 @@
+[
+    {
+        "name": "ABK Radio 89.9 Douala",
+        "url": "http://46.105.111.94:8077/;",
+        "favicon": "https://cdn-profiles.tunein.com/s211516/images/logod.png?t=637213775400000000"
+    },
+    {
+        "name": "Balla Radio",
+        "url": "http://167.114.11.79:5730/;stream/1",
+        "favicon": "https://www.radio.net/images/broadcasts/66/61/27507/c300.png"
+    },
+    {
+        "name": "crtv",
+        "url": "https://pn.crtv.cm/",
+        "favicon": ""
+    },
+    {
+        "name": "DIMusic Club Cameroon \ud83c\udde8\ud83c\uddf2 ",
+        "url": "http://stream1.dimusic.club:11496/live?type=.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Equinoxe Radio",
+        "url": "https://listen.radioking.com/radio/39218/stream/76118",
+        "favicon": "http://www.radioequinoxe.com/favicon.ico"
+    }
+]

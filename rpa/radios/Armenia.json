@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Armenian Christian Radio - Bashde Radio",
+        "url": "https://streams.radio.co/sa0bf8ec29/listen?sid=1",
+        "favicon": "http://bashde.org/favicon.ico"
+    },
+    {
+        "name": "DIMusic Club Armenia \ud83c\udde6\ud83c\uddf2 ",
+        "url": "http://stream1.dimusic.club:11496/live?type=.aac",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240617_081018773.jpg?alt=media&token=171e525e-88f9-4214-a824-99bd72980be9"
+    },
+    {
+        "name": "Fama",
+        "url": "http://eu.stream4cast.com:8036/stream/",
+        "favicon": ""
+    },
+    {
+        "name": "LOVE RADIO",
+        "url": "https://loveradio.streamingmedia.it/play",
+        "favicon": ""
+    },
+    {
+        "name": "Lratvakan Radio 106.5 FM",
+        "url": "http://212.34.233.78:8000/live",
+        "favicon": "https://lratvakan.am/static/img/favicon.png"
+    },
+    {
+        "name": "Luys TV Western Armenian TV",
+        "url": "http://luyse.mediatriple.net/luystv/luystv.smil/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "MFM Music Radio",
+        "url": "https://eu.stream4cast.com/proxy/mfmradio/stream",
+        "favicon": "https://www.mfm.am/favicon.ico"
+    },
+    {
+        "name": "Radio Aurora",
+        "url": "http://am.radioaurora.am:8010/al.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio AYK",
+        "url": "http://s3.streammonster.com:8117/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Mariam Armenia",
+        "url": "http://dreamsiteradiocp.com:8056/stream",
+        "favicon": "http://www.radiomariam.am/resources/radiomariam/images/logo_white.png"
+    },
+    {
+        "name": "Radio Marshall",
+        "url": "https://eu.stream4cast.com/proxy/marshallfm/stream",
+        "favicon": "https://www.radiomarshall.am/images/logo.png"
+    },
+    {
+        "name": "Radio Van",
+        "url": "http://media.radiovan.am:8000/96_stereo.m3u",
+        "favicon": "http://www.radiovan.am/css/images/ico.png"
+    },
+    {
+        "name": "Radio VAN",
+        "url": "http://stream.radiovan.fm/stream/index.m3u8",
+        "favicon": "https://radiovan.fm/css/images/ico.png"
+    }
+]

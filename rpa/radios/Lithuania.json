@@ -1,0 +1,422 @@
+[
+    {
+        "name": "100 HIT\u0172",
+        "url": "https://transliacija.relaxfm.lt/100-hitu",
+        "favicon": "https://relaxfm.lt/wp-content/uploads/2018/12/cropped-r-relax-fm-copy-1-192x192.png"
+    },
+    {
+        "name": "Beveik Radijas",
+        "url": "https://azura.shoutca.st/radio/8420/radio.mp3",
+        "favicon": "http://beveikradijas.com/favicon.ico"
+    },
+    {
+        "name": "Cold Tear Radio",
+        "url": "https://radio.rad10x.com/listen/coldtear/coldtear.mp3",
+        "favicon": "https://th.bing.com/th/id/OIP.0bD3EllJGSWsRQhdkQGuygHaL9?pid=ImgDet"
+    },
+    {
+        "name": "Easy FM",
+        "url": "https://netradio.ziniur.lt/easyfm.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "European Hit Radio",
+        "url": "http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-european-hit-radio.pls",
+        "favicon": ""
+    },
+    {
+        "name": "European Hit Radio [128 kbps AAC]",
+        "url": "http://82.135.234.195:8000/ehr.aac",
+        "favicon": ""
+    },
+    {
+        "name": "EXTRA FM",
+        "url": "http://82.135.234.195:8000/extrafm.mp3",
+        "favicon": "https://extrafm.lt/wp-content/uploads/2021/09/cropped-fav-192x192-1-180x180.png"
+    },
+    {
+        "name": "Extra FM",
+        "url": "http://82.135.234.195:8000/extrafm.mp3",
+        "favicon": "https://extrafm.lt/wp-content/uploads/2021/09/cropped-fav-192x192-1-370x370.png"
+    },
+    {
+        "name": "Fred Film Radio-24 lietuvi\u0173 kalba",
+        "url": "https://s10.webradio-hosting.com/proxy/fredradiolt/stream",
+        "favicon": "https://www.fred.fm/favicon.ico"
+    },
+    {
+        "name": "Geras FM",
+        "url": "http://82.135.234.195:8000/gerasfm.mp3.m3u",
+        "favicon": "http://www.gerasfm.lt/wp-content/uploads/2018/07/cropped-gerasfm-180x180.png"
+    },
+    {
+        "name": "Gold FM",
+        "url": "http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-gold-fm.pls",
+        "favicon": "https://goldfm.lt/wp-content/uploads/2020/12/cropped-1-1-01-1-180x180.png"
+    },
+    {
+        "name": "Kapsai",
+        "url": "http://91.211.246.42:8000/Kapsai-HD",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Kelyje",
+        "url": "http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-kelyje-klaipeda.pls",
+        "favicon": ""
+    },
+    {
+        "name": "Kelyje ",
+        "url": "http://82.135.234.195:8000/kelyje_kaunas.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Kelyje Kaunas",
+        "url": "http://82.135.234.195:8000/kelyje_kaunas.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Kelyje Klaipeda ",
+        "url": "http://82.135.234.195:8000/kelyje_klaipeda.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Laluna [AAC]",
+        "url": "http://stream.laluna.lt/laluna/high.m3u",
+        "favicon": "http://laluna.lt/favicon.ico"
+    },
+    {
+        "name": "Laluna [MP3]",
+        "url": "http://stream.laluna.lt/laluna/mp3.m3u",
+        "favicon": "http://laluna.lt/favicon.ico"
+    },
+    {
+        "name": "Lietus",
+        "url": "http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-lietus.pls",
+        "favicon": ""
+    },
+    {
+        "name": "LRT",
+        "url": "http://lrt-cast.lrt.lt:8000/lrt_radijas",
+        "favicon": "https://www.lrt.lt/images/favicons/apple-touch-icon-120x120.png?v=243"
+    },
+    {
+        "name": "LRT 1",
+        "url": "http://lrt-cast.lrt.lt:8000/lrt_radijas.m3u",
+        "favicon": "https://www.lrt.lt/images/favicons/apple-touch-icon-120x120.png?v=582"
+    },
+    {
+        "name": "LRT Klasika",
+        "url": "http://lrt-cast.lrt.lt:8000/lrt_klasika.m3u",
+        "favicon": "https://www.lrt.lt//images/favicons/mstile-144x144.png?v=200"
+    },
+    {
+        "name": "LRT Opus",
+        "url": "http://lrt-cast.lrt.lt:8000/lrt_opus",
+        "favicon": "https://www.lrt.lt/images/logo/logo-opus.svg?v=688"
+    },
+    {
+        "name": "LRT Opus",
+        "url": "http://lrt-cast.lrt.lt:8000/lrt_opus",
+        "favicon": "https://www.lrt.lt/images/favicons/apple-touch-icon-120x120.png?v=582"
+    },
+    {
+        "name": "m-1",
+        "url": "https://stream.m-1.fm/lietus/MP3320.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "M-1",
+        "url": "http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-m-1.pls",
+        "favicon": "http://www.m-1.fm/bitrix/templates/m1/images/500x500.jpg"
+    },
+    {
+        "name": "M-1 [AAC]",
+        "url": "http://stream.m-1.fm/M-1aacp",
+        "favicon": ""
+    },
+    {
+        "name": "M-1 Dance ",
+        "url": "https://radio.m-1.fm/m-1dance/aac",
+        "favicon": ""
+    },
+    {
+        "name": "M-1 Plius",
+        "url": "https://radio.m-1.fm/m1plius/aacp64",
+        "favicon": ""
+    },
+    {
+        "name": "M-1 Plius",
+        "url": "http://radio.m-1.fm/m1plius/mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Mano",
+        "url": "http://klausyk.manofm.lt:8000/Icecast2",
+        "favicon": ""
+    },
+    {
+        "name": "MANO FM",
+        "url": "http://klausyk.manofm.lt:8000/Icecast2",
+        "favicon": ""
+    },
+    {
+        "name": "Mano FM",
+        "url": "http://klausyk.manofm.lt:8000/Icecast2",
+        "favicon": ""
+    },
+    {
+        "name": "MANO FM LT",
+        "url": "http://stream.manofm.lt/listen?",
+        "favicon": ""
+    },
+    {
+        "name": "Marijos radijas",
+        "url": "http://stream.marijosradijas.lt:8001/marijosradijas.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Marijos radijas",
+        "url": "http://stream.marijosradijas.lt:8001/marijosradijas.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Marijos radijas",
+        "url": "http://stream.marijosradijas.lt:8001/marijosradijas.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Mazeikiai FM",
+        "url": "http://91.211.246.42:8000/Mazeikiai",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Ma\u017eeiki\u0173 Aidas",
+        "url": "http://maidas.kli.lt:8000/admin.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Neringa FM",
+        "url": "http://radio.15min.lt:8000/neringafm",
+        "favicon": ""
+    },
+    {
+        "name": "Neringa fm *",
+        "url": "http://185.11.24.72:8000/neringafm",
+        "favicon": ""
+    },
+    {
+        "name": "NeringaFM",
+        "url": "http://185.11.24.72:8000/neringafm",
+        "favicon": ""
+    },
+    {
+        "name": "Palanga Street Radio",
+        "url": "https://stream.palanga.live:8443/palanga128.mp3",
+        "favicon": "https://palanga.live/assets/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Play Radio",
+        "url": "https://n08.radiojar.com/d9cm273ystzuv",
+        "favicon": ""
+    },
+    {
+        "name": "PMR",
+        "url": "https://82.135.234.195:8443/pmr.aac",
+        "favicon": "https://pmr.lt/favicons/favicon-144x144.png"
+    },
+    {
+        "name": "PMR",
+        "url": "https://pmr.lt/streams/pmr.m3u",
+        "favicon": "https://pmr.lt/favicons/favicon-194x194.png"
+    },
+    {
+        "name": "pmr.lt - world music radio",
+        "url": "http://pmr.lt/streams/pmr-1",
+        "favicon": "https://pmr.lt/favicons/favicon-144x144.png"
+    },
+    {
+        "name": "P\u016bkas [160 kbps AAC]",
+        "url": "http://82.135.234.195:8000/pukas.aac.m3u",
+        "favicon": "http://www.pukas.lt/favicon.ico"
+    },
+    {
+        "name": "P\u016bkas [190 kbps MP3]",
+        "url": "http://82.135.234.195:8000/pukas.mp3.m3u",
+        "favicon": "http://www.pukas.lt/favicon.ico"
+    },
+    {
+        "name": "P\u016bkas 2 [190 kbps MP3]",
+        "url": "http://82.135.234.195:8000/pukas2.mp3.m3u",
+        "favicon": "http://www.pukas.lt/favicon.ico"
+    },
+    {
+        "name": "Pulsas",
+        "url": "https://pulsas.lt/stream",
+        "favicon": "https://static.wixstatic.com/media/7757d3_77841452a4234261bc90518fa7aca7c4%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/7757d3_77841452a4234261bc90518fa7aca7c4%7emv2.png"
+    },
+    {
+        "name": "Radijo stotis Lietus",
+        "url": "https://radio.m-1.fm/LIETUS",
+        "favicon": "http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-lietus.png"
+    },
+    {
+        "name": "Radio Fiesta",
+        "url": "https://stream2.radiofiesta.lt/rfs128.mp3",
+        "favicon": "https://radiofiesta.lt/wp-content/uploads/2023/02/RadioFiesta-logo-1.png"
+    },
+    {
+        "name": "Radio LaLuna",
+        "url": "http://radio.m-1.fm/laluna/high",
+        "favicon": "https://laluna.lt/favicon.ico"
+    },
+    {
+        "name": "RADIO R",
+        "url": "https://stream1.rusradio.lt/rrb128.mp3",
+        "favicon": "https://radior.lt/favicon.ico"
+    },
+    {
+        "name": "RADIO R",
+        "url": "https://stream1.rusradio.lt/rrb128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "RADIO R Energy",
+        "url": "https://listen.radioking.com/radio/624415/stream/686599",
+        "favicon": "https://radior.lt/favicon.ico"
+    },
+    {
+        "name": "Radio stotis Laluna",
+        "url": "https://radio.m-1.fm/laluna/mp3",
+        "favicon": "https://www.laluna.lt/favicon.ico"
+    },
+    {
+        "name": "Radiocentras",
+        "url": "https://stream2.rc.lt/rc128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radiocentras",
+        "url": "https://stream2.rockfm.lt/crf128.mp3",
+        "favicon": "https://rczipbucket.s3.eu-north-1.amazonaws.com/rc/1665234650.jpg"
+    },
+    {
+        "name": "Relax FM 100 HITU",
+        "url": "https://listen.radioking.com/radio/483860/stream/561907",
+        "favicon": "https://relaxfm.lt/wp-content/uploads/2018/12/cropped-r-relax-fm-copy-1-192x192.png"
+    },
+    {
+        "name": "RELAX FM Lietuva",
+        "url": "https://stream1.relaxfm.lt/relaxfm128.mp3",
+        "favicon": "https://relaxfm.lt/wp-content/uploads/2018/12/cropped-r-relax-fm-copy-1-192x192.png"
+    },
+    {
+        "name": "Relax FM Sentimental",
+        "url": "https://listen.radioking.com/radio/506872/stream/564496",
+        "favicon": "https://relaxfm.lt/wp-content/uploads/2018/12/cropped-r-relax-fm-copy-1-192x192.png"
+    },
+    {
+        "name": "Rock FM",
+        "url": "https://stream2.rockfm.lt/crf128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Rock radio",
+        "url": "https://cast2.my-control-panel.com/proxy/vladas/stream",
+        "favicon": "https://www.rockradio.lt/images/favicon1.ico"
+    },
+    {
+        "name": "Rock Radio",
+        "url": "http://65.21.202.84:8026/stream",
+        "favicon": "https://rockradio.lt/images/favicon1.ico"
+    },
+    {
+        "name": "Saules radijas",
+        "url": "http://saule-aac.vinlita.lt:8000/stream.aac",
+        "favicon": "https://saulesradijas.lt/wp-content/themes/sr/img/icons/favicon.ico"
+    },
+    {
+        "name": "Sol fm",
+        "url": "http://radiosolfm.bounceme.net:8002/solfm",
+        "favicon": "https://solfm.lt/uploads/1/3/0/0/130096617/published/hedoni.png?1699791153"
+    },
+    {
+        "name": "Start FM 94.2 MHz Vilnius [MP3]",
+        "url": "http://eteris.startfm.lt/startfm.mp3",
+        "favicon": "http://www.startfm.lt/apple-touch-icon.png"
+    },
+    {
+        "name": "Super FM",
+        "url": "http://82.140.131.217:8000/superfm.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Tau",
+        "url": "http://radijas.tau.lt:8000/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Taurag\u0117s radijas",
+        "url": "http://stream.tauragesradijas.lt:8000/tr1.m3u",
+        "favicon": "http://tauragesradijas.lt/images/120x120.png"
+    },
+    {
+        "name": "Taurag\u0117s Radijas 98.2 FM",
+        "url": "http://stream.tauragesradijas.lt:8000/tr1",
+        "favicon": "https://www.tauragesradijas.lt/images/120x120.png"
+    },
+    {
+        "name": "Upso radijas ",
+        "url": "http://185.5.52.50:8000/upsas_320",
+        "favicon": ""
+    },
+    {
+        "name": "Vaik\u0173 radijas",
+        "url": "http://88.119.151.74:8001/vaikuradijas",
+        "favicon": "http://www.vaikuradijas.lt/favicon.ico"
+    },
+    {
+        "name": "XFM Radijas",
+        "url": "http://88.119.151.74:8001/xfm",
+        "favicon": "http://xfm.lt/favicon.ico"
+    },
+    {
+        "name": "xxl",
+        "url": "http://91.211.246.42:8000/XXL-FM",
+        "favicon": ""
+    },
+    {
+        "name": "\u017dini\u0173 Radijas",
+        "url": "http://netradio.ziniur.lt:8000/ziniur.mp3",
+        "favicon": "http://www.ziniuradijas.lt/favicon/mstile-70x70.png"
+    },
+    {
+        "name": "\u017dini\u0173 radijas [64 kbps MP3]",
+        "url": "http://netradio.ziniur.lt/ziniur_64.mp3",
+        "favicon": "http://www.ziniuradijas.lt/favicon/mstile-70x70.png"
+    },
+    {
+        "name": "ZIP FM",
+        "url": "https://stream1.zipfm.lt/zipfm128.mp3",
+        "favicon": "https://zipfm.lt/wp-content/uploads/2023/11/cropped-zipfm-icon-180x180.png"
+    },
+    {
+        "name": "ZIP FM",
+        "url": "https://stream1.zipfm.lt/zipfm128.mp3",
+        "favicon": "https://zipfm.lt/wp-content/uploads/2023/11/cropped-zipfm-icon-180x180.png"
+    },
+    {
+        "name": "ZipFM",
+        "url": "https://stream2.zipfm.lt/zipfm128.mp3",
+        "favicon": "https://rc.lt/img/rc.png"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u041b\u0435\u043d\u0442\u0430 stream 2",
+        "url": "https://streaming.broadcastrd.com/audio/radio-lenta.mp3",
+        "favicon": "https://nashalenta.com/favicon.ico"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u0421\u0438\u0433\u043d\u0430\u043b",
+        "url": "https://streaming.broadcastrd.com/audio/radio-singnal.mp3",
+        "favicon": "https://radiosignal.news/favicon.ico"
+    }
+]

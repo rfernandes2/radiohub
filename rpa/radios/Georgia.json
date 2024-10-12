@@ -1,0 +1,152 @@
+[
+    {
+        "name": "dardimandi",
+        "url": "https://nue01-edge01.itdc.ge/fm-dardimandi-97.1/mono.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Hereti FM",
+        "url": "http://iis.ge:8000/hereti.mp3",
+        "favicon": "https://cdn.onlineradiobox.com/img/logo/6/43916.png"
+    },
+    {
+        "name": "LF Radio",
+        "url": "https://rtn.cdnstream1.com/2582_96.aac",
+        "favicon": "https://lf.radio/sites/lfr/images/station-logos/LF-Web-logo.png"
+    },
+    {
+        "name": "Marneuli FM",
+        "url": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm",
+        "favicon": "https://marneulifm.ge//images/temp/2017/06/14/91d0264419f7bc69b396106ffac4345e.png"
+    },
+    {
+        "name": "Radio Amra",
+        "url": "https://streamer.radio.co/s34b5469e0/listen",
+        "favicon": ""
+    },
+    {
+        "name": "Red Wine Radio",
+        "url": "https://stream.zeno.fm/pcbduafehg0uv",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Star FM",
+        "url": "https://streams.it1.ge/ogg-starfm",
+        "favicon": "https://starvision.ge/wp-content/webp-express/webp-images/uploads/2022/04/cropped-logo_star-transparent.png.webp"
+    },
+    {
+        "name": "Tbilisi FM 93,5",
+        "url": "http://iis.ge:8000/radiotbilisi.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Vinyl radio",
+        "url": "https://radiopotok2.online/62.212.34.4:9000/live",
+        "favicon": "http://radiovinil.ge/wp-content/uploads/2016/02/qwe.png"
+    },
+    {
+        "name": "Voice of Abkhazia",
+        "url": "http://109.172.136.60:8081/broadwavelow.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "WVFJ 93.3 & 102.1 The JOY FM",
+        "url": "https://rtn.cdnstream1.com/2576_96.aac?rand=81562",
+        "favicon": "https://georgia.thejoyfm.com/sites/joyga/images/logos/joyfm_icon128.png"
+    },
+    {
+        "name": "\u0410\u0440\u0430\u0434\u0438\u043e Sputnik \u0410\u04a7\u0441\u043d\u044b",
+        "url": "https://icecast-rian.cdnvideo.ru/voicesuh",
+        "favicon": "https://cdnn1.img.sputnik-abkhazia.info/i/logo/logo.svg"
+    },
+    {
+        "name": "\u0413\u043e\u043b\u043e\u0441 \u0410\u0431\u0445\u0430\u0437\u0438\u0438 / Voice of Abkhazia",
+        "url": "http://109.172.136.60:8081/broadwavelow.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "\u10d0\u10d5\u10e2\u10dd\u10e0\u10d0\u10d3\u10d8\u10dd (Avtoradio)",
+        "url": "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8",
+        "favicon": "https://cdn.fortuna.ge/app/uploads/2024/02/avtoradio-logo-2024-01-30-14-11-32-376900-2024-02-08_07-48-41_122881.svg"
+    },
+    {
+        "name": "\u10d0\u10e0 \u10d3\u10d0\u10d8\u10d3\u10d0\u10e0\u10d3\u10dd (Ar Daidardo)",
+        "url": "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8",
+        "favicon": "https://cdn.fortuna.ge/app/uploads/2024/02/ardaidardo-logo-2024-01-30-14-10-56-268127-2024-02-08_07-48-26_828205.svg"
+    },
+    {
+        "name": "\u10d0\u10e0\u10d3\u10d0\u10d8\u10d3\u10d0\u10e0\u10d3\u10dd",
+        "url": "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8",
+        "favicon": "https://cdn.fortuna.ge/app/uploads/2024/02/fortuna-logo-2024-02-08_07-57-34_538522.png"
+    },
+    {
+        "name": "\u10d3\u10d0\u10e0\u10d3\u10d8\u10db\u10d0\u10dc\u10d3\u10d8 (DardiMandi)",
+        "url": "http://109.172.136.60:8080/broadwavehigh.mp3",
+        "favicon": "http://www.dardimandi.com.ge/images/logo_hov.png"
+    },
+    {
+        "name": "\u10d7\u10d1\u10d8\u10da\u10d8\u10e1\u10d8 FM (Tbilisi FM)",
+        "url": "http://iis.ge:8000/radiotbilisi.mp3",
+        "favicon": "https://tbilisifm.ge/wp-content/uploads/2017/03/radio-iwyeba-chvenit-2-1-150x150.png"
+    },
+    {
+        "name": "\u10e0\u10d0\u10d3\u10d8\u10dd \u10d0\u10ed\u10d0\u10e0\u10d0 (Radio Adjara)",
+        "url": "https://edge.mixlr.com/channel/bzorq",
+        "favicon": ""
+    },
+    {
+        "name": "\u10e0\u10d0\u10d3\u10d8\u10dd \u10d3\u10d0\u10e0\u10d3\u10d8\u10db\u10d0\u10dc\u10d3\u10d8",
+        "url": "http://109.172.136.60:8080/broadwavehigh.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "\u10e0\u10d0\u10d3\u10d8\u10dd \u10d8\u10db\u10d4\u10d3\u10d8 (Radio Imedi)",
+        "url": "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast",
+        "favicon": ""
+    },
+    {
+        "name": "\u10e0\u10d0\u10d3\u10d8\u10dd \u10d9\u10dd\u10db\u10d4\u10e0\u10e1\u10d0\u10dc\u10e2\u10d8 (Radio Commersant)",
+        "url": "https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8",
+        "favicon": "https://www.commersant.ge/assets/images/web/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "\u10e0\u10d0\u10d3\u10d8\u10dd \u10dd\u10d1\u10d8\u10d4\u10e5\u10e2\u10d8\u10d5\u10d8 (Radio Obieqtivi)",
+        "url": "https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u10e0\u10d0\u10d3\u10d8\u10dd \u10de\u10d0\u10da\u10d8\u10e2\u10e0\u10d0 (Radio Palitra)",
+        "url": "https://radiostream.palitra.ge/stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "\u10e0\u10d0\u10d3\u10d8\u10dd \u10de\u10dd\u10d6\u10d8\u10e2\u10d8\u10d5\u10d8 (Radio Positive)",
+        "url": "https://stream.radiojar.com/sr4vzamzfnruv",
+        "favicon": "https://www.positive.ge/img/logo.png"
+    },
+    {
+        "name": "\u10e0\u10d0\u10d3\u10d8\u10dd \u10e1\u10d8\u10d5\u10e0\u10ea\u10d4 (Radio Sivrce)",
+        "url": "https://proxy.streamer.mediabox.ge/ice/8000/sivrce",
+        "favicon": "https://spnews.io/favicon.png"
+    },
+    {
+        "name": "\u10e0\u10d0\u10d3\u10d8\u10dd \u10e4\u10dd\u10e0\u10e2\u10e3\u10dc\u10d0 (Radio Fortuna)",
+        "url": "https://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8",
+        "favicon": "https://cdn.fortuna.ge/app/uploads/2024/02/fortuna-logo-2024-02-08_07-57-34_538522-e1709715846610.png"
+    },
+    {
+        "name": "\u10e0\u10d0\u10d3\u10d8\u10dd \u10e9\u10d4\u10d5\u10dc\u10d4\u10d1\u10e3\u10e0\u10d8 (Radio Chveneburi)",
+        "url": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u10e0\u10d0\u10d3\u10d8\u10dd \u10e9\u10d5\u10d4\u10dc\u10d4\u10d1\u10e3\u10e0\u10d8",
+        "url": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u10e3\u10ea\u10dc\u10dd\u10d1\u10d8 FM (Ucnobi FM)",
+        "url": "http://149.3.104.166:8000/stream.ogg",
+        "favicon": "http://ucnobifm.ge/wp-content/uploads/2020/10/mainlogo-white.png"
+    }
+]

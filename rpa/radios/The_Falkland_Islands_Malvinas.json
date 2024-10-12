@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Falklands Radio",
+        "url": "https://streaming.broadcastradio.com:8332/flklnd?1721893143541=",
+        "favicon": "https://api.broadcast.radio/api/image/464937d5-67d8-42e7-886c-426239fa26dd.png?g=center"
+    },
+    {
+        "name": "Falklands Radio",
+        "url": "http://streaming.broadcastradio.com:8330/flklnd",
+        "favicon": ""
+    },
+    {
+        "name": "Falklands Radio 530 Stanley",
+        "url": "https://streaming.broadcastradio.com:8332/flklnd",
+        "favicon": "https://radio.co.fk/wp-content/uploads/2022/04/Falklands-Radio-Logo-Light.svg"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "name": ".. \u0645\u062e\u062a\u0635\u0631 \u0627\u0644\u062a\u0641\u0633\u064a\u0631 ",
+        "url": "https://qurango.net/radio/mukhtasartafsir",
+        "favicon": ""
+    },
+    {
+        "name": "..\u0645\u062e\u062a\u0635\u0631 \u0627\u0644\u062a\u0641\u0633\u064a\u0631 ",
+        "url": "https://qurango.net/radio/mukhtasartafsir",
+        "favicon": ""
+    },
+    {
+        "name": ".beautiful recitation ",
+        "url": "https://qurango.net/radio/salma",
+        "favicon": ""
+    },
+    {
+        "name": ".Quran",
+        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+        "favicon": ""
+    },
+    {
+        "name": ".\u0625\u0630\u0627\u0639\u0629 \u0645\u0627\u0647\u0631 \u0627\u0644\u0645\u0639\u064a\u0642\u0644\u064a ",
+        "url": "https://backup.qurango.net/radio/maher",
+        "favicon": ""
+    },
+    {
+        "name": ".\u0627\u0644\u0642\u0627\u0631\u0626 \u0645\u062d\u0645\u062f \u0623\u064a\u0648\u0628 ",
+        "url": "https://qurango.net/radio/mohammed_ayyub",
+        "favicon": ""
+    },
+    {
+        "name": ".\u0627\u0644\u0642\u0631\u0622\u0646",
+        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+        "favicon": ""
+    },
+    {
+        "name": "AFN 360 Bahrain",
+        "url": "http://playerservices.streamtheworld.com/m3u/AFNE_BHN.m3u",
+        "favicon": "http://www.afneurope.net/error/images/favicon.ico"
+    },
+    {
+        "name": "AFN GO BAHRAIN",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac",
+        "favicon": "https://afngo.net/static/media/Bahrain.24eaa086d110f57b7e38.png"
+    },
+    {
+        "name": "Bahrain FM 93.3",
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/playlist.m3u8",
+        "favicon": "https://www.mia.gov.bh/favicon.ico"
+    },
+    {
+        "name": "Monte Carlo Doualiya",
+        "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+        "favicon": "https://www.mc-doualiya.com/android-chrome-192x192.png"
+    },
+    {
+        "name": "Panorama FM",
+        "url": "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8",
+        "favicon": "https://radiotolive.com/wp-content/uploads/Panorama-FM-radiotolive.com_.jpg"
+    },
+    {
+        "name": "Radio Bahrain",
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-96-5_all/playlist.m3u8",
+        "favicon": "https://raw.githubusercontent.com/fraudiay79/logos/master/bh/radio/radiobahrain.png"
+    },
+    {
+        "name": "Traditional Radio 95.0",
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-95-0_all/chunklist_w1641860732_b981072.m3u8",
+        "favicon": "https://www.mia.gov.bh/favicon.ico"
+    },
+    {
+        "name": "Voice of Ummah",
+        "url": "http://mediati.me/radio/8010/radio.mp3",
+        "favicon": "https://img.icons8.com/ios-filled/50/000000/mosque.png"
+    },
+    {
+        "name": "\u0625\u0630\u0627\u0639\u0629 \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 ",
+        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+        "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg"
+    },
+    {
+        "name": "\u0627\u0630\u0627\u0639\u0629 \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645",
+        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+        "favicon": ""
+    },
+    {
+        "name": "\u062a\u0641\u0633\u064a\u0631 \u0628\u0646 \u0639\u062b\u064a\u0645\u064a\u0646 \u0631\u062d\u0645\u0647 \u0627\u0644\u0644\u0647 ",
+        "url": "https://qurango.net/radio/tafseer",
+        "favicon": ""
+    }
+]

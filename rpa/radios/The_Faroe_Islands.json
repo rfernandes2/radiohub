@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Kringvarp F\u00f8roya (KVF)",
+        "url": "http://netvarp.kringvarp.fo:443/uvhm",
+        "favicon": "https://kvf.fo/sites/all/themes/bootstrap_subtheme/favicon.ico"
+    },
+    {
+        "name": "KVF2",
+        "url": "http://netvarp.kringvarp.fo:4443/kvf2_2",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1s 2",
+        "url": "http://stream.midlar.fo/ras2",
+        "favicon": ""
+    },
+    {
+        "name": "VoxPop",
+        "url": "http://stream.midlar.fo/voxpop",
+        "favicon": ""
+    }
+]

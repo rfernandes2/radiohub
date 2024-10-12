@@ -1,0 +1,1422 @@
+[
+    {
+        "name": "ABradio Chillout",
+        "url": "http://mp3stream4.abradio.cz/chillout128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Azadl\u0131q Radiosu (RFE/RL in Azerbaijani, ch. 15)",
+        "url": "http://rfe15.akacast.akamaistream.net/7/897/437773/v1/ibb.akacast.akamaistream.net/rfe15.m3u",
+        "favicon": "https://www.azadliq.org/Content/responsive/RFE/img/top_logo_news.png"
+    },
+    {
+        "name": "Azat \u00ddewropa/Azatlyk Radiosy (RFE/RL in Turkmen, ch. 8)",
+        "url": "http://rfe08.akacast.akamaistream.net/7/521/437766/v1/ibb.akacast.akamaistream.net/rfe08.m3u",
+        "favicon": "http://www.azathabar.com/Content/responsive/RFE/img/top_logo_news.png"
+    },
+    {
+        "name": "\u010cesk\u00fd Impuls",
+        "url": "http://icecast6.play.cz/cesky-impuls.mp3",
+        "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4pn6k2gnfueh.jpg"
+    },
+    {
+        "name": "\u010cesk\u00fd rozhlas BRNO",
+        "url": "https://rozhlas.stream/brno_mp3_128.mp3",
+        "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.hAmH1Sqc3G8x3YKRkVp5xQAAAA%26pid%3DApi&f=1&ipt=9dc36dd31e62fc20062155e3a099d6d4dd7f8377fe70e933516b3d715634dd5c&ipo=images"
+    },
+    {
+        "name": "\u010cesk\u00fd rozhlas Brno",
+        "url": "https://rozhlas.stream/brno.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "\u010cesk\u00fd rozhlas \u010cesk\u00e9 Bud\u011bjovice",
+        "url": "https://rozhlas.stream/ceske_budejovice_high.aac",
+        "favicon": "https://budejovice.rozhlas.cz/"
+    },
+    {
+        "name": "Cesky Rozhlas Classical Lossless FLAC Stream",
+        "url": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
+        "favicon": "https://d-dur.rozhlas.cz/favicon.ico"
+    },
+    {
+        "name": "Cesky Rozhlas D-dur",
+        "url": "http://amp.cesnet.cz:8000/cro-d-dur-256.ogg",
+        "favicon": "https://d-dur.rozhlas.cz/sites/all/themes/custom/e7/apple-touch-icon-precomposed-144x144.png"
+    },
+    {
+        "name": "Cesky Rozhlas Jazz",
+        "url": "https://rozhlas.stream/jazz_high.aac",
+        "favicon": "https://jazz.rozhlas.cz/favicon.ico"
+    },
+    {
+        "name": "Cesky Rozhlas Jazz Lossless FLAC Stream",
+        "url": "http://amp.cesnet.cz:8000/cro-jazz.flac",
+        "favicon": "https://www.mujrozhlas.cz/themes/mr_frontend/img/favicons/favicon.ico"
+    },
+    {
+        "name": "\u010cesk\u00fd rozhlas R\u00e1dio Junior",
+        "url": "https://api.play.cz/radio/crojuniormaxi128.mp3.m3u",
+        "favicon": "https://api.play.cz/static/radio_logo/t200/crojuniormaxi.png"
+    },
+    {
+        "name": "\u010cesk\u00fd rozhlas ZL\u00cdN ",
+        "url": "https://rozhlas.stream/zlin_mp3_128.mp3",
+        "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.2S-vs4PdD4GYo8quA5j8QQHaFj%26pid%3DApi&f=1&ipt=43901adbcac9dec4a79a01345d86a441abd3b2d46a629a291f2a0a9f0a35b3a8&ipo=images"
+    },
+    {
+        "name": "City FM",
+        "url": "http://ice.abradio.cz/cityfm128.mp3",
+        "favicon": "https://hitradiocity.cz/design/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "City Milenium",
+        "url": "http://ice.abradio.cz:8000/citymi128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Classic Praha",
+        "url": "http://icecast8.play.cz/classic128.mp3",
+        "favicon": "http://www.classicpraha.cz/static/images/favicon.ico"
+    },
+    {
+        "name": "COLOR Music Radio",
+        "url": "https://icecast8.play.cz/color128.mp3",
+        "favicon": "http://www.radiocolor.cz/image/topic/poslechovost.png"
+    },
+    {
+        "name": "Color Music Radio",
+        "url": "http://sc.ipip.cz:8206/;stream",
+        "favicon": "https://radiocolor.cz/image/color_logo500x500.jpg"
+    },
+    {
+        "name": "Comedy Club R@dio DIANA",
+        "url": "https://westradio.cz/radio/8010/radio.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "COOP TIP Radio",
+        "url": "http://mp3stream4.abradio.cz:8000/coop128.mp3",
+        "favicon": "https://radia.cz/favicon.ico"
+    },
+    {
+        "name": "COOP TIP Radio",
+        "url": "http://ice4.abradio.cz/coop128.mp3",
+        "favicon": "https://radia.cz/favicon.ico"
+    },
+    {
+        "name": "Country Radio",
+        "url": "http://icecast4.play.cz/country128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Country Radio",
+        "url": "http://icecast2.play.cz:8000/country128aac",
+        "favicon": "http://www.countryradio.cz/assets/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "County",
+        "url": "http://icecast4.play.cz/country128.mp3",
+        "favicon": "https://www.countryradio.cz/assets/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "\u010cRo D-dur",
+        "url": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
+        "favicon": "https://d-dur.rozhlas.cz/favicon.ico"
+    },
+    {
+        "name": "\u010cRo D-dur FLAC",
+        "url": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
+        "favicon": ""
+    },
+    {
+        "name": "\u010cRo D-dur HD",
+        "url": "http://radio.cesnet.cz/cgi-bin/cro-d-dur-256-ogg.pls",
+        "favicon": "https://d-dur.rozhlas.cz/sites/default/files/favicon_d-dur.ico"
+    },
+    {
+        "name": "\u010cRo Dvojka",
+        "url": "http://icecast1.play.cz:8000/cro2-32aac",
+        "favicon": "https://dvojka.rozhlas.cz/sites/default/files/favicon_dvojka.ico"
+    },
+    {
+        "name": "\u010cRo Dvojka",
+        "url": "http://icecast6.play.cz/cro2-128.mp3",
+        "favicon": "https://dvojka.rozhlas.cz/sites/default/files/favicon_dvojka.ico"
+    },
+    {
+        "name": "\u010cRo Jazz",
+        "url": "http://amp.cesnet.cz:8000/cro-jazz.flac",
+        "favicon": "https://jazz.rozhlas.cz/sites/default/files/favicon_jazz.ico"
+    },
+    {
+        "name": "\u010cRO Jazz 256",
+        "url": "https://api.play.cz/radio/crojazz256.mp3.m3u",
+        "favicon": "https://portal.rozhlas.cz/sites/default/files/favicon_portal.ico"
+    },
+    {
+        "name": "\u010cRo Olomouc",
+        "url": "https://rozhlas.stream/olomouc_low.aac",
+        "favicon": "https://olomouc.rozhlas.cz/favicon.ico"
+    },
+    {
+        "name": "\u010cRo Ostrava",
+        "url": "https://rozhlas.stream/ostrava_high.aac",
+        "favicon": "https://ostrava.rozhlas.cz/favicon.ico"
+    },
+    {
+        "name": "\u010cRo Plus",
+        "url": "http://amp.cesnet.cz:8000/cro-plus-256.ogg.m3u",
+        "favicon": "https://plus.rozhlas.cz/sites/default/files/favicon_plus.ico"
+    },
+    {
+        "name": "\u010cRo Plus",
+        "url": "https://rozhlas.stream/plus_mp3_128.mp3",
+        "favicon": "http://plus.rozhlas.cz/favicon.ico"
+    },
+    {
+        "name": "\u010cRo Plus",
+        "url": "https://rozhlas.stream/plus_low.aac",
+        "favicon": ""
+    },
+    {
+        "name": "\u010cRo Plus",
+        "url": "https://rozhlas.stream/plus_aac_64.aac",
+        "favicon": ""
+    },
+    {
+        "name": "\u010cRo Pohoda",
+        "url": "https://rozhlas.stream/pohoda_mp3_128.mp3",
+        "favicon": "https://pohoda.rozhlas.cz/sites/default/files/favicon.ico"
+    },
+    {
+        "name": "\u010cRo R\u00e1dio Junior",
+        "url": "http://icecast3.play.cz:8000/crojuniormaxi32aac",
+        "favicon": "https://junior.rozhlas.cz/sites/default/files/favicon.ico"
+    },
+    {
+        "name": "\u010cRo Radio Wave",
+        "url": "http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg",
+        "favicon": "https://wave.rozhlas.cz/sites/default/files/favicon_wave.ico"
+    },
+    {
+        "name": "\u010cRo Radio Wave",
+        "url": "http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg.m3u",
+        "favicon": "https://wave.rozhlas.cz/favicon.ico"
+    },
+    {
+        "name": "\u010cRo Radio\u017eurn\u00e1l",
+        "url": "http://icecast1.play.cz:8000/cro132aac",
+        "favicon": "https://radiozurnal.rozhlas.cz/sites/default/files/favicon_radiozurnal.ico"
+    },
+    {
+        "name": "CRo Radiozurnal",
+        "url": "https://rozhlas.stream/radiozurnal_aac_128.aac",
+        "favicon": "https://radiozurnal.rozhlas.cz/sites/default/files/favicon_radiozurnal.ico"
+    },
+    {
+        "name": "\u010cRo Radio\u017eurn\u00e1l",
+        "url": "http://icecast8.play.cz/cro1-128.mp3",
+        "favicon": "https://radiozurnal.rozhlas.cz/sites/default/files/favicon_radiozurnal.ico"
+    },
+    {
+        "name": "\u010cRO Radio\u017eurn\u00e1l Sport",
+        "url": "https://rozhlas.stream/radiozurnal_sport_high.aac",
+        "favicon": "https://portal.rozhlas.cz/sites/default/files/favicon_portal.ico"
+    },
+    {
+        "name": "\u010dro Radio\u017eurn\u00e1l Sport AdHoc stream 1",
+        "url": "https://rozhlas.stream/radiozurnal_sport_adhoc_1_high.mp3",
+        "favicon": "https://sport.rozhlas.cz/sites/default/files/favicon.ico"
+    },
+    {
+        "name": "\u010cRO Radio\u017eurn\u00e1l sport AdHoc stream 2",
+        "url": "https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3",
+        "favicon": "https://sport.rozhlas.cz/sites/default/files/favicon.ico"
+    },
+    {
+        "name": "\u010cRO Radio\u017eurn\u00e1l sport Adhoc stream 2",
+        "url": "http://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3",
+        "favicon": "https://sport.rozhlas.cz/sites/default/files/favicon.ico"
+    },
+    {
+        "name": "\u010dro radio\u017eurn\u00e1l sport Stream AdHoc 2",
+        "url": "https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3",
+        "favicon": "https://sport.rozhlas.cz/sites/default/files/favicon.ico"
+    },
+    {
+        "name": "\u010cRo Sever",
+        "url": "https://rozhlas.stream/sever_mp3_128.mp3",
+        "favicon": "https://sever.rozhlas.cz/favicon.ico"
+    },
+    {
+        "name": "\u010cRo Vltava",
+        "url": "http://icecast2.play.cz:8000/cro3-32aac",
+        "favicon": "https://vltava.rozhlas.cz/sites/default/files/favicon_vltava.ico"
+    },
+    {
+        "name": "\u010cRo Vltava",
+        "url": "http://icecast5.play.cz/cro3-128.mp3",
+        "favicon": "http://api.play.cz/static/radio_logo/t200/cro3.png"
+    },
+    {
+        "name": "CRo Vysocina",
+        "url": "https://rozhlas.stream/vysocina_high.aac",
+        "favicon": "https://www.mujrozhlas.cz/themes/mr_frontend/img/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "\u010cRo Wave",
+        "url": "https://rozhlas.stream/wave_mp3_128.mp3",
+        "favicon": "https://wave.rozhlas.cz/sites/default/files/favicon_wave.ico"
+    },
+    {
+        "name": "\u010cRo Wave",
+        "url": "https://api.play.cz/radio/crowave-256.mp3.m3u",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/e/ea/CRo_Radio_Wave_logo.png"
+    },
+    {
+        "name": "\u010cRo Wave",
+        "url": "https://rozhlas.stream/wave_mp3_256.mp3",
+        "favicon": "https://api.play.cz/static/radio_logo/t200/crowave.png"
+    },
+    {
+        "name": "Czech radio classical",
+        "url": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
+        "favicon": "https://d-dur.rozhlas.cz/favicon.ico"
+    },
+    {
+        "name": "Czech Radio \u010cRo D-dur",
+        "url": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
+        "favicon": "https://d-dur.rozhlas.cz/favicon.ico"
+    },
+    {
+        "name": "Dance Club FM",
+        "url": "http://mp3stream4.abradio.cz/dance128.mp3",
+        "favicon": "https://radia.cz/favicon.ico"
+    },
+    {
+        "name": "Dance Club Radio",
+        "url": "https://ice4.abradio.cz/dance128.mp3",
+        "favicon": "https://radia.cz/favicon.ico"
+    },
+    {
+        "name": "Dance Radio",
+        "url": "http://ice.actve.net/dance-radio320.mp3",
+        "favicon": "https://www.danceradio.cz/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Dance Radio",
+        "url": "http://ice.actve.net/dance-radio128.mp3",
+        "favicon": "https://www.danceradio.cz/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Dance r\u00e1dio cz",
+        "url": "https://ice.actve.net/dance-radio128.mp3",
+        "favicon": "https://www.danceradio.cz/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Dandy Radio",
+        "url": "http://88.99.25.114:8022/stream",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "ELLIS",
+        "url": "http://stream.laut.fm/ellis",
+        "favicon": ""
+    },
+    {
+        "name": "Europa Liber\u0103 (RFE/RL for Moldova, ch. 18)",
+        "url": "http://rfe18.akacast.akamaistream.net/7/886/437776/v1/ibb.akacast.akamaistream.net/rfe18.m3u",
+        "favicon": "https://docs.rferl.org/branding/rfe/infographics-branding/img/favicons/apple-icon-114x114.png"
+    },
+    {
+        "name": "Evropa 2 - aac",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC.aac",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png"
+    },
+    {
+        "name": "Evropa 2 - Actve",
+        "url": "https://ice.actve.net/fm-evropa2-128",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png"
+    },
+    {
+        "name": "Evropa 2 - mp3",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2.mp3",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png"
+    },
+    {
+        "name": "Evropa 2 - Radio",
+        "url": "https://ice.actve.net/fm-evropa2-128",
+        "favicon": "https://m.actve.net/e2/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "Evropa2 Youradio Flashbacky",
+        "url": "https://ice.actve.net/web-e2-flashback",
+        "favicon": "https://m.actve.net/e2/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "Expres FM",
+        "url": "http://icecast8.play.cz/expres128mp3",
+        "favicon": "https://www.expresfm.cz/app/mu-plugins/expresfm/assets/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "Expresradio",
+        "url": "http://icecast5.play.cz:8000/expres128mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Express FM",
+        "url": "http://icecast8.play.cz/expres128mp3",
+        "favicon": "https://www.expresfm.cz/app/mu-plugins/expresfm/assets/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "Fajn Fresh",
+        "url": "http://ice.abradio.cz/fajnfresh128.mp3",
+        "favicon": "https://fajnradio.cz/favicon.ico"
+    },
+    {
+        "name": "Fajn Fresh Radio",
+        "url": "http://mp3stream4.abradio.cz/fajnfresh64.mp3",
+        "favicon": "https://radia.cz/favicon.ico"
+    },
+    {
+        "name": "Fajn R\u00e1dio",
+        "url": "http://ice.abradio.cz/fajn128.mp3",
+        "favicon": "https://www.fajnradio.cz/design/favicons/mstile-70x70.png"
+    },
+    {
+        "name": "Fed's Trap Radio",
+        "url": "https://backend.fedstrapradio.com:8000/radio.mp3",
+        "favicon": "https://fedstrapradio.com/img/apple-touch-icon.png"
+    },
+    {
+        "name": "Fed's Trap Radio",
+        "url": "https://backend.fedstrapradio.com:8000/radio.mp3",
+        "favicon": "https://fedstrapradio.com/img/apple-touch-icon.png"
+    },
+    {
+        "name": "Fed's Trap Radio",
+        "url": "https://backend.fedstrapradio.com:8000/radio.mp3",
+        "favicon": "https://fedstrapradio.com/img/apple-touch-icon.png"
+    },
+    {
+        "name": "Flash radio",
+        "url": "http://185.47.222.75:8750/",
+        "favicon": ""
+    },
+    {
+        "name": "Free R\u00e1dio 107,0 FM Brno",
+        "url": "http://icecast8.play.cz/freeradio128.mp3",
+        "favicon": "http://www.freeradio.cz/img/ico_vcelka_32_32_6.png"
+    },
+    {
+        "name": "Free R\u00e1dio 107,0 FM Brno",
+        "url": "http://icecast8.play.cz/freeradio128.mp3",
+        "favicon": "http://www.freeradio.cz/img/ico_vcelka_32_32_6.png"
+    },
+    {
+        "name": "Free Rave CZ",
+        "url": "http://freerave.cz/freerave.pls",
+        "favicon": ""
+    },
+    {
+        "name": "FREERAVE.CZ",
+        "url": "http://164.68.122.137:8061/",
+        "favicon": "https://freerave.cz/imgz/favicon32.png"
+    },
+    {
+        "name": "Frekvence 1",
+        "url": "http://ice.actve.net/fm-frekvence1-aac",
+        "favicon": "https://css.actve.net/frekvence1/img/favicons/mstile-150x150.png?v=jw63ApEelG"
+    },
+    {
+        "name": "FREKVENCE 1",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3",
+        "favicon": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v138"
+    },
+    {
+        "name": "Frekvence 1 - Youradio \u010ceskoslovensk\u00e9 hity",
+        "url": "http://ice.actve.net/web-e2-csweb",
+        "favicon": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v108"
+    },
+    {
+        "name": "Frekvence 1 - Youradio Legendy",
+        "url": "http://ice.actve.net/web-f1-legendy",
+        "favicon": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130"
+    },
+    {
+        "name": "Frekvence 1 - Youradio Osmdes\u00e1tky",
+        "url": "http://ice.actve.net/web-80",
+        "favicon": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130"
+    },
+    {
+        "name": "Fresh radio 103.6",
+        "url": "https://icecast.beatzone.cz/radio/8000/128.mp3",
+        "favicon": "https://www.freshradio.cz/favicon.ico"
+    },
+    {
+        "name": "Funkstar Radio",
+        "url": "https://funkstar.radioca.st/stream",
+        "favicon": "https://www.funkstar.eu/favicon.ico"
+    },
+    {
+        "name": "Ghost R\u00e1dios",
+        "url": "http://servidor39.brlogic.com:8252/live?type=.m3u",
+        "favicon": "https://www.ghostradios.com/favicon.ico"
+    },
+    {
+        "name": "Han\u00e1",
+        "url": "http://icecast8.play.cz/hana128.mp3",
+        "favicon": "https://www.radiohana.cz/theme/radio_hana/favicon.ico"
+    },
+    {
+        "name": "Helax 93,7",
+        "url": "http://ice.abradio.cz/helax128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "HEY r\u00e1dio",
+        "url": "http://icecast3.play.cz/hey-radio128.mp3",
+        "favicon": "http://heyradio.cz/favicon.ico"
+    },
+    {
+        "name": "Hit FM Plus",
+        "url": "http://ice.abradio.cz:8000/fmplus64.aac",
+        "favicon": "https://hitradiofmplus.cz/design/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Hit PopRock",
+        "url": "http://ice.abradio.cz/hitpoprock128.mp3",
+        "favicon": "https://radia.cz/favicon.ico"
+    },
+    {
+        "name": "HIT R\u00e1dio Orion",
+        "url": "http://ice.abradio.cz/orion128.mp3",
+        "favicon": "http://www.hitradioorion.cz/favicon.ico"
+    },
+    {
+        "name": "Hitr\u00e1dio \u010cern\u00e1 Hora",
+        "url": "http://ice.abradio.cz/cernahora64.mp3",
+        "favicon": "https://www.radio.net/images/broadcasts/9a/fa/12747/2/c300.png"
+    },
+    {
+        "name": "Hitr\u00e1dio \u010cern\u00e1 Hora",
+        "url": "http://ice.abradio.cz/cernahora128.mp3",
+        "favicon": "https://hitradiocernahora.cz/design/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Hitr\u00e1dio \u010cern\u00e1 Hora 128",
+        "url": "http://ice.abradio.cz/cernahora128.mp3",
+        "favicon": "https://www.radio.net/images/broadcasts/9a/fa/12747/2/c300.png"
+    },
+    {
+        "name": "Hitr\u00e1dio City 93.7 FM",
+        "url": "https://provisioning.streamtheworld.com/pls/HITRADIO_CITY_PRAHA.pls",
+        "favicon": "https://hitradiocity.cz/content/id_radios/logo/13.svg?v=2"
+    },
+    {
+        "name": "Hitr\u00e1dio City Brno",
+        "url": "http://ice.abradio.cz/magicbrno128.mp3",
+        "favicon": "http://hitradiocitybrno.cz/design/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "hitradio City zona Lasky",
+        "url": "http://ice.abradio.cz/cityzl128.mp3",
+        "favicon": "http://hitradiocity.cz/design/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Hitr\u00e1dio Contact",
+        "url": "https://ice3.abradio.cz/hitradiocontact128.mp3",
+        "favicon": "https://hitradiocontact.cz/design/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Hitr\u00e1dio Devades\u00e1tka",
+        "url": "http://ice.abradio.cz/hit90128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Hitr\u00e1dio Faktor",
+        "url": "https://ice.abradio.cz/faktor128.mp3",
+        "favicon": "https://cdn-profiles.tunein.com/s10545/images/logog.jpg"
+    },
+    {
+        "name": "Hitr\u00e1dio FM",
+        "url": "http://ice.abradio.cz/hitradiofm128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Hitr\u00e1dio FM Crystal",
+        "url": "http://ice.abradio.cz/crystal128.mp3",
+        "favicon": "https://hitradiofm.cz/design/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Hitr\u00e1dio Osmdes\u00e1tka",
+        "url": "http://ice.abradio.cz/hit80128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Hitr\u00e1dio PopRock",
+        "url": "http://ice.abradio.cz/hitpoprock128.mp3",
+        "favicon": "https://radia.cz/favicon.ico"
+    },
+    {
+        "name": "Hitr\u00e1dio Vyso\u010dina",
+        "url": "http://ice5.abradio.cz/hitvysocina128.mp3",
+        "favicon": "http://hitradiovysocina.cz/design/favicons/favicon-32x32.png"
+    },
+    {
+        "name": "Hitradio Zl\u00edn",
+        "url": "https://ice.radia.cz/radiozlin128.mp3",
+        "favicon": "https://radia.cz/media/images/0001/01/c74730db0152b88c98e2e7d26dae3ab823128cf8.svg"
+    },
+    {
+        "name": "Impuls",
+        "url": "http://icecast1.play.cz/impuls128.mp3",
+        "favicon": "https://1gr.cz/u/favicon/apple-touch-icon/impuls.png"
+    },
+    {
+        "name": "Impuls R\u00e1\u00e1\u00e1\u00e1dio",
+        "url": "http://icecast5.play.cz/impuls128.mp3",
+        "favicon": "https://1gr.cz/u/favicon/apple-touch-icon/impuls.png"
+    },
+    {
+        "name": "Impuls R\u00e1\u00e1\u00e1\u00e1dio",
+        "url": "https://icecast5.play.cz/impuls128.mp3?1571059741",
+        "favicon": "https://1gr.cz/u/favicon/apple-touch-icon/impuls.png"
+    },
+    {
+        "name": "JASR\u00e1dio News Service",
+        "url": "https://radio.plainrock127.xyz/listen/jasns/radio.mp3",
+        "favicon": "https://radio.plainrock127.xyz/static/icons/production/120.png"
+    },
+    {
+        "name": "J\u010c1 - Televize ji\u017en\u00ed \u010cechy",
+        "url": "https://stream.jc1.cz/hls/jc1.m3u8",
+        "favicon": "https://jc1.cz/templates/jc12_2022_v2/favicon.ico"
+    },
+    {
+        "name": "Kiss 98 FM",
+        "url": "http://icecast2.play.cz:8000/kiss128aac",
+        "favicon": ""
+    },
+    {
+        "name": "Kiss Delta",
+        "url": "http://icecast1.play.cz:8000/kissdelta192.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Kiss Hady",
+        "url": "http://icecast8.play.cz/kisshady128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Kiss Publikum",
+        "url": "http://icecast1.play.cz:8000/kisspublikum128aac",
+        "favicon": ""
+    },
+    {
+        "name": "Kiss Radio",
+        "url": "http://icecast4.play.cz/kiss128.mp3",
+        "favicon": "https://www.kiss.cz/assets/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "LA RADIO PLUS ANNECY",
+        "url": "https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac?i=96970",
+        "favicon": "https://www.laradioplus.com/media/option/thumb/69x54_logo-laradioplus-88602.webp"
+    },
+    {
+        "name": "Metal Heart",
+        "url": "http://fr.radio-streamhosting.com:8000/metalheartradio64aac",
+        "favicon": "https://www.metalheartradio.com/assets/img/theme/favicon.ico"
+    },
+    {
+        "name": "Metal Heart Radio",
+        "url": "https://cz.radio-streamhosting.com:8443/metalheartradio128mp3",
+        "favicon": "https://www.metalheartradio.com/assets/images/cd.png"
+    },
+    {
+        "name": "Metalom\u00e1nie",
+        "url": "http://ice.abradio.cz/metalomanie128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "M\u0148au TV",
+        "url": "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8",
+        "favicon": "https://imnau.cz/favicon.ico"
+    },
+    {
+        "name": "Netro Life radio 100,8 FM",
+        "url": "https://icecast9.play.cz/netro-life-radio.mp3",
+        "favicon": "https://www.netroliferadio.cz/files/resize/152/152/netro-favicon-top-0.png"
+    },
+    {
+        "name": "Netro Life Radio 100,8 FM",
+        "url": "https://icecast9.play.cz/netro-life-radio.mp3",
+        "favicon": "https://www.netroliferadio.cz/files/resize/128/128/netro-favicon-top-0.png"
+    },
+    {
+        "name": "\u00d3\u010dko",
+        "url": "http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8",
+        "favicon": "https://1gr.cz/u/favicon/apple-touch-icon/ocko.png"
+    },
+    {
+        "name": "\u00d3\u010dko Expres",
+        "url": "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8",
+        "favicon": "https://1gr.cz/u/favicon/apple-touch-icon/ocko.png"
+    },
+    {
+        "name": "\u00d3\u010dko Star",
+        "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8",
+        "favicon": "https://1gr.cz/u/favicon/apple-touch-icon/ocko.png"
+    },
+    {
+        "name": "OIK TV",
+        "url": "https://streamer05.low-latency.cz/oiktv/index.m3u8",
+        "favicon": "http://www.oiktv.cz/wp-content/uploads/2017/04/logo-header.png"
+    },
+    {
+        "name": "Oldies R\u00e1dio",
+        "url": "http://ice.abradio.cz/oldiesradio128.mp3",
+        "favicon": "http://www.oldiesradio.cz/design/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Phonk Nation Radio",
+        "url": "https://radio.plainrock127.xyz/phonk/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Phonk Nation Radio",
+        "url": "https://radio.plainrock127.xyz/phonk/stream",
+        "favicon": ""
+    },
+    {
+        "name": "PHONK RADIO",
+        "url": "https://stream-43.zeno.fm/90fvpb27u18uv?zs=vRvgZYxuSUWsgBGCbKMLnA",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-152x152.png"
+    },
+    {
+        "name": "Pigy.cz \u2013 Disko Trysko",
+        "url": "http://ice.actve.net/web-pg-disko",
+        "favicon": "https://www.pigy.cz/wp-content/themes/pigy/img/radio-diskotrisko-pigy.png"
+    },
+    {
+        "name": "Pigy.cz \u2013 P\u00edsni\u010dky z poh\u00e1dek",
+        "url": "http://ice.actve.net/web-pg-pisnicky",
+        "favicon": "https://www.pigy.cz/wp-content/uploads/2021/05/cropped-android-chrome-384x384-1-139x139.png"
+    },
+    {
+        "name": "Pigy.cz \u2013 Poh\u00e1dky",
+        "url": "http://ice.actve.net/web-pg-pohadky",
+        "favicon": "https://www.pigy.cz/wp-content/themes/pigy/img/radio-pohadky-pigy.png"
+    },
+    {
+        "name": "Plze\u0148 TV",
+        "url": "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "pov\u00eddka",
+        "url": "https://ice3.abradio.cz/povidka128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Queenradio.net",
+        "url": "http://stream.radiojar.com/4gw72qm8u68uv",
+        "favicon": "http://www.queenradio.net/favicon.ico"
+    },
+    {
+        "name": "Radia CZ - Depeche Mode",
+        "url": "http://mp3stream4.abradio.cz/depeche128.mp3",
+        "favicon": "https://radia.cz/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio 1",
+        "url": "http://icecast6.play.cz/radio1-128.mp3",
+        "favicon": "https://www.radio1.cz/favicon.ico"
+    },
+    {
+        "name": "RADIO 1",
+        "url": "http://icecast2.play.cz/radio1.mp3",
+        "favicon": "http://www.radio1.cz/favicon.ico"
+    },
+    {
+        "name": "Radio 1",
+        "url": "http://www.play.cz/radio/radio1-32.aac.m3u",
+        "favicon": "http://www.radio1.cz/favicon.ico"
+    },
+    {
+        "name": "Radio 4U",
+        "url": "http://mpc1.mediacp.eu:8342/stream",
+        "favicon": "https://radio4u.cz/wp-content/uploads/2020/12/cropped-logo_radio4u_v11-180x180.png"
+    },
+    {
+        "name": "Radio 4U .pls",
+        "url": "https://mpc1.mediacp.eu:2000/tunein/radio4u/stream/pls",
+        "favicon": "https://radio4u.cz/wp-content/uploads/2020/12/cropped-logo_radio4u_v11-180x180.png"
+    },
+    {
+        "name": "R\u00e1dio 7",
+        "url": "http://icecast8.play.cz/radio7-128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio 7 32kb",
+        "url": "http://icecast1.play.cz:8000/radio7cz32.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Applaus",
+        "url": "http://mp3stream3.abradio.cz/applaus128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio B",
+        "url": "https://stream.radiojar.com/9nayamd31tzuv?1660328034",
+        "favicon": "https://www.radiob.cz//assets/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "R\u00e1dio Beat",
+        "url": "http://icecast2.play.cz/radiobeat128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Beat",
+        "url": "http://icecast2.play.cz/radiobeat128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Beat",
+        "url": "http://icecast2.play.cz/radiobeat128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Beat (128 AAC)",
+        "url": "https://icecast2.play.cz/beat128aac",
+        "favicon": "https://www.radiobeat.cz/img/logo@2x.png"
+    },
+    {
+        "name": "Radio Beat 128 MP3",
+        "url": "http://icecast2.play.cz/radiobeat128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Blan\u00edk",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3",
+        "favicon": "https://radioblanik.cz/design/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "R\u00e1dio Blan\u00edk CZ Webov\u00e9 r\u00e1dio",
+        "url": "http://ice.abradio.cz/blanikcz128.mp3",
+        "favicon": "http://www.radioblanik.cz/design/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Blan\u00edk Morava a Slezsko ",
+        "url": "https://ice.abradio.cz/blanikmorava128.mp3?gdpr=1&gdpr_consent=Q084aEUyaE84aEUyaEFjQUJCRU5BX0NnQVBfQUFIX0FBQVlnRjVvQmhEeEVCU0ZDQUdKb1lOa2dBQUFXeHdBQUFDQUNBQUFBb0FBQUFCb0FBQVFBQUFBQUFBQWdCQUFBQUJJQUlBSUFBQUJBR0VBQUFBQUFBQUFBQUFBQUFFQUFBQUFBSVFBQUFBQUFBQ0JBQUFBQUFBQUFBQUFBQUFBQVFBQUFnWG5BZUFBV0FCVUFDNEFIQUFRQUFxQUJvQURrQUlnQVRBQW5nQlZBQzRBRjhBTVFBaElCRUFFVUFLVUFXSUF5d0Jtd0R1QU84QWhBQkZnQzBnRjFBTUNBYXdCTm9DOHdBQUFBLllBQUFBQUFBQUFBQQ==",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Blan\u00edk Oldies",
+        "url": "https://ice.radia.cz/oldiesradio128.mp3",
+        "favicon": "https://radioblanik.cz/design/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "R\u00e1dio Blan\u00edk \u017eiv\u00e9",
+        "url": "http://ice.abradio.cz/blanikfm128.mp3",
+        "favicon": "http://www.radioblanik.cz/design/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "R\u00e1dio Bonton",
+        "url": "http://ice.actve.net/fm-bonton-128",
+        "favicon": "https://www.radiobonton.cz/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio Budweis",
+        "url": "https://rozhlas.stream/ceske_budejovice_high.aac",
+        "favicon": "https://budejovice.rozhlas.cz/favicon.ico"
+    },
+    {
+        "name": "Radio Cas",
+        "url": "http://icecast6.play.cz/casradio128.mp3",
+        "favicon": "https://casradio.cz/wp-content/themes/frontheme_woo/assets/img/favicon/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "Radio \u010cas",
+        "url": "http://icecast6.play.cz/casradio128.mp3",
+        "favicon": "https://casradio.cz/wp-content/themes/frontheme_woo/assets/img/logos/radio-cas5.png"
+    },
+    {
+        "name": "Radio Cas Rock",
+        "url": "http://icecast6.play.cz/casrock128.mp3",
+        "favicon": "https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002="
+    },
+    {
+        "name": "Radio Cas Rock",
+        "url": "http://icecast6.play.cz/casrock128.mp3",
+        "favicon": "https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002="
+    },
+    {
+        "name": "Radio \u010cas Rock",
+        "url": "http://icecast6.play.cz/casrock128.mp3",
+        "favicon": "https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002="
+    },
+    {
+        "name": "R\u00e1dio \u010cas Rock (192 kbps)",
+        "url": "https://icecast9.play.cz/casrock192.mp3",
+        "favicon": "https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002="
+    },
+    {
+        "name": "Radio City FM",
+        "url": "http://ice.abradio.cz/cityfm128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Click & Country",
+        "url": "http://radio.clickandcountry.cz:8000/clickandcountry.mp3",
+        "favicon": "https://www.clickandcountry.com/images/favicon/apple-icon-120x120.png"
+    },
+    {
+        "name": "R\u00e1dio D\u00e1lnice",
+        "url": "http://icecast8.play.cz/radiodalnice.mp3",
+        "favicon": "https://radiodalnice.cz/wp-content/uploads/2018/01/Logo-R%C3%A1dio-D%C3%A1lnice-18.png"
+    },
+    {
+        "name": "Radio Dechovka",
+        "url": "http://icecast5.play.cz/dechovka128.mp3",
+        "favicon": "http://www.radiodechovka.cz/wp-content/uploads/2022/04/cropped-logo_dechovka_samotne_do_3_cm_rgb.-3-768x255.jpg"
+    },
+    {
+        "name": "Radio Dechovka 1233 Stredni Vlny",
+        "url": "http://icecast5.play.cz/dechovka128.mp3",
+        "favicon": "http://api.play.cz/static/radio_logo/t200/radiodechovka.png"
+    },
+    {
+        "name": "Radio Depeche Mode",
+        "url": "http://mp3stream4.abradio.cz/depeche128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Diana \u2013 Retro Club",
+        "url": "https://westradio.cz/radio/8000/radio.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Dixie",
+        "url": "http://icecast8.play.cz/radiodixie192.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Dr\u00e1\u0165\u00e1k",
+        "url": "http://dratak.cz:8000/dratak",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Energic",
+        "url": "https://icecast9.play.cz/energic.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Evropa e Lir\u00eb (RFE/RL for Kosovo, ch. 16)",
+        "url": "http://rfe16.akacast.akamaistream.net/7/900/437774/v1/ibb.akacast.akamaistream.net/rfe16.m3u",
+        "favicon": "http://www.evropaelire.org/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "Radio Folk",
+        "url": "http://ice2.abradio.cz/folk64a.aac",
+        "favicon": "https://radiofolk.cz/wp-content/uploads/2022/01/cropped-logo-folk-mensi-1.jpg"
+    },
+    {
+        "name": "R\u00e1dio folk Czech ",
+        "url": "http://mp3stream2.abradio.cz:8000/folk320.mp3",
+        "favicon": "https://radiofolk.cz/wp-content/uploads/2022/01/cropped-logo-folk-mensi-1.jpg"
+    },
+    {
+        "name": "R\u00e1dio H\u00e1dy",
+        "url": "http://46.36.36.149:8000/live",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Helax",
+        "url": "http://ice.abradio.cz:8000/helax128.mp3?type=.mp3/;stream.mp3",
+        "favicon": "https://helax.cz/design/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Humor",
+        "url": "http://mp3stream4.abradio.cz:8000/humor128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio humor 2",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Jih",
+        "url": "https://icecast6.play.cz/jih32.mp3",
+        "favicon": "https://www.radiojih.cz/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio Jih",
+        "url": "http://icecast6.play.cz/jih128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio JIH Cimbalka",
+        "url": "http://icecast6.play.cz/jihcimbalka128.mp3",
+        "favicon": "https://naladit.radiocimbalka.cz/icon-192x192.png?=v3"
+    },
+    {
+        "name": "R\u00e1dio Junior",
+        "url": "http://amp.cesnet.cz:8000/cro-radio-junior-256.ogg.m3u",
+        "favicon": "https://junior.rozhlas.cz/sites/default/files/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio Junior",
+        "url": "http://amp.cesnet.cz:8000/cro-radio-junior-256.ogg.m3u",
+        "favicon": "https://junior.rozhlas.cz/sites/default/files/favicon.ico"
+    },
+    {
+        "name": "Radio Kiss",
+        "url": "http://icecast4.play.cz/kiss128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Krokodyl",
+        "url": "http://icecast4.play.cz/krokodyl128.mp3.m3u",
+        "favicon": "http://krokodyl.cz/www/upload/favicons/144/20210218010709604.png"
+    },
+    {
+        "name": "Radio Krokodyl",
+        "url": "http://icecast4.play.cz/krokodyl128.mp3.m3u",
+        "favicon": "http://krokodyl.cz/www/upload/favicons/144/20210218010709604.png"
+    },
+    {
+        "name": "R\u00e1dio MB",
+        "url": "http://icecast3.play.cz/radiomb.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Music CZ",
+        "url": "https://mpc1.mediacp.eu/stream/radiomusiccz",
+        "favicon": "https://beatzone.cz/themes/beatzone/img/icon.ico"
+    },
+    {
+        "name": "Radio Orlicko",
+        "url": "http://46.28.111.246/stream192.mp3",
+        "favicon": "http://www.radioorlicko.cz/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio Ostravan",
+        "url": "http://icecast9.play.cz/radio-ostravan-256.mp3",
+        "favicon": "http://www.radioostravan.cz/favicon.ico"
+    },
+    {
+        "name": "Radio Otava",
+        "url": "https://radiootava.trefcon.cz:8889/radio.mp3",
+        "favicon": "http://www.radiootava.cz/player/final_logo-web.png"
+    },
+    {
+        "name": "R\u00e1dio poh\u00e1dka",
+        "url": "http://ice3.abradio.cz/pohadka128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Ponte records",
+        "url": "http://ice3.abradio.cz/ponterec128.mp3",
+        "favicon": "https://radioponterecords.cz/img/logo.png"
+    },
+    {
+        "name": "Radio Prague International",
+        "url": "https://rozhlas.stream/radio_prague_int_high.aac",
+        "favicon": "https://english.radio.cz/sites/all/themes/custom/e7/apple-touch-icon-precomposed-144x144.png"
+    },
+    {
+        "name": "Radio Prague International",
+        "url": "https://rozhlas.stream/cro7_mp3_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Praha",
+        "url": "http://icecast2.play.cz/cro7-128.mp3",
+        "favicon": "http://api.play.cz/static/radio_logo/t200/cro7.png"
+    },
+    {
+        "name": "Radio Proglas",
+        "url": "http://icecast2.play.cz/proglas128",
+        "favicon": "http://icecast2.play.cz/favicon.ico"
+    },
+    {
+        "name": "Radio Proglas",
+        "url": "http://icecast1.play.cz/proglas96aac",
+        "favicon": "https://www.proglas.cz/res/images/og-default.png"
+    },
+    {
+        "name": "Radio Prostor",
+        "url": "https://bcast.spmmedia.cz/prostor-mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Punctum",
+        "url": "https://radiopunctum.cz:8001/radio",
+        "favicon": "https://radiopunctum.cz/favicon/android-chrome-512x512.png"
+    },
+    {
+        "name": "Radio R",
+        "url": "https://radior.video.muni.cz/FSS_mp3-128.mp3.m3u",
+        "favicon": "https://radio-r.cz/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio Relax",
+        "url": "http://icecast7.play.cz/relax128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio ROCK",
+        "url": "http://ice.abradio.cz/rockradio128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Samson",
+        "url": "http://icecast8.play.cz/samsonfm128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Samson",
+        "url": "http://icecast2.play.cz/samsonfm128aac",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Samson",
+        "url": "https://icecast2.play.cz/samsonfm128aac",
+        "favicon": ""
+    },
+    {
+        "name": "Radio S\u00e1zava",
+        "url": "http://sc.ipip.cz:8224/;stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Slobodna Evropa",
+        "url": "https://n08.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABikFH4NsAib8tua7OjeefLg",
+        "favicon": "https://www.slobodnaevropa.org/Content/responsive/RFE/sh-SH/img/logo.svg"
+    },
+    {
+        "name": "Radio SPIN 96.2 FM",
+        "url": "http://icecast-u2.play.cz:8000/spin128.mp3",
+        "favicon": "https://www.radiospin.cz/assets/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio Svoboda",
+        "url": "https://laradiofm.com/download/60-en-pls",
+        "favicon": "https://www.svoboda.org/Content/responsive/RFE/img/webApp/ico-192x192.png"
+    },
+    {
+        "name": "Radio Svoboda (ru) (official stream)",
+        "url": "https://stream.radiojar.com/hcrb063nn3quv",
+        "favicon": "https://svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "Radio Svoboda Rus",
+        "url": "http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04",
+        "favicon": "https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "R\u00e1dio Trojka",
+        "url": "http://12901.cloudrad.io:9306/live",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Wave",
+        "url": "https://rozhlas.stream/wave_aac_32.aac",
+        "favicon": "https://wave.rozhlas.cz/sites/default/files/favicon_wave.ico"
+    },
+    {
+        "name": "Radio Wave",
+        "url": "http://rozhlas.stream/wave_mp3_256.mp3",
+        "favicon": "http://api.play.cz/static/radio_logo/t200/crowave.png"
+    },
+    {
+        "name": "R\u00e1dio Xaver",
+        "url": "https://icecast6.play.cz/radio-xaver.aac",
+        "favicon": "https://radioxaver.cz/assets/img/Xradio-logo-x.svg"
+    },
+    {
+        "name": "RADIO.IPIP.CZ: psytrance-radio.cz",
+        "url": "http://212.96.160.160:8022/",
+        "favicon": "https://psytrance-radio.cz/favicon.ico"
+    },
+    {
+        "name": "RADIO1",
+        "url": "http://www.play.cz/radio/radio1-192.mp3.m3u",
+        "favicon": "https://www.radio1.cz/favicon.ico"
+    },
+    {
+        "name": "Radio7",
+        "url": "https://api.play.cz/radio/radio7-32aac.m3u",
+        "favicon": "https://radio7.cz/images/logo/r7_logo_transp_inv.png"
+    },
+    {
+        "name": "Radio7",
+        "url": "http://icecast8.play.cz/radio7-128.mp3",
+        "favicon": "https://radio7.cz/images/logo/r7_logo_transp_inv.png"
+    },
+    {
+        "name": "RadioParty.pl",
+        "url": "https://s2.radioparty.pl:8015/stream",
+        "favicon": ""
+    },
+    {
+        "name": "RELAX Radio Kladno - 92,3 FM",
+        "url": "http://icecast7.play.cz/relax128.mp3",
+        "favicon": "https://radio-relax.cz/new/wp-content/uploads/2021/12/LOGO-RELAX-192x80-1.png"
+    },
+    {
+        "name": "RETRO DJ RADIO - 128",
+        "url": "https://free.rcast.net/70814",
+        "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xJ9EZJOZcmcYPhidD1MZO_fYB4qnHamsyOA76xRbilYqyAmZomM_7HMFW7uqhgh0RA0&usqp=CAU"
+    },
+    {
+        "name": "RETRO DJ Radio - HQ",
+        "url": "http://icecast1.play.cz/retrodjradio.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "RETRO DJ RADIO CZ",
+        "url": "https://free.rcast.net/70814.mp3",
+        "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xJ9EZJOZcmcYPhidD1MZO_fYB4qnHamsyOA76xRbilYqyAmZomM_7HMFW7uqhgh0RA0&usqp=CAU"
+    },
+    {
+        "name": "Retro Music Television",
+        "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+        "favicon": "https://retromusic.cz/wp-content/themes/swanxy/assets/images/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "Retro Music TV",
+        "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8",
+        "favicon": "https://retromusic.cz/wp-content/themes/swanxy/assets/images/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "RFE/RL for North Caucasus, ch. 19",
+        "url": "http://rfe19.akacast.akamaistream.net/7/885/437777/v1/ibb.akacast.akamaistream.net/rfe19.m3u",
+        "favicon": "http://www.rferl.org/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "RFE/RL Radio Farda",
+        "url": "http://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21",
+        "favicon": "http://www.radiofarda.com//Content/responsive/RFE/img/webApp/favicon.ico"
+    },
+    {
+        "name": "ROCK MAX",
+        "url": "http://ice.abradio.cz/rockmax256.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Rock Radio",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3",
+        "favicon": "https://rockovyradio.cz/design/img/logo.svg"
+    },
+    {
+        "name": "Rock R\u00e1dio \u0160umava",
+        "url": "http://ice.abradio.cz/sumava128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Rockov\u00e1 z\u00e1bava",
+        "url": "http://ice.abradio.cz/rockzabava128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Rockzone",
+        "url": "http://icecast5.play.cz/rockzone128.mp3",
+        "favicon": "http://www.rockzone.cz/favicon.ico"
+    },
+    {
+        "name": "RockZone 105,9 FM",
+        "url": "https://icecast5.play.cz/rockzone128.mp3",
+        "favicon": "https://www.rockzone.cz/favicon.ico"
+    },
+    {
+        "name": "Samson",
+        "url": "http://icecast2.play.cz:8000/samsonfm128aac",
+        "favicon": ""
+    },
+    {
+        "name": "sdbs /-\\ radio",
+        "url": "https://sdbs.cz/radio.mp3",
+        "favicon": "https://sdbs.cz/wp-content/themes/sdbs/img/logo_01.png"
+    },
+    {
+        "name": "sdbs /-\\ radio",
+        "url": "https://sdbs.cz/radio.mp3",
+        "favicon": "https://sdbs.cz/wp-content/themes/sdbs/img/logo_01.png"
+    },
+    {
+        "name": "SeeJay Radio",
+        "url": "http://icecast6.play.cz/seejay128.mp3",
+        "favicon": "http://api.play.cz/static/radio_logo/t200/seejay-radio.png"
+    },
+    {
+        "name": "SeeJay Radio",
+        "url": "http://icecast6.play.cz/seejay128.mp3",
+        "favicon": "https://api.play.cz/static/radio_logo/t200/seejay-radio.png"
+    },
+    {
+        "name": "Sign\u00e1l R\u00e1dio",
+        "url": "http://icecast1.play.cz/signal128.mp3",
+        "favicon": "http://www.signalradio.cz/assets/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "Sign\u00e1l R\u00e1dio Brno",
+        "url": "http://icecast6.play.cz/signal-brno128.mp3",
+        "favicon": "http://www.signalradio.cz/assets/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "SKYROCK",
+        "url": "http://icecast8.play.cz/skyrock128.mp3",
+        "favicon": "https://api.play.cz/static/radio_logo/t200/skyrock.png"
+    },
+    {
+        "name": "Sunrise Radio (Czechia)",
+        "url": "https://stream.laut.fm/radio-dance-eu",
+        "favicon": "https://i.ibb.co/0GVxMgd/sunshineradio.png"
+    },
+    {
+        "name": "svobodne-radio",
+        "url": "http://svobodneradio.radioca.st:8859/stream",
+        "favicon": "https://svobodne-radio.com/wp-content/uploads/2024/03/cropped-site-favicon-180x180.png"
+    },
+    {
+        "name": "Svobodn\u00fd vys\u00edla\u010d",
+        "url": "http://stream.svobodny-vysilac.cz:8000/live.ogg",
+        "favicon": ""
+    },
+    {
+        "name": "Svobodn\u00fd vys\u00edla\u010d",
+        "url": "http://stream.svobodny-vysilac.cz:8000/live.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "united Czech chillers",
+        "url": "https://chill.mfnet.cz/radio/8000/radio192.mp3",
+        "favicon": "https://www.chillers.cz/img/192x192.png"
+    },
+    {
+        "name": "We House Radio (AAC+ High)",
+        "url": "https://stream.wehouseradio.com/stream/2/",
+        "favicon": "https://www.wehouseradio.com/images/whr-logo-players.png"
+    },
+    {
+        "name": "WebRadio Epigon",
+        "url": "http://ice3.abradio.cz/epigon128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "WeHouseRadio",
+        "url": "https://stream.wehouseradio.com/stream/1/",
+        "favicon": "https://www.wehouseradio.com/templates/whr/images/apple-touch-icon.png"
+    },
+    {
+        "name": "WeHouseRadio",
+        "url": "https://stream.wehouseradio.com/stream/3/",
+        "favicon": "https://www.wehouseradio.com/templates/whr/images/apple-touch-icon.png"
+    },
+    {
+        "name": "Zn\u00e1mka Punku",
+        "url": "https://ice.abradio.cz/znamkapunku128.mp3",
+        "favicon": "https://radia.cz/favicon.ico"
+    },
+    {
+        "name": "Zoner Underground Network",
+        "url": "https://stream.zunradio.cz/zun3.mp3",
+        "favicon": "https://zunradio.cz/media/templates/site/website/images/apple-touch-icon.png"
+    },
+    {
+        "name": "ZX Music Radio",
+        "url": "http://zxm.cz:8000/zx.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "ZX Music Radio",
+        "url": "http://zxm.cz:8000/zx",
+        "favicon": ""
+    },
+    {
+        "name": "\u0410\u0437\u0430\u0442 \u0415\u0443\u0440\u043e\u043f\u0430 / \u0410\u0437\u0430\u0442\u0442\u044b\u049b \u0420\u0430\u0434\u0438\u043e\u0441\u044b (RFE/RL in Kazakh, ch. 11)",
+        "url": "http://rfe11.akacast.akamaistream.net/7/893/437769/v1/ibb.akacast.akamaistream.net/rfe11.m3u",
+        "favicon": "http://www.azattyq.org/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "\u0410\u0437\u0430\u0442\u0442\u044b\u043a \u03a5\u043d\u0430\u043b\u0433\u044b\u0441\u044b (RFE/RL in Kyrgyz, ch. 1)",
+        "url": "http://rfe01.akacast.akamaistream.net/7/514/437759/v1/ibb.akacast.akamaistream.net/rfe01.m3u",
+        "favicon": "http://www.azattyk.org/Content/responsive/RFE/img/top_logo_news.png"
+    },
+    {
+        "name": "\u041a\u0440\u044b\u043c \u0420\u0435\u0430\u043b\u0438\u0438 (rus, ukr) (official stream)",
+        "url": "https://stream.radiojar.com/wm9sntcpn3quv",
+        "favicon": "https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "\u041a\u0440\u044b\u043c.\u0420\u0435\u0430\u043b\u0438\u0438",
+        "url": "https://rfe-ingest.akamaized.net/hls/live/2035288/axia19/playlist.m3u8",
+        "favicon": "https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "\u041e\u0437\u043e\u0434\u043b\u0438\u043a \u0440\u0430\u0434\u0438\u043e\u0441\u0438 (RFE/RL in Uzbek, ch. 13)",
+        "url": "http://rfe13.akacast.akamaistream.net/7/895/437771/v1/ibb.akacast.akamaistream.net/rfe13.m3u",
+        "favicon": "http://www.ozodlik.org/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u0421\u0432\u043e\u0431\u043e\u0434\u0430",
+        "url": "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8",
+        "favicon": "https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u0421\u0432\u043e\u0431\u043e\u0434\u0430 (Radio Svoboda, RFE/RL Russian, ch. 4)",
+        "url": "http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04.m3u",
+        "favicon": "http://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u0421\u043b\u043e\u0431\u043e\u0434\u043d\u0430 E\u0432\u0440\u043e\u043f\u0430 (RFE/RL in Macedonian, ch. 14)",
+        "url": "http://rfe14.akacast.akamaistream.net/7/898/437772/v1/ibb.akacast.akamaistream.net/rfe14.m3u",
+        "favicon": "http://www.makdenes.org/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e\u0438 \u041e\u0437\u043e\u0434\u04e3 (RFE/RL in Tajik, ch. 9)",
+        "url": "http://rfe09.akacast.akamaistream.net/7/522/437767/v1/ibb.akacast.akamaistream.net/rfe09.m3u",
+        "favicon": "http://www.ozodi.org/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0456\u043e \u0421\u0432\u043e\u0431\u043e\u0434\u0430 (RFE/RL in Ukrainian, ch. 7)",
+        "url": "http://rfe07.akacast.akamaistream.net/7/508/437765/v1/ibb.akacast.akamaistream.net/rfe07.m3u",
+        "favicon": "http://www.radiosvoboda.org/Content/responsive/RFE/img/top_logo_news.png"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u044b\u0451 \u0421\u0432\u0430\u0431\u043e\u0434\u0430 (RFE/RL in Belorussian, ch. 10)",
+        "url": "http://rfe10.akacast.akamaistream.net/7/894/437768/v1/ibb.akacast.akamaistream.net/rfe10.m3u",
+        "favicon": "http://www.svaboda.org/Content/responsive/RFE/img/top_logo_news.png"
+    },
+    {
+        "name": "\u0421\u0432\u043e\u0431\u043e\u0434\u0430",
+        "url": "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8",
+        "favicon": "https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "\u10e0\u10d0\u10d3\u10d8\u10dd \u10d7\u10d0\u10d5\u10d8\u10e1\u10e3\u10e4\u10d0\u10da\u10d8 \u10d4\u10d5\u10e0\u10dd\u10de\u10d0/\u10e0\u10d0\u10d3\u10d8\u10dd \u10d7\u10d0\u10d5\u10d8\u10e1\u10e3\u10e4\u10da\u10d4\u10d1\u10d0 (RFE/RL in Georgian, ch. 3)",
+        "url": "http://rfe03.akacast.akamaistream.net/7/512/437761/v1/ibb.akacast.akamaistream.net/rfe03.m3u",
+        "favicon": "http://www.radiotavisupleba.ge/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "\u0531\u0566\u0561\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576 \u057c/\u056f (RFE/RL in Armenian, ch. 2)",
+        "url": "http://rfe02.akacast.akamaistream.net/7/511/437760/v1/ibb.akacast.akamaistream.net/rfe02.m3u",
+        "favicon": "http://www.azatutyun.am/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "\u0627\u0632\u0627\u062f\u064a \u0631\u0627\u0689\u06cc\u0648\u062f\u0627\u0632\u0627\u062f\u06d0 \u0627\u0631\u0648\u067e\u0627 \u0631\u0627\u0689\u06cc\u0648 (RFE/RL in Pashto, ch. 17)",
+        "url": "http://rfe17.akacast.akamaistream.net/7/899/437775/v1/ibb.akacast.akamaistream.net/rfe17.m3u",
+        "favicon": "http://pa.azadiradio.org/content/responsive/rfe/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "\u0645\u0634\u0627\u0644 \u0631\u0627\u0689\u06cc\u0648 (RFE/RL in Pashto, R. Mashaal, ch. 20)",
+        "url": "http://rfe20.akacast.akamaistream.net/7/750/437778/v1/ibb.akacast.akamaistream.net/rfe20.m3u",
+        "favicon": "http://www.mashaalradio.org/content/responsive/rfe/img/webapp/ico-128x128.png"
+    }
+]

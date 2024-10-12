@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Asyil FM",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC",
+        "favicon": "https://zeno.fm/apple-icon-120x120.png"
+    },
+    {
+        "name": "Kristal FM",
+        "url": "https://play.thestreamtech.com:7038/",
+        "favicon": "https://images.squarespace-cdn.com/content/v1/5cc110ca7a1fbd0a3d2e824d/b8b4b017-229d-4ad6-bd33-bb9ed694e6dd/KRISTALfm+Logo+%282023%29+1080x4050+-+Hari+Raya.png?format=1500w"
+    },
+    {
+        "name": "KRISTALfm",
+        "url": "https://play.thestreamtech.com:7038/index.html",
+        "favicon": "https://images.squarespace-cdn.com/content/v1/5cc110ca7a1fbd0a3d2e824d/c14d6a3a-a7dd-413a-b54a-25df559c3ae5/KRISTALfm+Logo+%282023%29+144x600.png"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Hayatmix",
+        "url": "http://hayatmix.net/;yayin.mp3/;",
+        "favicon": "https://www.hayatmix.com/png/hayatmix.png"
+    },
+    {
+        "name": "Radio \u00c7ar Tarapdan",
+        "url": "https://radio.telecom.tm:8020/radio.mp3",
+        "favicon": "https://lixty.com/api/media/fetch/fb/fb89c6c4c6b7520d43d5dff8aa2c0474.png?w=150&h=150"
+    },
+    {
+        "name": "Radio Miras",
+        "url": "https://radio.telecom.tm:8030/radio.mp3",
+        "favicon": "https://turkmentv.gov.tm/logo.png"
+    },
+    {
+        "name": "Radio Owaz",
+        "url": "https://radio.telecom.tm:8000/radio.mp3",
+        "favicon": "https://static2.mytuner.mobi/media/tvos_radios/460/tr4-owaz.13a017fd.jpg"
+    },
+    {
+        "name": "Radio Watan",
+        "url": "https://radio.telecom.tm:8010/radio.mp3",
+        "favicon": "https://www.flysat.com/public/images/uploads/Channel/watan.png"
+    },
+    {
+        "name": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+        "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+        "favicon": ""
+    },
+    {
+        "name": "\u0627\u0644\u0646\u0647\u062c \u0627\u0644\u0648\u0627\u0636\u062d ",
+        "url": "https://node33.obviousapproach.com:9000/stream",
+        "favicon": ""
+    }
+]

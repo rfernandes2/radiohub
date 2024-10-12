@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Dfm rtv int160k",
+        "url": "http://dfm.nu/DFM_RTV_INT_1.m3u",
+        "favicon": "http://dfm.nu/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "Kalaallit Nunaata Radioa KNR 90.3 Nuuk",
+        "url": "http://knr.gl/radiolivestream",
+        "favicon": "http://knr.gl/themes/custom/pco_theme/favicon.ico?v=1"
+    },
+    {
+        "name": "KNR Radio, Nuuk, 192 kbit/s Stereo",
+        "url": "https://knr.gl/radiolivestream",
+        "favicon": "https://knr.gl/themes/custom/pco_theme/favicon.ico?v=1"
+    },
+    {
+        "name": "Loco Radio",
+        "url": "https://cast.iplayradio.net/radio/8018/stream",
+        "favicon": "https://www.locoradiolive.com/img/lrl_logo_03.png"
+    },
+    {
+        "name": "Nanoq FM",
+        "url": "http://getnanoq.retro-radio.dk/Nanoq-TX-1",
+        "favicon": "https://nanoqmedia.gl/apple-touch-icon.png"
+    },
+    {
+        "name": "test",
+        "url": "https://pub0302.101.ru:8000/stream/pro/aac/64/158?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ij",
+        "favicon": ""
+    }
+]

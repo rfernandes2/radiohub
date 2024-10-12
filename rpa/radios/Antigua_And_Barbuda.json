@@ -1,0 +1,42 @@
+[
+    {
+        "name": " EXA FM: Pop Music in Spanish and English",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "favicon": "https://exafm.com/u/plantillas/p/exa-fm/imgs/favicons//apple-touch-icon.png?v2"
+    },
+    {
+        "name": "Antigua Observer Radio 91.1 St. John's",
+        "url": "http://s8.voscast.com:8176/;",
+        "favicon": ""
+    },
+    {
+        "name": "DNECA Anglican Radio",
+        "url": "http://64.18.108.237:1300/broadwave.mp3?src=1",
+        "favicon": "https://gtsantigua.com/radio/DNECA_20Radio_20Logo.png?v=45azdc5zzca1v3b"
+    },
+    {
+        "name": "Flava FM 100.7",
+        "url": "http://167.114.11.80:5322/stream/;",
+        "favicon": "https://static.wixstatic.com/media/fef281_95a788d2549b4134957a9efc21a5dcac~mv2.png/v1/fill/w_523,h_423,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FLAVA_LOGO_FREQ.png"
+    },
+    {
+        "name": "Healthy Choice FM",
+        "url": "https://www.liveradio.es/http://ic.streann.com:8000/hcfm",
+        "favicon": "https://healthychoicefm.com/wp-content/themes/skt-parallaxme/images/HCFM-Logo.png"
+    },
+    {
+        "name": "Radio La Senda Antigua",
+        "url": "https://play10.tikast.com/proxy/lasenda?mp=/stream",
+        "favicon": "https://www.iglesialasendaantigua.com/img/logo.5f155fc3.png"
+    },
+    {
+        "name": "Vibz FM",
+        "url": "https://testvibz-silcomwireless.radioca.st/stream.mp3",
+        "favicon": "https://vibzfm.familyfm.ltd/wp-content/themes/shuffle/assets/img/logo_light.png"
+    },
+    {
+        "name": "Zoom Radio 95.7 St. John's",
+        "url": "http://108.178.13.122:8170/;",
+        "favicon": ""
+    }
+]

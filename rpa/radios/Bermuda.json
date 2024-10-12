@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Dr Dick's Dub Shack",
+        "url": "http://streamer.radio.co/s0635c8b0d/listen.m3u",
+        "favicon": "https://drdicksdubshack.com/images/dub_shack_logo_820x360.jpg"
+    },
+    {
+        "name": "dr_dick's dub shack",
+        "url": "https://streamer.radio.co/s0635c8b0d/listen",
+        "favicon": "http://drdicksdubshack.com/favicon.ico"
+    },
+    {
+        "name": "Dr. Dick\u2019s Dub Shack",
+        "url": "http://streamer.radio.co/s0635c8b0d/listen?fbclid=IwAR16t5mC5UFT9Fp8pbWe0dvYn9VEI3FYJTogE5AJtUF3G1dJi38lwLgD9as",
+        "favicon": "http://drdicksdubshack.com/favicon.ico"
+    },
+    {
+        "name": "Inspire 105.1",
+        "url": "http://us1.internet-radio.com:8008/live",
+        "favicon": "http://bermudabroadcasting.com/favicon.ico"
+    },
+    {
+        "name": "Slow Radio",
+        "url": "http://streams.slowradio.com/slowradio192.m3u",
+        "favicon": "https://en.slowradio.com/img/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "VIBE 103 The Energy Station",
+        "url": "http://142.132.250.174:7131/mp3",
+        "favicon": "https://www.vibe103.com/favicon.ico"
+    },
+    {
+        "name": "ZBM 89.1 \"Ocean 89\" Hamilton",
+        "url": "http://us2.internet-radio.com:8016/live",
+        "favicon": "https://abs.twimg.com/favicons/twitter.2.ico"
+    },
+    {
+        "name": "ZFB 94.9 \"Power 95\" Hamilton",
+        "url": "http://us3.internet-radio.com:8026/live",
+        "favicon": "http://cdn-radiotime-logos.tunein.com/s13330q.png"
+    }
+]

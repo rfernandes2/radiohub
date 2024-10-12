@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Asonga Radio 107.0 Malabo",
+        "url": "https://servidor15-5.brlogic.com:7058/live",
+        "favicon": "https://public-rf-upload.minhawebradio.net/228031/favicon/f687cdb9f785f2ac16c9e1728fe7f6ad.jpg"
+    },
+    {
+        "name": "Exa FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac"
+    }
+]

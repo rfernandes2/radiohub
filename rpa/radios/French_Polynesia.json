@@ -1,0 +1,57 @@
+[
+    {
+        "name": "HITI FM",
+        "url": "http://n0a.radiojar.com/u0yz7p0mb.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Hiti FM",
+        "url": "https://n01.radiojar.com/u0yz7p0mb.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Polyn\u00e9sie 1\u00e8re",
+        "url": "https://polynesie.ice.infomaniak.ch/polynesie-128.mp3",
+        "favicon": "https://la1ere.francetvinfo.fr/favicon.ico"
+    },
+    {
+        "name": "Polyn\u00e9sie 1\u00e8re",
+        "url": "https://polynesie.ice.infomaniak.ch/polynesie-128.mp3",
+        "favicon": "https://la1ere.francetvinfo.fr/favicon.ico"
+    },
+    {
+        "name": "Polynesie Premi\u00e8re",
+        "url": "https://polynesie.ice.infomaniak.ch/polynesie-128.mp3",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Polyn%C3%A9sie_La_1%C3%A8re_-_Logo_2018.svg/langfr-200px-Polyn%C3%A9sie_La_1%C3%A8re_-_Logo_2018.svg.png"
+    },
+    {
+        "name": "Radio 1 PF",
+        "url": "https://live.radio1.pf:8443/radio1",
+        "favicon": ""
+    },
+    {
+        "name": "Radio 1 Tahiti",
+        "url": "http://live.radio1.pf:8001/radio1",
+        "favicon": ""
+    },
+    {
+        "name": "Radio1 Tahiti",
+        "url": "https://live.radio1.pf:8443/radio1",
+        "favicon": ""
+    },
+    {
+        "name": "Tahiti Web Radio",
+        "url": "http://s10.myradiostream.com/:36098/listen.mp3",
+        "favicon": "https://www.tahitiwebradio.pf/favicon.ico"
+    },
+    {
+        "name": "Tiare FM",
+        "url": "https://live.tiarefm.pf:8443/tiarefm",
+        "favicon": "https://www.tiarefm.pf/cms/wp-content/uploads/2017/05/logo-tiarefm-56px.jpg"
+    },
+    {
+        "name": "Tiare FM",
+        "url": "https://live.tiarefm.pf:8443/tiarefm",
+        "favicon": "https://www.tiarefm.pf/favicon.ico"
+    }
+]

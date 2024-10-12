@@ -1,0 +1,127 @@
+[
+    {
+        "name": "105 fm",
+        "url": "http://85.132.27.212:8888/azradio?listening-from-radio-radio-garden=1654328466",
+        "favicon": ""
+    },
+    {
+        "name": "105 fm",
+        "url": "http://85.132.27.212:8888/azradio?listening-from-radio-radio-garden=1654328466",
+        "favicon": ""
+    },
+    {
+        "name": "Anti Radio",
+        "url": "https://stream.antiradio.net/radio/8000/mp3",
+        "favicon": "https://antiradio.net/storage/2024/04/cropped-favicon-192x192.png"
+    },
+    {
+        "name": "Anti Radio",
+        "url": "https://stream.antiradio.net/radio/8000/mp3",
+        "favicon": "https://antiradio.net/favicon.ico"
+    },
+    {
+        "name": "Anti Radio",
+        "url": "https://stream.antiradio.net/radio/8000/mp3",
+        "favicon": "https://antiradio.net/favicon.ico"
+    },
+    {
+        "name": "Araz fm 103.3",
+        "url": "http://s39.myradiostream.com/5458/listen.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Asan Radio",
+        "url": "http://94.20.74.206:4448/stream1",
+        "favicon": ""
+    },
+    {
+        "name": "ASAN Radio",
+        "url": "https://play.asanradio.az/",
+        "favicon": ""
+    },
+    {
+        "name": "AutoLife Radio Azerbaijan",
+        "url": "http://radio.autoliferadio.com:8090/radio",
+        "favicon": ""
+    },
+    {
+        "name": "AVTO FM",
+        "url": "http://5.191.241.101:8000/avtofm",
+        "favicon": ""
+    },
+    {
+        "name": "Azerbaijan Radiosu 105 Fm",
+        "url": "http://85.132.27.212:8888/azradio?listening-from-radio-radio-garden=1654328466",
+        "favicon": ""
+    },
+    {
+        "name": "Baku Jukebox",
+        "url": "http://78.109.52.73:8000/listening-from-radio-garden-1696020096",
+        "favicon": ""
+    },
+    {
+        "name": "Baku Retro Fm",
+        "url": "http://5.191.241.101:8000/bakuretrofm",
+        "favicon": ""
+    },
+    {
+        "name": "bakuretrofm",
+        "url": "http://5.191.241.101:8000/bakuretrofm",
+        "favicon": ""
+    },
+    {
+        "name": "Caspian Business Radio BOSS",
+        "url": "https://myradio24.org/bosscomaz",
+        "favicon": "https://boss.com.az/wp-content/uploads/2018/04/BOSS-MAGAZINE-LOGO.png"
+    },
+    {
+        "name": "Cipcip",
+        "url": "https://stream.zeno.fm/bqrnn6cx868uv",
+        "favicon": ""
+    },
+    {
+        "name": "CodeRadio from FreeCodeCamp",
+        "url": "https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3",
+        "favicon": "https://cdn.freecodecamp.org/universal/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "DIMusic Club Azerbaijan \ud83c\udde6\ud83c\uddff ",
+        "url": "http://stream1.dimusic.club:11496/live?type=.aac",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240617_080746065.jpg?alt=media&token=a4804d6a-a37f-4334-93ab-3c17f6a8fe33"
+    },
+    {
+        "name": "Media Fm 105.5",
+        "url": "https://icecast.livetv.az/mediafm",
+        "favicon": ""
+    },
+    {
+        "name": "Nax\u00e7\u0131van Radiosu",
+        "url": "http://s33.myradiostream.com:12782/listen.mp3",
+        "favicon": "https://radio.ntv.az/images/logo.png?v=2"
+    },
+    {
+        "name": "Radio Veten",
+        "url": "https://cdn2.cloudrad.io/radioveten/0kgkkzanmueuv/source/listen.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Veten",
+        "url": "http://stream-162.zeno.fm/p1hx0c3y14zuv?zs=sLIAy_oBSIeGj72L-NHzmg",
+        "favicon": "http://stream-162.zeno.fm/favicon.ico"
+    },
+    {
+        "name": "Radio Veten",
+        "url": "http://stream.zeno.fm/p1hx0c3y14zuv.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "Xezer FM",
+        "url": "https://s40.myradiostream.com/:22546/listen.mp3?",
+        "favicon": "http://xezerfm.az/favicon.ico"
+    },
+    {
+        "name": "Yurd FM",
+        "url": "https://icecast.livetv.az/yurdfm",
+        "favicon": ""
+    }
+]

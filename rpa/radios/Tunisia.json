@@ -1,0 +1,412 @@
+[
+    {
+        "name": ".Beautiful recitation",
+        "url": "https://qurango.net/radio/salma",
+        "favicon": ""
+    },
+    {
+        "name": ".\u0625\u0630\u0627\u0639\u0629 \u0637\u0644\u0627\u0628 \u0627\u0644\u0639\u0644\u0645",
+        "url": "http://stream-51.zeno.fm/xvzmnbe1ba9uv?zs=UkIBYwktSAGsrzrm6mQ6uQ&rj-ttl=5&rj-tok=AAABfmjkey8ArKeqTHsuekmiFQ",
+        "favicon": "https://modo3.com/thumbs/fit630x300/10779/1439032056/%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%B7%D9%84%D8%A8_%D8%A7%D9%84%D8%B9%D9%84%D9%85.jpg"
+    },
+    {
+        "name": ".\u0625\u0630\u0627\u0639\u0629 \u0645\u0627\u0647\u0631 \u0627\u0644\u0645\u0639\u064a\u0642\u0644\u064a",
+        "url": "https://backup.qurango.net/radio/maher",
+        "favicon": ""
+    },
+    {
+        "name": ".\u0634\u0647\u0631 \u0631\u0645\u0636\u0627\u0646",
+        "url": "https://qurango.net/radio/ramadan",
+        "favicon": ""
+    },
+    {
+        "name": ".\u0635\u0648\u0631 \u0645\u0646 \u062d\u064a\u0627\u0629 \u0627\u0644\u0635\u062d\u0627\u0628\u0629",
+        "url": "https://qurango.net/radio/sahabah",
+        "favicon": ""
+    },
+    {
+        "name": ".\u0645\u062e\u062a\u0635\u0631 \u0627\u0644\u0633\u064a\u0631\u0629",
+        "url": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
+        "favicon": ""
+    },
+    {
+        "name": "#\u0631\u0648\u0627\u064a\u0629 \u0642\u0627\u0644\u0648\u0646",
+        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+        "favicon": ""
+    },
+    {
+        "name": "Al quran radio",
+        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+        "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg"
+    },
+    {
+        "name": "AlHayet FM",
+        "url": "https://manager8.streamradio.fr:2885/stream",
+        "favicon": "https://www.alhayetfm.net/wp-content/uploads/2022/01/cropped-sutee-192x192.png"
+    },
+    {
+        "name": "Diwan FM",
+        "url": "https://streaming.diwanfm.net/stream",
+        "favicon": "https://diwanfm.net/favicon.ico"
+    },
+    {
+        "name": "diwanfm",
+        "url": "https://streaming.diwanfm.net/stream",
+        "favicon": "https://diwanfm.net/favicon.ico"
+    },
+    {
+        "name": "Express FM",
+        "url": "http://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
+        "favicon": "https://radioexpressfm.com/wp-content/uploads/2022/02/cropped-logo-2-180x180.png"
+    },
+    {
+        "name": "Express Radio",
+        "url": "https://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
+        "favicon": "https://radioexpressfm.com/wp-content/uploads/2022/02/cropped-logo-2-180x180.png"
+    },
+    {
+        "name": "Jawhara FM",
+        "url": "https://streaming2.toutech.net/jawharafm",
+        "favicon": "https://www.jawharafm.net/fr/static/fr/image/gif/favicon.gif"
+    },
+    {
+        "name": "Jawhara FM",
+        "url": "http://streaming2.toutech.net:8000/jawharafm",
+        "favicon": "https://www.jawharafm.net/ar/static/fr/image/gif/favicon.gif"
+    },
+    {
+        "name": "KnOOz FM",
+        "url": "http://streaming.knoozfm.net:8000/knoozfm",
+        "favicon": "http://knoozfm.net/__ovhp/common/img/favicon.ico"
+    },
+    {
+        "name": "Lotfi Slama",
+        "url": "https://azuracast.conceptradio.fr:8000/radio.mp3",
+        "favicon": "https://www.wix.com/favicon.ico"
+    },
+    {
+        "name": "Mosaique FM",
+        "url": "https://radio.mosaiquefm.net/mosalive",
+        "favicon": ""
+    },
+    {
+        "name": "Mosaique FM",
+        "url": "http://radio.mosaiquefm.net:8000/mosalive",
+        "favicon": ""
+    },
+    {
+        "name": "Mosaique FM",
+        "url": "https://radio.mosaiquefm.net/mosalive",
+        "favicon": ""
+    },
+    {
+        "name": "Mosaique FM DJ",
+        "url": "https://radio.mosaiquefm.net/mosadj",
+        "favicon": ""
+    },
+    {
+        "name": "Mosaique FM Gold",
+        "url": "https://radio.mosaiquefm.net/mosagold",
+        "favicon": ""
+    },
+    {
+        "name": "Mosaique FM Tarab",
+        "url": "https://radio.mosaiquefm.net/mosatarab",
+        "favicon": ""
+    },
+    {
+        "name": "Mosaique FM Tounsi",
+        "url": "https://radio.mosaiquefm.net/mosatounsi",
+        "favicon": ""
+    },
+    {
+        "name": "mosaiquefm",
+        "url": "https://radio.mosaiquefm.net/mosalive",
+        "favicon": ""
+    },
+    {
+        "name": "oasis-fm",
+        "url": "https://stream3.rcast.net/69919",
+        "favicon": "https://i0.wp.com/oasis-fm.net/wp-content/uploads/2022/05/cropped-favicon.png"
+    },
+    {
+        "name": "Oxyg\u00e8ne FM",
+        "url": "http://radiooxygenefm.ice.infomaniak.ch/radiooxygenefm-64.mp3",
+        "favicon": "https://www.radiooxygene.tn/wp-content/uploads/2023/02/cropped-favicon-oxy2023-180x180.png"
+    },
+    {
+        "name": "oxygene fm",
+        "url": "http://stream.radios-arra.fr:8000/oxygenefm",
+        "favicon": "https://www.oxygenefm.com/wp-content/uploads/sites/500/2024/05/cropped-logo-fb-sans-fond-2-180x180.png"
+    },
+    {
+        "name": "radio coran",
+        "url": "http://n0b.radiojar.com/0tpy1h0kxtzuv?",
+        "favicon": ""
+    },
+    {
+        "name": "Radio fouedb Music",
+        "url": "https://streaming.live365.com/a82574",
+        "favicon": "https://radiofouedbmusic.weebly.com/favicon.ico"
+    },
+    {
+        "name": "Radio IFM",
+        "url": "https://live.ifm.tn/radio/8000/ifmlive",
+        "favicon": ""
+    },
+    {
+        "name": "Radio MED",
+        "url": "http://stream6.tanitweb.com/radiomed",
+        "favicon": "https://www.radiomedtunisie.com/favicon.ico"
+    },
+    {
+        "name": "Radio Med",
+        "url": "http://stream6.tanitweb.com/radiomed",
+        "favicon": "http://radiomedtunisie.com/favicon.ico"
+    },
+    {
+        "name": "Radio Misk",
+        "url": "https://live.misk.art/stream",
+        "favicon": "https://www.misk.art/assets/img/logo_noir.png"
+    },
+    {
+        "name": "Radio Quran Karim",
+        "url": "http://5.135.194.225:8000/live.m3u",
+        "favicon": "http://www.radioquran.tn/wp-content/uploads/fbrfg/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio Tunisia Med",
+        "url": "https://azuracast.conceptradio.fr:8000/radio.mp3",
+        "favicon": "https://www.wix.com/favicon.ico"
+    },
+    {
+        "name": "Radio Tunisie Gafsa",
+        "url": "http://rtstream.tanitweb.com/gafsa",
+        "favicon": "http://www.radiogafsa.tn/wp-content/themes/mycms.1.0.0/favicon.png"
+    },
+    {
+        "name": "Radio Tunisie Jeunes",
+        "url": "http://rtstream.tanitweb.com/jeunes",
+        "favicon": "http://www.radiojeunes.tn/wp-content/themes/mycms.1.0.0/favicon.png"
+    },
+    {
+        "name": "Radio Tunisie Kef",
+        "url": "http://rtstream.tanitweb.com/kef",
+        "favicon": "http://www.radiokef.tn/wp-content/themes/mycms.1.0.0/favicon.png"
+    },
+    {
+        "name": "Radio Tunisie Monastir",
+        "url": "http://rtstream.tanitweb.com/monastir",
+        "favicon": "http://www.radiomonastir.tn/wp-content/themes/mycms.1.0.0/favicon.png"
+    },
+    {
+        "name": "Radio Tunisie Nationale",
+        "url": "http://rtstream.tanitweb.com/nationale",
+        "favicon": "http://www.radionationale.tn/wp-content/themes/mycms.1.0.0/library/images/small-logo-nationale.png"
+    },
+    {
+        "name": "Radio Tunisie Sfax",
+        "url": "http://rtstream.tanitweb.com/sfax",
+        "favicon": "http://www.radiosfax.tn/wp-content/themes/mycms.1.0.0/favicon.png"
+    },
+    {
+        "name": "Radio Tunisie Sfax",
+        "url": "http://rtstream.tanitweb.com/sfax",
+        "favicon": "http://www.radiosfax.tn/wp-content/themes/mycms.1.0.0/favicon.png"
+    },
+    {
+        "name": "Radio Tunisie Tataouine",
+        "url": "http://rtstream.tanitweb.com/tataouine",
+        "favicon": "http://www.radiotataouine.tn/wp-content/themes/mycms.1.0.0/favicon.png"
+    },
+    {
+        "name": "Radio Zitouna FM",
+        "url": "https://stream.radiozitouna.tn/radio/8030/radio.mp3",
+        "favicon": "https://www.radiozitouna.tn/wp-content/uploads/2022/12/zitouna_heart-1-150x150.png"
+    },
+    {
+        "name": "RTCI",
+        "url": "http://rtstream.tanitweb.com/rtci",
+        "favicon": "http://www.rtci.tn/wp-content/themes/mycms.1.0.0/favicon.png"
+    },
+    {
+        "name": "Sabra FM",
+        "url": "https://manager5.streamradio.fr:1905/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Sfax FM",
+        "url": "http://rtstream.tanitweb.com/sfax",
+        "favicon": "http://www.radiosfax.tn/wp-content/themes/mycms.1.0.0/favicon.png"
+    },
+    {
+        "name": "Sodais",
+        "url": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
+        "favicon": "https://www.atheer-radio.com/assets/images/atheer-logo.svg"
+    },
+    {
+        "name": "sunnah radio",
+        "url": "http://andromeda.shoutca.st:8189/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Zitouna FM",
+        "url": "https://stream.radiozitouna.tn/radio/8030/radio.mp3",
+        "favicon": "https://www.radiozitouna.tn/wp-content/uploads/2022/12/zitounafmtn.jpg"
+    },
+    {
+        "name": "\u0622\u064a\u0627\u062a \u0627\u0644\u0633\u0643\u064a\u0646\u0629",
+        "url": "https://qurango.net/radio/sakeenah",
+        "favicon": "https://mp3quran.net/img/logo2.png"
+    },
+    {
+        "name": "\u0623\u0630\u0643\u0627\u0631 \u0627\u0644\u0635\u0628\u0627\u062d",
+        "url": "https://qurango.net/radio/athkar_sabah",
+        "favicon": ""
+    },
+    {
+        "name": "\u0623\u0630\u0643\u0627\u0631 \u0627\u0644\u0645\u0633\u0627\u0621",
+        "url": "https://qurango.net/radio/athkar_masa",
+        "favicon": ""
+    },
+    {
+        "name": "\u0625\u0630\u0627\u0639\u0629 \u0627\u0644\u0633\u0646\u0629",
+        "url": "http://andromeda.shoutca.st:8189/live",
+        "favicon": ""
+    },
+    {
+        "name": "\u0625\u0630\u0627\u0639\u0629 \u0627\u0644\u0641\u062a\u0627\u0648\u0649 \u0627\u0644\u0639\u0627\u0645\u0629",
+        "url": "https://qurango.net/radio/fatwa",
+        "favicon": ""
+    },
+    {
+        "name": "\u0625\u0630\u0627\u0639\u0629 \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 ",
+        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+        "favicon": ""
+    },
+    {
+        "name": "\u0625\u0630\u0627\u0639\u0629 \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 ",
+        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+        "favicon": ""
+    },
+    {
+        "name": "\u0625\u0630\u0627\u0639\u0629 \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 ",
+        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+        "favicon": "https://twitter.com/favicon.ico"
+    },
+    {
+        "name": "\u0625\u0630\u0627\u0639\u0629 \u0637\u0631\u064a\u0642 \u0627\u0644\u0633\u0644\u0641",
+        "url": "https://airtime.salafwayfm.ly/",
+        "favicon": "https://salafwayfm.ly/assets/img/icon.webp"
+    },
+    {
+        "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0644\u064a \u062c\u0627\u0628\u0631 ",
+        "url": "https://qurango.net/radio/ali_jaber",
+        "favicon": "https://mp3quran.net/img/logo2.png"
+    },
+    {
+        "name": "\u0625\u0630\u0627\u0639\u0629 \u0645\u062d\u0645\u062f \u0623\u064a\u0648\u0628",
+        "url": "https://qurango.net/radio/mohammed_ayyub",
+        "favicon": "https://mp3quran.net/img/logo2.png"
+    },
+    {
+        "name": "\u0625\u0630\u0627\u0639\u0629 \u0645\u062d\u0645\u062f \u0623\u064a\u0648\u0628 ",
+        "url": "https://qurango.net/radio/mohammed_ayyub",
+        "favicon": ""
+    },
+    {
+        "name": "\u0625\u0630\u0627\u0639\u0629 \u0645\u064a\u0631\u0627\u062b \u0627\u0644\u0623\u0646\u0628\u064a\u0627\u0621 ",
+        "url": "https://radio.al7eah.net/8028/;",
+        "favicon": ""
+    },
+    {
+        "name": "\u0627\u0644\u0625\u062e\u062a\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0641\u0642\u0647\u064a\u0629 \u0644\u0625\u0628\u0646 \u0628\u0627\u0632",
+        "url": "https://qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
+        "favicon": ""
+    },
+    {
+        "name": "\u0627\u0644\u0645\u062e\u062a\u0635\u0631 \u0641\u064a \u0627\u0644\u062a\u0641\u0633\u064a\u0631",
+        "url": "https://qurango.net/radio/mukhtasartafsir",
+        "favicon": ""
+    },
+    {
+        "name": "\u0627\u0644\u0646\u0647\u062c \u0627\u0644\u0648\u0627\u0636\u062d ",
+        "url": "https://node33.obviousapproach.com:9000/stream",
+        "favicon": ""
+    },
+    {
+        "name": "\u0627\u0644\u0646\u0647\u062c \u0627\u0644\u0648\u0627\u0636\u062d 1",
+        "url": "https://node33.obviousapproach.com:9000/stream",
+        "favicon": ""
+    },
+    {
+        "name": "\u0627\u0644\u0646\u0647\u062c \u0627\u0644\u0648\u0627\u0636\u062d 3 ",
+        "url": "https://node33.obviousapproach.com:9002/stream",
+        "favicon": ""
+    },
+    {
+        "name": "\u0627\u0644\u0646\u0647\u062c \u0627\u0644\u0648\u0627\u0636\u062d \u0642\u0631\u0622\u0646 \u0643\u0631\u064a\u0645 ",
+        "url": "https://node33.obviousapproach.com:9001/stream",
+        "favicon": ""
+    },
+    {
+        "name": "\u062a\u0631\u0627\u062a\u064a\u0644",
+        "url": "https://qurango.net/radio/tarateel",
+        "favicon": ""
+    },
+    {
+        "name": "\u062a\u0641\u0633\u064a\u0631 \u0628\u0646 \u0639\u062b\u064a\u0645\u064a\u0646 \u0631\u062d\u0645\u0647 \u0627\u0644\u0644\u0647 \u062a\u0639\u0627\u0644\u0649 ",
+        "url": "https://qurango.net/radio/tafseer",
+        "favicon": ""
+    },
+    {
+        "name": "\u062a\u0643\u0628\u064a\u0631\u0627\u062a \u0627\u0644\u0639\u064a\u062f ",
+        "url": "https://qurango.net/radio/eid",
+        "favicon": ""
+    },
+    {
+        "name": "\u0631\u0627\u062f\u064a\u0648 \u062c\u0646\u062c\u0631 \u0644\u0644\u0627\u0637\u0641\u0627\u0644",
+        "url": "https://arabkidsradio.art/radio/8000/radio.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "\u0631\u0627\u062f\u064a\u0648 \u0641\u0646    Fenn Radio ",
+        "url": "https://stream.zeno.fm/76e9f1gsduhvv",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240709_174018899.jpg?alt=media&token=2d5af3d7-cdfa-4610-9e1a-ccf60b3b923f"
+    },
+    {
+        "name": "\u0633\u062a\u0629 \u0634\u0648\u0627\u0644",
+        "url": "https://qurango.net/radio/SixDaysOfShawwal",
+        "favicon": ""
+    },
+    {
+        "name": "\u0639\u0634\u0631 \u0630\u064a \u0627\u0644\u062d\u062c\u0629",
+        "url": "https://qurango.net/radio/ten_dhul_hijjah",
+        "favicon": ""
+    },
+    {
+        "name": "\u0641\u064a \u0636\u0644\u0627\u0644 \u0627\u0644\u0633\u064a\u0631\u0629 \u0627\u0644\u0646\u0628\u0648\u064a\u0629",
+        "url": "https://qurango.net/radio/fi_zilal_alsiyra",
+        "favicon": ""
+    },
+    {
+        "name": "\u0642\u0631\u0627\u0621\u0627\u062a \u0645\u062a\u0646\u0648\u0639\u0629 ",
+        "url": "https://qurango.net/radio/mix",
+        "favicon": ""
+    },
+    {
+        "name": "\u0642\u0631\u0627\u0621\u0627\u062a \u0645\u062a\u0646\u0648\u0639\u0629 ",
+        "url": "https://qurango.net/radio/mix",
+        "favicon": ""
+    },
+    {
+        "name": "\u0645\u064a\u0631\u0627\u062b \u0627\u0644\u0623\u0646\u0628\u064a\u0627\u0621 ",
+        "url": "https://radio.al7eah.net/8010/stream",
+        "favicon": ""
+    },
+    {
+        "name": "\u064a\u0648\u0645 \u0639\u0627\u0634\u0648\u0631\u0627\u0621",
+        "url": "https://qurango.net/radio/TheDayofAshoora",
+        "favicon": ""
+    }
+]

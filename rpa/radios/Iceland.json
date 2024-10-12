@@ -1,0 +1,127 @@
+[
+    {
+        "name": "80's Bylgjan",
+        "url": "http://icecast.365net.is:8000/orb80s.aac.m3u",
+        "favicon": "http://vefutvarp.visir.is/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "Apparatid",
+        "url": "http://icecast.365net.is:8000/orbApparatid.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Bylgjan",
+        "url": "http://icecast.365net.is:8000/orbbylgjan.aac",
+        "favicon": "https://static-media.streema.com/media/object-images/3ce71e1f401554d4d004a91888272f7c.jpg"
+    },
+    {
+        "name": "Bylgjan 98.9 Reykjavik",
+        "url": "http://icecast.365net.is:8000/orbbylgjan.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Cathedral 13",
+        "url": "http://listen.shoutcast.com/cathedralxiii",
+        "favicon": "http://cathedral13.com/wp-content/uploads/2017/10/c13logo13-170x170.png"
+    },
+    {
+        "name": "Flashback 60's Online - Reykjavik",
+        "url": "http://radio.is:443/60flashback",
+        "favicon": ""
+    },
+    {
+        "name": "Flashback 80's 101.5 Reykjavik",
+        "url": "http://www.radio.is:443/80flashback",
+        "favicon": "http://flashback.is/img/channels/80s/channel.svg"
+    },
+    {
+        "name": "Flashback 90's Online Reykjavik",
+        "url": "http://www.radio.is:443/90flashback",
+        "favicon": ""
+    },
+    {
+        "name": "Flashback 91.9 Reykjavik",
+        "url": "http://www.radio.is:443/flashback",
+        "favicon": ""
+    },
+    {
+        "name": "Fred Film Radio-26 \u00cdslenska",
+        "url": "https://s10.webradio-hosting.com/proxy/fredradiois/stream",
+        "favicon": "https://www.fred.fm/favicon.ico"
+    },
+    {
+        "name": "Gull Bylgjan 90.9 Reykjavik",
+        "url": "http://icecast.365net.is:8000/orbGullBylgjan.aac.m3u",
+        "favicon": "http://vefutvarp.visir.is/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "K 100",
+        "url": "https://ice-11.spilarinn.is/kaninnmobile",
+        "favicon": "https://k100.mbl.is/a/sites/k100/img/fav/favicon.ico?v=3"
+    },
+    {
+        "name": "L\u00e9tt Bylgjan",
+        "url": "http://icecast.365net.is:8000/orbLettBylgjan.aac.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Bodun 105.5 Reykjavik",
+        "url": "http://radio.bodun.is:8000/stream",
+        "favicon": "http://cdn-radiotime-logos.tunein.com/s102576q.png"
+    },
+    {
+        "name": "R\u00e1s 1",
+        "url": "http://netradio.ruv.is/ras1.aac.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1s2",
+        "url": "http://netradio.ruv.is/ras2.aac",
+        "favicon": "https://www.ruv.is/apple-touch-icon.png"
+    },
+    {
+        "name": "Rond\u00f3",
+        "url": "https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8",
+        "favicon": "https://www.ruv.is/apple-touch-icon.png"
+    },
+    {
+        "name": "RUV 1",
+        "url": "http://netradio.ruv.is/ras1.aac.m3u",
+        "favicon": "https://www.ruv.is/apple-touch-icon.png"
+    },
+    {
+        "name": "Ruv 1",
+        "url": "http://netradio.ruv.is/ras1.aac.m3u",
+        "favicon": "https://www.ruv.is/favicon.ico"
+    },
+    {
+        "name": "R\u00fav r\u00e1s1",
+        "url": "http://netradio.ruv.is/ras1.aac.m3u",
+        "favicon": "https://www.ruv.is/apple-touch-icon.png"
+    },
+    {
+        "name": "Trolli FM 103.7 Siglufjordu",
+        "url": "http://live.trolli.is:8200/;",
+        "favicon": "http://spilarinn.is/uploads/1486999431932.png"
+    },
+    {
+        "name": "\u00datvarp Saga",
+        "url": "https://stream.utvarpsaga.is/Hljodver",
+        "favicon": "https://utvarpsaga.is/wp-content/uploads/2016/05/merki-toppur.png"
+    },
+    {
+        "name": "Visir \"FM 957 Extra\" Reykjavik",
+        "url": "http://icecast.365net.is:8000/orbFmExtra.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Visir \"FM957\" 95.7 Reykjavik",
+        "url": "http://icecast.365net.is:8000/orbFm957.aac.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "X977",
+        "url": "http://icecast.365net.is:8000/orbXid.aac.m3u",
+        "favicon": ""
+    }
+]

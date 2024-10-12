@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Bo Guia 88.9 FM",
+        "url": "http://whooshserver.net:9880/live",
+        "favicon": "https://boguiafm.com/bo%20guia%20trans.png"
+    },
+    {
+        "name": "Canal90 FM",
+        "url": "https://stream.canal90.fm/live",
+        "favicon": "https://canal90fm.aw/favicon.ico"
+    },
+    {
+        "name": "DIMusic Club Aruba \ud83c\udde6\ud83c\uddfc ",
+        "url": "http://stream1.dimusic.club:11496/live?type=.aac",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240617_080746065.jpg?alt=media&token=a4804d6a-a37f-4334-93ab-3c17f6a8fe33"
+    },
+    {
+        "name": "Fresh FM 104.3 Oranjestad",
+        "url": "http://www.fresharuba.com:8006/;",
+        "favicon": "http://fresharuba.com/wp-content/uploads/2023/08/logo.png"
+    },
+    {
+        "name": "Fresh Fm Aruba",
+        "url": "http://fresharuba.com:8006/stream;audio.mp3?hash=1688155532122",
+        "favicon": "http://fresharuba.com/wp-content/uploads/2023/08/logo.png"
+    },
+    {
+        "name": "freshFM Aruba",
+        "url": "http://fresharuba.com:8006/stream;audio.mp3",
+        "favicon": "http://fresharuba.com/wp-content/uploads/2023/08/logo.png"
+    },
+    {
+        "name": "Magic 96.5 - Oranjestad",
+        "url": "http://158.69.114.190:8072/;",
+        "favicon": ""
+    },
+    {
+        "name": "Magic FM Aruba",
+        "url": "https://s5.nexuscast.com:8072/listen.pls?sid=1",
+        "favicon": "https://img1.wsimg.com/isteam/ip/e3cd697c-dc34-4531-93ce-929d76b726c5/Logo_Magic-NEW.png/:/rs=w:839,h:294,cg:true,m/cr=w:839,h:294/qt=q:95"
+    },
+    {
+        "name": "Top95 FM",
+        "url": "http://198.245.51.58:10995/topfm?type=.mp3",
+        "favicon": "http://www.top95fm.aw/listenlive.png"
+    },
+    {
+        "name": "VIP Radio Online Dance - Noord",
+        "url": "http://s02.whooshserver.net:8054/dance",
+        "favicon": "http://viponlineradio.com/favicon.ico"
+    },
+    {
+        "name": "yhju",
+        "url": "http://52.0.120.216:8000/stream/4/",
+        "favicon": "http://52.0.120.216:8000/favicon.ico"
+    }
+]

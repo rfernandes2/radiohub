@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Darkwaveradio",
+        "url": "https://live.webhosting4u.gr:1185/stream",
+        "favicon": "https://i1.sndcdn.com/avatars-000273480240-i2y6j9-t250x250.jpg"
+    },
+    {
+        "name": "Krem Radio",
+        "url": "http://159.65.32.199:8016/;",
+        "favicon": "https://i0.wp.com/www.krembz.com/wp-content/uploads/2023/04/cropped-favicon.png?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "Love FM",
+        "url": "https://s1.voscast.com:10243/lovefm",
+        "favicon": ""
+    },
+    {
+        "name": "Love FM (Belize)",
+        "url": "https://s1.voscast.com:10243/lovefm",
+        "favicon": "https://lovefm.com/wp-content/uploads/2023/05/cropped-lovefm-coverart-180x180.png"
+    }
+]

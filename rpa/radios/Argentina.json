@@ -1,0 +1,4342 @@
+[
+    {
+        "name": "   Radio Disney 94.3 - Buenos Aires, Argentina",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac",
+        "favicon": "https://cdn-profiles.tunein.com/s13659/images/logog.png"
+    },
+    {
+        "name": " FM 94.3 Radio Municipal de Toay",
+        "url": "http://servidor.ilive.com.ar:9678/;",
+        "favicon": ""
+    },
+    {
+        "name": " FM BAND NEWS 89.5",
+        "url": "https://streaming01.shockmedia.com.ar:10486/",
+        "favicon": ""
+    },
+    {
+        "name": " FM CERES  98.7",
+        "url": "https://streaming.escuchanosonline.com/8410/stream",
+        "favicon": ""
+    },
+    {
+        "name": " La SuperSonica",
+        "url": "https://c11.radioboss.fm:8093/stream",
+        "favicon": ""
+    },
+    {
+        "name": " Radio Mitre",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC_SC",
+        "favicon": "https://cloudfront-arc.cienradios.com/radiomitre/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "@twitradioo",
+        "url": "http://s2.netradiofm.com:6338/",
+        "favicon": ""
+    },
+    {
+        "name": "101.5Music - La Radio de la M\u00fasica",
+        "url": "http://190.1.0.5:8035/;",
+        "favicon": ""
+    },
+    {
+        "name": "102.5 Medios del Aire (General Roca)",
+        "url": "https://server6.hostradios.com:7041/;",
+        "favicon": "http://www.mediosdelaire.com.ar/assets/img/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "107.9 El Observador",
+        "url": "https://s8.stweb.tv/observador/live/playlist.m3u8",
+        "favicon": "https://elobservador1079.com.ar/wp-content/uploads/2023/07/cropped-favicom-web-el-ob-180x180.png"
+    },
+    {
+        "name": "107.9 El Observador version 2",
+        "url": "http://s8.stweb.tv:1935/observador/live/playlist.m3u8",
+        "favicon": "https://elobservador1079.com.ar/wp-content/uploads/2023/07/cropped-favicom-web-el-ob-180x180.png"
+    },
+    {
+        "name": "107.9 El Observador version 3",
+        "url": "https://s8.stweb.tv/observador/live/playlist.m3u8",
+        "favicon": "https://elobservador1079.com.ar/wp-content/uploads/2023/07/cropped-favicom-web-el-ob-180x180.png"
+    },
+    {
+        "name": "221Radio (FM 103.1)",
+        "url": "https://radios.solumedia.com:10815/stream",
+        "favicon": ""
+    },
+    {
+        "name": "550 AM La Primera ",
+        "url": "https://s2.argentina-streaming.com:10851/stream",
+        "favicon": "https://www.am550laprimera.com/images/custom/logo-header.jpg?_v=108"
+    },
+    {
+        "name": "88.9 FM Radio Light",
+        "url": "http://streamall.alsolnet.com/radiolightfm",
+        "favicon": ""
+    },
+    {
+        "name": "90 Radio (FM 90.1)",
+        "url": "http://sonicpanel.hostradios.com:8108/;",
+        "favicon": "https://www.noventaradio.com/assets/img/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "92.5 FM Radio 2000",
+        "url": "https://server6.hostradios.com/8390/stream",
+        "favicon": "https://i0.wp.com/radio2000camilo.com.ar/wp-content/uploads/2023/09/Screenshot-2023-09-29-at-14-14-03-Radio2000-92.5Mhz.-CAMILO-ALDAO.png?w=319&ssl=1"
+    },
+    {
+        "name": "94.5 M\u00e1xima FM ",
+        "url": "http://server.laradio.online:8797/;",
+        "favicon": "https://maximaonline.com.ar/archivos/images/iconos/apple-icon-120x120.png"
+    },
+    {
+        "name": "96.1 Shopping Classics",
+        "url": "https://stream4.suenas.net/shoppingclassics",
+        "favicon": "https://static.wixstatic.com/media/ec27f9_ea87259ccf5b5bb366eb07444d11ad6a.png/v1/fill/w_224,h_226,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ec27f9_ea87259ccf5b5bb366eb07444d11ad6a.png"
+    },
+    {
+        "name": "ABC Mundial Radio",
+        "url": "http://01.solumedia.com.ar:7054/;",
+        "favicon": ""
+    },
+    {
+        "name": "Aborigen Radio FM 105.3",
+        "url": "https://server.laradio.online:18446/live",
+        "favicon": ""
+    },
+    {
+        "name": "Acqua FM 100.1",
+        "url": "https://strcdn.klm99.com:10985/acquavillagesell",
+        "favicon": "http://www.acqua.fm/apple-touch-icon.png"
+    },
+    {
+        "name": "Activa FM 93.5",
+        "url": "https://streaming5.locucionar.com/proxy/activafm?mp=/stream",
+        "favicon": "https://activafmweb.com.ar/img/icono_1716475347.png"
+    },
+    {
+        "name": "AIRE",
+        "url": "http://stm14.xcast.com.br:8248/",
+        "favicon": "https://www.airedesantafe.com.ar/css-custom/268/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "Aire Libre 96.3 R\u00edo Grande",
+        "url": "http://streamingraddios.net:9277/stream",
+        "favicon": "https://www.airelibre.com.ar/wp-content/uploads/2023/06/cropped-favicon-180x180.png"
+    },
+    {
+        "name": "Aire Libre 96.3 R\u00edo Grande ",
+        "url": "http://streamingraddios.net:9277/",
+        "favicon": ""
+    },
+    {
+        "name": "Aire Libre 96.3 R\u00edo Grande ",
+        "url": "http://streamingraddios.net:9277/stream?type=http&nocache=160387",
+        "favicon": ""
+    },
+    {
+        "name": "Alegr\u00eda FM 99.7",
+        "url": "http://radio.solumedia.com.ar:8004/;",
+        "favicon": "https://cadenaalegria.com.ar/favicon.ico"
+    },
+    {
+        "name": "Alternativa 99.3 FM",
+        "url": "https://radio01.ferozo.com/proxy/ra01000727?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Alternativa FM 107.1",
+        "url": "http://audio.questreaming.com:25181/;",
+        "favicon": "https://fmalternativa107.com/uploads/logo/logo_5b1579297f26a.jpg"
+    },
+    {
+        "name": "Always Hits Radio",
+        "url": "https://stream.zeno.fm/yqb6aauhtv8uv",
+        "favicon": ""
+    },
+    {
+        "name": "Am 1050 San Francisco ",
+        "url": "https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3",
+        "favicon": "https://www.lavozdesanjusto.com.ar/favicon/favicon-32x32.png"
+    },
+    {
+        "name": "AM 1230 Creativa",
+        "url": "https://streaming3.locucionar.com/proxy/creativaonline?mp=/stream",
+        "favicon": "https://www.am1230creativa.com.ar/img/icono_1708714705.png"
+    },
+    {
+        "name": "AM 1270 - Radio Provincia de Buenos Aires",
+        "url": "https://streaming.provinciaradio.com.ar:7008/am",
+        "favicon": ""
+    },
+    {
+        "name": "AM 1440 IMPACTO",
+        "url": "https://server.laradio.online:58165/live?1721826220781",
+        "favicon": ""
+    },
+    {
+        "name": "AM 530 Somos radio",
+        "url": "https://ipanel.instream.audio:7000/stream",
+        "favicon": "https://static.wixstatic.com/media/bec174_ab44bc8dffdb479b8386959c7966916f%7Emv2.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/bec174_ab44bc8dffdb479b8386959c7966916f%7Emv2.jpg"
+    },
+    {
+        "name": "Am 630 Jujuy",
+        "url": "https://stream.arcast.com.ar/radio/am630.stream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "AM 750 Una se\u00f1al",
+        "url": "https://26673.live.streamtheworld.com/AM750AAC_SC",
+        "favicon": "https://www.pagina12.com.ar/am750/radio-en-vivo"
+    },
+    {
+        "name": "AM 830 LT8 Rosario",
+        "url": "https://stream.lt8.com.ar:8443/lt8radio.mp3",
+        "favicon": "https://i0.wp.com/www.lt8.com.ar/wp-content/uploads/2020/06/cropped-android-chrome-512x512-1.png?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "AM 830 Radio del Pueblo",
+        "url": "https://streaming6.locucionar.com:24248/stream",
+        "favicon": ""
+    },
+    {
+        "name": "AM Con Vos 1420. AM 1420",
+        "url": "https://us9.maindigitalstream.com/ssl/7192",
+        "favicon": ""
+    },
+    {
+        "name": "AM CUMBRE 1400",
+        "url": "https://cdn.instream.audio/:9366/stream",
+        "favicon": "https://amcumbre.com/favicon.ico"
+    },
+    {
+        "name": "AM CUMBRE 1400",
+        "url": "https://cdn.instream.audio/:9366/stream",
+        "favicon": "https://amcumbre.com/favicon.ico"
+    },
+    {
+        "name": "AM1330 Rosario",
+        "url": "http://s2.argentina-streaming.com:8156/;",
+        "favicon": "https://am1330rosario.com.ar/wp-content/uploads/logo-am1330rosario-blanco-1.png"
+    },
+    {
+        "name": "AM710 - Radio 10 (El sonido de la realidad)",
+        "url": "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
+        "favicon": "https://www.radio10.com.ar/css-custom/220/favicons/android-chrome-512x512.png"
+    },
+    {
+        "name": "AM750",
+        "url": "https://26673.live.streamtheworld.com/AM750AAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=0d038027-7e61-45c6-bf8e-03d246e129b7",
+        "favicon": "https://www.pagina12.com.ar/assets/media/favicon/120x120.png?v=2.0.245"
+    },
+    {
+        "name": "AM750",
+        "url": "https://26673.live.streamtheworld.com/AM750AAC.aac",
+        "favicon": "https://www.pagina12.com.ar/assets/media/favicon/120x120.png?v=2.0.245"
+    },
+    {
+        "name": "AM750",
+        "url": "https://26673.live.streamtheworld.com/AM750AAC.aac",
+        "favicon": "https://www.pagina12.com.ar/assets/media/favicon/120x120.png?v=2.0.245"
+    },
+    {
+        "name": "Amadeus",
+        "url": "https://streamingradiolinks.xyz/8484/;",
+        "favicon": ""
+    },
+    {
+        "name": "AMADEUS",
+        "url": "http://18.220.84.192:8484/;",
+        "favicon": ""
+    },
+    {
+        "name": "Amadeus 91.1",
+        "url": "https://streamingradiolinks.xyz/8484/;",
+        "favicon": "https://culturamusical.nyc3.digitaloceanspaces.com/2019/07/AMADEUS91-1-20194.png"
+    },
+    {
+        "name": "Amadeus 91.1",
+        "url": "https://streamingradiolinks.xyz/8484/;",
+        "favicon": "https://culturamusical.nyc3.digitaloceanspaces.com/2019/07/AMADEUS91-1-20194.png"
+    },
+    {
+        "name": "Andina FM 92.9",
+        "url": "https://streaming01.shockmedia.com.ar:10801/stream?icy=http",
+        "favicon": "https://fmandina929.com.ar/imagenes/banner.png"
+    },
+    {
+        "name": "Animal FM 100.7",
+        "url": "https://radio02.ferozo.com/proxy/ra02001217?mp=/stream",
+        "favicon": "https://animalfm.com.ar/favicon.ico"
+    },
+    {
+        "name": "Antena 1 91.5 FM",
+        "url": "https://s3.netradiofm.com/p/9008/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Antena 1 radio",
+        "url": "https://streaming.escuchanosonline.com/8268/stream",
+        "favicon": "https://blogger.googleusercontent.com/img/a/AVvXsEiEJiojfdnn0hMwpGZQeEjUyiGfw-4pwxsR1nP2Q0615opaZ8nqvdBXOXN1oOIzw7zVuo2747FCbqIkTYmf7qorWs5tekAU0PQBGh18fp4q5GM9Tequ6viLpQRReOayRW_SLzbozSw0tnWpAcMgeger6ghP5uJQVvHRKhwNS9TGfGEkCNdBIq9HdUyKtQ=s752"
+    },
+    {
+        "name": "Antena 98.9",
+        "url": "http://server1.veemesoft.com.ar:8064/live",
+        "favicon": "https://statics-v2.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg"
+    },
+    {
+        "name": "antena libre 89.1 argentina universidad conahue",
+        "url": "http://cdn.instream.audio:9140/stream",
+        "favicon": "https://i0.wp.com/www.antena-libre.com.ar/wp-content/uploads/2019/05/cropped-web2019-isolog-lite-1.jpg?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "Antena Libre 89.1 FM",
+        "url": "https://cdn.instream.audio/:9140/stream",
+        "favicon": "https://i0.wp.com/www.antena-libre.com.ar/wp-content/uploads/2019/05/cropped-web2019-isolog-lite.jpg?w=888&ssl=1"
+    },
+    {
+        "name": "Antena Nueve 94.3 FM",
+        "url": "https://radios.solumedia.com:10918/;",
+        "favicon": ""
+    },
+    {
+        "name": "Antena Uno 92.3FM Posadas",
+        "url": "https://radios.solumedia.com:10818/;",
+        "favicon": ""
+    },
+    {
+        "name": "Apuntes Fm 98.9Mhz",
+        "url": "http://streaming2.locucionar.com:8112/stream",
+        "favicon": "https://fm989.com.ar/wp-content/uploads/2020/12/cropped-logo-transparente-180x180.png"
+    },
+    {
+        "name": "Arco Iris FM 98.1 ",
+        "url": "http://centova.questreaming.com:4058/;",
+        "favicon": ""
+    },
+    {
+        "name": "Aries FM 91.1",
+        "url": "https://streaming3.locucionar.com/proxy/ariesonline?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Aspen 102.3",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Bar de Blues Radio",
+        "url": "https://streamingraddios.online/proxy/bardeblues?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Beat 90200",
+        "url": "http://radio02.ferozo.com:8850/stream",
+        "favicon": "https://img.radios.com.br/radio/xl/radio40503_1629208246.jpg"
+    },
+    {
+        "name": "Beat Digital Radio",
+        "url": "http://stream.zeno.fm/9s7nnwmknkhvv.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "BeatRadio - General Pico",
+        "url": "https://server.ohradio.com.ar:7043/stream",
+        "favicon": "https://beatradio.com.ar/icono.png"
+    },
+    {
+        "name": "Beats Radio 100.5 FM",
+        "url": "https://streaming.shockmedia.com.ar/9778/stream",
+        "favicon": ""
+    },
+    {
+        "name": "berlin 107.9",
+        "url": "http://s8.stweb.tv/berlin/live/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Berl\u00edn 107.9",
+        "url": "https://s8.stweb.tv/berlin/live/playlist.m3u8",
+        "favicon": "https://berlin1077.com/wp-content/uploads/2022/11/cropped-logo-mas-chico-180x180.png"
+    },
+    {
+        "name": "Big FM 91.9 Rosario",
+        "url": "https://radio01.ferozo.com/proxy/ra01000666?mp=/stream;\\",
+        "favicon": "https://pbs.twimg.com/profile_images/1513948254387511304/sfLvg11j_400x400.jpg"
+    },
+    {
+        "name": "Binaural Rock Radio",
+        "url": "http://01.solumedia.com.ar:7870/;",
+        "favicon": ""
+    },
+    {
+        "name": "Blackie 89.1",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLACKIE_89_1.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Blend Radio",
+        "url": "https://sysmedia.com.ar:8100/blendradio_web",
+        "favicon": "https://www.blendradio.ar/images/logo.png"
+    },
+    {
+        "name": "blu fm",
+        "url": "https://icecasthd.net/proxy/blufm/stream",
+        "favicon": "https://blufm.com/favicon.ico"
+    },
+    {
+        "name": "Blue 100.7 FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac",
+        "favicon": "https://bluefm.com.ar/wp-content/themes/bluefmtheme/img/logo_blue.png"
+    },
+    {
+        "name": "Blue FM 100.7. Ciudad de Buenos Aires",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac",
+        "favicon": "https://bluefm.com.ar/wp-content/themes/bluefmtheme/favicon.png"
+    },
+    {
+        "name": "Blur fm",
+        "url": "http://live.radiovague.com:8000/blurfm03",
+        "favicon": ""
+    },
+    {
+        "name": "Blur Radio",
+        "url": "https://live.radiovague.com:8443/blurfm04",
+        "favicon": ""
+    },
+    {
+        "name": "BRH - Bah\u00eda Radio Hits",
+        "url": "https://miestacion.turadioonline.com.ar/8158/stream",
+        "favicon": "https://bahiaradiohits.com.ar/icono%2001.ico"
+    },
+    {
+        "name": "Bunker FM 91.9",
+        "url": "https://azura.derflusweb.com/radio/8010/radio.mp3",
+        "favicon": "https://bunkerfm.com.ar/img/logobunker1.png"
+    },
+    {
+        "name": "Cadena 103 103.1 FM",
+        "url": "https://stream.arcast.com.ar/cadena103audio/cadena103audio.stream/playlist.m3u8",
+        "favicon": "https://i0.wp.com/www.cadena103.com.ar/wp-content/uploads/2017/07/cropped-103-scaled-1.jpg?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "Cadena 3",
+        "url": "http://server.laradio.online:8018/stream",
+        "favicon": "https://www.cadena3.com/img/logo.png "
+    },
+    {
+        "name": "Cadena 3 Cordoba",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/radio3.mp3",
+        "favicon": "https://www.cadena3.com/img/logo.png"
+    },
+    {
+        "name": "Cadena 3 Cordoba",
+        "url": "https://liveradio.mediainbox.net/radio3.mp3",
+        "favicon": "https://www.cadena3.com/img/logo.png"
+    },
+    {
+        "name": "Cadena Alegr\u00eda - C\u00f3rdoba",
+        "url": "https://streaming.escuchanosonline.com:7101/stream",
+        "favicon": "https://escuchanosonline.com/clientes/img/logos/1695f158deccdabf9764db6b965a10df.jpg"
+    },
+    {
+        "name": "Cadena Cumbia Latina 89.3 FM",
+        "url": "https://stream-160.zeno.fm/60pqgs97f2zuv?zs=BCmVbzf4RheaQLwJZpq_Og",
+        "favicon": "https://cdn-profiles.tunein.com/s16486/images/logog.jpg"
+    },
+    {
+        "name": "Cadena Eco AM 1220",
+        "url": "https://node-35.zeno.fm/uyd6h9w162quv?rj-ttl=5&rj",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/TUVTYXhvqt.png"
+    },
+    {
+        "name": "Cadena Energy",
+        "url": "http://innovatingthenet.com.ar:8001/energyai.mp3",
+        "favicon": "https://www.fmcadenaenergy.com.ar/images/logoenergypng.png "
+    },
+    {
+        "name": "Cadena Express 88.1 FM",
+        "url": "https://streamall.alsolnet.com/cadenaexpress",
+        "favicon": "http://www.cadenaexpress.com/assets/images/logopag2-280x92.png"
+    },
+    {
+        "name": "Cadena Heat",
+        "url": "https://liveradio.mediainbox.net/fmcordoba.mp3",
+        "favicon": "https://www.cadenaheat.com/img/logo-cadena-heat.png"
+    },
+    {
+        "name": "Cadena Heat",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/cadenaheat.mp3?dist=c3-web",
+        "favicon": ""
+    },
+    {
+        "name": "Cadena Integraci\u00f3n 92.1 FM",
+        "url": "https://streaming1.locucionar.com/proxy/cadintegracion?mp=/stream",
+        "favicon": "https://streaminglocucionar.com/portal/images/logos/cadintegracion.png "
+    },
+    {
+        "name": "Cadena Melod\u00edas 99.1",
+        "url": "https://tolkien.republicahosting.net:2381/live",
+        "favicon": "https://cadenamelodias.com.ar/wp-content/uploads/2021/06/cropped-unnamed1-1-180x180.png"
+    },
+    {
+        "name": "Cadena Nueve 89.9 FM",
+        "url": "https://radio01.ferozo.com/proxy/ra01000626/?mp=/;",
+        "favicon": "https://www.cadenanueve.com/wp-content/uploads/2021/07/logo-cn-min.jpg"
+    },
+    {
+        "name": "Cadena Oh 94.1 FM",
+        "url": "https://stream.arcast.com.ar/cadenaoh/cadenaoh.stream/playlist.m3u8",
+        "favicon": "https://www.cadenaoh.com.ar/web/wp-content/uploads/2019/04/cadenaohX1.png"
+    },
+    {
+        "name": "Cadena Rio FM 88.7",
+        "url": "https://radio02.ferozo.com/proxy/ra02001342?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Cadena Ser Argentina 100.9 FM",
+        "url": "https://server.laradio.online:58381/live",
+        "favicon": "https://statics-v2.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg"
+    },
+    {
+        "name": "Cadena Space 96.9 FM",
+        "url": "http://52.9.150.45:8000/;",
+        "favicon": ""
+    },
+    {
+        "name": "Cadena Sur 94.5 FM",
+        "url": "https://streaming.radiosenlinea.com.ar/8860/stream",
+        "favicon": ""
+    },
+    {
+        "name": "CAFF",
+        "url": "https://streams.radio.co/s6b80bc417/listen",
+        "favicon": ""
+    },
+    {
+        "name": "Campeones radio",
+        "url": "https://01.solumedia.com.ar:7193/stream",
+        "favicon": "https://campeones.com.ar/wp-content/uploads/2022/03/cropped-ico-180x180.png"
+    },
+    {
+        "name": "Chacarereando",
+        "url": "https://streamconex.com:8212/;",
+        "favicon": ""
+    },
+    {
+        "name": "Chajar\u00ed al D\u00eda 940 AM",
+        "url": "http://190.185.128.226:8001/AM940",
+        "favicon": ""
+    },
+    {
+        "name": "Chascom\u00fas AM 1520",
+        "url": "https://streaming1.locucionar.com/proxy/radiochascomus?mp=/stream",
+        "favicon": "http://www.lavozregional.com.ar/img/icono_1638472046.png"
+    },
+    {
+        "name": "Cienradios - 80s Internacional",
+        "url": "https://24283.live.streamtheworld.com/80INTERNACIONAL_PYTAAC.aac?",
+        "favicon": "https://cloudfront-arc.cienradios.com/ar/favicons/favicon-16x16.png"
+    },
+    {
+        "name": "Cienradios - 90s Internacional",
+        "url": "https://27603.live.streamtheworld.com/90INTER_PYTAAC.aac?",
+        "favicon": "https://cloudfront-arc.cienradios.com/ar/favicons/favicon-16x16.png"
+    },
+    {
+        "name": "Cienradios - Adulto Contempor\u00e1neo",
+        "url": "https://24363.live.streamtheworld.com/ADULTOCONTEMPORANEO_PYTAAC.aac?",
+        "favicon": "https://cloudfront-arc.cienradios.com/ar/favicons/favicon-16x16.png"
+    },
+    {
+        "name": "Cienradios - Enamorados",
+        "url": "https://27573.live.streamtheworld.com/ENAMORADOS_PYTAAC.aac?",
+        "favicon": "https://cloudfront-arc.cienradios.com/ar/favicons/favicon-16x16.png"
+    },
+    {
+        "name": "Cienradios - Grandes del Rock",
+        "url": "https://27393.live.streamtheworld.com/GRANDESDELROCK_PYTAAC.aac?",
+        "favicon": "https://cloudfront-arc.cienradios.com/ar/favicons/favicon-16x16.png"
+    },
+    {
+        "name": "Cienradios - M\u00fasica de Pel\u00edculas",
+        "url": "https://27603.live.streamtheworld.com/PELICULAS_PYTAAC.aac?",
+        "favicon": "https://cloudfront-arc.cienradios.com/ar/favicons/favicon-16x16.png"
+    },
+    {
+        "name": "Cienradios - M\u00fasica en Vivo",
+        "url": "https://24223.live.streamtheworld.com/MUSICAENVIVO_PYTAAC.aac?",
+        "favicon": "https://cloudfront-arc.cienradios.com/ar/favicons/favicon-16x16.png"
+    },
+    {
+        "name": "Cienradios - M\u00fasica Rom\u00e1ntica",
+        "url": "https://26643.live.streamtheworld.com/ROMANTICA_PYTAAC.aac?",
+        "favicon": "https://cloudfront-arc.cienradios.com/ar/favicons/favicon-16x16.png"
+    },
+    {
+        "name": "Cienradios - Nuevos Cl\u00e1sicos Internacional",
+        "url": "https://26593.live.streamtheworld.com/NCINTER_PYTAAC.aac?",
+        "favicon": "https://cloudfront-arc.cienradios.com/ar/favicons/favicon-16x16.png"
+    },
+    {
+        "name": "Cienradios - Pop",
+        "url": "https://27603.live.streamtheworld.com/POP_PYTAAC.aac?",
+        "favicon": "https://cloudfront-arc.cienradios.com/ar/favicons/favicon-16x16.png"
+    },
+    {
+        "name": "Cienradios - The Beatles y Artistas Relacionados",
+        "url": "https://24233.live.streamtheworld.com/JOHNPAULGEORGERINGO_PYTAAC.aac?",
+        "favicon": "https://cloudfront-arc.cienradios.com/ar/favicons/favicon-16x16.png"
+    },
+    {
+        "name": "Cienradios Radio X",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOX_56AAC.aac",
+        "favicon": "https://cloudfront-arc.cienradios.com/ar/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "C\u00edtrica Radio",
+        "url": "http://alpha.radioplayer.com.ar:9132/citrica885",
+        "favicon": "https://www.citricaradio.com/assets/img/favicon.ico"
+    },
+    {
+        "name": "CLASS FM 91.9",
+        "url": "http://streaming01.dwservers.net:8400/;",
+        "favicon": "https://classfm.com.ar/images/cabecera.png"
+    },
+    {
+        "name": "Classic Hits - \u00c9xitos que no pasan de moda",
+        "url": "https://stream-151.zeno.fm/7st5b8derm0uv?",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-512x512.png"
+    },
+    {
+        "name": "Classique",
+        "url": "http://01.solumedia.com.ar:8562/;stream.nsv",
+        "favicon": "https://www.classique.com.ar/adjuntos/180/bsaldia/footerlogo-2.png"
+    },
+    {
+        "name": "Classique FM 106.5 FM",
+        "url": "https://radio.solumedia.com.ar:8562/;",
+        "favicon": "https://www.classique.com.ar/adjuntos/300/classiq/logo-2023.png"
+    },
+    {
+        "name": "Classique: Una radio de cl\u00e1sicos",
+        "url": "https://01.solumedia.com.ar:8562/stream",
+        "favicon": "https://www.classique.com.ar/adjuntos/180/bsaldia/footerlogo-2.png"
+    },
+    {
+        "name": "Classique: Una radio de cl\u00e1sicos",
+        "url": "https://01.solumedia.com.ar:8562/stream",
+        "favicon": "https://www.classique.com.ar/adjuntos/180/bsaldia/footerlogo-2.png"
+    },
+    {
+        "name": "Club De Los Libros Libros Intocables - Radio Online",
+        "url": "http://stream.zeno.fm/fdnbtq898a0uv",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "CNN AM 950 Arg. AAC Alta V3. Ciudad de Buenos Aires",
+        "url": "http://unlimited2-ar.dps.live/cnn-ar/aac/icecast.audio",
+        "favicon": "https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/images/favicon/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "CNN Radio Rafaela FM 92.1",
+        "url": "http://streaming.mv-comunicaciones.online:8050/cnnradiorafaela",
+        "favicon": "https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/images/favicon/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "Compacto FM 88.1",
+        "url": "https://streaming2.locucionar.com/proxy/fmcompacto?mp=/stream",
+        "favicon": "https://streaminglocucionar.com/portal/images/logos/fmcompacto.png"
+    },
+    {
+        "name": "Comunidad Fan FM 105.1 Rosario",
+        "url": "https://radio02.ferozo.com/proxy/ra02001326?mp=/stream",
+        "favicon": "https://api.comunidad.fan/web/uploads/master/1/favicon/0-apple_icon_120x120.png"
+    },
+    {
+        "name": "Concepto FM 95.5",
+        "url": "https://radios.solumedia.com:6002/;",
+        "favicon": "http://www.conceptofm.com/favicon.ico"
+    },
+    {
+        "name": "Concepto FM 95.5 MHz",
+        "url": "http://radios.solumedia.com:6002/stream",
+        "favicon": "https://www.conceptofm.com.ar/nuevaweb/wp-content/uploads/2022/06/logo.png"
+    },
+    {
+        "name": "Conciencia FM 104.9",
+        "url": "https://streaming3.locucionar.com/proxy/concienciafm1049?mp=/stream",
+        "favicon": "https://statics-v3.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg"
+    },
+    {
+        "name": "Concierto FM 93.3",
+        "url": "https://server.laradio.online/proxy/alberto_prados?mp=/stream&1714852023731",
+        "favicon": ""
+    },
+    {
+        "name": "Concierto FM 94.7",
+        "url": "https://01.solumedia.com.ar:8112/stream",
+        "favicon": "https://concierto947.com.ar/logo.jpg"
+    },
+    {
+        "name": "Conexion Bariloche 93.9 FM",
+        "url": "https://streamconex.com:2000/stream/ConexioxBariloche",
+        "favicon": "https://static.wixstatic.com/media/59bfef_fd792244436e452a994523d67c921000.jpg/v1/fill/w_227,h_170,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/59bfef_fd792244436e452a994523d67c921000.jpg"
+    },
+    {
+        "name": "Contacto 95.3",
+        "url": "https://streamlov.alsolnet.com/fmcontctoradio/live/playlist.m3u8",
+        "favicon": "https://www.radiocontacto953.com.ar/images/logo_header.png"
+    },
+    {
+        "name": "continental",
+        "url": "https://alpha.radioplayer.com.ar/stream/cadenacontinental",
+        "favicon": ""
+    },
+    {
+        "name": "continental",
+        "url": "https://alpha.radioplayer.com.ar/stream/cadenacontinental",
+        "favicon": ""
+    },
+    {
+        "name": "continental",
+        "url": "https://alpha.radioplayer.com.ar/stream/cadenacontinental",
+        "favicon": ""
+    },
+    {
+        "name": "Continental 590 AM. Bs. As. Version 1",
+        "url": "https://frontend.radiohdvivo.com/continental/live",
+        "favicon": ""
+    },
+    {
+        "name": "Continental 590 AM. Bs. As. Version 3",
+        "url": "https://frontend.radiohdvivo.com/continental/live",
+        "favicon": ""
+    },
+    {
+        "name": "Continental 590 AM. Ciudad de Bs. As. 110 Kbps Mp3",
+        "url": "https://alpha.radioplayer.com.ar/stream/continental",
+        "favicon": ""
+    },
+    {
+        "name": "Cosmos Fm",
+        "url": "http://s28.myradiostream.com:28240/listen.m4a",
+        "favicon": "https://i0.wp.com/fmcosmos.com/wp-content/uploads/2024/03/cropped-favicon2024.png?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "Cristal FM",
+        "url": "https://radio02.ferozo.com/proxy/ra02001330?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Cristal FM 107.9",
+        "url": "https://radio02.ferozo.com/proxy/ra02001330?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "CRISTAL FM Noetinger",
+        "url": "https://radio02.ferozo.com/proxy/ra02001324?mp=/stream",
+        "favicon": "https://www.cristalnoetinger.com.ar/images/Black_no.circle_facebook.png"
+    },
+    {
+        "name": "CSC Radio FM 106.5",
+        "url": "https://server.laradio.online:58844/live",
+        "favicon": "https://radiocsc.com/wp-content/uploads/elementor/thumbs/LOGO-PNG-BLANCO-CSC-degrade-pzu1e5b0jzzmkqgti01p5mzzj5nih8apoxlwoyhtie.png"
+    },
+    {
+        "name": "CVC La Voz Urbano ",
+        "url": "https://chat-assets.frontapp.com/v1/149be82f568687535638c72a66facc34.ogg",
+        "favicon": ""
+    },
+    {
+        "name": "CVC La Voz Urbano ",
+        "url": "https://chat-assets.frontapp.com/v1/149be82f568687535638c72a66facc34.ogg",
+        "favicon": ""
+    },
+    {
+        "name": "CVC La Voz Urbano ",
+        "url": "https://chat-assets.frontapp.com/v1/149be82f568687535638c72a66facc34.ogg",
+        "favicon": ""
+    },
+    {
+        "name": "CVC La Voz Urbano ",
+        "url": "https://chat-assets.frontapp.com/v1/149be82f568687535638c72a66facc34.ogg",
+        "favicon": ""
+    },
+    {
+        "name": "CVC La Voz Urbano ",
+        "url": "https://chat-assets.frontapp.com/v1/149be82f568687535638c72a66facc34.ogg",
+        "favicon": ""
+    },
+    {
+        "name": "D Sports Radio",
+        "url": "http://provisioning.streamtheworld.com/pls/DSPORTSRADIO.pls",
+        "favicon": "https://dsportsradio-assets.tadevel-cdn.com/62bf627721e9e4e221528ca9/720.webp"
+    },
+    {
+        "name": "D Sports Radio 103.1 FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac",
+        "favicon": "https://dsportsradio-assets.tadevel-cdn.com/629907755104019949cc1823/logo-night.svg"
+    },
+    {
+        "name": "d-Sports radio",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Dale FM 93.1",
+        "url": "https://streaming01.shockmedia.com.ar:10891/;?hash=1659583597942",
+        "favicon": ""
+    },
+    {
+        "name": "Dale FM 93.1",
+        "url": "https://streaming01.shockmedia.com.ar:10891/;",
+        "favicon": "https://dalefm.ar/wp-content/uploads/2018/12/cropped-logo-fav-1-180x180.png"
+    },
+    {
+        "name": "De La Costa Radio 103.3",
+        "url": "http://01.solumedia.com.ar:8176/stream",
+        "favicon": ""
+    },
+    {
+        "name": "De la Mujer",
+        "url": "http://165.227.209.68:9990/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "De la Nueva Bah\u00eda 106.1 FM",
+        "url": "https://radios.solumedia.com/6136/stream",
+        "favicon": "https://statics-v3.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg"
+    },
+    {
+        "name": "Del Bosque Radio 89.1 FM",
+        "url": "https://streaming01.shockmedia.com.ar:10598/stream/1/",
+        "favicon": "https://delbosqueradio.com.ar/imagenes/banner.png"
+    },
+    {
+        "name": "Del Sol FM 89.9",
+        "url": "https://streaming2.locucionar.com/proxy/delsolfm?mp=/stream",
+        "favicon": "https://delsolviale.com.ar/static/custom/favicon.png"
+    },
+    {
+        "name": "Delta 90.3",
+        "url": "https://cdn.instream.audio//:9069//stream",
+        "favicon": "https://fmdelta903.com/favicon.ico"
+    },
+    {
+        "name": "Delta 90.3",
+        "url": "https://cdn.instream.audio/:9069/stream",
+        "favicon": "https://fmdelta903.com/favicon.ico"
+    },
+    {
+        "name": "Delta 90.3",
+        "url": "https://cdn.instream.audio/:9069/stream?in_device_id=wp-0bd8ae0e-61bb-4c85-8d42-818ab95f0da2",
+        "favicon": "https://fmdelta903.com/images/logo.png"
+    },
+    {
+        "name": "Delta 90.3 Buenos Aires",
+        "url": "https://cdn.instream.audio/:9069/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988",
+        "favicon": "https://fmdelta903.com/favicon.ico"
+    },
+    {
+        "name": "Diamante Fm 95.7 MHz",
+        "url": "https://proxy01.servidorenlinea.net/streaming1/8014/;",
+        "favicon": "https://diamantefm.com.ar/wp-content/uploads/2022/03/cropped-DIAMANTE-1-38.jpg.webp"
+    },
+    {
+        "name": "diferente FM 89.5 Mhz",
+        "url": "https://stream.zeno.fm/rfemgbu579avv",
+        "favicon": "https://images.unsplash.com/photo-1554951136-c87e5b6c3228?auto=format&fit=crop&w=1920"
+    },
+    {
+        "name": "Digital FM 102.1",
+        "url": "https://turadioenvivo.com/proxy/fmdigital/stream",
+        "favicon": ""
+    },
+    {
+        "name": "DIGITAL FM 104.9",
+        "url": "https://stream.zeno.fm/pewavgmncv8uv",
+        "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fqk7RweQ_lN2EX0C1bNiaQe-Fc71yArcOann_uvzkqAY%2Frs%3Afit%3A1500%3A600%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3MHBYanJ3a01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUN3OHZEMXBnc01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE2OTk2NTY5NzQwMDA.webp&w=1920&q=70"
+    },
+    {
+        "name": "Digital FM 91.9",
+        "url": "https://stream.arcast.com.ar/radio/puntal.stream/playlist.m3u8",
+        "favicon": "https://digital919.com.ar/favicon.ico"
+    },
+    {
+        "name": "DINAMICA FM 88.3",
+        "url": "https://stream.zeno.fm/2qfxz4z9hfhvv",
+        "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FaxdYbOSXi8S110ivUYyVzPByGvXaGPrz9IZxNHbrwso%2Frs%3Afit%3A1500%3A600%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJa3BfRDhBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJMHFlQy1nc01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE2OTQ1MjczNzQwMDA.webp&w=1920&q=70"
+    },
+    {
+        "name": "Dinamo FM 100.9",
+        "url": "http://01.solumedia.com.ar:8144/;",
+        "favicon": ""
+    },
+    {
+        "name": "DIVA\u00b4S + M\u00daSICA FM 89.9",
+        "url": "https://radios.solumedia.com/6490/stream",
+        "favicon": "https://www.divas.com.ar/adjuntos/180/divas/iso1.png"
+    },
+    {
+        "name": "DNA radio FM",
+        "url": "https://usa13.fastcast4u.com/proxy/dnaradiofm?mp=/;",
+        "favicon": "https://dnaradiofm.com/wp-content/uploads/2023/06/dna1-300x106.png"
+    },
+    {
+        "name": "Doble A",
+        "url": "https://sonic.host-live.com/8268/stream",
+        "favicon": "http://www.fracturaexpuesta.com.ar/doblearadio/img/logos/dobleAradio.png"
+    },
+    {
+        "name": "Doctor Rock FM 92.9",
+        "url": "http://server.laradio.online:8683/stream/;",
+        "favicon": "http://doctorrockfm.com.ar/wp-content/uploads/2023/10/cropped-doctorrock_icon-180x180.png"
+    },
+    {
+        "name": "Dorado FM 98.3",
+        "url": "https://streamingraddios.online/proxy/dora?mp=/stream",
+        "favicon": "https://www.wix.com/favicon.ico"
+    },
+    {
+        "name": "Dr. Rock FM 92.9",
+        "url": "http://server.laradio.online:8683/;?",
+        "favicon": "http://www.radioorfeo.com/favicon.ico"
+    },
+    {
+        "name": "DS Radio Horizonte 94.5 FM",
+        "url": "http://streaming.radiosenlinea.com.ar:9058/stream/;",
+        "favicon": ""
+    },
+    {
+        "name": "DSports Radio FM103.1",
+        "url": "https://24493.live.streamtheworld.com/DSPORTSRADIOAAC.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Eclipse FM 101.5 MHz",
+        "url": "https://01.solumedia.com.ar:8746/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Eco Medios 1220 AM",
+        "url": "https://stream.zeno.fm/uyd6h9w162quv",
+        "favicon": ""
+    },
+    {
+        "name": "Ecos de mis Cerros",
+        "url": "https://masservidor.net:7163/;",
+        "favicon": ""
+    },
+    {
+        "name": "EDI RADIO",
+        "url": "https://radio.forensedigital.gt:8090/stream",
+        "favicon": ""
+    },
+    {
+        "name": "edutecnica salta",
+        "url": "http://stream.zeno.fm/20ddyt65hfhvv",
+        "favicon": "https://www.wix.com/favicon.ico"
+    },
+    {
+        "name": "El Destape",
+        "url": "https://ipanel.instream.audio/8004/stream",
+        "favicon": "https://www.eldestapeweb.com/img/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "El Destape Radio",
+        "url": "https://ipanel.instream.audio/8004/stream",
+        "favicon": "https://www.eldestapeweb.com/img/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "El Destape Radio",
+        "url": "https://ipanel.instream.audio/8004/stream",
+        "favicon": "https://www.eldestapeweb.com/img/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "el destape sin fin",
+        "url": "https://ipanel.instream.audio/8004/stream",
+        "favicon": "https://eldestapeweb.com/img/estructura/circle-destape.png"
+    },
+    {
+        "name": "El Hacedor Radio Online",
+        "url": "https://stream.zeno.fm/f7vpqramxrhvv",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/1/128341.v1.png"
+    },
+    {
+        "name": "El Para\u00edso Radio",
+        "url": "https://streaming.radiosenlinea.com.ar/9022/stream",
+        "favicon": "https://griseldakillian.com.ar/wp-content/uploads/2017/05/cropped-elparaiso3-grande-e1533911129451.png"
+    },
+    {
+        "name": "El Sol Sale Para Todos",
+        "url": "https://stream-149.zeno.fm/f2r6c55tfm8uv?zs=0bETJ17OROmPAcBC7sTCfA1z9tfAnkFPQOSUgpGNW9qLafhxs0GpRHxD0FFqGjax8Is9A-3D",
+        "favicon": "https://zeno.fm/favicon.ico"
+    },
+    {
+        "name": "Elite FM 101.5",
+        "url": "https://radios.solumedia.com/6314/stream",
+        "favicon": "https://www.elitefm.com.ar/icon/favicon.ico"
+    },
+    {
+        "name": "Emisora del Este 98.9 FM y 98.1 FM",
+        "url": "https://streaming.radiosenlinea.com.ar/8008/;",
+        "favicon": "https://play-lh.googleusercontent.com/P_K9fzMJA0-vkOhC4_1DEa75SXyDfV6GVTl6W5Ey6MHnzcXf_2Shi7s7lIhyARsBrQ=w240-h480-rw"
+    },
+    {
+        "name": "Emisora Educativa El Hornero 107.7 FM",
+        "url": "https://secure.streaming01.dwservers.net/8650/;",
+        "favicon": "https://blogger.googleusercontent.com/img/a/AVvXsEgKJtLu5iAU2l8Mj4WpIAa7GdCj33rrC0Afc6jHJ5-b1NY2S6QBrHllShLo72pDMmH9DEQYu275nbmTzjahm7eBPEP4xOgh34Vand2sw8vmXwFLZrnrC6WzG-fs3ingXJTuDf0jT-Ilk_SJ3u93oD1hLcYEifbBMYsxOVeRJCC3cSboZ15r4CquH8N4wQ=s600"
+    },
+    {
+        "name": "Enjoy Radio",
+        "url": "http://argentina.republicahosting.com:8261/stream",
+        "favicon": ""
+    },
+    {
+        "name": "ESPACIAL 105.1 FM",
+        "url": "https://chino.republicahosting.com:2282/live",
+        "favicon": "https://static.wixstatic.com/media/1a40ca_9de5c79ad03c4eb1a120e8214f6f00d5~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1a40ca_9de5c79ad03c4eb1a120e8214f6f00d5~mv2.png"
+    },
+    {
+        "name": "Estaci\u00f3n 711 95.7 FM",
+        "url": "https://server.laradio.online:55330/live",
+        "favicon": ""
+    },
+    {
+        "name": "Estacion del Centro 95.7 FM",
+        "url": "http://stream01.insidetec.com:9040/fm957",
+        "favicon": ""
+    },
+    {
+        "name": "Estaci\u00f3n Del Siglo Rio Grande FM 105.3",
+        "url": "http://streamall.alsolnet.com/estaciondelsigloaudio",
+        "favicon": "https://estaciondelsiglo.net/wp-content/uploads/2023/05/cropped-cropped-logo2023-1-150x150.png"
+    },
+    {
+        "name": "Estaci\u00f3n Latidos",
+        "url": "http://streaming01.shockmedia.com.ar:8162/",
+        "favicon": ""
+    },
+    {
+        "name": "Estaci\u00f3n Luz 103.5 FM",
+        "url": "https://sonic.host-live.com/8218/stream",
+        "favicon": "https://static.wixstatic.com/media/741f05_fdf1a06bedc545bb9a4490940196b6c2~mv2.jpg/v1/fill/w_147,h_59,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/741f05_fdf1a06bedc545bb9a4490940196b6c2~mv2.jpg"
+    },
+    {
+        "name": "Estaci\u00f3n Mix  ",
+        "url": "http://stream.laut.fm/estacionmix",
+        "favicon": "https://u.jimcdn.com/cms/o/sc40a039d49acf98a/img/favicon.ico?t=1625931321"
+    },
+    {
+        "name": "Estaci\u00f3n Quince Cincuenta 1550 AM",
+        "url": "http://streaming2.locucionar.com:8312/stream",
+        "favicon": "https://ss-static-01.esmsv.com/id/107570/galeriaimagenes/obtenerimagen/?id=1&tipoEscala=stretch&width=500&height=500"
+    },
+    {
+        "name": "Estaci\u00f3n San Pedro 88.7 FM",
+        "url": "http://streaming.escuchanosonline.com/8780/stream",
+        "favicon": "https://estacionsanpedro.com.ar/img/logo-top.png"
+    },
+    {
+        "name": "Estaci\u00f3n Urbana 104.7 FM",
+        "url": "https://streaming2.locucionar.com/proxy/estacionurbana?mp=/stream",
+        "favicon": "https://streaminglocucionar.com/portal/images/logos/estacionurbana.png"
+    },
+    {
+        "name": "Estacion Victoria 90.7",
+        "url": "http://01.solumedia.com.ar:7786/;",
+        "favicon": ""
+    },
+    {
+        "name": "Estaci\u00f3n Vinilo 89.1",
+        "url": "http://173.255.205.241:1127/;",
+        "favicon": "http://radiovinilo.com.ar/favicon.ico"
+    },
+    {
+        "name": "Estacion X 93.5 FM",
+        "url": "https://streaming6.locucionar.com:24060/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Estacion XLW",
+        "url": "http://radio.solumedia.com.ar:7009/;",
+        "favicon": "https://static.wixstatic.com/media/1d987a_ab01d7b05c944f6689cdd96057cf84d6%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/1d987a_ab01d7b05c944f6689cdd96057cf84d6%7Emv2.png"
+    },
+    {
+        "name": "Estilos FM 92.7",
+        "url": "http://server12.veemesoft.com.ar:19466/;",
+        "favicon": "http://www.estilosfm.com.ar/img/mundo.png"
+    },
+    {
+        "name": "Estirpe Nacional 1250 AM",
+        "url": "https://b2-f000.radiocut.com.ar/file/radiocut-2023/estirpe/171/577/1715771741.157-180.010.mp3",
+        "favicon": "https://static.radiocut.com.ar/images/radio_cut_96.png"
+    },
+    {
+        "name": "Evolution FM 101.9",
+        "url": "https://radios.solumedia.com:6140/stream",
+        "favicon": "https://evolutionfm.com.ar/img/logo.png"
+    },
+    {
+        "name": "Exa FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac"
+    },
+    {
+        "name": "Exclusiva FM 97.7",
+        "url": "http://streaming2.locucionar.com:8269/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Expo Radio FM 94.3",
+        "url": "https://radios.tecnosoul.com.ar:8001/exporadio",
+        "favicon": "https://exporadio.net/wp-content/uploads/2023/10/logo-v3-1080x512-1-311x147.png"
+    },
+    {
+        "name": "F! 88.7 FM",
+        "url": "https://server4.hostradios.com/8308/stream",
+        "favicon": ""
+    },
+    {
+        "name": "F5 Radio 104.5 FM",
+        "url": "http://streaming.shockmedia.com.ar/8724/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Fahrenheit FM 88.7 Rosario",
+        "url": "https://streaming.redboing.com/radio/8010/radio.aac",
+        "favicon": "https://i0.wp.com/www.redboing.com/wp-content/uploads/2021/01/cropped-iso-4.png?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "Feeling 91.7",
+        "url": "http://turadioenvivo.com:8430/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Feeling 91.9 FM",
+        "url": "http://turadioenvivo.com:8430/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Feeling FM 91.7",
+        "url": "http://turadioenvivo.com:8430/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Feeling FM 97.1 - Corrientes, Argentina",
+        "url": "http://turadioenvivo.com:8430/stream",
+        "favicon": "https://cdn-profiles.tunein.com/s169653/images/logod.jpg"
+    },
+    {
+        "name": "Fisherton",
+        "url": "http://23.111.184.195:8140/radio.mp3.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "Fisherton Classic (Rosario)",
+        "url": "https://media425.digitar.net:8081/fishertonclassic.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Fisherton CNN Rosario",
+        "url": "https://media425.digitar.net:8141/radio.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "FM 10 97.3",
+        "url": "https://streaming1.locucionar.com/proxy/fm10?mp=/stream",
+        "favicon": "https://streaminglocucionar.com/portal/images/logos/fm10.png"
+    },
+    {
+        "name": "FM 10 Bol\u00edvar 106.1",
+        "url": "https://ssl.radiosnethosting.com/index.php?port=8004",
+        "favicon": "https://fm10bolivar.com.ar/09-2023/5133406e115cbf8941a8a53c23a04e69.jpg"
+    },
+    {
+        "name": "FM 100 90.9",
+        "url": "https://stream.arcast.com.ar/diariotartagal/diariotartagal.stream/playlist.m3u8",
+        "favicon": "https://i1.wp.com/diariodetartagal.com.ar/wp-content/uploads/2018/05/cropped-logo.sin_.mic_-1.png?w=449&ssl=1"
+    },
+    {
+        "name": "FM 102.3",
+        "url": "https://radios.solumedia.com:6276/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM 102.5",
+        "url": "https://streaming1.locucionar.com/proxy/cayetano1025?mp=/stream",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "FM 103.1 DirecTV Sports Radio - Argentina",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac",
+        "favicon": ""
+    },
+    {
+        "name": "FM 104.9 Tupungato",
+        "url": "https://tolkien.republicahosting.net:2395/live",
+        "favicon": "https://1049tupungato.com/sitepad-data/uploads/2022/12/Picsart_22-12-05_13-47-40-731.png"
+    },
+    {
+        "name": "FM 105.7",
+        "url": "https://streaming3.locucionar.com/proxy/fm1057?mp=/stream",
+        "favicon": "https://105.com.ar/images/icono.png"
+    },
+    {
+        "name": "Fm 106.1 Estacion 2",
+        "url": "https://emisora.zonasinergia.com/8068/stream",
+        "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaSewJK0SPUoZbmeNE-IaGVLg4zUOFRyIVF4WjR7HnOoUrKJpHm1tJQptWA26iTg-jttCI5jNiYgRy8z08i5M34x3fw-rNj-w8bxcRpw-RELclNh7PBFlbTALSEg6ZwqWnzNL9R1m_SgDLg7T2f1t3Shn0Mz_x1nsOkNycbNYFYJBsy6HEG3xD5MXK/s320/1-logo%20top%20top%202023.jpg"
+    },
+    {
+        "name": "FM 106.7 Rosario",
+        "url": "https://media425.digitar.net:8011/cadena3.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "FM 2000 103.9",
+        "url": "https://streaming3.locucionar.com/proxy/2000fm?mp=/stream",
+        "favicon": "https://www.fm2000bellville.com.ar/images/logo.png"
+    },
+    {
+        "name": "FM 2000 95.7",
+        "url": "http://nvradios.com:9358/;",
+        "favicon": "http://www.fmquenuma.com.ar/img/logo.png"
+    },
+    {
+        "name": "FM 89.3 Santa Mar\u00eda de las Misiones",
+        "url": "https://vps-c0159cbc.vps.ovh.ca/9682/;",
+        "favicon": "https://www.fm893.com.ar/wp-content/uploads/2017/07/LOGO-RADIO-1.png"
+    },
+    {
+        "name": "FM 90 Saladillo FM 90.7",
+        "url": "https://chino.republicahosting.com:2316/live",
+        "favicon": "http://www.fm90saladillo.com.ar/favicon.ico"
+    },
+    {
+        "name": "Fm 90.7 General Paz - Grupo Tiempo",
+        "url": "http://stream.zeno.fm/915tpe38dchvv",
+        "favicon": ""
+    },
+    {
+        "name": "FM 90.9 Rosario",
+        "url": "https://streaming2.locucionar.com/proxy/radiobt?mp=/stream",
+        "favicon": "https://i.imgur.com/wcGFaC8.jpg"
+    },
+    {
+        "name": "FM 91.7 Cadena Music Gral Guido",
+        "url": "https://vps-c0159cbc.vps.ovh.ca/10130/;",
+        "favicon": "http://cadenamusic917.com.ar/imagenes/cadena%20music.jpg"
+    },
+    {
+        "name": "Fm 94.1 Onda Horizonte",
+        "url": "http://s1.radiosnethosting.com:9816/;",
+        "favicon": ""
+    },
+    {
+        "name": "FM 94.3 Radio Municipal de Toay",
+        "url": "http://51.79.51.128:9678/;",
+        "favicon": "https://toay.gob.ar/images/logo.png"
+    },
+    {
+        "name": "FM 94.5 Bariloche",
+        "url": "https://server1.streamingradio.online/proxy/002/stream:7287",
+        "favicon": "https://fm945bariloche.com.ar/wp-content/uploads/2022/10/logo.jpg"
+    },
+    {
+        "name": "FM 95.5 RADIO REPUBLICA",
+        "url": "https://edge-st1-audio.masterhost.com.ar/listen/radio_republica_955/radio.mp3",
+        "favicon": "https://www.fmradiorepublica.com.ar/favicon.ico"
+    },
+    {
+        "name": "Fm 95.5 Republica ",
+        "url": "https://edge-st1-audio.masterhost.com.ar/listen/radio_republica_955/radio.mp3",
+        "favicon": "https://www.fmradiorepublica.com.ar/favicon.ico"
+    },
+    {
+        "name": "FM 96.5 - Residencias",
+        "url": "https://01.solumedia.com.ar:8592/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM 97.9 VIDA",
+        "url": "https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60a2b23eaf8c7e00145e64e0_240p/index.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM 97.9 Vida",
+        "url": "https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM 97.9 Vida",
+        "url": "https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM 97.UNE - Provincia de Buenos Aires",
+        "url": "https://streaming.provinciaradio.com.ar:3352/fm",
+        "favicon": ""
+    },
+    {
+        "name": "FM 97.UNE - Provincia de Buenos Aires",
+        "url": "https://streaming.provinciaradio.com.ar:3352/fm",
+        "favicon": ""
+    },
+    {
+        "name": "FM 98.1 Perez Millan",
+        "url": "https://server.radiostreaming.com.ar/8470/stream",
+        "favicon": "https://laradiodelpueblo.com.ar/wp-content/uploads/2023/04/cropped-989cbea4-1246-443d-9e78-d1dfc483fb56.jpeg"
+    },
+    {
+        "name": "FM 99.9 Olavarr\u00eda ",
+        "url": "https://streamall.alsolnet.com/la99olavarria",
+        "favicon": ""
+    },
+    {
+        "name": "FM ABRIL Radio 90.9",
+        "url": "https://server.laradio.online/proxy/abdel_ortega?mp=/stream",
+        "favicon": "https://fmabril.com.ar/assets/img/logo.png"
+    },
+    {
+        "name": "FM Activa 91.5",
+        "url": "https://streaming5.locucionar.com/proxy/fmactivasegui?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM Actualidad 93.7",
+        "url": "https://server4.hostradios.com/8348/stream/;",
+        "favicon": "https://storage.googleapis.com/bucket-diarioactualidad/2018/11/Logo_544x180.jpg"
+    },
+    {
+        "name": "FM Agua 99.9",
+        "url": "https://alpha.radioplayer.com.ar:9162/fmagua999",
+        "favicon": "https://www.fmagua.com/wp-content/uploads/2018/05/fmagua-logo-1.png"
+    },
+    {
+        "name": "FM Ahijuna 94.7",
+        "url": "http://stream.ahijuna.fm/aire.mp3",
+        "favicon": "https://ahijuna.fm/wp-content/uploads/2023/05/cropped-Ahijuna-marca-color-violeta.png"
+    },
+    {
+        "name": "FM Ahora 98.7",
+        "url": "http://radios.tecnosoul.com.ar:8000/fmahora",
+        "favicon": "https://fmahora.com.ar/wp-content/uploads/sites/2/2016/06/logo-header.png"
+    },
+    {
+        "name": "FM ALAS - Correa (Sta Fe)",
+        "url": "http://stream.zeno.fm/7bs1rw5zw8quv",
+        "favicon": "https://d1di2lzuh97fh2.cloudfront.net/files/1j/1j3/1j3767.ico?ph=8d0fe61ea7"
+    },
+    {
+        "name": "FM ALAS - Correa (Sta Fe)",
+        "url": "http://stream.zeno.fm/7bs1rw5zw8quv",
+        "favicon": "https://d1di2lzuh97fh2.cloudfront.net/files/1j/1j3/1j3767.ico?ph=8d0fe61ea7"
+    },
+    {
+        "name": "FM Alas 106.9",
+        "url": "https://stream.zeno.fm/7bs1rw5zw8quv",
+        "favicon": "https://8d0fe61ea7.clvaw-cdnwnd.com/4236ba3f283b2950f3dda49f4abda914/200000003-8e9278e928/450/eeeeeeeeeeeeeee.webp?ph=8d0fe61ea7"
+    },
+    {
+        "name": "FM Alba 89.3",
+        "url": "https://server6.hostradios.com/8246/stream",
+        "favicon": "https://fmalba.com.ar/wp-content/uploads/logo-nuevo-fmalba-2-300x58.png"
+    },
+    {
+        "name": "FM Alegr\u00eda 101.7 General Pico",
+        "url": "https://streaming.radiosenlinea.com.ar/8856/stream/1/",
+        "favicon": "https://fmalegria.com.ar/wp-content/uploads/2023/09/cropped-WhatsApp-Image-2023-09-23-at-14.42.55.jpeg"
+    },
+    {
+        "name": "FM ALEJANDRO 104.1",
+        "url": "https://vps-c0159cbc.vps.ovh.ca/8026/;",
+        "favicon": ""
+    },
+    {
+        "name": "Fm alpha 91.5",
+        "url": "http://radio.solumedia.com.ar:8984/stream",
+        "favicon": "https://fmalpha.com.ar/wp-content/uploads/2021/09/Logo-normal-1-1-500x412-2.png"
+    },
+    {
+        "name": "FM Alternativa 107.1",
+        "url": "http://audio.questreaming.com:25181/;",
+        "favicon": "https://fmalternativa107.com/uploads/logo/logo_5b1579297f26a.jpg"
+    },
+    {
+        "name": "FM ALTITUD 94.7",
+        "url": "https://server.radiostreaming.com.ar/8118/stream",
+        "favicon": "https://www.estacionaltitud.com.ar/logos/logo.png"
+    },
+    {
+        "name": "FM Alto Paran\u00e1 90.5",
+        "url": "https://streaming2.locucionar.com/proxy/altoparana?mp=/stream",
+        "favicon": "https://www.fmaltoparana.com/images/fondos/default/5_default.jpg"
+    },
+    {
+        "name": "fm amanecer 101.3",
+        "url": "http://centova.radiosnethosting.com:9870/stream",
+        "favicon": "https://fm3lomasweb.com.ar/icono.ico"
+    },
+    {
+        "name": "Fm Amanecer 92.5Mhz",
+        "url": "https://streaming2.locucionar.com/proxy/amanecer?mp=/stream",
+        "favicon": "https://fmamanecer925.com.ar/wp-content/uploads/2022/05/logo-fm-amanecer-henderson-381x90px.png"
+    },
+    {
+        "name": "FM Am\u00e9rica 99.7",
+        "url": "https://stream.zeno.fm/dsvp0vvm9k8uv",
+        "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FT3A33qSiHXS_TsE4NEt42ODwI_AA2ocUOgLuemBWpJE%2Frs%3Afit%3A1500%3A600%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRcDluMl9nb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRbDgtNndnc01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE2NjA4NTY3MjMwMDA_dT01NzUxNTI0.webp&w=1920&q=70"
+    },
+    {
+        "name": "FM Amiga 90.9",
+        "url": "http://streaming.conexionproductora.com.ar:19976/;",
+        "favicon": "https://fmamiga909.com.ar/wp-content/uploads/2023/08/logocabecera2.png"
+    },
+    {
+        "name": "FM Amistad 93.5 Mhz",
+        "url": "https://server.laradio.online/proxy/raul_benitez?mp=/stream",
+        "favicon": "https://fmamistad.com.ar/static/custom/logo.png?t=2024-09-16+03%3A01%3A17.879999"
+    },
+    {
+        "name": "FM Amistad 95.7",
+        "url": "https://cdn.instream.audio/:9099/stream",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/7/127297.v3.png"
+    },
+    {
+        "name": "FM ANGEL 94.3",
+        "url": "https://server.laradio.online/proxy/fmangel?mp=/stream&1726491295158",
+        "favicon": "http://www.fmangel.com.ar/img/bt-home.png"
+    },
+    {
+        "name": "FM Anta 96.1",
+        "url": "https://stream.radioinfo.ar/p/8092/stream",
+        "favicon": "https://radioinfo.ar/archivos/clientes_logos/16235499488.jpg"
+    },
+    {
+        "name": "FM Argentina",
+        "url": "http://sonicpanel.hostradios.com:8168/;",
+        "favicon": "https://fmargentina.com.ar/wp-content/uploads/2023/11/Logo2.fw_.png"
+    },
+    {
+        "name": "FM Armon\u00eda 105.1",
+        "url": "https://radiosar.com:9346/stream",
+        "favicon": "https://fmarmonia1051.com/img/logo.png"
+    },
+    {
+        "name": "FM Arroyos 103.3",
+        "url": "https://stream.radioservice.org:7014/stream",
+        "favicon": "https://www.fmarroyos.com.ar/wp-content/uploads/2023/10/cropped-FMARROYOS.png"
+    },
+    {
+        "name": "FM Atlantic 105.9",
+        "url": "http://server1.veemesoft.com.ar:26511/;",
+        "favicon": "http://www.fmatlanticselva.com.ar/web/img/1100x200.png"
+    },
+    {
+        "name": "FM atl\u00e1ntica 98.5",
+        "url": "https://streaming1.locucionar.com/proxy/fmatlantica?",
+        "favicon": ""
+    },
+    {
+        "name": "FM Aut\u00e9ntica 88.1",
+        "url": "https://radio01.ferozo.com/proxy/ra01000764?mp=/;",
+        "favicon": "https://www.fmautentica881.com.ar/images/logo.png"
+    },
+    {
+        "name": "Fm Aveyron 99.1",
+        "url": "https://streaming1.locucionar.com/proxy/fmaveyron?mp=/stream",
+        "favicon": "https://www.fmaveyron.com.ar/panel/adjuntos/c77665f9.gif"
+    },
+    {
+        "name": "FM Ayer 98.1",
+        "url": "https://icecast.unomedios.com.ar/ayer",
+        "favicon": "https://www.fmayer.net.ar/media/logo.png"
+    },
+    {
+        "name": "FM B 106.9",
+        "url": "http://vxct1.avnam.net:8046/stream",
+        "favicon": "https://3.bp.blogspot.com/-aXo3OYiKueo/VAVHTKVrvLI/AAAAAAAAABg/NRTUbfS-kVI/s760/Cabecera.png"
+    },
+    {
+        "name": "FM Bah\u00eda Enga\u00f1o 104.5",
+        "url": "https://sc.dattalive.com/8010/stream",
+        "favicon": "https://fmbahiaengano.com/wp-content/uploads/2022/06/cropped-fm-512x512-playstore-180x180.png"
+    },
+    {
+        "name": "FM Bariloche",
+        "url": "https://streaming1.locucionar.com/proxy/colgados?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM Barrancas 98.7",
+        "url": "https://server.radiostreaming.com.ar/8152/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM Bel\u00e9n 93.5",
+        "url": "https://chino.republicahosting.com:2062/live",
+        "favicon": ""
+    },
+    {
+        "name": "FM Blackie 89.1",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLACKIE_89_1.mp3",
+        "favicon": "https://fmblackie.com.ar/wp-content/themes/blackie/images/logo.png"
+    },
+    {
+        "name": "FM Bragado FM 95.5 ",
+        "url": "http://sonic.dattalive.com:8310/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM Brisa 91.7",
+        "url": "https://stream.sistemaultra.com.ar:18144/;",
+        "favicon": "https://www.fmbrisa.com.ar/wp-content/uploads/2021/12/cropped-logo-brisa-1.png"
+    },
+    {
+        "name": "FM Brisas 99.7",
+        "url": "https://masservidor.net/8198/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM Br\u00edtos 94.9",
+        "url": "http://server1.veemesoft.com.ar:12370/;",
+        "favicon": "http://www.fmbritos.com.ar/img/portada.jpg"
+    },
+    {
+        "name": "FM BUENAS NUEVAS 98.1",
+        "url": "https://streaming01.shockmedia.com.ar:10538/stream?icy=http",
+        "favicon": "https://iglesia248sanpedro.com.ar/imagenes/logo1.png"
+    },
+    {
+        "name": "FM Calchaqui",
+        "url": "https://server.ohradio.com.ar/9856/stream",
+        "favicon": "https://res.cloudinary.com/tafidelvalle-com/image/upload/v1637331450/radios/fm-calchaqui_v9va7q.jpg"
+    },
+    {
+        "name": "FM Calchaqui 101.1",
+        "url": "http://server.ohradio.com.ar:9856/;",
+        "favicon": "https://tafidelvalle.com/favicon/favicon-32x32.png"
+    },
+    {
+        "name": "FM Cald\u00e9n 99.9",
+        "url": "http://server1.veemesoft.com.ar:6340/;",
+        "favicon": "http://www.caldenfm.com.ar/img/portadaCalden.jpg"
+    },
+    {
+        "name": "FM Cambalache 89.7",
+        "url": "https://player.xcast.com.br/proxy/7584/;",
+        "favicon": "https://fmcambalache.com.ar/wp-content/uploads/2022/05/cropped-cambalachebs-32x32.jpg"
+    },
+    {
+        "name": "FM Capital 97.7",
+        "url": "https://secure.streaming01.dwservers.net/8700/;",
+        "favicon": "https://www.fmcapitalsalta.com.ar/public/images/logo-fm-capital.svg"
+    },
+    {
+        "name": "FM Caril\u00f3 104.3",
+        "url": "http://fmcarilo.ddns.net:8000/;",
+        "favicon": "http://www.fmcarilo.com.ar/favicon.ico"
+    },
+    {
+        "name": "FM Carolina 102.9",
+        "url": "http://server1.veemesoft.com.ar:26629/;",
+        "favicon": "http://www.fmcarolina1029.com.ar/web/img/PORTADA1100X200.png"
+    },
+    {
+        "name": "FM Ceferino 98.9 ",
+        "url": "https://stm4.onecast.com.br:8664/stream",
+        "favicon": "https://fmceferino.bahiahost.com.ar/logo.jpg"
+    },
+    {
+        "name": "FM Centenario 93.5",
+        "url": "http://server1.veemesoft.com.ar:19978/;",
+        "favicon": "http://www.fmcentenario935.com.ar/img/portada.jpg"
+    },
+    {
+        "name": "FM CENTENARIO 99.3",
+        "url": "https://streaming.radiosenlinea.com.ar/9694/stream",
+        "favicon": "https://www.villaelisaaldia.com.ar/images/logo.png"
+    },
+    {
+        "name": "FM Central 94.5",
+        "url": "http://onda.redcta.org.ar:8000/CTARadioCentral",
+        "favicon": "https://reconquistaradios.com.ar/07-2021/d767beedf90262e237cfe6b31d82ffde.png"
+    },
+    {
+        "name": "FM Centro 100.7",
+        "url": "https://tolkien.republicahosting.net:2378/live",
+        "favicon": "https://www.radiofmcentro.com/icons/icon-192x192.png"
+    },
+    {
+        "name": "FM Centro Basavilbaso 105.1",
+        "url": "https://streamconex.com:8030/stream",
+        "favicon": "https://statics-v3.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg"
+    },
+    {
+        "name": "FM Chalten 106.3",
+        "url": "https://streaming1.locucionar.com/proxy/fmchalten1063?mp=/stream",
+        "favicon": "https://statics-v3.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg"
+    },
+    {
+        "name": "FM Cielo 103.3",
+        "url": "http://66.128.32.105:8006/;",
+        "favicon": "https://www.fmcielochajari.com.ar/img/bn.png"
+    },
+    {
+        "name": "FM Cielo 88.7",
+        "url": "https://server6.hostradios.com:7108/stream",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "FM Cielo 93.1",
+        "url": "https://streaming1.locucionar.com/proxy/fmcielo931?mp=/stream",
+        "favicon": "https://streaminglocucionar.com/portal/images/logos/fmcielo931.png"
+    },
+    {
+        "name": "FM City 90.1",
+        "url": "https://ssl.radiosnethosting.com/index.php?port=9862",
+        "favicon": "https://www.xpace.com.ar/clientesradiosnet/logos/77fa75360051d6543ac1df271f6eb139.png"
+    },
+    {
+        "name": "Fm Ciudad",
+        "url": "https://streaming6.locucionar.com:24028/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Fm Ciudad",
+        "url": "https://streaming6.locucionar.com:24028/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Fm ciudad",
+        "url": "https://streaming6.locucionar.com:24028/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Fm ciudad",
+        "url": "https://streaming6.locucionar.com:24028/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM Ciudad 88.3",
+        "url": "https://genexservicios.com:2000/stream/ciudadtotoras",
+        "favicon": "https://www.fmciudaddetotoras.com.ar/img/logo.png"
+    },
+    {
+        "name": "FM CIUDAD 94.7",
+        "url": "https://streaming6.locucionar.com:24028/stream",
+        "favicon": "http://ciudad947.com/bootstrap/img/fm-ciudad-somos-tu-musica.png"
+    },
+    {
+        "name": "FM CIUDAD 99.1",
+        "url": "https://stream.zeno.fm/rxp40uqwwk8uv",
+        "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FPkod5nbd2-lpdB9-HiLEDsPqHBy5zuJGNI3EdiRTaEE%2Frs%3Afit%3A1500%3A600%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnbl92Ul9Bc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRbTkzX3pBb01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE2MzgzMTkyMjMwMDA_dT01NzYwMjMx.webp&w=1920&q=70"
+    },
+    {
+        "name": "FM Color 99.3 (General Roca)",
+        "url": "https://streamingraddios.online/proxy/cozzi?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM C\u00f3rdoba",
+        "url": "https://liveradio.mediainbox.net/fmcordoba.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "FM Cosecha",
+        "url": "http://www.genexservicios.com:8068/;",
+        "favicon": ""
+    },
+    {
+        "name": "FM CRISTAL 97.7",
+        "url": "https://streaming.radiosenlinea.com.ar/8520/stream",
+        "favicon": "https://fmcristal.net/img/fmcristal.png"
+    },
+    {
+        "name": "Fm Cumbiambera",
+        "url": "https://streaming1.locucionar.com/proxy/fmcumbiambera?mp=/stream",
+        "favicon": "https://www.fmcumbiambera.com/images/icono.png"
+    },
+    {
+        "name": "Fm Dale 96.1",
+        "url": "http://01.solumedia.com.ar:8238/",
+        "favicon": ""
+    },
+    {
+        "name": "FM de la Costa 90.5",
+        "url": "https://streaming1.locucionar.com/proxy/delacosta905?mp=/stream",
+        "favicon": "https://streaminglocucionar.com/portal/images/logos/delacosta905.png"
+    },
+    {
+        "name": "FM De la Isla 91.1 Mhz",
+        "url": "https://streaming1.locucionar.com/proxy/fmisla911?mp=/stream",
+        "favicon": "https://streaminglocucionar.com/portal/images/logos/fmisla911.png"
+    },
+    {
+        "name": "FM DEL ESTE 99.3",
+        "url": "https://radio01.ferozo.com/proxy/ra01000956?mp=/stream",
+        "favicon": "https://fmdeleste993.com.ar/wp-content/uploads/2020/09/cropped-13427847_1019435614758875_1570359881605269451_n.jpg"
+    },
+    {
+        "name": "FM del Viento 104.9",
+        "url": "https://cdn.instream.audio/:9125/stream",
+        "favicon": "https://canal12web.com/wp-content/uploads/2022/03/logo.png"
+    },
+    {
+        "name": "FM DIGITAL 93.7",
+        "url": "https://stream.radioinfo.ar/p/5336/stream/?type=http&nocache=1",
+        "favicon": "https://cdnproxy.turadioinfo.com/clientes_logos/15823149016.jpg"
+    },
+    {
+        "name": "FM ECLIPSE 106.3",
+        "url": "http://uk6freenew.listen2myradio.com:31284/;",
+        "favicon": "https://statics-v3.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg"
+    },
+    {
+        "name": "FM Eclipse 90.5",
+        "url": "https://streaming2.locucionar.com/proxy/fmeclipse905?mp=/stream",
+        "favicon": "https://streaminglocucionar.com/portal/images/logos/fmeclipse905.png"
+    },
+    {
+        "name": "Fm Eclipse96.3 MHz",
+        "url": "https://sonic.dattalive.com/8422/stream",
+        "favicon": "https://fmeclipse.com.ar/Imagenes/fondopie.jpg"
+    },
+    {
+        "name": "FM Ecos 104.3",
+        "url": "http://stm34.veemesoft.com.ar:28350/",
+        "favicon": "http://fmecos.com/wp-content/uploads/2023/07/logo-2-1400x1400-1.png"
+    },
+    {
+        "name": "FM EL CHUBUT",
+        "url": "https://radios.streamingdha.com.ar:9382/;",
+        "favicon": "https://www.elchubut.com.ar/img/radio/logo-radio-seccion1.png"
+    },
+    {
+        "name": "FM en Transito",
+        "url": "https://cdn.instream.audio/:9110/stream",
+        "favicon": "https://comunicacionsocial.org.ar/wp-content/themes/comunicacionsocial-theme/assets/images/logo-fm-en-transito.png.webp"
+    },
+    {
+        "name": "FM ESPERANZA 107.1 MHZ",
+        "url": "https://streaming01.shockmedia.com.ar:10404/stream?icy=http",
+        "favicon": "https://1071fmnuevaesperanza.com.ar/imagenes/banner.png"
+    },
+    {
+        "name": "FM ESTACION PLUS 99.3",
+        "url": "https://proxy01.servidorenlinea.net/streaming1/8078/;",
+        "favicon": "https://estacionplus.com.ar/static/custom/logo.png?t=2024-08-01+03%3A00%3A02.708642"
+    },
+    {
+        "name": "FM Estaci\u00f3n Popular 101.1",
+        "url": "https://streaming.escuchanosonline.com:7298/;",
+        "favicon": "https://escuchanosonline.com//clientes/img/estacionpopular/0cdc98b9f58d3db458480648046c8c77.jpg"
+    },
+    {
+        "name": "FM Estudio Dos 105.9",
+        "url": "https://streamall.alsolnet.com/fmestudiohd",
+        "favicon": "https://www.fmestudio2.com.ar//wp-content/uploads/2024/05/cropped-favicon01-01-1-e1714569907565-180x180.png"
+    },
+    {
+        "name": "FM EXITO 99.1",
+        "url": "https://01.solumedia.com.ar:8178/;",
+        "favicon": "https://www.eldia.com/img/radio4.gif"
+    },
+    {
+        "name": "FM Federal 99.5",
+        "url": "https://sonic.host-live.com/8176/stream",
+        "favicon": "https://www.fmfederal.com/wp-content/uploads/2021/12/favicon2021.png"
+    },
+    {
+        "name": "FM Federal 99.5",
+        "url": "http://51.161.119.117:8176/stream",
+        "favicon": "https://img.sedoparking.com/templates/logos/sedo_logo.png"
+    },
+    {
+        "name": "FM Fenix",
+        "url": "http://www.fmfenix.com.ar:8000/fmfenix.ogg",
+        "favicon": "http://www.fmfenix.com.ar/sites/all/themes/abc/favicon.ico"
+    },
+    {
+        "name": "FM F\u00e9nix Martinez",
+        "url": "http://stream.zeno.fm/uvcx5phxhrhvv",
+        "favicon": "http://www.fmfenix.com.ar/sites/all/themes/abc/favicon.ico"
+    },
+    {
+        "name": "FM Futuro  - 93.1 Escobar",
+        "url": "http://streaming2.locucionar.com:8682/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM Galaxia 88.7",
+        "url": "https://vps-2333016-x.dattaweb.com/listen/fm_galaxia_88.7_cadena_3_san_francisco/radio.mp3",
+        "favicon": "https://www.lavozdesanjusto.com.ar/favicon/favicon-32x32.png"
+    },
+    {
+        "name": "FM Galeno 100.7 Mhz",
+        "url": "https://server.radiostreaming.com.ar/8486/stream?1722566655035",
+        "favicon": "https://fmgaleno.ar/wp-content/uploads/2022/05/logo-fm-galeno-white-1.jpg"
+    },
+    {
+        "name": "FM Guemes 90.5 MHz",
+        "url": "http://streaming2.locucionar.com:8770/stream",
+        "favicon": "http://www.fmguemes.com.ar/images/logo.png"
+    },
+    {
+        "name": "FM Impacto - Villa Gesell",
+        "url": "https://masstreaming.online/8392/stream",
+        "favicon": ""
+    },
+    {
+        "name": "fm impacto 106.7",
+        "url": "https://radios.streamingdha.com.ar:9252/;",
+        "favicon": "https://www.fmimpacto1067.com.ar/assets/images/logo-510x397.png"
+    },
+    {
+        "name": "FM IMPACTO 95.5 La Radio de la noticias Villa Gesell",
+        "url": "https://masstreaming.online/8392/stream",
+        "favicon": "http://fmimpacto.com.ar/wp-content/uploads/2014/11/logo_impacto.png"
+    },
+    {
+        "name": "FM Imperio",
+        "url": "http://argentina.republicahosting.com:8417/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM Inti 99.5Mhz",
+        "url": "https://server.ohradio.com.ar/8274/stream",
+        "favicon": "https://res.cloudinary.com/tafidelvalle-com/image/upload/v1637225176/radios/fm-inti_ogoxq9.jpg"
+    },
+    {
+        "name": "FM Kalyfer 94.7",
+        "url": "http://icecasthd.net:15228/stream",
+        "favicon": "http://www.fmkalyfer.com.ar/images/slider/slider_6.jpg"
+    },
+    {
+        "name": "FM LA 20",
+        "url": "http://01.solumedia.com.ar:8386/;stream.nsv",
+        "favicon": "https://www.radiola20.com.ar/logo.png"
+    },
+    {
+        "name": "FM La Boca 90.1 Buenos Aires",
+        "url": "https://s24.myradiostream.com/:14984/listen.mp3?nocache=1674464727",
+        "favicon": "https://www.fmlaboca.com.ar/favicon.ico"
+    },
+    {
+        "name": "FM La Patriada",
+        "url": "https://server.laradio.online/proxy/fm_la_patriada?mp=/stream",
+        "favicon": "https://www.fmlapatriada.com.ar/favicon.ico"
+    },
+    {
+        "name": "FM La Ruta",
+        "url": "http://turadioenvivo.com:11020/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM La Tribu 88.5 Buenos Aires",
+        "url": "https://radio01.ferozo.com/proxy/ra01000659?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM La Uni 91.7",
+        "url": "http://cdn.instream.audio:9275/stream.m3u",
+        "favicon": "https://www.ungs.edu.ar/wp-content/themes/ungs/favicon.png"
+    },
+    {
+        "name": "FM LA VOZ TRENEL 96.5",
+        "url": "http://centova.radiosnethosting.com:9824/;",
+        "favicon": "http://infolavoztrenel.com.ar/04-2016/f4cfc9671b9e29a849cb696285cb8d24.png"
+    },
+    {
+        "name": "FM Laser",
+        "url": "https://streamconex.com:8076/stream/",
+        "favicon": "https://www.fmlaser.com.ar/content/uploads/2016/10/favicon.png"
+    },
+    {
+        "name": "FM Laser",
+        "url": "https://streamconex.com:8076/stream/",
+        "favicon": "https://www.fmlaser.com.ar/content/uploads/2016/10/favicon.png"
+    },
+    {
+        "name": "FM Laser 98.5 - General Pico",
+        "url": "https://streamconex.com:8076/stream/",
+        "favicon": "https://www.fmlaser.com.ar/content/uploads/2016/10/favicon.png"
+    },
+    {
+        "name": "FM Latidos 95.1 - General Pico",
+        "url": "https://streamconex.com:8150/stream",
+        "favicon": "https://play-lh.googleusercontent.com/pi0zNBqKH8E-HykMkmCwXvx4TbQ3G2MaDS0frkSDqsKrzgayvkLiID_2ACv_ZJKf4A"
+    },
+    {
+        "name": "Fm Latina 92.5 Salta",
+        "url": "http://streaming.radiosenlinea.com.ar:9640/;",
+        "favicon": ""
+    },
+    {
+        "name": "FM Latina 99.7",
+        "url": "https://emisora.zonasinergia.com:7101/stream",
+        "favicon": "https://www.fmlatinamoreno.com.ar/js/logo.jpg"
+    },
+    {
+        "name": "FM Masters Ushuaia",
+        "url": "https://streamlky.alsolnet.com/fmmastersenlace",
+        "favicon": "https://www.fmmasters.com/wp-content/uploads/2023/02/cropped-favicon-180x180.png"
+    },
+    {
+        "name": "FM Millenium 106.7",
+        "url": "https://player.questreaming.com/?pl=vlc&c=fmmilenium",
+        "favicon": "https://fmmilenium.com.ar/wp-content/uploads/2019/06/cropped-logo-180x180.png"
+    },
+    {
+        "name": "Fm Municipal 87.9",
+        "url": "http://centova.radiosnethosting.com:9594/;",
+        "favicon": "https://villaangelaprensa.com.ar//04-2022/274a2f8c517d624cc93e6fd0ff67a57e.jpg"
+    },
+    {
+        "name": "FM Plus 93.1 Rosario",
+        "url": "http://fmplus.radio.rosario3.com:8006/",
+        "favicon": ""
+    },
+    {
+        "name": "FM Poder",
+        "url": "http://server.ohradio.com.ar:8206/stream',",
+        "favicon": ""
+    },
+    {
+        "name": "FM Popular 106.5",
+        "url": "https://stream.zeno.fm/nqefruaqlwwtv",
+        "favicon": "https://fmpopular.net/site/wp-content/uploads/2022/02/popu-logo-banner.jpg"
+    },
+    {
+        "name": "FM Punta 88.1 ",
+        "url": "https://server7.hostradios.com/8140/stream",
+        "favicon": "https://noticiasenpunta.com/wp-content/uploads/2021/07/cropped-icono-noticias-en-punta-180x180.png"
+    },
+    {
+        "name": "FM Reconquista 89.5",
+        "url": "http://aler.org:8000/radiofmreconquista.ogg",
+        "favicon": "https://www.fmreconquista.org.ar/fmreconquista/images/favicon.ico"
+    },
+    {
+        "name": "FM Rock Zarate | FM 103.3",
+        "url": "https://sonic.dattalive.com:10821/stream",
+        "favicon": "https://www.radio-addict.com/media/stream/f6a91e01-1d7b-4bc5-b6e9-d6a3e4b5a2ab_031060BC70DFDF8F822C573E02074FB2_pua-en-negro-150.png"
+    },
+    {
+        "name": "FM Rock Zarate | FM 103.3",
+        "url": "https://sonic.dattalive.com:10821/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM Sensaciones 95.1",
+        "url": "https://chino.republicahosting.com:2318/live",
+        "favicon": "https://www.fmsensaciones.com.ar/images/favicon.png"
+    },
+    {
+        "name": "Fm Sierras 107.9 Mhz ",
+        "url": "http://giss.tv:8000/fmsierras.mp3",
+        "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZyQqzt9yNWetLI5x50RPza4LvXi4A4fWH9gYT52q7ms_Ajfmj7pKI2gGsM4QQQmvoEtUmtgL4ngb2aDIYEuDvZjWihpG5EsGgM4HMCsil21p0ijF95wnKjGeGhyZgCLgmbj8j_R9MQYA/s1600/Autocopia_de_seguridad_deLOGO+9+colo.jpg"
+    },
+    {
+        "name": "Fm Sierras 107.9Mhz",
+        "url": "http://giss.tv:8000/fmsierras.mp3",
+        "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZyQqzt9yNWetLI5x50RPza4LvXi4A4fWH9gYT52q7ms_Ajfmj7pKI2gGsM4QQQmvoEtUmtgL4ngb2aDIYEuDvZjWihpG5EsGgM4HMCsil21p0ijF95wnKjGeGhyZgCLgmbj8j_R9MQYA/s1600/Autocopia_de_seguridad_deLOGO+9+colo.jpg"
+    },
+    {
+        "name": "FM Sol y Luna 104.1 MHz.",
+        "url": "http://s2.argentina-streaming.com/8432/stream",
+        "favicon": "https://fmsolyluna.com/wp-content/uploads/2024/07/Portada-nueva-FM-Sol-y-Luna.jpg"
+    },
+    {
+        "name": "FM Soldados 87.5",
+        "url": "https://radio02.ferozo.com/proxy/ra01000409?mp=/stream",
+        "favicon": "https://fmsoldados.com/favicon.ico"
+    },
+    {
+        "name": "FM Sur Quilmes",
+        "url": "http://streamall.alsolnet.com:443/fmsurquilmeshd",
+        "favicon": ""
+    },
+    {
+        "name": "Fm Sur Quilmes",
+        "url": "http://streamall.alsolnet.com:443/fmsurquilmeshd",
+        "favicon": ""
+    },
+    {
+        "name": "FM TIEMPO 103.5",
+        "url": "https://streaming3.locucionar.com/proxy/fmtiempo1035?mp=/stream",
+        "favicon": "https://streaminglocucionar.com/portal/images/logos/fmtiempo1035.png"
+    },
+    {
+        "name": "FM TIEMPO 92.5",
+        "url": "https://streaming3.locucionar.com/proxy/fmtiempo925?mp=/stream",
+        "favicon": "https://www.tiempolincoln.com.ar/images/logo.png"
+    },
+    {
+        "name": "FM Tiempo 95.5 MHz",
+        "url": "https://streaming2.locucionar.com/proxy/fmtiempo?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Fm Tropical",
+        "url": "http://server.laradio.online:25060/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Fm Tr\u00f3pico 977 Jujuy",
+        "url": "https://stream.arcast.com.ar/radio/tropico.stream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FM Universidad - 105.7 UTN Paran\u00e1",
+        "url": "https://sc.dattalive.com/8206/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM Universidad 107.5 UNLP",
+        "url": "http://163.10.186.71:8001/broadwavehigh.mp3",
+        "favicon": "https://www.radiouniversidad.unlp.edu.ar/favicon.ico"
+    },
+    {
+        "name": "FM Universidad 98.7 - Universidad Nacional de Misiones",
+        "url": "https://fm.unam.edu.ar/fm",
+        "favicon": "https://transmedia.unam.edu.ar/templates/yootheme/cache/42/logo_transmedia_home-4274af76.webp"
+    },
+    {
+        "name": "FM Universo",
+        "url": "https://servidor1.hostradios.com:8070/stream",
+        "favicon": ""
+    },
+    {
+        "name": "FM UTN Mendoza",
+        "url": "http://streaming.fmutn.com.ar:8000/FMUTN#;.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "FM105.1",
+        "url": "http://173.255.205.241:8180/;",
+        "favicon": "http://fm105.ar/assets/img/apple-touch-icon.png"
+    },
+    {
+        "name": "FM105.7",
+        "url": "https://streaming3.locucionar.com/proxy/fm1057?mp=/stream",
+        "favicon": "https://105.com.ar/images/icono.png"
+    },
+    {
+        "name": "FMi 99.1",
+        "url": "https://ssl.radiosnethosting.com/index.php?port=9808",
+        "favicon": "https://radiofmi.com.ar/06-2021/48ff5217d941c0dd74ad78b15b64116a.jpg"
+    },
+    {
+        "name": "FMI TUCUMAN",
+        "url": "https://ssl.radiosnethosting.com/index.php?port=9808",
+        "favicon": "https://radiofmi.com.ar/icono.ico"
+    },
+    {
+        "name": "FMQ",
+        "url": "https://streamlky.alsolnet.com/radiofmq",
+        "favicon": ""
+    },
+    {
+        "name": "FMQ",
+        "url": "http://streamlky.alsolnet.com:443/radiofmq",
+        "favicon": ""
+    },
+    {
+        "name": "FMQ 93.5",
+        "url": "https://streamlky.alsolnet.com/radiofmq",
+        "favicon": "https://www.cronica.com.ar/fmq/favicon.ico"
+    },
+    {
+        "name": "Frecuencia Arena 98.3",
+        "url": "https://stream.serviciowebdigital.com/8854/stream",
+        "favicon": "https://arena983.com.ar/wp-content/uploads/2022/10/cropped-logo_arena_alpha-3-192x192.png"
+    },
+    {
+        "name": "Frecuencia City",
+        "url": "http://stream.zeno.fm/0bcakrbrbqjuv",
+        "favicon": "https://play.google.com/favicon.ico"
+    },
+    {
+        "name": "Frecuencia City",
+        "url": "http://stream.zeno.fm/0bcakrbrbqjuv",
+        "favicon": "https://play.google.com/favicon.ico"
+    },
+    {
+        "name": "Frecuencia Digital 99.1 FM",
+        "url": "https://radios.streamingdha.com.ar/8022/;",
+        "favicon": ""
+    },
+    {
+        "name": "Frecuencia Patagonia FM 99.3",
+        "url": "http://server.laradio.online:9188/live",
+        "favicon": ""
+    },
+    {
+        "name": "Frecuencia Urbana 88.7 General Roca",
+        "url": "https://sc.dattalive.com:10929/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Fresh Radio FM 102.9FM",
+        "url": "https://streaming.escuchanosonline.com:7011/stream",
+        "favicon": "https://radios.escuchanosonline.com/favicon.ico"
+    },
+    {
+        "name": "Futura FM 90.5",
+        "url": "https://streamer.fmfutura.com.ar/vivo.mp3",
+        "favicon": "https://fmfutura.com.ar/wp-content/uploads/2015/10/favicon-image.png"
+    },
+    {
+        "name": "FutuR\u00d6ck",
+        "url": "https://mdstrm.com/audio/5d9d019112cbbb45d6a50960/live.m3u8",
+        "favicon": "http://platform-static.cdn.mdstrm.com/player/thumbnail/5dc3199fa7078529e9eef67a.png"
+    },
+    {
+        "name": "FutuRock",
+        "url": "https://mdstrm.com/audio/5d9d019112cbbb45d6a50960/live.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Gamba FM (C\u00f3rdoba)",
+        "url": "https://servidor1.hostradios.com:8132/stream",
+        "favicon": ""
+    },
+    {
+        "name": "GLAM FM",
+        "url": "https://streaming2.locucionar.com/proxy/glam963?mp=/stream",
+        "favicon": "https://glamfm.com.ar/wp-content/uploads/2024/06/cropped-android-icon-192x192-1-180x180.png"
+    },
+    {
+        "name": "Glam Fm  96.3",
+        "url": "https://streaming2.locucionar.com/proxy/glam963?mp=/stream",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/6/2616.v10.png"
+    },
+    {
+        "name": "Gravity Radio",
+        "url": "https://stream.xweb.ar/8024/stream",
+        "favicon": "https://www.gravityradio.com.ar/adjuntos/400/gravity/logopng-1.png"
+    },
+    {
+        "name": "Guajira Radio",
+        "url": "http://01.solumedia.com.ar:8252/stream",
+        "favicon": "https://guajiraradio.com.ar/favicon.ico"
+    },
+    {
+        "name": "Hechos De Tango Radio Online",
+        "url": "https://argentina.republicahosting.com:1376/live",
+        "favicon": "https://hechosdetango.com.ar/wp-content/uploads/2020/11/cropped-logo_hdt-180x180.png"
+    },
+    {
+        "name": "HIT RADIO FFH. 128K AAC. Argentina",
+        "url": "http://mp3.ffh.de/radioffh/hqlivestream.aac",
+        "favicon": "https://www.ffh.de/android-icon.png"
+    },
+    {
+        "name": "Hollywood 101.3",
+        "url": "https://radio02.ferozo.com/proxy/ra02001328?mp=/stream",
+        "favicon": "http://radiohollywood.com.ar/favicon.ico"
+    },
+    {
+        "name": "Hollywood FM 101.3 Rosario",
+        "url": "https://radio02.ferozo.com/proxy/ra02001328?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Horizonte 103 Pinamar",
+        "url": "http://horizonte103.ddns.net:8000/;",
+        "favicon": "http://www.fmcarilo.com.ar/favicon.ico"
+    },
+    {
+        "name": "Horizonte 103.1 - Santa Rosa",
+        "url": "http://sslstream.online:8204/live",
+        "favicon": "https://www.eldiariodelapampa.com.ar//img/lapampa/radio_horizonte_80.png"
+    },
+    {
+        "name": "Horizonte Perfil 101.9",
+        "url": "https://26343.live.streamtheworld.com/SAM06AAC243_SC",
+        "favicon": "https://horizonte.perfil.com/images/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "IMPACTO FM REALICO - LA PAMPA",
+        "url": "http://streaming01.shockmedia.com.ar:9722/reproductores/?idr=NTQz",
+        "favicon": "https://1.bp.blogspot.com/-nbllIa-07w0/X48L3zCwaaI/AAAAAAABTVE/SWicMru6qgU_JJGokZTlK2uRaITlvHIAgCK4BGAYYCw/w800/banner.png"
+    },
+    {
+        "name": "in.radio",
+        "url": "https://stream.zeno.fm/n1f4vputgqbuv",
+        "favicon": "https://www.ciccus.org.ar/wp-content/uploads/2019/04/cropped-suri-para-sitio-180x180.png"
+    },
+    {
+        "name": "InfoPico Radio 99.9",
+        "url": "https://streaming3.locucionar.com/proxy/infopico999?mp=/stream",
+        "favicon": "https://www.infopico.com/wp-content/uploads/2019/10/logoinfopico.png"
+    },
+    {
+        "name": "InfoPico Radio 99.9 - General Pico",
+        "url": "https://streaming3.locucionar.com/proxy/infopico999?mp=%2Fstream",
+        "favicon": "https://play-lh.googleusercontent.com/UVUAYYTmuoiVxEBXQuXgenelHFdScpeSFldgSl6uv0EHYFCqFaNO01OH55PhhoAN9FQ"
+    },
+    {
+        "name": "iTUNES TOP 40 FFH. 128K AAC. Argentina",
+        "url": "https://mp3.ffh.de/ffhchannels/hqtop40.aac",
+        "favicon": ""
+    },
+    {
+        "name": "jaja cba",
+        "url": "https://streaming5.locucionar.com/proxy/radiojaja?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Javeriana Estereo",
+        "url": "https://radio06.cehis.net:9001/stream",
+        "favicon": "https://javerianaestereo.com/documents/4772835/4785241/Logo-Menu-javeriana-estereo.png/2e4574e5-524c-4cfd-63be-75d57104a3eb?t=1646409893310"
+    },
+    {
+        "name": "Jazz cafe",
+        "url": "https://radio.netyco.com:18056/",
+        "favicon": ""
+    },
+    {
+        "name": "K2 RADIO 96.3 FM",
+        "url": "https://cdn.instream.audio/:9568/stream",
+        "favicon": "https://estacionk2.com/favicon.ico"
+    },
+    {
+        "name": "Kiss FM 95.1 Rosario",
+        "url": "https://streaming.redboing.com/radio/8060/radio.mp3",
+        "favicon": "https://i0.wp.com/www.redboing.com/wp-content/uploads/2021/01/cropped-iso-4.png?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "KLA Radio 97.1",
+        "url": "https://streamconex.com:8104/stream?1722096115054",
+        "favicon": "https://radiokla.com.ar/wp-content/uploads/2020/08/logo01.png"
+    },
+    {
+        "name": "La 100",
+        "url": "https://24233.live.streamtheworld.com/FM999_56AAC.aac",
+        "favicon": ""
+    },
+    {
+        "name": "La 100",
+        "url": "https://24233.live.streamtheworld.com/FM999_56AAC.aac",
+        "favicon": ""
+    },
+    {
+        "name": "La 100 - 99.9 FM - Grupo Clar\u00edn - Buenos Aires, Argentina",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3",
+        "favicon": "http://cdn-profiles.tunein.com/s6984/images/logod.jpg"
+    },
+    {
+        "name": "La 100 Cl\u00e1sicos - Disco Retro Cl\u00e1sicos",
+        "url": "https://27323.live.streamtheworld.com/FCLASICOS_56AAC.aac?",
+        "favicon": "https://cloudfront-arc.cienradios.com/la100/favicons/android-icon-192x192.png"
+    },
+    {
+        "name": "La 2x4",
+        "url": "https://storage.googleapis.com/m-infra.appspot.com/public/webchat/sent.mp3",
+        "favicon": "https://www.buenosaires.gob.ar/sites/default/files/favicon.ico"
+    },
+    {
+        "name": "La 2x4",
+        "url": "https://media.radios.ar:9270/",
+        "favicon": "https://buenosaires.gob.ar/sites/default/files/favicon.ico"
+    },
+    {
+        "name": "La 95 - FM 95.3",
+        "url": "https://sonic.cloudstreaming.eu:10989/;",
+        "favicon": ""
+    },
+    {
+        "name": "La 97",
+        "url": "https://streaming01.shockmedia.com.ar:10586/stream",
+        "favicon": ""
+    },
+    {
+        "name": "La 97",
+        "url": "https://streaming01.shockmedia.com.ar:10586/stream",
+        "favicon": ""
+    },
+    {
+        "name": "La 97 Radio Fueguina Rio Grande y Ushuaia",
+        "url": "https://streamall.alsolnet.com/radiofueguina",
+        "favicon": "https://www.radiofueguina.com/wp-content/themes/radio-fueguina-theme/assets/images/apple-icon-touch.png"
+    },
+    {
+        "name": "La Cacharpaya",
+        "url": "http://streaming01.shockmedia.com.ar:9360/stream",
+        "favicon": ""
+    },
+    {
+        "name": "La City",
+        "url": "http://01.solumedia.com.ar:7485/;",
+        "favicon": "https://lacity.com.ar/favicon.ico"
+    },
+    {
+        "name": "La Colectiva",
+        "url": "https://radios.solumedia.com/6198/stream",
+        "favicon": "https://i0.wp.com/lacolectiva.org.ar/wp-content/uploads/2017/08/logo512.jpg?resize=170%2C170&ssl=1"
+    },
+    {
+        "name": "La Colectiva",
+        "url": "https://radios.solumedia.com/6198/stream",
+        "favicon": "https://i0.wp.com/lacolectiva.org.ar/wp-content/uploads/2017/08/cropped-logo512.jpg?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "La Estaci\u00f3n FM 107.9",
+        "url": "http://01.solumedia.com.ar:2199/tunein/chicossrl.pls",
+        "favicon": "http://www.laestacionfm.com.ar/fav-iconn.ico"
+    },
+    {
+        "name": "La Estaci\u00f3n Fm 107.9 Salta ",
+        "url": "http://radio.solumedia.com.ar:8462/stream",
+        "favicon": ""
+    },
+    {
+        "name": "La familiera 97.7 Gemeral Roca",
+        "url": "https://stream.zeno.fm/wusafz982hhvv",
+        "favicon": ""
+    },
+    {
+        "name": "La Formidable FM",
+        "url": "http://s7.voscast.com:8278/;",
+        "favicon": ""
+    },
+    {
+        "name": "La Hit C\u00f3rdoba",
+        "url": "http://stm23.veemesoft.com.ar:24308/;",
+        "favicon": ""
+    },
+    {
+        "name": "La Korneta FM 92,5",
+        "url": "https://base.redenfoques.com.ar:8060/lakorneta",
+        "favicon": ""
+    },
+    {
+        "name": "La Popu",
+        "url": "https://liveradio.mediainbox.net/popular.mp3",
+        "favicon": "https://www.lapopu.com.ar/img/favicon.png"
+    },
+    {
+        "name": "La Popu 92.3",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/lapopu.mp3?dist=c3-web",
+        "favicon": "https://www.lapopu.com.ar/img/favicon.png"
+    },
+    {
+        "name": "La Primera AM 550 Neuquen",
+        "url": "https://sonic.dattalive.com/8296/stream",
+        "favicon": "https://www.am550laprimera.com/images/custom/logo-header.jpg?_v=98"
+    },
+    {
+        "name": "LA RADIO 104.7",
+        "url": "https://server.laradio.online:2199/tunein/laradio1047.pls",
+        "favicon": "https://laradio1047.com.ar/images/logo_top.png"
+    },
+    {
+        "name": "La Radio 104.7 FM. Resistencia Chaco. Julio Wajcman",
+        "url": "https://server.laradio.online/proxy/laradio1047",
+        "favicon": "https://laradio1047.com.ar/wp-content/uploads/2019/02/logo_top-80x80.png"
+    },
+    {
+        "name": "La Radio 93.5",
+        "url": "https://01.solumedia.com.ar:8494/stream",
+        "favicon": "https://laradio.com.ar/static/custom/favicon.png?t=2024-05-09+03%3a00%3a27.394499"
+    },
+    {
+        "name": "La radio de Chivilcoy",
+        "url": "https://streaming1.locucionar.com/proxy/laradiodechivilcoy?mp=/stream",
+        "favicon": "http://tuportalradio.com.ar/images/icono.png"
+    },
+    {
+        "name": "La Radio De La Ciudad FM 90.7",
+        "url": "http://escuchar.laradiodelaciudad.blog:8000/stream#.mp3",
+        "favicon": "https://laradiodelaciudad.blog/favicon.ico"
+    },
+    {
+        "name": "La Radio de la Gente LU12 AM 680 Rio Gallegos ",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/LOA_LaOpinionAustral",
+        "favicon": "https://lu12.com.ar/resources/logos/favicon.ico"
+    },
+    {
+        "name": "La Radio De Los Lentos",
+        "url": "https://01.solumedia.com.ar:7828/stream",
+        "favicon": ""
+    },
+    {
+        "name": "La Ranchada FM103.9",
+        "url": "https://server.laradio.online/proxy/javier_diaz01?mp=/stream",
+        "favicon": "https://laranchada.com.ar/wp-content/uploads/2021/07/LaRanchada_Logo-Comercial.png"
+    },
+    {
+        "name": "La Red",
+        "url": "https://21933.live.streamtheworld.com/LA_RED_AM910AAC.aac",
+        "favicon": ""
+    },
+    {
+        "name": "La Red Pampeana",
+        "url": "http://server.laradio.online:9033/live",
+        "favicon": "https://static-media.streema.com/media/cache/dd/fa/ddfa0dd637a90845d248a0f96a684ce3.jpg"
+    },
+    {
+        "name": "La Rocka RcK FM 107.3",
+        "url": "http://cdn.instream.audio:8137/stream",
+        "favicon": ""
+    },
+    {
+        "name": "La Super Radio 96.3 General Roca",
+        "url": "https://sc.dattalive.com/8070/stream",
+        "favicon": ""
+    },
+    {
+        "name": "La voz de VCI",
+        "url": "http://stream.zeno.fm/ke2bvwydmzzuv",
+        "favicon": "https://ogv.energy/oilandgas/icons/apple-icon-120x120.png?v=02.11.2019"
+    },
+    {
+        "name": "LA990",
+        "url": "https://21933.live.streamtheworld.com/AM990.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Lalala Radio La m\u00fasica de Luis Alberto Spinetta",
+        "url": "http://server.laradio.online:25311/live",
+        "favicon": ""
+    },
+    {
+        "name": "LaRadioDeLosLentos - Just Ballads",
+        "url": "https://01.solumedia.com.ar:7828/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Larz",
+        "url": "https://streamlky.alsolnet.com/larz",
+        "favicon": "https://larz.com.ar/favicon.ico"
+    },
+    {
+        "name": "Laser Max 103.3",
+        "url": "https://streaming5.locucionar.com/proxy/lasermax1033?mp=/stream",
+        "favicon": "https://streaminglocucionar.com/portal/images/icono.png"
+    },
+    {
+        "name": "Latina 101.1 Argentina",
+        "url": "http://streaming.latina101.com.ar:8080/RadioLatina",
+        "favicon": ""
+    },
+    {
+        "name": "Level Rock FM",
+        "url": "https://streaming2.locucionar.com/proxy/levelrock?mp=/stream",
+        "favicon": "https://tuportalradio.com.ar/images/icono.png"
+    },
+    {
+        "name": "Lider 104.3",
+        "url": "https://stream.arcast.tv:8443/lidersanjuan/lidersanjuan.stream/playlist.m3u8",
+        "favicon": "https://conpacto.com.ar/wp-content/uploads/2024/03/LIDER-logo.png"
+    },
+    {
+        "name": "Lola",
+        "url": "https://cdn.instream.audio/:9081/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Los 40 Arg. FM 105.5. Bs. As. Version 1",
+        "url": "https://frontend.radiohdvivo.com/los40/live",
+        "favicon": ""
+    },
+    {
+        "name": "Los 40 Argentina",
+        "url": "https://alpha.radioplayer.com.ar/stream/los40",
+        "favicon": ""
+    },
+    {
+        "name": "Los 40 Argentina",
+        "url": "https://alpha.radioplayer.com.ar/stream/los40",
+        "favicon": ""
+    },
+    {
+        "name": "LRA1 Radio Nacional Argentina",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad1",
+        "favicon": "https://cdn.radionacional.com.ar/apple-icon-120x120.png"
+    },
+    {
+        "name": "LRI890 Radio UNDAV ",
+        "url": "http://radiostream.undav.edu.ar:8002/radioundav",
+        "favicon": ""
+    },
+    {
+        "name": "LT 15 Concordia",
+        "url": "https://lt15concordia.radioca.st/stream",
+        "favicon": ""
+    },
+    {
+        "name": "LT14 Nacional Gral. Urquiza AM 1260 - Paran\u00e1",
+        "url": "http://ea.mp3.icecast.magma.edge-access.net:7200/sc_rad44",
+        "favicon": ""
+    },
+    {
+        "name": "LT20 Radio Junin AM 1470",
+        "url": "http://01.solumedia.com.ar:8260/;",
+        "favicon": "https://radiojunin.com/favicon.ico"
+    },
+    {
+        "name": "LT7 Radio Provincia de Corrientes",
+        "url": "http://turadioenvivo.com:11045/stream",
+        "favicon": ""
+    },
+    {
+        "name": "LT8 AM830",
+        "url": "http://stream.lt8.com.ar:8080/lt8radio.mp3",
+        "favicon": "https://i0.wp.com/www.lt8.com.ar/wp-content/uploads/2020/06/cropped-android-chrome-512x512-1.png?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "LT9 Radio Brigadier L\u00f3pez La L\u00edder",
+        "url": "https://streaming1.locucionar.com/proxy/lt9?mp=/stream?rand=718352759",
+        "favicon": "https://www.lt9.com.ar/img/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "LU100 Radio Capital AM 1040 - Santa Rosa",
+        "url": "http://144.91.98.151:8289/;",
+        "favicon": ""
+    },
+    {
+        "name": "LU11 Radioemisora del Oeste Trenque Lauquen",
+        "url": "https://radiosar.com:7045/stream",
+        "favicon": "https://radiolu11.com.ar/css/img/icono.png"
+    },
+    {
+        "name": "LU12 La Radio De La Gente, Rio Gallegos",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/LOA_LaOpinionAustral",
+        "favicon": "https://lu12.com.ar/resources/logos/favicon.ico"
+    },
+    {
+        "name": "LU14 Radio Provincia de Santa Cruz AM 830 khz",
+        "url": "https://transmision-lu14.santacruz.gob.ar/lu14.mp3",
+        "favicon": "https://lu14.santacruz.gob.ar/wp-content/uploads/2024/02/cropped-logo-horizontal-1-2048x515.png"
+    },
+    {
+        "name": "LU15 Radio Viedma AM 800 Rio Negro",
+        "url": "https://alpha.radioplayer.com.ar:9206/LU15AM800",
+        "favicon": ""
+    },
+    {
+        "name": "LU18 AM 640 Radio del Valle (Rio Negro)",
+        "url": "https://streamingraddios.online/proxy/valle?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "LU19 Radio Cipolletti AM690",
+        "url": "https://sonic.dattalive.com/8064/stream",
+        "favicon": ""
+    },
+    {
+        "name": "LU20 Radio Chubut",
+        "url": "https://streaming1.locucionar.com/proxy/radiochubut?mp=/stream",
+        "favicon": "https://radiochubut.com/wp-content/uploads/2020/07/cropped-radio-180x180.png"
+    },
+    {
+        "name": "LU20 Radio Chubut Trelew AM 580",
+        "url": "https://streaming1.locucionar.com/proxy/radiochubut?mp=/stream",
+        "favicon": "https://radiochubut.com/wp-content/uploads/2020/07/cropped-radio-180x180.png"
+    },
+    {
+        "name": "LU22 Radio Tandil AM1140",
+        "url": "https://streaming01.shockmedia.com.ar/8170/live",
+        "favicon": ""
+    },
+    {
+        "name": "LU24 Radio Tres Arroyos",
+        "url": "https://streaming01.shockmedia.com.ar:10889/stream?icy=http",
+        "favicon": "https://www.lu24.com.ar/favicon.ico"
+    },
+    {
+        "name": "LU33 Emisora Pampeana AM 890 - Santa Rosa",
+        "url": "http://01.solumedia.com.ar:8324/stream",
+        "favicon": "https://www.solumedia.com.ar/radios/8324/img/logo.jpg"
+    },
+    {
+        "name": "LU6 - Radio Atlantica  - Mar del Plata",
+        "url": "http://173.255.205.241:9090/;stream.nsv",
+        "favicon": ""
+    },
+    {
+        "name": "LU6 Atl\u00e1ntica Latina FM 93.3 Mar Del Plata",
+        "url": "http://173.255.205.241:7070/;",
+        "favicon": "http://lu6.com.ar/favicon.ico"
+    },
+    {
+        "name": "LU6 Emisora Atl\u00e1ntica AM 760 Mar Del Plata",
+        "url": "http://173.255.205.241:7070/;",
+        "favicon": "http://lu6.com.ar/favicon.ico"
+    },
+    {
+        "name": "LU6 Radio Atl\u00e1ntica",
+        "url": "http://173.255.205.241:9090/",
+        "favicon": "https://static-media.streema.com/media/cache/26/ad/26ad816a0daf81487869c88e85cd5412.jpg"
+    },
+    {
+        "name": "LU6 Radio Atl\u00e1ntica Mar Del Plata AM 760 Khz",
+        "url": "http://173.255.205.241:9090/",
+        "favicon": "http://lu6.com.ar/favicon.ico"
+    },
+    {
+        "name": "LU9 Emisora Mar Del Plata AM 670",
+        "url": "https://servidor1.hostradios.com:8110/stream?1668514689750",
+        "favicon": "https://www.lu9mardelplata.com.ar/img/logo.png?v=1.33"
+    },
+    {
+        "name": "Lu9 Radio Mar del Plata",
+        "url": "https://servidor1.hostradios.com:8110/stream",
+        "favicon": ""
+    },
+    {
+        "name": "LV11",
+        "url": "https://streaming.evolucionstreaming.com/8040/stream?hash=16935913338https://streaming.evolucionstreaming.com/8040/stream?hash=1693591333817",
+        "favicon": "https://radios2.com/favicon.ico"
+    },
+    {
+        "name": "M90 89.9 FM",
+        "url": "http://23.111.184.195:8030/m90.mp3",
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s185502d.png"
+    },
+    {
+        "name": "M90 Vintage FM 94.1 Rosario",
+        "url": "http://23.111.184.195:8020/mileniumrosario.mp3",
+        "favicon": "https://i.imgur.com/4BsVZXv.jpeg"
+    },
+    {
+        "name": "Magic Box FM 107.3",
+        "url": "https://stream01.server-inside.com.ar:9652/magicbox",
+        "favicon": "https://fmmagicbox.com.ar/favicon.ico"
+    },
+    {
+        "name": "Magic Kids FM",
+        "url": "http://argentina.republicahosting.com:8197/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Magica. FM 99.9. Barranqueras. Chaco. Version 1",
+        "url": "https://streaming5.locucionar.com/proxy/radiomagica999?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Malva FM - General Pico",
+        "url": "https://cdn.instream.audio/:9310/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Ma\u00f1ana Intensa",
+        "url": "https://server.streamcasthd.com/8272/stream",
+        "favicon": "http://intensafm.argentinastream.com/logos/logo.png"
+    },
+    {
+        "name": "MARAGATA FM 97.5",
+        "url": "https://streaming2.locucionar.com/proxy/maragata975?mp=/stream",
+        "favicon": "https://cdn.shortpixel.ai/spai/w_508+q_lossy+ret_img+to_webp/maragatafm.com/wp-content/uploads/2020/08/maragata-blanco-rojo-2-min.png"
+    },
+    {
+        "name": "Marcos Kappes",
+        "url": "https://radio01.ferozo.com/proxy/ra01001060?mp=/stream",
+        "favicon": "https://marcoskappes.com.ar/favicon.ico"
+    },
+    {
+        "name": "Marea FM",
+        "url": "https://sonic.mediatelekom.net/9016/stream",
+        "favicon": "https://miramarense.com.ar/admin/recursos/negocios/275mini.jpg"
+    },
+    {
+        "name": "Mar\u00eda Argentina",
+        "url": "http://dreamsiteradiocp.com:8004/",
+        "favicon": "http://radiomaria.org.ar/favicon.ico"
+    },
+    {
+        "name": "Mas que Musica",
+        "url": "https://radios.solumedia.com:6276/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Master FM 105.5",
+        "url": "https://ssl.radiosnethosting.com/index.php?port=9168/;stream.mp3",
+        "favicon": "https://fmmaster.net/icono.ico"
+    },
+    {
+        "name": "Mediterraneo 98.3 Mhz",
+        "url": "https://streaming01.radiosenlinea.com.ar:10996/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Meridiano 107.1 FM",
+        "url": "http://23.111.184.195:8050/fmmeridiano.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Meridiano FM 98.5",
+        "url": "https://streaming.escuchanosonline.com:7346/stream",
+        "favicon": "https://meridianofm.com.ar//logo192.png"
+    },
+    {
+        "name": "Metro 95.1",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3",
+        "favicon": "https://cdn-profiles.tunein.com/s25987/images/logog.jpg"
+    },
+    {
+        "name": "Metro FM 95.1. Ciudad de Buenos Aires",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac",
+        "favicon": "https://www.metro951.com/wp-content/themes/metro951/img/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "Milenium 106.7 FM",
+        "url": "https://sonicpanel.hostradios.com/8002/stream",
+        "favicon": "https://fmmilenium.com.ar/wp-content/uploads/2019/06/cropped-logo-180x180.png"
+    },
+    {
+        "name": "Milenium 94.1 FM",
+        "url": "http://23.111.184.195:8020/mileniumrosario.mp3",
+        "favicon": "http://cdn-radiotime-logos.tunein.com/s104111q.png"
+    },
+    {
+        "name": "Mitre AM 790. AAC Alta. Ciudad de Buenos Aires",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC.aac",
+        "favicon": "https://cloudfront-arc.cienradios.com/radiomitre/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Mitre Cordoba",
+        "url": "https://buecrplb01.cienradios.com.ar/Mitre810.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Mitre Rosario",
+        "url": "https://media425.digitar.net:8091/mitre.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Modo Radio 106.9",
+        "url": "https://streaming01.shockmedia.com.ar:10609/stream",
+        "favicon": "https://static.wixstatic.com/media/2ce6d3_9b4ef2245f914428922b8bd9df897ac4%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/2ce6d3_9b4ef2245f914428922b8bd9df897ac4%7emv2.png"
+    },
+    {
+        "name": "Nacional Cl\u00e1sica fm 96.7",
+        "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37",
+        "favicon": "http://www.radionacional.com.ar/apple-icon-120x120.png"
+    },
+    {
+        "name": "Nacional Perito Moreno - LRA56 AM860",
+        "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad34",
+        "favicon": "http://www.radionacional.com.ar/apple-icon-120x120.png"
+    },
+    {
+        "name": "Nacional Rock FM 93.7",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad39",
+        "favicon": "https://www.radionacional.com.ar/apple-icon-120x120.png"
+    },
+    {
+        "name": "Nacional San Juan - LRA23 AM910",
+        "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad23",
+        "favicon": "http://cdn.radionacional.com.ar/apple-icon-120x120.png"
+    },
+    {
+        "name": "Ndr Radio",
+        "url": "https://streamconex.com:8096/;?listening-from-radio-garden=1640125124",
+        "favicon": ""
+    },
+    {
+        "name": "Neo Net Music",
+        "url": "https://sonic.dattalive.com/8670/stream",
+        "favicon": "https://i.ibb.co/vv1S2Z1/Logonuevoneo-removebg-preview.png"
+    },
+    {
+        "name": "Net Classic FM 90.3 San Lorenzo",
+        "url": "https://alpha.radioplayer.com.ar:9232/netclassic903",
+        "favicon": "https://www.netgroup.com.ar/wp-content/uploads/2020/06/cropped-net-180x180.png"
+    },
+    {
+        "name": "Net80 Radio",
+        "url": "https://streaming.escuchanosonline.com/8274/stream",
+        "favicon": ""
+    },
+    {
+        "name": "NQP Radio",
+        "url": "http://cdn.instream.audio:8111/stream",
+        "favicon": "https://static.wixstatic.com/media/a439a4_f4401807cd0c446581af4c7ec799c806%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/a439a4_f4401807cd0c446581af4c7ec799c806%7emv2.png"
+    },
+    {
+        "name": "Nuestra FM La Adela FM 107.5",
+        "url": "http://server1.veemesoft.com.ar:10147/;",
+        "favicon": ""
+    },
+    {
+        "name": "Nuevos Aires FM 99.7",
+        "url": "http://streamingv2.shoutcast.com/NuevosAiresFM997_192.mp3",
+        "favicon": "https://nuevosairesfm.com.ar/wp-content/uploads/2023/07/cropped-logo22-1-180x180.png"
+    },
+    {
+        "name": "OK FM Arroyito",
+        "url": "http://audio.questreaming.com:27156/",
+        "favicon": ""
+    },
+    {
+        "name": "Patagonia Din\u00e1mica 105.5 - General Pico",
+        "url": "https://chino.republicahosting.com:2311/live",
+        "favicon": "https://play-lh.googleusercontent.com/o1O9pV7ydR1vAX9DKmcb03cVdkbJX6wyFqfVrB_lB4bbtYWEUrN6UVh0ITlRIfn4TwkQ"
+    },
+    {
+        "name": "Planet Music Bah\u00eda Blanca",
+        "url": "https://strcdn.klm99.com:10987/planetbahia",
+        "favicon": ""
+    },
+    {
+        "name": "Planet Music Mar del PLata 101.1",
+        "url": "https://strcdn.klm99.com:10991/planetmdp",
+        "favicon": ""
+    },
+    {
+        "name": "Planet Music Pinamar 99.5",
+        "url": "https://strcdn.klm99.com:10984/planetpinamar",
+        "favicon": ""
+    },
+    {
+        "name": "Planet Music Villa Gesell 91.9",
+        "url": "https://strcdn.klm99.com:10986/planetvillagesell",
+        "favicon": ""
+    },
+    {
+        "name": "Plus 93.1 FM",
+        "url": "http://fmplus.radio.rosario3.com:8006/fmplus",
+        "favicon": "https://www.rosario3.com/__export/1559748440188/sites/rosario3/arte/v2/favicon.ico"
+    },
+    {
+        "name": "Pobre Johnny",
+        "url": "https://stream4.suenas.net/pobrejohnny",
+        "favicon": "https://static.wixstatic.com/media/3e84df_ec590205fae242a7b22feb981c2e1114%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/3e84df_ec590205fae242a7b22feb981c2e1114%7Emv2.png"
+    },
+    {
+        "name": "Pontiac Rock",
+        "url": "https://radios.solumedia.com/6268/stream",
+        "favicon": "https://pontiacrock.com.ar/img/icons/icon-192x192.png"
+    },
+    {
+        "name": "Pop 101.5 FM. Ciudad de Buenos Aires",
+        "url": "https://ny2.stweb.tv/popradio/live/chunks.m3u8",
+        "favicon": "https://www.minutouno.com/css-custom/150/images/favicon/apple-icon-120x120.png"
+    },
+    {
+        "name": "Pop Life 107.7",
+        "url": "http://streaming1.locucionar.com:14835/stream/;stream/1",
+        "favicon": ""
+    },
+    {
+        "name": "Pop Radio 101.5",
+        "url": "https://popradio.stweb.tv/popradio/live/chunks.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Pop Radio 101.5",
+        "url": "https://popradio.stweb.tv/popradio/live/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Pop Radui FM 101.5. Ciudad de Bs. As. Version 2",
+        "url": "https://popradio.stweb.tv/popradio/live/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Power Paran\u00e1",
+        "url": "https://player.xcast.com.br/proxy/7232/",
+        "favicon": ""
+    },
+    {
+        "name": "Pungas Radio",
+        "url": "http://radio.pungas.space:8001/pungasradio",
+        "favicon": "https://pungas.space/favicon.ico"
+    },
+    {
+        "name": "Punto y Coma",
+        "url": "http://01.solumedia.com.ar:7810/;",
+        "favicon": "https://puntoycoma.com.ar/wp-content/uploads/2019/11/cropped-logo_favicon-180x180.png"
+    },
+    {
+        "name": "Q103 Radio",
+        "url": "http://01.solumedia.com.ar:7139/;",
+        "favicon": ""
+    },
+    {
+        "name": "Qacttus Radio",
+        "url": "http://argentina.republicahosting.com:8244/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Quality X - 89.7 FM",
+        "url": "https://stream.qualityradio.com.ar/qualityx",
+        "favicon": "https://cdn-profiles.tunein.com/s141326/images/logog.jpg?t=164425"
+    },
+    {
+        "name": "Radiactiva 100.7",
+        "url": "http://sh4.radioonlinehd.com:8533/stream",
+        "favicon": "https://www.elterritorio.com.ar/images/custom/favicon/favicon-32x32.png?_v=282"
+    },
+    {
+        "name": "Radio 1: ElectricCircus",
+        "url": "https://radio.eduneu.ar/public/radio1/playlist.pls",
+        "favicon": "https://radio.eduneu.ar/api/station/radio1/art/32d74bd6ffee76b7c12e4b6d"
+    },
+    {
+        "name": "Radio 10",
+        "url": "https://radio10.stweb.tv/radio10/live/chunks.m3u8",
+        "favicon": "https://www.radio10.com.ar/css-custom/220/favicons/favicon-32x32.png"
+    },
+    {
+        "name": "Radio 10",
+        "url": "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
+        "favicon": "https://www.radio10.com.ar/css-custom/220/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "Radio 10",
+        "url": "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
+        "favicon": "https://www.radio10.com.ar/css-custom/220/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "Radio 10 710 AM",
+        "url": "https://radio10.stweb.tv/radio10/live/chunks.m3u8",
+        "favicon": "https://www.radio10.com.ar/css-custom/220/images/r10-logo-animado.svg"
+    },
+    {
+        "name": "Radio 2",
+        "url": "https://cdn.instream.audio/:9056/stream?_=1680ada412b",
+        "favicon": "https://radio2.com.ar/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio 2 1230 AM",
+        "url": "http://radio2.radio.rosario3.com:8000/prueba2",
+        "favicon": "https://www.rosario3.com/__export/1559748440188/sites/rosario3/arte/v2/favicon.ico"
+    },
+    {
+        "name": "Radio 21 FM 90.1 - Caleta Olivia",
+        "url": "https://cdn.instream.audio/:9135/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio 5 100.5 - General Pico",
+        "url": "https://streaming2.locucionar.com/proxy/radio5fm/stream",
+        "favicon": "https://www.radio5fm.com/img/logo_1695051485.png"
+    },
+    {
+        "name": "Radio Activa FM 96.9 - Ing. Mashwitz",
+        "url": "http://streaming01.shockmedia.com.ar:9332/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Amanecer",
+        "url": "https://streaming2.locucionar.com/proxy/radioamanecer?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Amanecer AM 1290 - FM 92.7",
+        "url": "https://streaming2.locucionar.com/proxy/radioamanecer?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Argentina - AM 570",
+        "url": "http://server.laradio.online:25224/live.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "RADIO ARIAS FM 91.1 JUJUY",
+        "url": "https://cdn.instream.audio/:9095/stream",
+        "favicon": "https://radioarias.com/data/files/x2022logoedit.png.pagespeed.ic.sA8zxVORXE.png"
+    },
+    {
+        "name": "Radio Asamblea - FM 94.1 mhz",
+        "url": "http://server.laradio.online:25057/live?type=.mp3",
+        "favicon": "http://radioasamblea.com/misc/favicon.ico"
+    },
+    {
+        "name": "Radio AsiCoE 105.9 FM",
+        "url": "https://stream.zeno.fm/pquyftg03k8uv",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Autonoma Piuke",
+        "url": "http://base.redenfoques.com.ar:8000/piuke",
+        "favicon": "https://radiopiuke.org.ar/wp-content/uploads/2021/09/cropped-icono-06-180x180.png"
+    },
+    {
+        "name": "Radio Azul LU10 AM 1320 khz Azul Buenos Aires",
+        "url": "https://vps-c0159cbc.vps.ovh.ca/3008/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Azul Tolhuin FM 100.9",
+        "url": "http://genexservicios.com:8310/;?1666493861674",
+        "favicon": "http://fmazultolhuin.com.ar/img/logo-web.png"
+    },
+    {
+        "name": "RADIO BEAT 97.5 FM",
+        "url": "http://audio.questreaming.com:27902/;",
+        "favicon": "https://radiobeat97.com.ar/beat/wp-content/uploads/2021/09/cropped-logo-beat-2021b-1-180x180.png"
+    },
+    {
+        "name": "Radio Belgrano - AM 650",
+        "url": "http://server.laradio.online:25223/live.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Belgrano AM 650 khz Buenos Aires",
+        "url": "https://server.laradio.online:15223/live.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Berlin",
+        "url": "https://s8.stweb.tv/berlin/live/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Berl\u00edn 107.9 FM",
+        "url": "https://s8.stweb.tv/berlin/live/chunks.m3u8",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/7/64147.v14.png"
+    },
+    {
+        "name": "Radio Bicentenario",
+        "url": "http://01.solumedia.com.ar:7792/;stream/1",
+        "favicon": "http://envivo.radiobicentenario.com.ar/img/logo.png"
+    },
+    {
+        "name": "Radio Bicentenario Tucum\u00e1n",
+        "url": "http://01.solumedia.com.ar:7792/;stream/1",
+        "favicon": "https://www.radiobicentenario.com.ar/img/favicon/radiobicentenario/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Boing 97.3 Rosario",
+        "url": "https://streaming.redboing.com/radio/8000/radio.aac",
+        "favicon": "https://i0.wp.com/www.redboing.com/wp-content/uploads/2021/01/cropped-iso-4.png?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "Radio Brisas 98.5",
+        "url": "https://radio.ecolan.com:8443/stream.mp3",
+        "favicon": "https://infobrisas.com/images/custom/favicon/apple-touch-icon.png?_v=63"
+    },
+    {
+        "name": "Radio Britannia",
+        "url": "http://01.solumedia.com.ar:8472/stream/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Buenos Aires LS6 AM 1350 khz",
+        "url": "https://nl.digitalrm.pt:8052/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Cadena 3",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO3_SC",
+        "favicon": "https://imgs.search.brave.com/TPQbDA-qy7PFlxsdVDkyz8cyuG-fCpWAwAEEewJKI6M/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/cmFkaW8ubmV0L2lt/YWdlcy9icm9hZGNh/c3RzL2IyL2Y4LzIw/NzI0LzEvYzMwMC5w/bmc"
+    },
+    {
+        "name": "Radio Cadena 94.9 FM",
+        "url": "http://server1.veemesoft.com.ar:9416/;",
+        "favicon": "http://www.reproface.com.ar/img/logo/reprofaceNuevo1120.png "
+    },
+    {
+        "name": "Radio Cadena Norte FM",
+        "url": "http://centova.questreaming.com:26834/;",
+        "favicon": "https://www.radiocadenanorte.com/favicon.ico"
+    },
+    {
+        "name": "Radio Cadena Sol 106.5 FM",
+        "url": "http://www.genexservicios.com:8294/;",
+        "favicon": "http://radiocadenasol.com/img/logo-web.png"
+    },
+    {
+        "name": "RADIO CADENA VIDA 95.3 FM",
+        "url": "https://host.serviceinfinito.com.ar:7006/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Cantilo",
+        "url": "http://radio.solumedia.com.ar:7231/stream",
+        "favicon": "https://www.radiocantilo.com/adjuntos/180/cantilo/favicon.png"
+    },
+    {
+        "name": "Radio Caput",
+        "url": "http://69.64.46.123:8132/stream?type=.mp3",
+        "favicon": "https://radiocaput.com/favicon.ico"
+    },
+    {
+        "name": "Radio Centinela",
+        "url": "https://01.solumedia.com.ar:8050/stream",
+        "favicon": "https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png"
+    },
+    {
+        "name": "RADIO CENTRO",
+        "url": "https://sonicpanel.hostradios.com/8710/stream",
+        "favicon": "https://gruporadialcentro.com.ar/wp-content/uploads/2021/07/cropped-centro-logo-a-180x180.png"
+    },
+    {
+        "name": "Radio Centro 99.3 - General Pico",
+        "url": "https://https.nvradios.com/radio/9340/radio.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio chascom\u00fas La voz Regional AM 1520 khz",
+        "url": "https://streaming1.locucionar.com/proxy/radiochascomus?mp=/stream",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Radio Cielo - FM 106.9 mhz (Zarate)",
+        "url": "http://streamall.alsolnet.com:443/radiocielo",
+        "favicon": ""
+    },
+    {
+        "name": "Radio City - 107.1",
+        "url": "http://190.52.32.13:1935/radiocity/live_1/chunklist_w1583615162.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio city 107.1 - Jujuy",
+        "url": "http://190.52.32.13:1935/radiocity/live_1/chunklist_w232887204.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio City juy",
+        "url": "https://5cd577a3dd8ec.streamlock.net/radiocity/live_1/chunklist_w1831978817.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Ciudad 88.1 - Jujuy",
+        "url": "http://181.177.20.20:8000/radiociudad",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Ciudad AM 1110 ",
+        "url": "https://media.radios.ar:1110/",
+        "favicon": "https://buenosaires.gob.ar/sites/default/files/favicon.ico"
+    },
+    {
+        "name": "Radio Comunitaria Cuyum",
+        "url": "https://radios.liberaturadio.org/Cuyum",
+        "favicon": "https://comecuco.org/wp-content/uploads/2024/06/cropped-favicon-180x180.png"
+    },
+    {
+        "name": "Radio Comunitaria Cuyum",
+        "url": "https://radios.liberaturadio.org/Cuyum",
+        "favicon": "https://comecuco.org/wp-content/uploads/2024/06/cropped-favicon-180x180.png"
+    },
+    {
+        "name": "Radio Comunitaria FM Punta del Indio",
+        "url": "http://streaming.conexionproductora.com.ar:9650/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Comunitaria LaQuintaPata",
+        "url": "http://server3.veemesoft.com.ar:26429/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Con Aguante - Piezas de Realidad",
+        "url": "https://streaming01.shockmedia.com.ar/9536/;?1718973618118",
+        "favicon": "https://static.wixstatic.com/media/302c7c_5b57b5787705470e83f16006fd13b104~mv2.png/v1/crop/x_47,y_743,w_1900,h_630/fill/w_324,h_109,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO_AGUANTE_01_ROJO.png"
+    },
+    {
+        "name": "Radio Con Vos 89.9",
+        "url": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Con Vos 89.9 FM",
+        "url": "https://www.surfmusic.de/m3u/radio-con-vos-89-9-fm,20048.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Concierto 96.5 FM",
+        "url": "https://vivohd.fmradioconcierto.com.ar:8000/radio.mp3",
+        "favicon": "https://cdn.webrad.io/images/brand/icon_192x192.png"
+    },
+    {
+        "name": "RADIO CONCIERTO 97.1 MHZ",
+        "url": "https://vivohd.fmradioconcierto.com.ar:8000/status-json.xsl//radio.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Continental",
+        "url": "https://alpha.radioplayer.com.ar/stream/cadenacontinental",
+        "favicon": "https://imgs.search.brave.com/vtEJvtesQyA2JnVNnRgdVyu1ZZL65kgsjlFSSOEfFPg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMubXl0dW5lci5t/b2JpL21lZGlhL3Jh/ZGlvcy0xNTBweC80/M3hIVlNiSE5YLnBu/Zw"
+    },
+    {
+        "name": "Radio Continental 590 AM",
+        "url": "https://frontend.radiohdvivo.com/continental/live",
+        "favicon": "https://continental-assets.tadevel-cdn.com/6182e0982c54cf62a0239b62/logo%20conti%20renew.SVG"
+    },
+    {
+        "name": "Radio Cool FM 103.7",
+        "url": "https://radios.solumedia.com:10805/stream/1/",
+        "favicon": "https://cdn.webrad.io/images/brand/icon_192x192.png"
+    },
+    {
+        "name": "Radio Cristiana 95.7",
+        "url": "http://genexservicios.com:8098/listen.asx",
+        "favicon": "https://www.radiocristiana957.com.ar/img/logo-web-xs.png"
+    },
+    {
+        "name": "Radio Cristiana fm 88.3",
+        "url": "https://rr5100.globalhost1.com/8540/stream;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Cristiana FM 88.3",
+        "url": "https://rr5100.globalhost1.com/8540/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Cultura",
+        "url": "https://streaming.escuchanosonline.com:7035/stream",
+        "favicon": "https://www.fmradiocultura.com.ar/wp-content/uploads/2024/03/Logo-RC-Cabecera-web.png"
+    },
+    {
+        "name": "Radio de Cl\u00e1sicos 106.9 FM - Saladillo",
+        "url": "http://streamconex.com:8118/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio De la Azotea",
+        "url": "http://149.202.235.235:8164/;stream/1",
+        "favicon": "http://www.radiodelaazotea.com.ar/wp-content/uploads/2015/05/cropped-favicon-180x180.png"
+    },
+    {
+        "name": "Radio De La Costa 101.9 FM",
+        "url": "https://streaming2.locucionar.com/proxy/porlavida102?mp=/stream",
+        "favicon": "https://fm102radiodelacosta.com.ar/images/logo.png"
+    },
+    {
+        "name": "Radio de tango",
+        "url": "https://fair.entic.net:8010/tango",
+        "favicon": "https://radiodetango.com.ar/imgs/iconos/ico-2x.png"
+    },
+    {
+        "name": "Radio DeeJay 92.5",
+        "url": "http://streaming.radiosenlinea.com.ar:9640/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio del Mar 98.7",
+        "url": "https://cdn.instream.audio/:9051/stream",
+        "favicon": "https://radiodelmar.net/wp-content/themes/web_radiodelmar/assets/img/favicon-48x48.png"
+    },
+    {
+        "name": "Radio del Plata",
+        "url": "https://streaming01.shockmedia.com.ar:10217/stream",
+        "favicon": "https://amdelplata.com/wp-content/uploads/2023/08/cropped-favicon-180x180.png"
+    },
+    {
+        "name": "Radio del Puerto. FM 92.1. Barranqueras. Chaco",
+        "url": "https://streaming.escuchanosonline.com:7106/stream",
+        "favicon": "https://radios.escuchanosonline.com/favicon.ico"
+    },
+    {
+        "name": "Radio Digital San Luis 101.1 FM",
+        "url": "https://streamconex.com:8062/;",
+        "favicon": "https://digitalsanluis.com.ar/wp-content/uploads/2024/04/cropped-1709061107581-180x180.png"
+    },
+    {
+        "name": "Radio Disney - Argentina FM 94.3",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac",
+        "favicon": "https://ar.radiodisney.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogoPlayer.94eccc39.jpg&w=320&q=75"
+    },
+    {
+        "name": "Radio Disney (Argentina) - 94.3 FM - LRL301 - Ciudad de Buenos Aires, Argentina",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac",
+        "favicon": "https://ar.radiodisney.com/favicon.ico"
+    },
+    {
+        "name": "Radio Disney Argentina",
+        "url": "https://24223.live.streamtheworld.com/DISNEY_ARG_BA_ADP/HLS/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Disney Argentina 94.3",
+        "url": "https://provisioning.streamtheworld.com/pls/DISNEY_ARG_BA_ADP.pls",
+        "favicon": "https://ar.radiodisney.com/favicon.ico"
+    },
+    {
+        "name": "Radio Disney Argentina 94.3. Ciudad de Buenos Aires",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "RADIO DON",
+        "url": "https://01.solumedia.com.ar:8936/stream",
+        "favicon": "https://i0.wp.com/radiodon.com.ar/wp-content/uploads/2019/04/radiodon500.png?w=500&ssl=1"
+    },
+    {
+        "name": "Radio Dos Corrientes FM 99.3. Ciudad de Corrientes",
+        "url": "https://radios.solumedia.com/6396/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio El Mundo - AM 1070",
+        "url": "https://streaming.escuchanosonline.com:7118//stream?type=http&nocache=1",
+        "favicon": "https://www.radioelmundoam1070.com/favicon.ico"
+    },
+    {
+        "name": "Radio Emanuel FM 88.9",
+        "url": "https://rr5100.globalhost1.com/8546/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Espiritu Santo",
+        "url": "http://01.solumedia.com.ar:7802/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Estacion Sur",
+        "url": "http://88.198.9.174:8196/live",
+        "favicon": "https://radioestacionsur.org/beta/wp-content/uploads/2022/08/res917.png"
+    },
+    {
+        "name": "Radio Estacion Sur",
+        "url": "http://88.198.9.174:8196/live",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Estelar - Classicos",
+        "url": "http://01.solumedia.com.ar:7607/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Estudios Max",
+        "url": "http://streaming.shockmedia.com.ar:8002/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Fan Castelli",
+        "url": "http://streaming5.locucionar.com:23184/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Fiesta 91.7",
+        "url": "http://190.52.32.13:1935/radiofiesta/live_1/playlist.m3u8",
+        "favicon": "https://static-c4-1.s3.amazonaws.com/assets/img/logos/radio-fiesta-logo-500x353.png"
+    },
+    {
+        "name": "Radio Fiesta 91.7 FM",
+        "url": "http://190.52.32.13:1935/radiofiesta/live_1/playlist.m3u8",
+        "favicon": "https://radiofiestafm.com.ar/images/index/radio_fiesta_positiva_horizontal_392x200.png"
+    },
+    {
+        "name": "Radio Fiesta 97.1 Jujuy",
+        "url": "https://5cd577a3dd8ec.streamlock.net/radiofiesta/live_1/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Flow",
+        "url": "http://stream.zeno.fm/5rxr1mcdcxhvv.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Flow On",
+        "url": "http://stream.zeno.fm/5rxr1mcdcxhvv",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Flow On",
+        "url": "http://stream.zeno.fm/5rxr1mcdcxhvv.pls",
+        "favicon": ""
+    },
+    {
+        "name": "Radio FM Ayres 96.5 MHz",
+        "url": "https://server.ohradio.com.ar/8050/stream",
+        "favicon": "https://radiotv.ar/img/l/fmayres.png"
+    },
+    {
+        "name": "Radio FM Gualamba 93.7. Resistencia Chaco",
+        "url": "https://ssl.radiosnethosting.com/index.php?port=9072",
+        "favicon": "https://fmgualamba.com.ar/icono.ico"
+    },
+    {
+        "name": "Radio FM Profesional 89.9",
+        "url": "http://vps-c0159cbc.vps.ovh.ca/10006/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio FM UTN 94.5 - Regional Mendoza",
+        "url": "http://streaming.fmutn.com.ar:8000/FMUTN#;.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Futura - FM 90.5 mhz",
+        "url": "https://streamer.fmfutura.com.ar/vivo.mp3",
+        "favicon": "https://fmfutura.com.ar/wp-content/uploads/2020/09/logo_futura-256px-1.png"
+    },
+    {
+        "name": "Radio General Conesa AM 1420",
+        "url": "https://streaming01.radiosenlinea.com.ar/8490/stream",
+        "favicon": "https://www.am1420.com.ar/p_am1420/iconos/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio General Guemes AM 1050 Buenos Aires",
+        "url": "https://sonic.dattalive.com/8482/stream",
+        "favicon": "https://guemesam.com.ar/wp-content/uploads/2020/06/cropped-favicon-1024x1024-1-180x180.png"
+    },
+    {
+        "name": "radio Gr\u00e1fica ",
+        "url": "http://radio13.servidorderadio.net:8110/",
+        "favicon": ""
+    },
+    {
+        "name": "radio Gr\u00e1fica ",
+        "url": "http://radio13.servidorderadio.net:8110/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Grafica",
+        "url": "http://radio13.servidorderadio.net:8110/api/v3/widgetsview?id=100&option=big&ssl=1&auto=0",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Impacto",
+        "url": "https://server.streamcasthd.com/8022/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Impacto Cordoba",
+        "url": "http://sonic.cloudstreaming.eu:9992/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Impacto de Vida",
+        "url": "https://streaming2.locucionar.com/proxy/impactodevida?mp=/stream",
+        "favicon": "https://streaminglocucionar.com/portal/images/logos/impactodevida.png"
+    },
+    {
+        "name": "Radio Infinity",
+        "url": "https://sonic.dattalive.com/8192/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Influencia",
+        "url": "http://genexservicios.com:8134/;?1713795357814",
+        "favicon": "http://www.radioinfluenciageneralpico.com.ar/img/logo-web-xs.png"
+    },
+    {
+        "name": "Radio Jornada",
+        "url": "https://edge-st1-audio.masterhost.com.ar/listen/jornada_online_mdz/radio.mp3",
+        "favicon": "https://jornadaonline.com/img/estructura/radioCirculo.png"
+    },
+    {
+        "name": "Radio Jornada FM 91.9",
+        "url": "https://edge-st1-audio.masterhost.com.ar/listen/jornada_online_mdz/radio.mp3",
+        "favicon": "https://jornadaonline.com/img/estructura/radioCirculo.png"
+    },
+    {
+        "name": "Radio Kermes",
+        "url": "https://server.laradio.online/proxy/radiokermes?mp=/stream&1706361379922",
+        "favicon": "https://www.radiokermes.com/templates/g5_helium/custom/images/Logo.jpg"
+    },
+    {
+        "name": "Radio Kerm\u00e9s Comunitaria",
+        "url": "http://server.laradio.online:8599/;",
+        "favicon": "https://www.radiokermes.com/images/192.png"
+    },
+    {
+        "name": "Radio La Luna AM 1140",
+        "url": "https://server.ohradio.com.ar/9344/stream",
+        "favicon": ""
+    },
+    {
+        "name": "radio La Nave",
+        "url": "https://stream.zeno.fm/7zb5ppzk0mruv.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Radio La Plata 90.9",
+        "url": "https://radios.solumedia.com/6348/stream",
+        "favicon": "https://radiolaplata.com.ar/wp-content/uploads/2023/10/cropped-icono-laplata-ar-180x180.png"
+    },
+    {
+        "name": "Radio La PLaza 94.7",
+        "url": "https://radio.arcast.net:1045/stream",
+        "favicon": "https://plazaweb.com.ar/wp-content/uploads/2023/07/favicon-pw.png"
+    },
+    {
+        "name": "Radio La Red",
+        "url": "https://24283.live.streamtheworld.com/LA_RED_AM910AAC_SC",
+        "favicon": "https://imgs.search.brave.com/E7McGLSgbjWKaLKymFCs19AxwSaZwRiX7Bv2Jo4oMQA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9yYWRp/b2FyZy5uZXQvc3Rv/cmFnZS9yYWRpb3Mv/Nzk1NC8xMDA3Ni9j/b252ZXJzaW9ucy9s/YS1yZWQxLXhzLndl/YnA"
+    },
+    {
+        "name": "Radio La Red AM 910",
+        "url": "https://21933.live.streamtheworld.com/LA_RED_AM910AAC.aac",
+        "favicon": "https://www.lared.am/css-custom/316/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio La Red AM 910. Ciudad de Buenos Aires",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac",
+        "favicon": "https://www.lared.am/css-custom/316/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio Las Rosas",
+        "url": "http://streaming01.shockmedia.com.ar:9676/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Latina 100.9 (General Roca) ",
+        "url": "https://streamingraddios.online/proxy/luradioe?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Latina FM 101.1",
+        "url": "http://streaming.latina101.com.ar:9000/Repetidoras",
+        "favicon": "http://www.latina101.com.ar/favicon.png"
+    },
+    {
+        "name": "Radio Legislatura",
+        "url": "http://186.189.66.4:8100/source",
+        "favicon": "https://www.legislaturamendoza.gov.ar/favicon.ico"
+    },
+    {
+        "name": "Radio Libre 93.5 General Pico",
+        "url": "https://streaming1.locucionar.com/proxy/libre935?mp=/stream",
+        "favicon": "https://streaminglocucionar.com/portal/images/logos/libre935.png"
+    },
+    {
+        "name": "Radio Longplay",
+        "url": "http://server.ohradio.com.ar:9352/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Magic FM 100.9 Tigre",
+        "url": "https://radio01.ferozo.com/proxy/ra01000677/?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "RADIO MARIA ARGENTINA",
+        "url": "http://dreamsiteradiocp.com:8004/stream",
+        "favicon": "https://radiomaria.org.ar/favicon.ico"
+    },
+    {
+        "name": "Radio M\u00e1s",
+        "url": "http://nvradios.com:9384/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Maxi FM",
+        "url": "http://cloudstream2036.conectarhosting.com:8140/listen.pls",
+        "favicon": "https://fm.radiomaxifmhd.com/images/head1.jpg"
+    },
+    {
+        "name": "Radio Meridiano",
+        "url": "http://23.111.184.195:8050/fmmeridiano.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Mitre AM 790 Buenos Aires",
+        "url": "https://24273.live.streamtheworld.com/AM790_56AAC.aac",
+        "favicon": "https://en.wikipedia.org/wiki/File:Logo_Mitre_SA.svg"
+    },
+    {
+        "name": "Radio Mitre AM 790 Buenos Aires",
+        "url": "https://24273.live.streamtheworld.com/AM790_56AAC.aac",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/29/Logo_Mitre_SA.svg"
+    },
+    {
+        "name": "Radio Mitre AM 790 Buenos Aires version 3",
+        "url": "https://24273.live.streamtheworld.com/AM790_56AAC.aac",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/29/Logo_Mitre_SA.svg"
+    },
+    {
+        "name": "Radio Mitre AM 790 Buenos Aires version 5",
+        "url": "https://24273.live.streamtheworld.com/AM790_56AAC.aac",
+        "favicon": "https://cloudfront-arc.cienradios.com/radiomitre/favicons/android-icon-192x192.png"
+    },
+    {
+        "name": "Radio Mitre Cordoba",
+        "url": "https://buecrplb01.cienradios.com.ar/Mitre810.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Mitre Cordoba",
+        "url": "https://buecrplb01.cienradios.com.ar/Mitre810.aac",
+        "favicon": "https://radiomitre.cienradios.com/pf/resources/radiomitre/logos/favicon.ico?d=17"
+    },
+    {
+        "name": "Radio Monk",
+        "url": "http://streaming01.shockmedia.com.ar:9858/;",
+        "favicon": "http://www.radiomonk.com.ar/img/logo.png"
+    },
+    {
+        "name": "Radio nacional AM 870",
+        "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/0/00/Nacional_AM_870_2016.png"
+    },
+    {
+        "name": "Radio Nacional C\u00f3rdoba - LRA7 AM750",
+        "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad7",
+        "favicon": "https://cdn.radionacional.com.ar/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Nacional Folklorica 98.7",
+        "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Nacional Rock 93.7",
+        "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39",
+        "favicon": "http://cdn.radionacional.com.ar/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Nacional Santa Rosa AM 730",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad3",
+        "favicon": "https://pbs.twimg.com/profile_images/1628383109673541632/7-mYJz3p_200x200.jpg"
+    },
+    {
+        "name": "Radio Natagal\u00e1 FM 94.7. Resistencia Chaco",
+        "url": "http://radio02.ferozo.com:8704/;",
+        "favicon": "https://radionatagala.com/asset/img/favicon.png"
+    },
+    {
+        "name": "Radio Nordeste FM 102.7. Resistencia. Chaco",
+        "url": "http://turadioenvivo.com:11027/stream",
+        "favicon": "https://radionordeste.ar/images/logo.png"
+    },
+    {
+        "name": "Radio Norte",
+        "url": "https://icecast.hostingbahia.com.ar:8002/live?90131",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Norte Bahia",
+        "url": "http://icecast.hostingbahia.com.ar:8002/live?1475282235673",
+        "favicon": "https://radionorte.com.ar/wp-content/uploads/2021/07/cropped-04-1-180x180.png"
+    },
+    {
+        "name": "Radio Noticias FM 99.5 - Santa Rosa.",
+        "url": "http://stream01.insidetec.com:9014/radionoticias",
+        "favicon": "https://www.laarena.com.ar/img/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Noticias FM 99.5 - Santa Rosa.",
+        "url": "http://stream01.insidetec.com:9014/radionoticias",
+        "favicon": "https://www.laarena.com.ar/img/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio NOW 97.9",
+        "url": "https://ipanel.instream.audio:7002/stream?_=18fea7232d5",
+        "favicon": "https://www.enlaradio.com.ar/wp-content/uploads/2024/06/elr_979now-1024x576.jpg"
+    },
+    {
+        "name": "Radio On The Route",
+        "url": "http://01.solumedia.com.ar:7345/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Onda | Tigre Argentina",
+        "url": "http://149.202.235.235:8011/live",
+        "favicon": "http://www.radioonda.com.ar/wp-content/uploads/2016/08/logo-radio-onda-web.png"
+    },
+    {
+        "name": "Radio Ori\u00f3n",
+        "url": "http://01.solumedia.com.ar:7834/stream?icy=http",
+        "favicon": "https://cdn.onlineradiobox.com/img/logo/8/86898.v4.png"
+    },
+    {
+        "name": "Radio Patagonia Puerto Madryn FM 105.5",
+        "url": "https://stream.servidorm24.net:7004/stream",
+        "favicon": "http://fmpatagoniamadryn.com.ar/favicon.ico"
+    },
+    {
+        "name": "Radio Piamonte - FM Tiempo 92.5",
+        "url": "https://server.radiostreaming.com.ar/8288/stream;?1721304335025",
+        "favicon": "http://www.radiopiamonte.com.ar/favicon.ico"
+    },
+    {
+        "name": "Radio Provincia",
+        "url": "http://streaming.provinciaradio.com.ar:7007/am",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Provincia - AM1270",
+        "url": "https://streaming.provinciaradio.com.ar:7008/am",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Provincia - FM 97.UNE",
+        "url": "http://streaming.provinciaradio.com.ar:3351/fm",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Provincia AM 1270",
+        "url": "https://streaming.provinciaradio.com.ar:7008/am",
+        "favicon": "https://radioprovincia.gba.gob.ar/images/favicon.png"
+    },
+    {
+        "name": "Radio Provincia de Santa Cruz AM 830 khz Rio Gallegos",
+        "url": "https://transmision-lu14.santacruz.gob.ar/lu14.mp3",
+        "favicon": "http://lu14.santacruz.gob.ar/wp-content/uploads/2024/03/appstore.png"
+    },
+    {
+        "name": "Radio Provincia del Chaco FM 101.5. Resistencia Chaco",
+        "url": "https://debred5.ecomchaco.com.ar:8443/radioecom",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Provincia FM 97.UNE",
+        "url": "https://streaming.provinciaradio.com.ar:3352/fm",
+        "favicon": "https://radioprovincia.gba.gob.ar/images/favicon.png"
+    },
+    {
+        "name": "Radio Pueblo de Maria",
+        "url": "http://01.solumedia.com.ar:7018/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Quilpo",
+        "url": "https://https.nvradios.com/radio/9352/radio.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Rebelde AM 740",
+        "url": "http://stream.radiojar.com/qkxht62hy8hvv",
+        "favicon": "https://radiorebelde.ar/favicon.ico"
+    },
+    {
+        "name": "Radio Recuerdos 106.7",
+        "url": "http://198.204.234.10:8580/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Rep\u00fablica",
+        "url": "http://streamlky.alsolnet.com:443/republica99",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Rio Cuarto",
+        "url": "https://server6.hostradios.com/8552/stream/;/;type=mp3",
+        "favicon": "https://www.lv16.com.ar/favicon.ico"
+    },
+    {
+        "name": "Radio Rio Cuarto",
+        "url": "https://server6.hostradios.com/8552/stream/;/;type=mp3",
+        "favicon": "https://www.lv16.com.ar/sg/players/am1010_vivo/img/logo.jpg"
+    },
+    {
+        "name": "Radio Rivadavia",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets",
+        "favicon": "https://imgs.search.brave.com/c0mfZAqHGqHQ8JWG3R-tqwt_EXVt-KLx3sCZJSZ0dlc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9hZG1p/bi5hdXRvLW1lc3Nl/bmdlci5ydS9zdG9y/YWdlL2NpdHlfcmFk/aW8vMzk1OTQvNTUz/MTcvY29udmVyc2lv/bnMvcm1TSjdWWnFJ/d2VmNHR3WTE4Z21U/R2RLanI2S2hnLW1l/dGFjbUZrYVc4dGNt/bDJZV1JoZG1saExY/SnZjMkZ5YVc4dWNH/NW4tLWxnLndlYnA"
+    },
+    {
+        "name": "Radio Rivadavia",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIA.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Rivadavia AM 630. Ciudad de Buenos Aires",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac",
+        "favicon": "https://rivadavia.com.ar/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio Saint Germain",
+        "url": "http://173.255.205.241:8200/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Saladillo",
+        "url": "https://chino.republicahosting.com:2316/live",
+        "favicon": "http://fm90saladillo.com.ar/favicon.ico"
+    },
+    {
+        "name": "Radio Santa Cecilia",
+        "url": "https://01.solumedia.com.ar:8492/stream",
+        "favicon": "https://www.santaceciliafm.com.ar/index_archivos/Logo%20SC%202021%20-%20005.png"
+    },
+    {
+        "name": "Radio Semilla FM 106.5 - IMPA",
+        "url": "https://sslstream.online:7091/;",
+        "favicon": "https://www.facebook.com/photo/?fbid=4289779311059018&set=a.520457796754041"
+    },
+    {
+        "name": "Radio Shopping",
+        "url": "https://stream4.suenas.net/shoppingclassics",
+        "favicon": "https://static.wixstatic.com/media/ec27f9_ea87259ccf5b5bb366eb07444d11ad6a.png/v1/fill/w_167,h_160,al_c,q_85,usm_0.66_1.00_0.01/ec27f9_ea87259ccf5b5bb366eb07444d11ad6a.webp"
+    },
+    {
+        "name": "Radio Sublime Gracia",
+        "url": "https://stream.consultoradas.com/8174/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Sudamericana 100.5 - Corrientes Capital",
+        "url": "http://turadioenvivo.com:8530/stream?1562165478826",
+        "favicon": "http://www.radiosudamericana.com/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio Suquia",
+        "url": "https://streaming01.shockmedia.com.ar:10945/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Sur - FM 88.3 mhz",
+        "url": "https://01.solumedia.com.ar:8020/stream",
+        "favicon": "https://www.radiosur.org.ar/favicon.ico"
+    },
+    {
+        "name": "Radio Sur FM 88.3",
+        "url": "http://01.solumedia.com.ar:8020/stream",
+        "favicon": "https://www.radiosur.org.ar/favicon.ico"
+    },
+    {
+        "name": "Radio Tandil - LU22 AM140",
+        "url": "https://streaming01.shockmedia.com.ar/8170/live",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Tecnoteca",
+        "url": "https://server7.hostradios.com:8142/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Tiempo Villa Mercedes",
+        "url": "https://stream-152.zeno.fm/6v6wmf2sivevv?zs=n7o6R7wmQQmLfi8nD1ADNA",
+        "favicon": "http://www.tiemporadiofm.com.ar/favicon.ico"
+    },
+    {
+        "name": "Radio Trend Topic",
+        "url": "https://sonic.dattalive.com/8480/stream",
+        "favicon": "https://radiotrendtopic.com.ar/web/wp-content/uploads/2018/02/logo-640X40.png"
+    },
+    {
+        "name": "Radio Trinchera",
+        "url": "https://server7.hostradios.com/8316/stream",
+        "favicon": "https://i0.wp.com/revistatrinchera.com/wp-content/uploads/2021/08/cropped-Trincheraslogan-2.jpg"
+    },
+    {
+        "name": "Radio Universidad",
+        "url": "http://163.10.186.70:8002/stream",
+        "favicon": "https://www.radiouniversidad.unlp.edu.ar/favicon.ico"
+    },
+    {
+        "name": "Radio Universidad - FM91.1 UTN Resistencia",
+        "url": "http://01.solumedia.com.ar:8336/",
+        "favicon": "http://www.radiouniversidad911.com.ar/public/themes//radio/images/logo.png"
+    },
+    {
+        "name": "Radio Universidad - FM93.5 La Tecno (UTN Tierra del Fuego)",
+        "url": "http://streamall.alsolnet.com/latecno",
+        "favicon": "https://www.radiouniversidad.com.ar/wp-content/uploads/2022/07/cropped-logo29-7-192x192.png"
+    },
+    {
+        "name": "Radio Universidad - UNLP - AM 1390",
+        "url": "https://statics-v2.streema.com/static/audios/sample.ea78c3d52389.mp3",
+        "favicon": "https://static-media.streema.com/media/cache/06/89/0689b2bcd6a6817744bc4fa7c3c36f37.jpg"
+    },
+    {
+        "name": "Radio Universidad AM580",
+        "url": "https://radios.solumedia.com:10976/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Universidad CALF Neuqu\u00e9n",
+        "url": "https://cdn.instream.audio/:9032/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988",
+        "favicon": "https://universidadcalf.com/wp-content/uploads/2018/01/logo-NUEVA-150x98.png"
+    },
+    {
+        "name": "radio universidad de rosario",
+        "url": "https://cdn.instream.audio/:9202/stream",
+        "favicon": "https://radio.unr.edu.ar/wp-content/uploads/2022/12/cropped-logoo-radio-cua-180x180.png"
+    },
+    {
+        "name": "Radio Universidad FM 93.5 Rio Grande",
+        "url": "http://streamall.alsolnet.com/latecno",
+        "favicon": "https://www.radiouniversidad.com.ar/wp-content/uploads/2022/07/cropped-logo29-7-192x192.png"
+    },
+    {
+        "name": "Radio Universidad Mendoza",
+        "url": "https://fm.uncu.edu.ar/",
+        "favicon": "https://www.unidiversidad.com.ar/assets/favicon/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Universidad Rosario",
+        "url": "https://cdn.instream.audio/:9202/stream",
+        "favicon": "https://radio.unr.edu.ar/wp-content/uploads/2022/12/cropped-logoo-radio-cua-180x180.png"
+    },
+    {
+        "name": "Radio Universo FM100.3 Carhue",
+        "url": "http://server11.veemesoft.com.ar:28918/Stream/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio UNLu",
+        "url": "http://144.217.30.219:8043/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Unlu",
+        "url": "http://144.217.30.219:8043/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Uno Ingeniero Jacobacci FM 105.5",
+        "url": "https://ssl.radiosnethosting.com/index.php?port=8642/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio UNR",
+        "url": "https://cdn.instream.audio/:9202/stream",
+        "favicon": "https://radio.unr.edu.ar/wp-content/uploads/2022/12/cropped-logoo-radio-cua-180x180.png"
+    },
+    {
+        "name": "RADIO UNR",
+        "url": "https://cdn.instream.audio/:9202/stream",
+        "favicon": "https://radio.unr.edu.ar/wp-content/uploads/2022/06/Radio-Online.png"
+    },
+    {
+        "name": "Radio UTN Bahia Blanca - FM 93.5",
+        "url": "https://sonic.cloudstreaming.eu:10986/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio UTN Mendoza 94.5",
+        "url": "http://streaming.fmutn.com.ar:8000/FMUTN",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Valle Viejo",
+        "url": "https://stm2.livecastradio.com:9379/stream",
+        "favicon": "https://radio-tvvalleviejo.com/wp-content/uploads/2024/07/MOSCA-Radio-Tv-Valle-Viejo_-e1722129329959.png"
+    },
+    {
+        "name": "Radio Verdad (Villa Dolores)",
+        "url": "https://streaming1.locucionar.com/proxy/radioverdad?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Verdad Villa Dolores",
+        "url": "https://streaming1.locucionar.com/proxy/radioverdad?mp=/stream",
+        "favicon": "https://streaminglocucionar.com/portal/images/logos/radioverdad.jpeg"
+    },
+    {
+        "name": "Radio Vitalista",
+        "url": "http://01.solumedia.com.ar:7169/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Vos 88.7",
+        "url": "http://centova1.veemesoft.com.ar:12378/;",
+        "favicon": "http://www.radiovosfm.com.ar/new/img/mundo.png"
+    },
+    {
+        "name": "Radio Vos Salta 90.1",
+        "url": "http://streaming01.shockmedia.com.ar:9200/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Zero MAR DEL PLATA 98.9 - MENDOZA 91.1 - PINAMAR 107.5",
+        "url": "http://online.radiozero.fm:8020/mp3",
+        "favicon": "https://radiozero.fm/logo2.png"
+    },
+    {
+        "name": "RADIO ZETA 94.5 Mhz, La Plata Buenos Aires...ARGENTINA",
+        "url": "https://server.ohradio.com.ar/9650/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio zity",
+        "url": "http://190.52.32.13:1935/radiocity/live_1/chunklist_w232887204.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio5 100.5 - General Pico",
+        "url": "http://streaming2.locucionar.com:9089/",
+        "favicon": "https://play-lh.googleusercontent.com/hJ4qIF3yY3go-FRV_dmGkJmNjsFDWShW3Y9FTUcwcRSXshK2Tq_QPuA6Z73lMB9Hiw"
+    },
+    {
+        "name": "Radiofonica 100.7",
+        "url": "https://radio02.ferozo.com/proxy/ra02000290?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "RadioOne",
+        "url": "https://one.stweb.tv/one/live/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "RadioTV AN24",
+        "url": "https://cdn.instream.audio:2199/tunein/radiotva.pls",
+        "favicon": ""
+    },
+    {
+        "name": "Radiovision 99.5 fm",
+        "url": "https://cdn.instream.audio/:9061/stream?in_device_id=wp-e80516ae-250e-4455-ac11-14ce5f370cc8",
+        "favicon": "https://i.ibb.co/d03rjgF/player.jpg"
+    },
+    {
+        "name": "Radiovision Comodoro Rivadavia FM 99.5 ",
+        "url": "https://cdn.instream.audio/:9061/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988",
+        "favicon": ""
+    },
+    {
+        "name": "RAE - Argentina al Mundo",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad35",
+        "favicon": "https://cdn.radionacional.com.ar/apple-icon-120x120.png"
+    },
+    {
+        "name": "RAE - Argentina al mundo",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad35",
+        "favicon": "https://www.radionacional.com.ar/apple-icon-120x120.png"
+    },
+    {
+        "name": "Ranquel FM",
+        "url": "https://server6.hostradios.com/8556/stream/;type=mp3",
+        "favicon": "https://www.lv16.com.ar/favicon.ico"
+    },
+    {
+        "name": "RBD Radio Multimedia",
+        "url": "https://streaming.radiosenlinea.com.ar:10637/live?_=1",
+        "favicon": "https://i0.wp.com/rbdradio.com.ar/wp-content/uploads/2019/04/LOGOWEB.png?fit=100%2C100&ssl=1"
+    },
+    {
+        "name": "rc",
+        "url": "http://radio13.servidorderadio.net:9648/",
+        "favicon": "https://radioconectividad.com.ar/wp-content/uploads/2024/05/cropped-icoradio-180x180.png"
+    },
+    {
+        "name": "RC 107.1",
+        "url": "http://190.52.32.13:1935/radiocity/live_1/chunklist_w1583615162.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "REAL POLITIK FM",
+        "url": "https://01.solumedia.com.ar:8638/stream?icy=http",
+        "favicon": "https://realpolitik.fm/images/apple-touch-icon-80x80.png"
+    },
+    {
+        "name": "Red 92",
+        "url": "https://radios.solumedia.com/6426/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Red 92",
+        "url": "https://radios.solumedia.com/6426/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Red Santa Fe Fm 106.3",
+        "url": "http://190.7.30.53:8010/redsantafe.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Remanente de efraim",
+        "url": "https://stream.zeno.fm/vxqg94xspc9uv",
+        "favicon": "https://keilaremanentedeef.wixsite.com/httpswwwiglesiakei-1"
+    },
+    {
+        "name": "Renacer fm 97.5",
+        "url": "https://emisora.brotherservicios.com/8018/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Renacer fm 97.5",
+        "url": "https://emisora.brotherservicios.com/8018/stream",
+        "favicon": ""
+    },
+    {
+        "name": "RetroMusic San Justo",
+        "url": "http://178.32.146.184:5938/;",
+        "favicon": ""
+    },
+    {
+        "name": "Revuelto Radio",
+        "url": "https://cdn.instream.audio:9097/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Rinc\u00f3n Gaucho",
+        "url": "https://dj91.hostingnuclear.com/9952/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Rio FM 104.3 General Belgrano",
+        "url": "https://sonicpanel.hostradios.com/8032/stream",
+        "favicon": "https://fmrio.com.ar/favicon.ico"
+    },
+    {
+        "name": "Rio FM 96.9 Rosario",
+        "url": "https://streaming.redboing.com/radio/8070/radio.mp3",
+        "favicon": "https://rio969.com/_static/thumbnail.png"
+    },
+    {
+        "name": "Rio Negro Radio 91.9 (General Roca)",
+        "url": "https://01.solumedia.com.ar:7004/stream",
+        "favicon": "https://www.rionegro.com.ar/wp-content/themes/rn-v2/dist/img/apps/apple-icon-120x120.png"
+    },
+    {
+        "name": "Rioseco FM",
+        "url": "http://argentina.republicahosting.com:8236/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Rivadavia",
+        "url": "https://24383.live.streamtheworld.com/RIVADAVIAAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=9892438b-a3ed-44ab-d837-6399dac0aa64",
+        "favicon": "https://rivadavia.com.ar/images/logo_header.png"
+    },
+    {
+        "name": "Rivadavia",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets",
+        "favicon": ""
+    },
+    {
+        "name": "Rivadavia AM 630 AAC Alta. Ciudad de Buenos Aires",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac",
+        "favicon": "https://rivadavia.com.ar/apple-touch-icon.png"
+    },
+    {
+        "name": "Rivadavia Rosario FM 106.3 Rosario",
+        "url": "https://radio02.ferozo.com/proxy/ra02001331?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Rock & Pop 95.9 FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3",
+        "favicon": "https://fmrockandpop.com/images/ryp/logo_2022.webp"
+    },
+    {
+        "name": "Rock And More",
+        "url": "https://streaming01.shockmedia.com.ar/8616/;",
+        "favicon": "https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-120x120.png"
+    },
+    {
+        "name": "rock and pop 89.7 FM",
+        "url": "https://streamlky.alsolnet.com/rockandpop_128k",
+        "favicon": "https://www.rockandpopmdp.com.ar/img/rock-and-pop-mdp-logo-web-ch.png"
+    },
+    {
+        "name": "Rock And Pop FM 95.9 (Rock & Pop) Ciudad de Buenos Aires",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac",
+        "favicon": "https://fmrockandpop.com/pwa/ios_192x192.png"
+    },
+    {
+        "name": "Rock RA",
+        "url": "http://stream.zeno.fm/mbketaeaqhguv",
+        "favicon": ""
+    },
+    {
+        "name": "Rock ra",
+        "url": "https://stream.zeno.fm/mbketaeaqhguv",
+        "favicon": ""
+    },
+    {
+        "name": "ROLD\u00c1N FM 92 92.3",
+        "url": "https://server.laradio.online/proxy/delcia_karamoschon?mp=/stream&1692351094586",
+        "favicon": "https://roldanfm92.com.ar/wp-content/uploads/2023/04/cropped-FM92-ROLDAN-LOGO-final-01-2048x2026.png"
+    },
+    {
+        "name": "RPM Oldies & Retro Hits",
+        "url": "https://radios.solumedia.com/6118/stream",
+        "favicon": "https://rpmhitsradio.blogspot.com/favicon.ico"
+    },
+    {
+        "name": "RPM Oldies & Retro Hits",
+        "url": "https://radios.solumedia.com/6118/stream",
+        "favicon": "https://rpmhitsradio.blogspot.com/favicon.ico"
+    },
+    {
+        "name": "s",
+        "url": "https://stream.almadinafm.com/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "s",
+        "url": "https://stream.almadinafm.com/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "San Roque Fm, 97.9 Mhz",
+        "url": "https://s21.myradiostream.com/10952/listen.mp3",
+        "favicon": "https://villadesoto.gob.ar/wp-content/uploads/2019/01/30127314_1995982100719193_3211942701260033671_n.jpg"
+    },
+    {
+        "name": "Sensation Radio 107.5 Neuqu\u00e9n",
+        "url": "http://radio01.ferozo.com:8976/;stream.nsv",
+        "favicon": "https://cdn.onlineradiobox.com/img/favicon-194x194.png"
+    },
+    {
+        "name": "Si",
+        "url": "https://argentina.republicahosting.com:2022/live",
+        "favicon": ""
+    },
+    {
+        "name": "Si 98.9 FM",
+        "url": "http://server.laradio.online:8202/;",
+        "favicon": ""
+    },
+    {
+        "name": "Simphony San Isidro FM 91.3 Mhz",
+        "url": "http://cdn.instream.audio:8129/stream.m3u",
+        "favicon": "https://static.wixstatic.com/media/f78d17_0805e3a796fb4757925e75d8b53e017d.png/v1/fill/w_261,h_133,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f78d17_0805e3a796fb4757925e75d8b53e017d.png"
+    },
+    {
+        "name": "Skorpio Vicu\u00f1a Mackenna FM 102.5",
+        "url": "https://radios.streamingdha.com.ar/8052/;",
+        "favicon": ""
+    },
+    {
+        "name": "Solo Vinilo",
+        "url": "http://stream.zeno.fm/7p5tn0dfam8uv",
+        "favicon": ""
+    },
+    {
+        "name": "Solo Vinilo Classic Rock Hits",
+        "url": "https://stream-153.zeno.fm/eyf4f0dfam8uv?",
+        "favicon": ""
+    },
+    {
+        "name": "Somos Radio",
+        "url": "https://ipanel.instream.audio:7000/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Somos Radio - AM 530 (Radio de las Madres de Plaza de Mayo)",
+        "url": "https://cdn.instream.audio:9288/stream",
+        "favicon": "https://am530somosradio.com/wp-content/uploads/2024/04/Logo.jpg"
+    },
+    {
+        "name": "Sonifo FM 103.5 - El cl\u00e1sico sonido de Buenos Aires",
+        "url": "https://stream.serviciowebdigital.com/8780/stream",
+        "favicon": "https://sonidofm.com/favicon.ico"
+    },
+    {
+        "name": "Soplo de Bendici\u00f3n ",
+        "url": "http://stream.laut.fm/soplodebendicionradio",
+        "favicon": "https://soplodebendicionradio.online/favicon.ico"
+    },
+    {
+        "name": "Soy un Clasico",
+        "url": "https://streaming1.locucionar.com/proxy/soyunclasico?mp=/stream",
+        "favicon": "http://soyunclasico.com.ar/images/icono.png"
+    },
+    {
+        "name": "Spacio Fm Metan",
+        "url": "https://sonic.dattalive.com/8598/stream",
+        "favicon": "https://static.wixstatic.com/media/b7b640_979e29e625374f56818318d29761e139~mv2.png/v1/fill/w_106,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20stv%202022%20png%20mosca.png"
+    },
+    {
+        "name": "Sudaca FM",
+        "url": "https://sudaca.redenfoques.com.ar/sudaca",
+        "favicon": "https://www.radiosudaca.org/wp-content/uploads/2024/03/Radio-Sudaca-150x150.jpg"
+    },
+    {
+        "name": "T&D Radio",
+        "url": "http://149.202.235.235:8133/live",
+        "favicon": ""
+    },
+    {
+        "name": "The Musical Box Radio",
+        "url": "http://albireo.shoutca.st:9740/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Tiempo 97.5 FM",
+        "url": "https://sc.host-live.com/8166/stream",
+        "favicon": ""
+    },
+    {
+        "name": "TMB The Musical Box",
+        "url": "https://tmbradio.radioca.st/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Tropibox FM 107.1",
+        "url": "http://69.64.46.123:8015/stream?1571687077817,",
+        "favicon": "https://d1di2lzuh97fh2.cloudfront.net/files/4e/4eu/4eu3wp.ico?ph=9fafd4bf7d"
+    },
+    {
+        "name": "Una Radio Muchas Voces",
+        "url": "https://stream.radios.red/unaradio.ogg",
+        "favicon": "https://unaradio.org.ar/favicon.ico"
+    },
+    {
+        "name": "UnDinamo",
+        "url": "https://cdn.instream.audio/:9339/stream?in_device_id=WPU32ffbfaa3cd8ebaaa8f64ec868bf4b88XY177fdfd79a7",
+        "favicon": ""
+    },
+    {
+        "name": "Undinamo",
+        "url": "https://cdn.instream.audio/:9339/stream?in_device_id=WPU32ffbfaa3cd8ebaaa8f64ec868bf4b88XY177fdfd79a7",
+        "favicon": ""
+    },
+    {
+        "name": "Universidad Claf 103.7 Mhz",
+        "url": "http://cdn.instream.audio:9032/stream",
+        "favicon": "https://universidadcalf.com/favicon.ico"
+    },
+    {
+        "name": "UNQRadio - FM 91.5",
+        "url": "http://170.210.74.75:8000/fm915.mp3",
+        "favicon": "http://radio.web.unq.edu.ar/wp-content/uploads/sites/48/2020/04/cropped-unqmic-180x180.png"
+    },
+    {
+        "name": "UNRC Radio",
+        "url": "https://server6.hostradios.com:7280/stream",
+        "favicon": "https://radio.unrc.edu.ar/wp-content/uploads/2022/03/cropped-favicon-180x180.png"
+    },
+    {
+        "name": "Urbana Play 104.3",
+        "url": "https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8",
+        "favicon": "https://urbanaplayfm.com/file/2023/09/cropped-favicon-urb-play-180x180.png"
+    },
+    {
+        "name": "Urbana Play 104.3",
+        "url": "https://ice1.edge-apps.net/urbana.audio",
+        "favicon": "https://urbanaplayfm.com/file/2023/09/cropped-favicon-urb-play-180x180.png"
+    },
+    {
+        "name": "Urbana Play 104.3",
+        "url": "https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8",
+        "favicon": "https://urbanaplayfm.com/file/2023/09/cropped-favicon-urb-play-32x32.png"
+    },
+    {
+        "name": "Vale 97.1",
+        "url": "http://vale.stweb.tv:1935/vale/live/playlist.m3u8",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Vale975.png/225px-Vale975.png"
+    },
+    {
+        "name": "Vale 97.5",
+        "url": "https://vale.stweb.tv/vale/live/chunks.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Vale 97.5 FM",
+        "url": "https://s6.stweb.tv/vale/live/playlist.m3u8",
+        "favicon": "https://static-media.streema.com/media/cache/ea/88/ea8819237ab261e9422cd67ae8c1be8d.jpg"
+    },
+    {
+        "name": "VIP Radio",
+        "url": "https://server6.hostradios.com:7232/;?",
+        "favicon": "https://www.vipradio.com.ar/img/apple-touch-icon.png"
+    },
+    {
+        "name": "VIVA 102.3",
+        "url": "http://streaming1.locucionar.com:12072/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Vorterix (2023)",
+        "url": "https://ice2.edge-apps.net/radio1_high-20057.audio",
+        "favicon": "https://www.vorterix.com/favicon.ico"
+    },
+    {
+        "name": "WAN Radio",
+        "url": "http://69.64.46.123:8009/autodj",
+        "favicon": "https://www.wanradio.com/assets/images/logo-wan-1.fw-128x128.png"
+    },
+    {
+        "name": "WClassicRadio",
+        "url": "http://server.ohradio.com.ar:9604/stream/;",
+        "favicon": "https://wclassicradio.com/wp-content/uploads/2023/07/cropped-logo-180x180.png"
+    },
+    {
+        "name": "XRADIO 99.1 ",
+        "url": "https://radios.streamingdha.com.ar/9826/;",
+        "favicon": "https://xradio.ar/wp-content/uploads/2021/11/cropped-cropped-logo-radio-bariloche-san-clemente-1-1-150x150-1-180x180.png"
+    },
+    {
+        "name": "Yo Argentino Radio",
+        "url": "http://argentina.republicahosting.com:8285/stream",
+        "favicon": ""
+    }
+]

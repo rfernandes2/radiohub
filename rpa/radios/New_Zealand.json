@@ -1,0 +1,1142 @@
+[
+    {
+        "name": "\tNewstalk ZB Auckland",
+        "url": "https://ais-nzme.streamguys1.com/nz_002_aac",
+        "favicon": "https://www.newstalkzb.co.nz/content/news/images/interface/icons/newstalkzb/apple-touch-icon.png"
+    },
+    {
+        "name": " Flava Auckland 95.8 FM",
+        "url": "https://ais-nzme.streamguys1.com/nz_010_aac",
+        "favicon": "https://www.flava.co.nz/content/music/images/interface/icons/flava/apple-touch-icon.png"
+    },
+    {
+        "name": "100,3FM South Canterbury",
+        "url": "http://uk4-vn.mixstream.net:8066/stream/1/",
+        "favicon": ""
+    },
+    {
+        "name": "2XS FM Palmerston North",
+        "url": "http://125.236.204.178:8001/listen.mp3",
+        "favicon": "http://www.2xsfm.co.nz/favicons/e1062edf-431c-45cf-bb5f-fd4f8b0b9933/favicon-180x180.png"
+    },
+    {
+        "name": "3ABN Christian Radio",
+        "url": "https://stream.3abnaustralia.org.au:8443/stream",
+        "favicon": "https://3abn.org/icons/3abn-apple-icon-120x120.png"
+    },
+    {
+        "name": "531 pi",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC?dist=onlineradiobox",
+        "favicon": "https://pacificmedianetwork.com/favicon.ico"
+    },
+    {
+        "name": "8K.NZ",
+        "url": "http://radio8k.out.airtime.pro:8000/radio8k_a.m3u",
+        "favicon": "http://8k.nz/favicon.ico"
+    },
+    {
+        "name": "8K.NZ",
+        "url": "http://radio8k.out.airtime.pro:8000/radio8k_a",
+        "favicon": "https://www.8k.nz/favicon.ico"
+    },
+    {
+        "name": "8K.NZ || Christchurch, NZ",
+        "url": "http://radio8k.out.airtime.pro:8000/radio8k_a",
+        "favicon": "https://www.8k.nz/favicon.ico"
+    },
+    {
+        "name": "91.2 Oamaru FM",
+        "url": "https://usa1-vn.mixstream.net/8096/listen.mp3",
+        "favicon": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/logos/OamaruFM_2021-03-22-203549.jpg"
+    },
+    {
+        "name": "95BFM",
+        "url": "https://streams.95bfm.com/stream95",
+        "favicon": "https://95bfm.com/sites/all/themes/bfm_ui/favicons/favicon-128.png"
+    },
+    {
+        "name": "95bFM",
+        "url": "https://streams.95bfm.com/stream128",
+        "favicon": "https://95bfm.com/sites/all/themes/bfm_ui/favicons/favicon-128.png"
+    },
+    {
+        "name": "95bFM ",
+        "url": "https://streams.95bfm.com/stream95",
+        "favicon": "https://95bfm.com/sites/all/themes/bfm_ui/favicons/favicon-128.png"
+    },
+    {
+        "name": "Access Radio Taranaki 104.4FM",
+        "url": "https://live.accessmedia.nz/Taranaki.stream_aac/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Akaroa World Radio",
+        "url": "https://n07.radiojar.com/k0t12bsns1duv?rj-ttl=5&rj-tok=AAABf7nGP10A7NK4A0_6v63i4w",
+        "favicon": "https://cdn-profiles.tunein.com/s86464/images/logod.jpg?t=152329"
+    },
+    {
+        "name": "Anthemz 100.9 chch",
+        "url": "https://digitalstreams4.mediaworks.nz/anthemz-CHC-high/playlist.m3u8?listeningSessionID=65bb725f0839d341_2030720_iypaBLrq__0000000hKRf&downloadSessionID=0",
+        "favicon": "https://anthemz.nz/wp-content/uploads/2020/09/logo-sm.png"
+    },
+    {
+        "name": "Arrow FM",
+        "url": "https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8",
+        "favicon": "http://www.arrowfm.co.nz/presentation/arrow-fm-logo.png"
+    },
+    {
+        "name": "Arrow FM 92.7",
+        "url": "https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8",
+        "favicon": "http://www.arrowfm.co.nz/presentation/arrow-fm-logo.png"
+    },
+    {
+        "name": "Arrow FM 92.7",
+        "url": "https://live.accessmedia.nz/ArrowFM.stream_aac/playlist.m3u8",
+        "favicon": "https://www.arrowfm.co.nz/favicon.ico"
+    },
+    {
+        "name": "Ati Awa Toa FM",
+        "url": "https://ais-nzme.streamguys1.com/nz_144_aac",
+        "favicon": "https://cdn.webrad.io/images/logos/radio-org-nz/atiawa-wellington.png"
+    },
+    {
+        "name": "AWA FM",
+        "url": "https://wowza.iwi.radio/icecast-to-hls/ngrp:AwaFM.stream/playlist.m3u8",
+        "favicon": "https://awafm.co.nz/wp-content/uploads/2021/05/AWA-Logo-Plain.png"
+    },
+    {
+        "name": "Bay FM 100.7",
+        "url": "https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686796930",
+        "favicon": "https://static-media.streema.com/media/cache/9f/95/9f9598196955d2228f613c8f0cda3da9.jpg"
+    },
+    {
+        "name": "BeachFM 106.3",
+        "url": "http://s8.myradiostream.com:58408/",
+        "favicon": "https://www.beachfm.co.nz/favicon.ico"
+    },
+    {
+        "name": "Big River FM",
+        "url": "http://bigriver.broadcast.co.nz/bigriverfm.mp3",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Bollybop",
+        "url": "https://s3.radio.co/s2f19d44d0/listen",
+        "favicon": ""
+    },
+    {
+        "name": "Brian FM 105.6 Nelson NZ",
+        "url": "https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8?",
+        "favicon": ""
+    },
+    {
+        "name": "Brian FM 105.6 Nelson NZ",
+        "url": "https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8",
+        "favicon": "https://s3.amazonaws.com/streaming-player-assets/BrianFMNel/custom/images/brianfmnel-logo-20190225094751.png"
+    },
+    {
+        "name": "Brian FM 91.2 Wanganui NZ",
+        "url": "https://ais-sa1.streamon.fm/7100_128k.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Brian FM 91.2 Whanganui NZ",
+        "url": "https://ais-sa1.streamon.fm/7100_128k.aac",
+        "favicon": ""
+    },
+    {
+        "name": "BrianFM Marlborough",
+        "url": "https://ais-sa1.streamon.fm/7103_48k.aac/playlist.m3u8?aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1590010609",
+        "favicon": ""
+    },
+    {
+        "name": "Central FM",
+        "url": "http://ais-nzme.streamguys1.com/nz_104/playlist.m3u8",
+        "favicon": "https://www.centralfm.co.nz/images/favicon/favicon/crop120x120.png?v=20210310091642"
+    },
+    {
+        "name": "CFM Coromandel",
+        "url": "https://stream.cfm.co.nz/low",
+        "favicon": "https://cfm.co.nz/wp-content/uploads/2018/09/favicon.png"
+    },
+    {
+        "name": "Channel X",
+        "url": "https://digitalstreams4.mediaworks.nz/chx-AKL-high/playlist.m3u8?",
+        "favicon": "https://d1fdloi71mui9q.cloudfront.net/x0RivOMjRES5qE2zutFe_CHX-600-sq.png"
+    },
+    {
+        "name": "Channel X",
+        "url": "https://digitalstreams-edge-lb.mediaworks.nz/chx_net/playlist.m3u8?",
+        "favicon": "https://d1fdloi71mui9q.cloudfront.net/x0RivOMjRES5qE2zutFe_CHX-600-sq.png"
+    },
+    {
+        "name": "Chill-Radio",
+        "url": "https://media-sov.musicradio.com/Chill",
+        "favicon": "https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png"
+    },
+    {
+        "name": "Chopper FM Southland 87.6",
+        "url": "https://s1.voscast.com:11235/stream",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Classic1027",
+        "url": "http://edge.iono.fm/xice/49_high.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Coast",
+        "url": "http://streaming.radiomyway.co.nz/coast2.pls",
+        "favicon": "http://www.thecoast.net.nz/content/music/images/interface/icons/coast/apple-touch-icon.png"
+    },
+    {
+        "name": "Coast Access Radio",
+        "url": "https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Coast Access Radio MP3",
+        "url": "https://live.accessmedia.nz/Coast.stream/playlist.m3u8",
+        "favicon": "https://cdn3.firecrestsystems.com/FC_Coast/Images/coastlogo.png"
+    },
+    {
+        "name": "Coast FM",
+        "url": "https://ais-nzme.streamguys1.com/nz_011/playlist.m3u8",
+        "favicon": "https://www.thecoast.net.nz/content/music/images/interface/icons/coast/apple-touch-icon.png"
+    },
+    {
+        "name": "Compass FM",
+        "url": "http://stream.compassfm.org.nz:8000/Compass_FM_104.9",
+        "favicon": "http://compassfm.org.nz/favicon.ico"
+    },
+    {
+        "name": "Cool Blue Taupo",
+        "url": "http://falcon.shoutca.st:8166/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Country Radio Invercargill 105.2FM",
+        "url": "http://countryradio2.no-ip.org:8000/;",
+        "favicon": ""
+    },
+    {
+        "name": "Country Radio Invercargilll",
+        "url": "http://countryradio2.no-ip.org:8000/;",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Dave FM",
+        "url": "http://davefmradio.no-ip.org:8000/stream",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Drop FM",
+        "url": "https://s2.radio.co/s7649837db/listen",
+        "favicon": "http://www.dropfm.com/uploads/1/2/4/0/124005161/new-logo-black.png"
+    },
+    {
+        "name": "East FM",
+        "url": "http://listen.eastfm.nz/stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Easy 80s",
+        "url": "http://procyon.shoutca.st:8032/;",
+        "favicon": "https://cdn-profiles.tunein.com/s302357/images/logoq.png"
+    },
+    {
+        "name": "Flava",
+        "url": "https://ais-nzme.streamguys1.com/nz_010_aac",
+        "favicon": "https://www.flava.co.nz/content/music/images/interface/icons/flava/apple-touch-icon.png"
+    },
+    {
+        "name": "Free FM 89 Hamilton",
+        "url": "https://live.accessmedia.nz/FreeFM.stream_aac/chunklist_w1448621681.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "FreshFM",
+        "url": "https://live.accessmedia.nz/Fresh.stream_aac/chunklist_w1462567576.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Gaia FM New Zealand",
+        "url": "https://gaiafm.stationplaylist.com/listen.asx",
+        "favicon": "https://gaiafm.stationplaylist.com/gaiafm.jpg"
+    },
+    {
+        "name": "Gaia FM New Zealand",
+        "url": "http://s2.stationplaylist.com:9000/gaiafm.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Galaxy 107 FM  Kawerau",
+        "url": "http://s39.myradiostream.com:14858/;listen.mp3",
+        "favicon": "http://www.galaxyfm.co.nz/favicon.ico"
+    },
+    {
+        "name": "George FM",
+        "url": "https://digitalstreams.mediaworks.nz/george_net/playlist.m3u8",
+        "favicon": "https://www.georgefm.co.nz/etc.clientlibs/mws-sites-nextgen/clientlibs/clientlib-georgefm/resources/favicons/apple-touch-icon-180x180.png"
+    },
+    {
+        "name": "GOLD 105.4 Auckland - New Zealand",
+        "url": "http://ais-nzme.streamguys1.com/nz_015_aac",
+        "favicon": "https://www.gold.co.nz/content/music/images/interface/icons/gold/apple-touch-icon.png"
+    },
+    {
+        "name": "Gold AM nz",
+        "url": "https://ais-nzme.streamguys1.com/nz_016/playlist.m3u8",
+        "favicon": "https://www.gold.co.nz/content/music/images/interface/icons/gold/apple-touch-icon.png"
+    },
+    {
+        "name": "Gone Country",
+        "url": "https://usa10.fastcast4u.com:6010/;?type=http&nocache=1676417570",
+        "favicon": "https://cdn-profiles.tunein.com/s206528/images/logod.png?t=638120163900000000"
+    },
+    {
+        "name": "Heads 106.4 FM - Mangawhai Heads",
+        "url": "http://ais-nzme.streamguys1.com/nz_106/playlist.m3u8",
+        "favicon": "https://www.headsfm.co.nz/favicon.ico"
+    },
+    {
+        "name": "Heads FM Mangawhai 106.4",
+        "url": "https://headsfm.radioca.st/stream",
+        "favicon": "https://www.headsfm.co.nz/wp-content/uploads/2017/06/heads_logo_1064.png"
+    },
+    {
+        "name": "Hokonui",
+        "url": "https://ais-nzme.streamguys1.com/nz_013_aac",
+        "favicon": "https://www.hokonui.co.nz/content/music/images/interface/icons/hokonui/apple-touch-icon.png"
+    },
+    {
+        "name": "https://badradio.nz/ - 24/7 PHONK",
+        "url": "https://s2.radio.co/s2b2b68744/listen",
+        "favicon": "https://badradio.nz/wp-content/uploads/2019/09/cropped-badradio_circle_sticker-180x180.png"
+    },
+    {
+        "name": "https://www.newstalkzb.co.nz/",
+        "url": "http://streaming.radiomyway.co.nz/zbakalt.pls",
+        "favicon": "https://www.newstalkzb.co.nz/content/news/images/interface/icons/newstalkzb/apple-touch-icon.png"
+    },
+    {
+        "name": "Hutt Radio 88.3FM",
+        "url": "https://stream.zeno.fm/argf5n7rbrruv",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "iHeart Australia - The Lounge - The Lounge -Laid back in NZ",
+        "url": "http://ais-nzme.streamguys1.com/nz_000/playlist.m3u8",
+        "favicon": "https://vox.rocks/public/vox.rocks/assets/images/favicon/mstile-70x70.png"
+    },
+    {
+        "name": "jakemusic",
+        "url": "https://camera.jakebriggs.com/jakemusic",
+        "favicon": ""
+    },
+    {
+        "name": "Jazz Cafe",
+        "url": "http://radio.wanderingsheep.tv:8000/jazzcafe",
+        "favicon": "https://radio.wanderingsheep.org/assets/img/favicon-96x96.png"
+    },
+    {
+        "name": "JAZZGROOVE.org - Smooth Jazz (64k)",
+        "url": "http://streams.radiomast.io/4fdf004c-c2f3-49c1-bdb1-22e208d48780",
+        "favicon": "https://jazzgroove.org/favicon.ico"
+    },
+    {
+        "name": "KAOS Blenheim NZ",
+        "url": "http://74.91.125.187:8068/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Kiwi Folk Radio",
+        "url": "https://streamer.radio.co/sde527a41e/listen",
+        "favicon": ""
+    },
+    {
+        "name": "KIX FM",
+        "url": "https://stream.kixfm.co.nz:8178/stream",
+        "favicon": "https://kixfm.co.nz/images/cover.png"
+    },
+    {
+        "name": "Lake FM Taupo",
+        "url": "https://lakefm-gecko.radioca.st/stream",
+        "favicon": "https://i.postimg.cc/DwTX9mVz/Lake-FM.jpg"
+    },
+    {
+        "name": "LibertyNZ on The Wireless",
+        "url": "https://stream.zeno.fm/lamr6x1fxrruv.pls",
+        "favicon": ""
+    },
+    {
+        "name": "LifeFM",
+        "url": "http://rhema-radio.streamguys1.com/rhema-lifefm.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "MAD FM Auckland 106.7",
+        "url": "https://madfm-gecko.radioca.st/stream",
+        "favicon": "https://www.madfm.net/favicon.ico"
+    },
+    {
+        "name": "Magic",
+        "url": "https://digitalstreams.mediaworks.nz/mmusic_net/playlist.m3u8",
+        "favicon": "https://www.magic.co.nz/experience-fragments/mws-sites-nextgen/magic/en/site/header/master/_jcr_content/root/container/container_545837448/image.coreimg.svg/1662540657531/logo-01.svg"
+    },
+    {
+        "name": "Mai FM",
+        "url": "https://ais-sa1.streamon.fm/7102_128k.aac",
+        "favicon": "https://www.maifm.co.nz/etc.clientlibs/mws-sites-nextgen/clientlibs/clientlib-maifm/resources/favicons/apple-touch-icon-180x180.png"
+    },
+    {
+        "name": "metalradio.co.nz",
+        "url": "http://curiosity.shoutca.st:9073/stream",
+        "favicon": ""
+    },
+    {
+        "name": "metalradio.co.nz",
+        "url": "http://curiosity.shoutca.st:9073/stream",
+        "favicon": ""
+    },
+    {
+        "name": "metalradio.co.nz",
+        "url": "http://curiosity.shoutca.st:9073/stream",
+        "favicon": ""
+    },
+    {
+        "name": "MFM Te Reo O Te Iwi",
+        "url": "https://stream-150.zeno.fm/utfkkxfawp8uv?zs=K14ATu12TS2dc8uy0OiMBw",
+        "favicon": ""
+    },
+    {
+        "name": "Mix",
+        "url": "https://ais-nzme.streamguys1.com/nz_012/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "MIX FM Wellington",
+        "url": "https://stream.mixfm.nz/",
+        "favicon": "https://mixfm.nz/logo.png"
+    },
+    {
+        "name": "Moana Radio Tauranga",
+        "url": "https://ais-nzme.streamguys1.com/nz_140/playlist.m3u8",
+        "favicon": "https://www.moanaradio.co.nz/favicon.ico"
+    },
+    {
+        "name": "More FM",
+        "url": "https://digitalstreams3.mediaworks.nz/more-AKL-high/playlist.m3u8?listeningSessionID=64dcbf2c81728ca8_3416297_3z9EVLOy__0000000awbK&downloadSessionID=0",
+        "favicon": "https://www.morefm.co.nz/experience-fragments/mws-sites-nextgen/morefm/en/site/header/master/_jcr_content/root/container/container_545837448/image.coreimg.svg/1664771218193/logo-01.svg"
+    },
+    {
+        "name": "More FM",
+        "url": "https://digitalstreams3.mediaworks.nz/more-AKL-high/playlist.m3u8?listeningSessionID=64dcbf2c81728ca8_3416297_3z9EVLOy__0000000awbK&downloadSessionID=0",
+        "favicon": "https://www.morefm.co.nz/experience-fragments/mws-sites-nextgen/morefm/en/site/header/master/_jcr_content/root/container/container_545837448/image.coreimg.svg/1664771218193/logo-01.svg"
+    },
+    {
+        "name": "More FM",
+        "url": "https://digitalstreams4.mediaworks.nz/more-CHC-high/playlist.m3u8",
+        "favicon": "https://www.morefm.co.nz/etc.clientlibs/mws-sites-nextgen/clientlibs/clientlib-morefm/resources/favicons/apple-touch-icon-180x180.png"
+    },
+    {
+        "name": "Mountainside FM",
+        "url": "http://stream.nrgkits.co.nz:5000/mountainside",
+        "favicon": ""
+    },
+    {
+        "name": "Mouthfull Radio",
+        "url": "https://mouthfull-radio.radiocult.fm/stream",
+        "favicon": "https://i1.sndcdn.com/avatars-VaAJ9hfpsq0ADS8p-3I0Ubg-t200x200.jpg"
+    },
+    {
+        "name": "MPR Manawatu People's Radio",
+        "url": "https://live.accessmedia.nz/MPR.stream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Mushroom Escape",
+        "url": "https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632",
+        "favicon": ""
+    },
+    {
+        "name": "Mushroom Escape",
+        "url": "http://mushroomfm.com/media/escape.pls",
+        "favicon": ""
+    },
+    {
+        "name": "Mushroom FM",
+        "url": "https://www.mushroomfm.com/media/listen.pls",
+        "favicon": ""
+    },
+    {
+        "name": "Newstalk ZB",
+        "url": "https://ais-nzme.streamguys1.com/nz_002_aac",
+        "favicon": "https://www.newstalkzb.co.nz/content/news/images/interface/icons/newstalkzb/apple-touch-icon.png"
+    },
+    {
+        "name": "Newstalk ZB Auckland",
+        "url": "https://ais-nzme.streamguys1.com/nz_002_aac",
+        "favicon": "https://www.newstalkzb.co.nz/content/news/images/interface/icons/newstalkzb/apple-touch-icon.png"
+    },
+    {
+        "name": "Newstalk ZB Christchurch",
+        "url": "http://streaming.radiomyway.co.nz/zbchalt.pls",
+        "favicon": "https://www.newstalkzb.co.nz/content/news/images/interface/icons/newstalkzb/apple-touch-icon.png"
+    },
+    {
+        "name": "Newstalk ZB Wellington",
+        "url": "http://streaming.radiomyway.co.nz/zbwnalt.pls",
+        "favicon": "https://www.newstalkzb.co.nz/content/news/images/interface/icons/newstalkzb/apple-touch-icon.png"
+    },
+    {
+        "name": "Niu FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM.mp3?dist=onlineradiobox",
+        "favicon": "https://pacificmedianetwork.com/favicon.ico"
+    },
+    {
+        "name": "Oamaru Heritage Radio",
+        "url": "http://202.9.116.204:8000/ohrweb",
+        "favicon": "http://www.ohr.nz/images/RadioBanner.png"
+    },
+    {
+        "name": "OAR 105.4FM Dunedin",
+        "url": "https://live.accessmedia.nz/Otago.stream/playlist.m3u8",
+        "favicon": "https://liveonlineradio.net/wp-content/uploads/2017/05/Otago-Access-Radio-220x108.jpg"
+    },
+    {
+        "name": "One Christian Radio",
+        "url": "https://radio.wanderingsheep.net:33001/onechristianradio",
+        "favicon": "https://onechristianradio.co.nz/favicon.ico"
+    },
+    {
+        "name": "One Double-X",
+        "url": "https://radio.e-cast.co.nz/1xxone/stream.m3u8",
+        "favicon": "https://static.wixstatic.com/media/2997c4_037e291ea90b41719f166f41a3ea5005%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/2997c4_037e291ea90b41719f166f41a3ea5005%7emv2.png"
+    },
+    {
+        "name": "Paekakariki",
+        "url": "http://icecast.groundtruth.co.nz:8000/paekakfm.mp3.m3u",
+        "favicon": "http://groundtruth.co.nz/favicon.ico"
+    },
+    {
+        "name": "Paekakariki 88.2FM",
+        "url": "https://icecast.groundtruth.co.nz/paekakfm.aac",
+        "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.radio.net%2Fimages%2Fbroadcasts%2Fe3%2F9b%2F126709%2F1%2Fc300.png&f=1&nofb=1"
+    },
+    {
+        "name": "Plains FM 96.9",
+        "url": "http://live.accessmedia.nz/plains.stream_aac/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Plains FM 96.9",
+        "url": "https://live.accessmedia.nz/plains.stream/playlist.m3u8",
+        "favicon": "https://cdn3.firecrestsystems.com/FC_Plains/Images/ApplePodcastChannelCoverImage%20co%20(1).jpg"
+    },
+    {
+        "name": "Positively Morrinsville 87.7FM",
+        "url": "https://c16.radioboss.fm:8262/stream?1652324863134",
+        "favicon": "https://www.wix.com/favicon.ico"
+    },
+    {
+        "name": "Power Hit FM 87.8 - Christchurch, NZ",
+        "url": "http://listen.powerhitfm.co.nz:16100/stream",
+        "favicon": "http://www.powerhitfm.co.nz/favicon.ico"
+    },
+    {
+        "name": "Q97",
+        "url": "https://radio.e-cast.co.nz/q97/stream.m3u8",
+        "favicon": "https://static.wixstatic.com/media/2997c4_dd6042bd43aa449c9318d09ed79dd9eb%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/2997c4_dd6042bd43aa449c9318d09ed79dd9eb%7emv2.png"
+    },
+    {
+        "name": "RadiJohan",
+        "url": "http://69.30.214.54:13740/;?type=http&nocache=1708209708?0.5747864581171453",
+        "favicon": "https://i.postimg.cc/3JX2jxvZ/Radi-Johan.jpg"
+    },
+    {
+        "name": "Radio - X",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?dist=onlineradiobox",
+        "favicon": ""
+    },
+    {
+        "name": "Radio A - Nelson NZ",
+        "url": "https://listen.radioking.com/radio/106324/stream/145267",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Apna AM",
+        "url": "https://ais-nzme.streamguys1.com/nz_145/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Bay FM 100.7",
+        "url": "https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686969300",
+        "favicon": "https://static-media.streema.com/media/cache/9f/95/9f9598196955d2228f613c8f0cda3da9.jpg"
+    },
+    {
+        "name": "Radio Bolly Bop",
+        "url": "http://s3.radio.co/s2f19d44d0/listen",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Bollybop",
+        "url": "https://s3.radio.co/s2f19d44d0/listen",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Central",
+        "url": "https://stream.radioapp.co.nz/radiocentral",
+        "favicon": "https://assets.website-files.com/5b4fadfee6f896e55cbe67ff/5e315068b76b832fb82fcbb1_Radio%20Central%20Logo%20Large%20No%20Background-p-500.png"
+    },
+    {
+        "name": "Radio Control 99.4FM",
+        "url": "https://michae14-gecko.radioca.st/stream",
+        "favicon": "https://radiocontrol.org.nz/favicon.ico"
+    },
+    {
+        "name": "Radio Dunedin",
+        "url": "https://digitalstreams3.mediaworks.nz/radio-DUN-high/playlist.m3u8?listeningSessionID=65bb725f0839d341_2030585_0dgEALM4__0000000hKN6&downloadSessionID=0",
+        "favicon": "https://static.wixstatic.com/media/af21c2_0f7218451f3a46969bf225cd6a581739%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/af21c2_0f7218451f3a46969bf225cd6a581739%7emv2.png"
+    },
+    {
+        "name": "Radio Hauraki",
+        "url": "https://ais-nzme.streamguys1.com/nz_009_aac",
+        "favicon": "https://www.hauraki.co.nz/content/music/images/interface/icons/hauraki/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio Hawkes Bay",
+        "url": "https://live.accessmedia.nz/Kidnappers.stream/playlist.m3u8",
+        "favicon": "https://cdn3.firecrestsystems.com/FC_Kidnappers/Images/RadioHawkesBay-Logo-NB.png"
+    },
+    {
+        "name": "Radio Hydra",
+        "url": "https://streaming.radio.co/sed9109681/listen",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Kidnappers",
+        "url": "https://live.accessmedia.nz/Kidnappers.stream_aac/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Lemon Live New Zealand",
+        "url": "https://schedule.radiolemonlive.com:7443/listen/radio_lemon_live_newzealand/live",
+        "favicon": ""
+    },
+    {
+        "name": "Radio New Zealand National",
+        "url": "http://radionz-ice.streamguys.com/national.mp3",
+        "favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png"
+    },
+    {
+        "name": "Radio Ng\u0101ti Porou",
+        "url": "https://wowza.iwi.radio/icecast-to-hls/ngrp:NgatiPorou.stream/playlist.m3u8",
+        "favicon": "https://cdn.tehiku.nz/logos/2021/02/560832_logos202101902150_ngatiporou_monochrome.png"
+    },
+    {
+        "name": "Radio one 91 fm ",
+        "url": "https://play.r1.co.nz/live",
+        "favicon": "https://www.r1.co.nz/images/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "Radio One 91FM",
+        "url": "https://play.r1.co.nz/live",
+        "favicon": "https://www.r1.co.nz/images/logo.png"
+    },
+    {
+        "name": "Radio Planeta 107.7",
+        "url": "http://radionz-ice.streamguys.com/national.mp3",
+        "favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png"
+    },
+    {
+        "name": "Radio Redwood",
+        "url": "http://123.255.61.226:8020/;?type=http&nocache=76646",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/3bPHBF3HPx.jpg"
+    },
+    {
+        "name": "Radio Robotic",
+        "url": "https://stream.zeno.fm/rhscse2a41zuv",
+        "favicon": "https://static.wixstatic.com/media/3e4049_7800f3b666694fbfab646b89828ce32d%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/3e4049_7800f3b666694fbfab646b89828ce32d%7emv2.png"
+    },
+    {
+        "name": "Radio Rock FM",
+        "url": "http://www.radiorockfm.co.nz:8000/listenlive",
+        "favicon": "https://www.radiorockfm.co.nz/favicon.ico"
+    },
+    {
+        "name": "Radio Samoa 1593am",
+        "url": "http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Sangeet Masti",
+        "url": "https://servidor19-4.brlogic.com:7304/live?source=website",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Spice (Auckland, New Zealand)",
+        "url": "http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3",
+        "favicon": "https://cdn.webrad.io/images/brand/icon_192x192.png"
+    },
+    {
+        "name": "Radio Tarana",
+        "url": "http://ais-nzme.streamguys1.com/nz_116_aac",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Te Aroha 88FM",
+        "url": "https://c2.radioboss.fm:18440/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Wanaka 92.2 FM",
+        "url": "https://ais-nzme.streamguys1.com/nz_117/playlist.m3u8",
+        "favicon": "https://www.radiowanaka.co.nz/content/music/images/interface/icons/wanaka/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio Woodville",
+        "url": "http://219.88.73.120:88/broadwave.mp3",
+        "favicon": "https://i.postimg.cc/t4y7yNYh/woodville.jpg"
+    },
+    {
+        "name": "Radioactive.FM 88.6",
+        "url": "https://radio123-gecko.radioca.st/radioactivefm",
+        "favicon": ""
+    },
+    {
+        "name": "Radiowave NZ",
+        "url": "https://listen.radioking.com/radio/106324/stream/145267",
+        "favicon": ""
+    },
+    {
+        "name": "RAG-FM 107.7FM",
+        "url": "https://cast6.asurahosting.com/proxy/ragfmcom/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Raglan Community Radio",
+        "url": "https://myradiostream.com/embed/free.php?s=RCR981&btnstyle=default&id=568599&n=36&p=20712",
+        "favicon": "https://cdn3.firecrestsystems.com/FC_RaglanCR/Images/RaglanICO.png"
+    },
+    {
+        "name": "Raglan Community Radio",
+        "url": "http://222.154.255.152:88/broadwave.mp3",
+        "favicon": "https://cdn3.firecrestsystems.com/FC_RaglanCR/Images/RaglanICO.png"
+    },
+    {
+        "name": "RCR Reality Check Radio m3u8",
+        "url": "https://cast.realitycheck.radio/hls/realitycheck_radio/aac_hifi.m3u8",
+        "favicon": "https://realitycheck.radio/wp-content/uploads/2023/04/RCR-pp-image.png"
+    },
+    {
+        "name": "RDU",
+        "url": "https://rdu985fm-gecko.radioca.st/stream",
+        "favicon": "https://rdu.org.nz/favicon.ico"
+    },
+    {
+        "name": "RDU 98.5FM",
+        "url": "https://rdu985fm-gecko.radioca.st/listen.pls?sid=1",
+        "favicon": "https://rdu.org.nz/favicon.ico"
+    },
+    {
+        "name": "Retro Hit Radio",
+        "url": "https://riphel02.radioca.st/stream",
+        "favicon": "http://retrohitradio.co.nz/favicon.ico"
+    },
+    {
+        "name": "Retro Hit Radio",
+        "url": "https://riphel02.radioca.st/;",
+        "favicon": "http://retrohitradio.co.nz/favicon.ico"
+    },
+    {
+        "name": "Rhema",
+        "url": "http://rhema-radio.streamguys1.com/rhema.mp3",
+        "favicon": "https://s3-ap-southeast-2.amazonaws.com/crowdhubrhemaau/favicons/48/favicon-96x96.png"
+    },
+    {
+        "name": "RNZ - Radio New Zealand Classic",
+        "url": "http://radionz-ice.streamguys.com/concert.mp3",
+        "favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png"
+    },
+    {
+        "name": "RNZ - Radio New Zealand International",
+        "url": "http://radionz-ice.streamguys.com/international.mp3",
+        "favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png"
+    },
+    {
+        "name": "RNZ Concert",
+        "url": "http://radionz-ice.streamguys.com/concert.mp3",
+        "favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png"
+    },
+    {
+        "name": "RNZ Concert AAC+",
+        "url": "http://radionz-ice.streamguys.com/fallback-concert_aac128",
+        "favicon": "https://www.radionz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png"
+    },
+    {
+        "name": "RNZ National",
+        "url": "http://radionz-ice.streamguys.com/fallback-national",
+        "favicon": ""
+    },
+    {
+        "name": "RNZ National",
+        "url": "http://radionz-ice.streamguys.com/national.mp3",
+        "favicon": "http://www.radionz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png"
+    },
+    {
+        "name": "RNZ Pacific",
+        "url": "http://radionz-ice.streamguys.com/international.mp3",
+        "favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png"
+    },
+    {
+        "name": "RNZ Pacific (64kbps)",
+        "url": "http://radionz-ice.streamguys.com/international_aac64",
+        "favicon": "https://www.radionz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png"
+    },
+    {
+        "name": "RNZ Parliament",
+        "url": "http://radionz-ice.streamguys.com/parliament.mp3",
+        "favicon": "https://www.rnz.co.nz/favicon.ico"
+    },
+    {
+        "name": "Roy FM 94.6",
+        "url": "https://ais-nzme.streamguys1.com/nz_121/playlist.m3u8",
+        "favicon": "https://www.radiowanaka.co.nz/content/music/images/interface/icons/wanaka/apple-touch-icon.png"
+    },
+    {
+        "name": "Rush FM",
+        "url": "http://rushbroadcasting.serverroom.us:5204/;",
+        "favicon": ""
+    },
+    {
+        "name": "SENZ - New Zealand",
+        "url": "https://sen.streamguys1.com/SENZ-AAC/playlist.m3u8",
+        "favicon": "https://www.sen.com.au/images/favicon-180x180.png"
+    },
+    {
+        "name": "Ski FM",
+        "url": "https://s2.radio.co/s6436891bc/listen",
+        "favicon": ""
+    },
+    {
+        "name": "sleep radio",
+        "url": "http://65.109.81.84:9851/stream",
+        "favicon": "https://static.wixstatic.com/media/02acb2_6cce978449504683b9d9a5b6861b25e3.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/02acb2_6cce978449504683b9d9a5b6861b25e3.png"
+    },
+    {
+        "name": "Sleep Radio",
+        "url": "https://cast4.my-control-panel.com/proxy/sleeprad/stream?1721309187745",
+        "favicon": "https://static.wixstatic.com/media/02acb2_6cce978449504683b9d9a5b6861b25e3.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/02acb2_6cce978449504683b9d9a5b6861b25e3.png"
+    },
+    {
+        "name": "Sleep Radio",
+        "url": "https://cast4.asurahosting.com:2199/tunein/sleeprad.pls",
+        "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/97/65/31354/c175.png"
+    },
+    {
+        "name": "Smash 107FM",
+        "url": "https://s19.myradiostream.com/:18892/;?type=http&nocache=1653124007?0.30724640509725076",
+        "favicon": "https://www.smash107fm.com/favicon.ico"
+    },
+    {
+        "name": "Smooth 105.6FM",
+        "url": "https://servidor26.brlogic.com:7110/live",
+        "favicon": "https://i.postimg.cc/C1wKgw1w/Smooth.jpg"
+    },
+    {
+        "name": "Sounds Vagrant Radio",
+        "url": "https://admin.soundsvagrant.live/listen/sounds_vagrant/high.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Star",
+        "url": "http://rhema-radio.streamguys1.com/rhema-star.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Sub FM",
+        "url": "https://fmsub.radioca.st/stream?type=http&nocache=140",
+        "favicon": "https://www.sub.fm/wp-content/uploads/2017/07/cropped-black-sub-180x180.png"
+    },
+    {
+        "name": "Sun FM 106.5",
+        "url": "https://ais-nzme.streamguys1.com/nz_134/playlist.m3u8",
+        "favicon": "https://sunfm.co.nz/favicon.ico"
+    },
+    {
+        "name": "Switch FM Gisborne",
+        "url": "http://s8.myradiostream.com:56886/listen.m4a",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/6/74836.v5.png"
+    },
+    {
+        "name": "Tahi.fm",
+        "url": "https://radionz.streamguys1.com/tahi/tahi/tahi/tahi-mainstream/chunks.m3u8",
+        "favicon": "https://tahi.fm/images/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "Tama-Ohi",
+        "url": "https://stream-162.zeno.fm/y4xnq17q068uv?zs=4tbvGUD1TfaydzO62IwtcQ",
+        "favicon": "https://static-media.streema.com/media/cache/c0/c9/c0c95a0d2b3cb233897f69e41f151508.jpg"
+    },
+    {
+        "name": "Te Arawa FM",
+        "url": "https://ais-nzme.streamguys1.com/nz_133/playlist.m3u8",
+        "favicon": "http://www.irirangi.net/media/29459/te-arawa-logo-6.jpg"
+    },
+    {
+        "name": "Te Hiku Radio",
+        "url": "http://libreice.tehiku.radio:8000/tehikufm_ogg",
+        "favicon": "https://cdn.tehiku.nz/logos/2023/08/831992_logos202308007172_062157_TeHikuMediaLogoWhiteWhai900.png"
+    },
+    {
+        "name": "Te Reo Irirangi O Ng\u0101ti Kahungunu",
+        "url": "https://wowza.iwi.radio/icecast-to-hls/ngrp:Kahungunu.stream/playlist.m3u8",
+        "favicon": "https://static.wixstatic.com/media/d14534_259a89e4fcec4fb1a130d955fd584e8e~mv2_d_4534_2593_s_4_2.png/v1/fill/w_203,h_116,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Radio%20K%20Logo%20small.png"
+    },
+    {
+        "name": "The ACC",
+        "url": "http://ais-nzme.streamguys1.com/nz_031/playlist.m3u8",
+        "favicon": "https://www.theaccnz.com/content/music/images/interface/icons/theacc/apple-touch-icon.png"
+    },
+    {
+        "name": "The Breeze",
+        "url": "https://digitalstreams3.mediaworks.nz/breeze-HST-high/playlist.m3u8",
+        "favicon": "https://www.thebreeze.co.nz/experience-fragments/mws-sites-nextgen/thebreeze/en/site/header/master/_jcr_content/root/container/container_545837448/image.coreimg.svg/1662540648887/logo-01.svg"
+    },
+    {
+        "name": "The Cheese",
+        "url": "https://station.thecheese.co.nz/hls/the_cheese/live.m3u8",
+        "favicon": "https://station.thecheese.co.nz/static/uploads/the_cheese/album_art.1716808937.png"
+    },
+    {
+        "name": "The Cheese",
+        "url": "https://station.thecheese.co.nz/listen/the_cheese/128.mp3",
+        "favicon": "https://nz.radio.net/300/884thecheese.png?version=d3bd97b7c4aadd62cf9c17dfe894f8f9"
+    },
+    {
+        "name": "The Cheese FLAC",
+        "url": "https://station.thecheese.co.nz/listen/the_cheese/flac",
+        "favicon": "https://thecheese.co.nz/wp-content/uploads/2022/07/Cheese-Logo-Transparent-Logo.png"
+    },
+    {
+        "name": "The Crush with DJ09",
+        "url": "http://ais-nzme.streamguys1.com/nz_045_aac",
+        "favicon": "https://i.postimg.cc/63PbvNqn/The-crush.jpg"
+    },
+    {
+        "name": "The Edge",
+        "url": "https://digitalstreams.mediaworks.nz/edge_net/playlist.m3u8",
+        "favicon": "https://www.theedge.co.nz/etc.clientlibs/mws-sites-nextgen/clientlibs/clientlib-the-edge/resources/favicons/apple-touch-icon-180x180.png"
+    },
+    {
+        "name": "The Flea FM 88.2",
+        "url": "http://49.50.246.42:8020/listen.pls",
+        "favicon": ""
+    },
+    {
+        "name": "The Generator",
+        "url": "https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892",
+        "favicon": ""
+    },
+    {
+        "name": "The Generator FM",
+        "url": "https://s1.myradiostream.com/14268/stream/1/",
+        "favicon": ""
+    },
+    {
+        "name": "The Hits 89.6 Nelson - New Zealand",
+        "url": "http://ais-nzme.streamguys1.com/nz_020_aac",
+        "favicon": "https://www.thehits.co.nz/content/music/images/interface/icons/classichits/apple-touch-icon.png"
+    },
+    {
+        "name": "The Most Fm",
+        "url": "http://gordon.mostfm.com:8000/high.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "The Most FM 104.4",
+        "url": "http://gordon.mostfm.com:8000/high",
+        "favicon": ""
+    },
+    {
+        "name": "The Pits FM 107.7",
+        "url": "https://s1.voscast.com:11221/stream",
+        "favicon": ""
+    },
+    {
+        "name": "The Rhythm 89FM",
+        "url": "http://stream.zeno.fm/7v9aaqeqhs8uv",
+        "favicon": ""
+    },
+    {
+        "name": "The Rock",
+        "url": "https://digitalstreams.mediaworks.nz/rock_net/playlist.m3u8",
+        "favicon": "https://www.therock.net.nz/etc.clientlibs/mws-sites-nextgen/clientlibs/clientlib-therock/resources/favicons/apple-touch-icon-180x180.png"
+    },
+    {
+        "name": "The Rock - NZ's #1 rock radio station",
+        "url": "https://digitalstreams.mediaworks.nz/rock_net_icy",
+        "favicon": "https://www.therock.net.nz/etc.clientlibs/mws-sites-nextgen/clientlibs/clientlib-therock/resources/favicons/favicon.ico"
+    },
+    {
+        "name": "The Sound",
+        "url": "https://digitalstreams.mediaworks.nz/sound_net/playlist.m3u8",
+        "favicon": "https://www.thesound.co.nz/etc.clientlibs/mws-sites-nextgen/clientlibs/clientlib-thesound/resources/favicons/apple-touch-icon-180x180.png"
+    },
+    {
+        "name": "The Station 105.4FM",
+        "url": "https://ais-nzme.streamguys1.com/nz_125_aac",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "The Studio 88.1FM Dunedin",
+        "url": "http://s23.myradiostream.com/:16100/listen.mp3",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "The Wireless (Today's Best Country)",
+        "url": "https://stream.zeno.fm/lamr6x1fxrruv",
+        "favicon": ""
+    },
+    {
+        "name": "The Wireless 90.4 FM",
+        "url": "http://ais-nzme.streamguys1.com/nz_126/playlist.m3u8",
+        "favicon": "https://thewirelessfm.co.nz/favicon.ico"
+    },
+    {
+        "name": "Tiri 2",
+        "url": "https://servidor34-4.brlogic.com:7138/live?source=website",
+        "favicon": ""
+    },
+    {
+        "name": "TLC Radio Northland",
+        "url": "http://203.118.136.79:88/broadwave.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Total FM Dunedin 107.3",
+        "url": "http://listen.totalfm.nz:8000/stream",
+        "favicon": "https://totalfmnz.github.io/images/background.jpg"
+    },
+    {
+        "name": "Trucking Radio 24/7",
+        "url": "https://ais-nzme.streamguys1.com/nz_107/playlist.m3u8",
+        "favicon": "https://i.postimg.cc/vHwX3YmQ/Truckin.jpg"
+    },
+    {
+        "name": "True Light 87.8FM",
+        "url": "http://stream.truelightfm.co.nz:8000/mp3",
+        "favicon": ""
+    },
+    {
+        "name": "True Light FM",
+        "url": "http://stream.truelightfm.co.nz:8000/mp3",
+        "favicon": ""
+    },
+    {
+        "name": "True Light FM",
+        "url": "https://tlfm-stream.l.junia.net.nz/mp3",
+        "favicon": "https://truelightfm.co.nz/images/TLFM-Logo.png"
+    },
+    {
+        "name": "Turanga FM",
+        "url": "https://ais-nzme.streamguys1.com/nz_136/playlist.m3u8",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "UP FM 107.5",
+        "url": "https://stream.upfm.live/radio/8000/radio.mp3",
+        "favicon": "https://liveonlineradio.net/wp-content/uploads/2013/09/Up-FM.jpg"
+    },
+    {
+        "name": "Waatea 603am",
+        "url": "https://ais-nzme.streamguys1.com/nz_138/playlist.m3u8?listeningSessionID=64a572b269dfcd0f_5154208_j9Ch6TXa_MjAyLjM3LjE0NS43NQ!!_0000000hgGt&downloadSessionID=0&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=7591744858&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=7591744858&stationid=8193&terminalId=162&territory=NZ",
+        "favicon": "https://waateanews.com/wp-content/uploads/2021/04/cropped-profile-180x180.png"
+    },
+    {
+        "name": "Waiheke Radio 88.3",
+        "url": "https://s47.myradiostream.com:9962/listen",
+        "favicon": "https://waihekeradio.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2018/01/31013454/cropped-waiheke_radio_logo-small-180x180.png"
+    },
+    {
+        "name": "Wandering Sheep Radio - Christian Smooth Jazz",
+        "url": "http://radio.wanderingsheep.tv:8021/christianjazz",
+        "favicon": "http://wsradio.net/wp-content/uploads/2014/07/gordonsheep1.ico"
+    },
+    {
+        "name": "Wandering Sheep Radio - Hope Alive",
+        "url": "http://radio.wanderingsheep.tv:8012/hopealive",
+        "favicon": "http://wsradio.net/wp-content/uploads/2014/07/gordonsheep1.ico"
+    },
+    {
+        "name": "Wandering Sheep Radio - Jazz Cafe",
+        "url": "http://radio.wanderingsheep.tv:8000/jazzcafe",
+        "favicon": "http://wsradio.net/wp-content/uploads/2014/07/gordonsheep1.ico"
+    },
+    {
+        "name": "Waves 96.1FM",
+        "url": "http://ais-nzme.streamguys1.com/nz_127/playlist.m3u8",
+        "favicon": "https://wavesradio.nz/resources/themes/waves/favicon/apple-icon-120x120.png?m=1684137480"
+    },
+    {
+        "name": "WCR 87.6 FM",
+        "url": "http://stream2.nrgkits.co.nz:5000/wcrfm",
+        "favicon": "https://static-media.streema.com/media/cache/e5/70/e57010a75d567bdc3e4152a4a5cfa42b.jpg"
+    },
+    {
+        "name": "Wellington Access Radio",
+        "url": "https://live.accessmedia.nz/Wellington.stream/playlist.m3u8",
+        "favicon": "https://accessradio.org.nz/wp-content/uploads/2024/01/cropped-favicon-1-180x180.png"
+    },
+    {
+        "name": "West FM Swing Radio",
+        "url": "http://westfm.freeddns.org:8000/westfm",
+        "favicon": "https://i.postimg.cc/VNjvHX2V/West-FM.jpg"
+    },
+    {
+        "name": "World FM Tawa 88.2",
+        "url": "http://www.worldfm.co.nz:8882/worldfm.aac",
+        "favicon": ""
+    },
+    {
+        "name": "X",
+        "url": "https://digitalstreams-edge-lb.mediaworks.nz/chx_net/playlist.m3u8?",
+        "favicon": "https://d1fdloi71mui9q.cloudfront.net/x0RivOMjRES5qE2zutFe_CHX-600-sq.png"
+    },
+    {
+        "name": "XS80s",
+        "url": "http://s1.myradiostream.com:12508/listen.mp3",
+        "favicon": "http://xs80s.com/favicon.ico"
+    },
+    {
+        "name": "XS80s",
+        "url": "http://s1.myradiostream.com:12508/listen.mp3",
+        "favicon": "https://xs80s.com/img/XS80s-PP.png"
+    },
+    {
+        "name": "ZFM Global",
+        "url": "http://nebula.shoutca.st:8545/stream/1/",
+        "favicon": ""
+    },
+    {
+        "name": "ZM",
+        "url": "https://ais-nzme.streamguys1.com/nz_008_aac",
+        "favicon": ""
+    },
+    {
+        "name": "ZM Wellington",
+        "url": "https://ais-nzme.streamguys1.com/nz_061_aac",
+        "favicon": "https://www.zmonline.com/content/music/images/interface/logo/site/ZMOnline/ZM-2020-Black.svg"
+    },
+    {
+        "name": "\u65b0\u897f\u5170\u534e\u4eba\u4e4b\u58f0AM936\u65b0\u8d85\u51e1",
+        "url": "http://radio.936.nz:8000/am936",
+        "favicon": "https://wikiwandv2-19431.kxcdn.com/icons/icon-167x167.png"
+    },
+    {
+        "name": "\u65b0\u897f\u5170\u534e\u4eba\u4e4b\u58f0FM994\u771f\u5feb\u6d3b",
+        "url": "http://radio.936.nz:8000/fm994",
+        "favicon": "https://wikiwand-19431.kxcdn.com/img/wikiwand_icon_apple.png"
+    }
+]

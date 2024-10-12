@@ -1,0 +1,867 @@
+[
+    {
+        "name": "\tFun Radio",
+        "url": "http://stream.funradio.sk:8000/fun128.mp3",
+        "favicon": "http://www.funradio.sk/img/logo/apple-icon-120x120.png?v=2024-02-12-1045"
+    },
+    {
+        "name": "BB FM r\u00e1dio",
+        "url": "http://stream.bbfm.sk/bbfm128.mp3",
+        "favicon": "https://www.bbfm.sk/images/apple-icon-114x114.png"
+    },
+    {
+        "name": "BestFM",
+        "url": "https://stream3.bestfm.sk:8000/160.aac",
+        "favicon": "https://www.bestfm.sk/assets/images/logo-bestfm-small-54x50.png"
+    },
+    {
+        "name": "\u010ceskoslovensk\u00e9 radio ",
+        "url": "http://live.topradio.cz:8000/csradio128",
+        "favicon": ""
+    },
+    {
+        "name": "Detsk\u00e9 r\u00e1dio",
+        "url": "https://stream.21.sk/detskeradio-192.mp3",
+        "favicon": "https://detske.radio/apple-icon-120x120.png"
+    },
+    {
+        "name": "Detsk\u00e9 R\u00e1dio",
+        "url": "http://stream.21.sk/detskeradio-192.mp3",
+        "favicon": "https://www.detske.radio/favicon-32x32.png"
+    },
+    {
+        "name": "Dobr\u00e9 r\u00e1dio",
+        "url": "http://stream.dobreradio.sk:8813/dobreradio.mp3",
+        "favicon": "http://www.dobreradio.sk/favicon.ico"
+    },
+    {
+        "name": "Duflo Radio",
+        "url": "http://stream.zeno.fm/kxwhyvz2fm0uv",
+        "favicon": ""
+    },
+    {
+        "name": "Europa 2 ",
+        "url": "https://stream.bauermedia.sk/europa2.mp3",
+        "favicon": "https://www.europa2.sk/wp-content/uploads/2023/05/cropped-favicon-128x128.png?w=128&h=128"
+    },
+    {
+        "name": "Europa 2",
+        "url": "https://stream.bauermedia.sk/europa2.mp3",
+        "favicon": "https://www.europa2.sk/wp-content/uploads/2023/05/cropped-favicon-128x128.png?w=128&h=128"
+    },
+    {
+        "name": "Fit Famili R\u00e1dio ",
+        "url": "https://solid1.streamupsolutions.com/proxy/utwrguip/stream",
+        "favicon": "https://fitfamilyradio.com/templates/ja_podcast/favicon.ico"
+    },
+    {
+        "name": "Fit Famili R\u00e1dio ",
+        "url": "https://solid1.streamupsolutions.com/proxy/utwrguip/stream",
+        "favicon": "https://fitfamilyradio.com/templates/ja_podcast/favicon.ico"
+    },
+    {
+        "name": "Fred Film Radio-25 Sloven\u010dina",
+        "url": "https://s10.webradio-hosting.com/proxy/fredradiosk/stream",
+        "favicon": "https://www.fred.fm/favicon.ico"
+    },
+    {
+        "name": "FRESH R\u00e1dio ",
+        "url": "https://icecast2.radionet.sk/freshradio.sk",
+        "favicon": "https://www.radia.sk/_radia/loga/nadpis/fresh.webp?v=1"
+    },
+    {
+        "name": "FRESH r\u00e1dio",
+        "url": "https://icecast2.radionet.sk/freshradio.sk",
+        "favicon": ""
+    },
+    {
+        "name": "Fun Radio",
+        "url": "http://stream.funradio.sk:8000/fun128.mp3",
+        "favicon": "http://cdn.funradio.sk/img/logo/apple-icon-120x120.png?v=2022-05-26-1422"
+    },
+    {
+        "name": "Fun Radio  Chill",
+        "url": "https://stream.funradio.sk:8000/chill128.mp3",
+        "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.E65vroGDtTyTMl18lUuGuwHaHa%26pid%3DApi&f=1&ipt=8e1260db0157c0b572b4326122c7511e15bc8c6afb4e0423cd1b9bb620cf57f2&ipo=images"
+    },
+    {
+        "name": "FUN R\u00c1DIO 80-90",
+        "url": "http://stream.funradio.sk:8000/80-90-128.mp3",
+        "favicon": "https://i.imgur.com/kz8TUOr.png"
+    },
+    {
+        "name": "Fun Radio 80&90",
+        "url": "http://stream.funradio.sk:8000/80-90-128.mp3",
+        "favicon": "http://www.funradio.sk/img/logo/apple-icon-120x120.png?v=2024-04-26-1140"
+    },
+    {
+        "name": "Fun Radio CZ",
+        "url": "http://stream.funradio.sk:8000/cs128.mp3",
+        "favicon": "http://cdn.funradio.sk/img/logo/apple-icon-120x120.png?v=2022-05-26-1422"
+    },
+    {
+        "name": "FUN R\u00c1DIO DANCE",
+        "url": "http://stream.funradio.sk:8000/dance128.mp3",
+        "favicon": "https://i.imgur.com/j51rcUO.png"
+    },
+    {
+        "name": "Fun Radio Dance",
+        "url": "http://stream.funradio.sk:8000/dance128.mp3",
+        "favicon": "http://www.funradio.sk/favicon.ico"
+    },
+    {
+        "name": "FunRadio Live ",
+        "url": "http://stream.funradio.sk:8000/funpgm256.mp3",
+        "favicon": "https://www.funradio.sk/img/logo.svg"
+    },
+    {
+        "name": "FunRadio Live (256kbps)",
+        "url": "https://stream.funradio.sk:8000/funpgm256.mp3",
+        "favicon": "https://www.funradio.sk/img/logo.svg"
+    },
+    {
+        "name": "Funr\u00e1dio Mileni\u00e1lky",
+        "url": "http://stream.funradio.sk:8000/milenialky128.mp3",
+        "favicon": "https://www.funradio.sk/img/logo/apple-icon-120x120.png?v=2024-06-09-1150"
+    },
+    {
+        "name": "G-Radio",
+        "url": "http://88.212.34.18:8050/mp3midband",
+        "favicon": "http://gradio.sk/favicon.ico"
+    },
+    {
+        "name": "G-Radio",
+        "url": "http://88.212.34.18:8050/mp3midband",
+        "favicon": "http://www.gradio.sk/favicon.ico"
+    },
+    {
+        "name": "Hitr\u00e1dio Slovakia",
+        "url": "https://hitradioslovakia.stream.laut.fm/hitradioslovakia",
+        "favicon": ""
+    },
+    {
+        "name": "Hitr\u00e1dio Slovakia",
+        "url": "https://hitradioslovakia.stream.laut.fm/hitradioslovakia",
+        "favicon": ""
+    },
+    {
+        "name": "House Radio",
+        "url": "http://stream.zeno.fm/qm8e21gta18uv",
+        "favicon": ""
+    },
+    {
+        "name": "Infovojna",
+        "url": "http://159.69.219.5:8010/aac",
+        "favicon": ""
+    },
+    {
+        "name": "Infovojna",
+        "url": "http://stream3.infovojna.bz:8000/live",
+        "favicon": "https://www.infovojna.bz/images/logos/android-icon-144x144.png"
+    },
+    {
+        "name": "iRock",
+        "url": "https://radioserver.online:9927/irockHQ.mp3",
+        "favicon": "https://www.irock.sk/favicon.ico"
+    },
+    {
+        "name": "janko hra\u0161ko",
+        "url": "http://78.24.9.110:31088/",
+        "favicon": "https://jankohrasko.sk/wp-content/uploads/2022/01/cropped-janko-hrasko-180x180.png"
+    },
+    {
+        "name": "Kosice International ATC",
+        "url": "https://www.liveatc.net/play/lzkz.pls",
+        "favicon": "https://www.liveatc.net/favicon.ico"
+    },
+    {
+        "name": "mars dance",
+        "url": "https://stream-153.zeno.fm/683gf5xrxfeuv?zs=gtI4gERBSUGu8f0FOcDOWw&1686916511841",
+        "favicon": "https://www.wix.com/favicon.ico"
+    },
+    {
+        "name": "METALSCENA netRADIO",
+        "url": "https://listen.radioking.com/radio/263218/stream/308365",
+        "favicon": ""
+    },
+    {
+        "name": "Mirjam R\u00e1dio - M\u00e1ria R\u00e1di\u00f3 Felvid\u00e9k",
+        "url": "http://193.87.81.131:8081/MariaRadioFelvidek",
+        "favicon": "https://mariaradio.sk/favicon.ico"
+    },
+    {
+        "name": "Party Mix Radio",
+        "url": "http://stream.zeno.fm/rw6ckefezs8uv",
+        "favicon": ""
+    },
+    {
+        "name": "P\u00e1tria R\u00e1di\u00f3",
+        "url": "https://icecast.stv.livebox.sk/patria_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio 7",
+        "url": "https://play.radio7.sk/128",
+        "favicon": "https://radio7.sk/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio Aetter",
+        "url": "http://stream.aetter.sk:8000/aetter",
+        "favicon": "https://aetter.sk/wp-content/uploads/2020/03/cropped-aetter_favicon_new-180x180.png"
+    },
+    {
+        "name": "R\u00e1dio BestFM",
+        "url": "https://stream3.bestfm.sk:8000/128.mp3",
+        "favicon": "https://bestfm.sk/assets/images/logo-v600-1388x607.webp"
+    },
+    {
+        "name": "R\u00e1dio Beta",
+        "url": "http://109.71.67.102:8000/beta_live_high.mp3",
+        "favicon": "https://www.beta.sk/wp-content/uploads/2020/08/cropped-beta-radio-logo-512-180x180.png"
+    },
+    {
+        "name": "R\u00e1dio Beta - \u010cesk\u00e9 a Slovensk\u00e9 hity",
+        "url": "http://109.71.67.102:8000/beta_cspop.mp3",
+        "favicon": "https://www.beta.sk/wp-content/uploads/2020/08/cropped-beta-radio-logo-512-180x180.png"
+    },
+    {
+        "name": "R\u00c1DIO BETA - \u010cesk\u00e9 a Slovensk\u00e9 hity",
+        "url": "http://109.71.67.102:8000/beta_cspop.mp3",
+        "favicon": "https://i.imgur.com/JlQQvud.png"
+    },
+    {
+        "name": "R\u00e1dio Beta - Hity 80's a 90's",
+        "url": "http://109.71.67.102:8000/beta_80a90.mp3",
+        "favicon": "https://www.beta.sk/wp-content/uploads/2020/08/cropped-beta-radio-logo-512-180x180.png"
+    },
+    {
+        "name": "R\u00c1DIO BETA 80-90",
+        "url": "http://109.71.67.102:8000/beta_80a90.mp3",
+        "favicon": "https://i.imgur.com/z9vmxbT.png"
+    },
+    {
+        "name": "RADIO BIBLIA SK",
+        "url": "http://radiobiblia.online:8000/stream.ogg",
+        "favicon": "https://www.radiobiblia.online/wp-content/uploads/2018/06/cropped-biblia-1-180x180.png"
+    },
+    {
+        "name": "R\u00e1dio Dev\u00edn",
+        "url": "https://icecast.stv.livebox.sk/devin_128.mp3",
+        "favicon": "https://i.ibb.co/yddHjYL/radio-devin-w.png"
+    },
+    {
+        "name": "Radio Dychovka",
+        "url": "https://epanel.mediacp.eu:7661/stream",
+        "favicon": "https://cdn.websupport.eu/odin/custom_error_pages/images/favicon.png"
+    },
+    {
+        "name": "Radio Ekspres",
+        "url": "https://stream.nextmedia.si/proxy/ekspres1?mp=/stream",
+        "favicon": "https://www.radioekspres.si/favicon.ico"
+    },
+    {
+        "name": "Radio Expres",
+        "url": "http://195.168.61.226:8000/96.mp3",
+        "favicon": "https://www.expres.sk/wp-content/uploads/2015/06/cropped-favicon-1-128x128.png"
+    },
+    {
+        "name": "Radio Expres",
+        "url": "http://195.168.61.226:8000/96.mp3",
+        "favicon": "https://www.expres.sk/wp-content/uploads/2015/06/cropped-favicon-1-128x128.png"
+    },
+    {
+        "name": "R\u00e1dio Expres",
+        "url": "http://195.168.61.226:8000/128.mp3",
+        "favicon": "https://www.expres.sk/wp-content/themes/expres-theme/images/logo_re.svg"
+    },
+    {
+        "name": "Radio Expres",
+        "url": "http://195.168.61.226:8000/96.mp3",
+        "favicon": "https://www.expres.sk/wp-content/uploads/2015/06/cropped-favicon-1-128x128.png"
+    },
+    {
+        "name": "Radio Expres SK",
+        "url": "https://stream.expres.sk/128.mp3",
+        "favicon": "https://www.expres.sk/wp-content/uploads/2015/06/cropped-favicon-1-128x128.png"
+    },
+    {
+        "name": "Radio Extra",
+        "url": "http://live.topradio.cz:8000/extra192",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00c1DIO FM",
+        "url": "https://icecast.stv.livebox.sk/fm_128.mp3",
+        "favicon": "https://i.imgur.com/mdT0UbB.png"
+    },
+    {
+        "name": "R\u00e1dio FM",
+        "url": "https://icecast.stv.livebox.sk/fm_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio FM",
+        "url": "https://icecast.stv.livebox.sk/fm_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio FM",
+        "url": "https://icecast.stv.livebox.sk/fm_128.mp3",
+        "favicon": "https://i.ibb.co/stkL0rw/radio-fm-w.png"
+    },
+    {
+        "name": "R\u00e1dio Frontinus",
+        "url": "http://stream.frontinus.sk:8000/frontinus128.mp3",
+        "favicon": "http://frontinus.sk/images/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio Janko Hra\u0161ko",
+        "url": "http://78.24.9.110:31088/;",
+        "favicon": "https://jankohrasko.sk/wp-content/uploads/2022/01/cropped-janko-hrasko-180x180.png"
+    },
+    {
+        "name": "R\u00e1dio Janko Hra\u0161ko",
+        "url": "http://78.24.9.110:31088/",
+        "favicon": "https://jankohrasko.sk/wp-content/uploads/2022/01/cropped-janko-hrasko-180x180.png"
+    },
+    {
+        "name": "R\u00e1dio Jazz",
+        "url": "http://stream.sepia.sk:8000/jazz128.mp3",
+        "favicon": "https://radiojazz.sk/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio Jupiter",
+        "url": "http://stream.radiojupiter.sk:8000/jupiter_64.aac",
+        "favicon": "https://radiojupiter.sk/wp-content/uploads/2019/08/cropped-favicon-1-180x180.png"
+    },
+    {
+        "name": "R\u00e1dio KIKS",
+        "url": "https://online.radiokiks.sk:8000/kiks_hq.mp3",
+        "favicon": "https://www.radiokiks.sk/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio KIKS",
+        "url": "https://online.radiokiks.sk:8000/kiks_hq.mp3",
+        "favicon": "https://www.radiokiks.sk/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio KIKS - Big 80s",
+        "url": "https://online.radiokiks.sk:8000/kiks_big80s.mp3",
+        "favicon": "https://www.radiokiks.sk/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio KIKS - Big 90s",
+        "url": "https://online.radiokiks.sk:8000/kiks_big90s.mp3",
+        "favicon": "https://www.radiokiks.sk/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio KIKS - Rock Music",
+        "url": "https://online.radiokiks.sk:8000/kiks_rock.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Ko\u0161ice",
+        "url": "http://stream.ecce.sk:8000/radiokosice-128.mp3",
+        "favicon": "https://www.radiokosice.sk/assets/radio-ke.png"
+    },
+    {
+        "name": "R\u00e1dio Ko\u0161ice BA",
+        "url": "http://176.102.98.74:8000/radiokosice-ba-128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Litera",
+        "url": "https://icecast.stv.livebox.sk/litera_128.mp3",
+        "favicon": "https://i.ibb.co/68qvmxY/radio-litera-w.png"
+    },
+    {
+        "name": "R\u00e1dio Logos",
+        "url": "http://radioserver.online:8824/;",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Lumen",
+        "url": "http://audio.lumen.sk:8000/live128.mp3",
+        "favicon": "https://www.lumen.sk/public/img/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "R\u00e1dio Maria Slovensko",
+        "url": "http://dreamsiteradiocp5.com:8012/streaming.mp3",
+        "favicon": "https://www.radiomaria.sk/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio M\u00c1RIA SLOVENSKO ",
+        "url": "https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3",
+        "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.430SifHOiQrgPJT5x7bVkwHaCK%26pid%3DApi&f=1&ipt=bc089d517a31dcf260ec12eaa1e9808783150eb69c62a757ac3b4ed4b07a2aaf&ipo=images"
+    },
+    {
+        "name": "R\u00e1dio Melody",
+        "url": "https://stream.bauermedia.sk/melody-hi.mp3",
+        "favicon": "https://www.radiomelody.sk/wp-content/uploads/2023/01/cropped-radio-melody-favicon-1-128x128.png?w=128&h=128"
+    },
+    {
+        "name": "R\u00e1dio Melody",
+        "url": "https://stream.bauermedia.sk/melody-hi.mp3",
+        "favicon": "https://www.radiomelody.sk/wp-content/themes/melody/assets/logo.svg"
+    },
+    {
+        "name": "Radio Melody",
+        "url": "https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid=melody_web_mobile",
+        "favicon": "https://www.radiomelody.sk/wp-content/uploads/2023/01/cropped-radio-melody-favicon-1-256x256.png?w=256&h=256"
+    },
+    {
+        "name": "R\u00e1dio Modra",
+        "url": "http://185.98.208.12:8000/",
+        "favicon": "https://d1di2lzuh97fh2.cloudfront.net/files/1j/1j3/1j3767.ico?ph=c3d2c4efc8"
+    },
+    {
+        "name": "R\u00e1dio Muzika",
+        "url": "https://listen.radioking.com/radio/276343/stream/321988",
+        "favicon": "https://radiomuzika.sk/wp-content/uploads/2020/09/apple-icon-114x114-1.png"
+    },
+    {
+        "name": "R\u00e1dio Par\u00e1da",
+        "url": "https://extra.mediacp.eu/stream/RadioParada,o.z.",
+        "favicon": "https://www.radioparada.sk/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio Pie\u0161\u0165any",
+        "url": "http://live.radiopiestany.sk:8000/live.mp3",
+        "favicon": "http://www.radiopiestany.sk/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio Pohoda 2 ",
+        "url": "http://mpc1.mediacp.eu:18111/stream",
+        "favicon": "https://radiopohoda.com/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio Pyram\u00edda",
+        "url": "https://icecast.stv.livebox.sk/klasika_128.mp3",
+        "favicon": "https://i.ibb.co/Y0sLyvM/radio-pyramida-w.png"
+    },
+    {
+        "name": "R\u00e1dio Regina Z\u00e1pad",
+        "url": "https://icecast.stv.livebox.sk/regina-ba_128.mp3",
+        "favicon": "https://i.ibb.co/JcBjSsG/radio-regina-zapad-w.png"
+    },
+    {
+        "name": "R\u00e1dio REGINA Z\u00c1PAD",
+        "url": "https://icecast.stv.livebox.sk/regina-ba_128.mp3",
+        "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.yfbXYckxrPxjXALPpN_LnAHaD2%26pid%3DApi&f=1&ipt=adb01ec0af436d9e0e0d8b2c71c88db5e93304f6c1789a2ce3b3f2686c70243c&ipo=images"
+    },
+    {
+        "name": "R\u00e1dio Relax International",
+        "url": "https://stream.relaxfm.ee/international",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio ROCK",
+        "url": "https://stream.bauermedia.sk/rock-hi.mp3",
+        "favicon": "https://radiorock.sk/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio ROCK",
+        "url": "https://stream.bauermedia.sk/rock-hi.mp3",
+        "favicon": "https://radiorock.sk/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio Rock",
+        "url": "https://stream.bauermedia.sk/rock-hi.mp3",
+        "favicon": "https://www.radiorock.sk/favicon.ico"
+    },
+    {
+        "name": "R\u00e1dio Rock SV",
+        "url": "https://s2.myradiostream.com/:4870/listen.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Romper \u010cechoslovakia",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC415.aac",
+        "favicon": "https://d1di2lzuh97fh2.cloudfront.net/files/24/241/241ygj.ico?ph=e7cd3d1306"
+    },
+    {
+        "name": "R\u00e1dio RSI",
+        "url": "https://icecast.stv.livebox.sk/rsi_128.mp3",
+        "favicon": "https://i.ibb.co/4jyQ9sj/radio-rsi-w.png"
+    },
+    {
+        "name": "R\u00e1dio \u0160\u00edrava",
+        "url": "http://radioserver.online:8804/;stream/1",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Sity",
+        "url": "https://radiosity.online:8000/aac",
+        "favicon": "https://radiosity.sk/wp-content/uploads/2021/12/cropped-favicon_radio_sity-180x180.png"
+    },
+    {
+        "name": "R\u00c1DIO SLOVENSKO ",
+        "url": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
+        "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.gItQZStw2mHIGhvJGp8aFwAAAA%26pid%3DApi&f=1&ipt=698c390e95f6a2d64349aa8e80bd8f925a2cc5c8d3b1f4f21070cdeaa2118d2d&ipo=images"
+    },
+    {
+        "name": "Radio Slovensko",
+        "url": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Slovensko",
+        "url": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
+        "favicon": "https://i.ibb.co/bdLTNsg/radio-slovensko-w.png"
+    },
+    {
+        "name": "Radio TLIS",
+        "url": "https://stream.tlis.sk/tlis.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Topol\u010dany",
+        "url": "http://80.242.44.249:8000/",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Topo\u013e\u010dany ",
+        "url": "http://80.242.44.249:8000/;",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio TOPO\u013d\u010cANY ",
+        "url": "http://80.242.44.249:8000/;",
+        "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.SVUjif5IQB5xaM8i_tO-OgAAAA%26pid%3DApi&f=1&ipt=2d42af7eeabb8ba1ed09a22b500e81b5bb8300a723bb093a26905454745237e8&ipo=images"
+    },
+    {
+        "name": "R\u00e1dio v Nitre",
+        "url": "http://195.210.28.150:8932/radiovnitre_live.mp3",
+        "favicon": "https://radiovnitre.sk/assets/images/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Vega",
+        "url": "http://stream.sepia.sk:8000/vega128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Vega",
+        "url": "https://stream.sepia.sk:8000/vega128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Vega",
+        "url": "http://stream.sepia.sk:8000/vega128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Vega Slovakia",
+        "url": "https://stream.sepia.sk:8000/vega128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00c1DIO VIVA",
+        "url": "http://stream.sepia.sk:8000/viva128.mp3",
+        "favicon": "https://i.imgur.com/DExIeEb.png"
+    },
+    {
+        "name": "R\u00e1dio Viva",
+        "url": "http://stream.sepia.sk:8000/viva128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio VIVA",
+        "url": "https://stream.sepia.sk/viva128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Viva Metropol",
+        "url": "http://stream.sepia.sk:8000/viva128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Vlna",
+        "url": "http://stream.radiovlna.sk/vlna-hi.mp3",
+        "favicon": "http://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=2024-03-04-1100"
+    },
+    {
+        "name": "R\u00e1dio Vlna",
+        "url": "http://stream.radiovlna.sk/vlna-hi.mp3",
+        "favicon": "http://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=9"
+    },
+    {
+        "name": "R\u00c1DIO VLNA 60-70",
+        "url": "https://stream.radiovlna.sk/gold-hi.mp3",
+        "favicon": "https://cdn.radiovlna.sk/img/Radio_Vlna_Logo.png"
+    },
+    {
+        "name": "R\u00c1DIO VLNA 60-70",
+        "url": "https://stream.radiovlna.sk/gold-hi.mp3",
+        "favicon": "https://i.imgur.com/XIRnWa2.png"
+    },
+    {
+        "name": "R\u00e1dio Vlna CLASSIC ROCK ",
+        "url": "http://stream.radiovlna.sk:8000/rock-hi.mp3",
+        "favicon": "https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=2024-03-04-1100"
+    },
+    {
+        "name": "R\u00c1DIO VLNA Classic Rock",
+        "url": "http://stream.radiovlna.sk:8000/rock-hi.mp3",
+        "favicon": "https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=2024-03-04-1100"
+    },
+    {
+        "name": "R\u00e1dio Vlna Golden hits",
+        "url": "https://stream.radiovlna.sk/gold-hi.mp3",
+        "favicon": "https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=9"
+    },
+    {
+        "name": "R\u00e1dio Vlna Oldies Party",
+        "url": "https://stream.radiovlna.sk/party-hi.mp3",
+        "favicon": "https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=2023-10-09-10-40"
+    },
+    {
+        "name": "radio WoW",
+        "url": "https://radioserver.online:9816/radiowow.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Zabava",
+        "url": "https://stream.zeno.fm/eyac00cx1nhvv",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "R\u00c1DIO_FM",
+        "url": "http://live.slovakradio.sk:8000/FM_256.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "RadioX",
+        "url": "http://158.193.82.41:8000/radiox_128.mp3",
+        "favicon": "https://stream.radiox.sk/favicon.ico"
+    },
+    {
+        "name": "RadioX - Alternative X",
+        "url": "http://158.193.82.41:8000/alternative.mp3",
+        "favicon": "https://stream.radiox.sk/favicon.ico"
+    },
+    {
+        "name": "RadioX - Chillout X",
+        "url": "http://158.193.82.41:8000/chillout.mp3",
+        "favicon": "https://stream.radiox.sk/favicon.ico"
+    },
+    {
+        "name": "RadioX - Dance X",
+        "url": "http://158.193.82.41:8000/dance.mp3",
+        "favicon": "https://stream.radiox.sk/favicon.ico"
+    },
+    {
+        "name": "RadioX - DnB X",
+        "url": "http://158.193.82.41:8000/dnb.mp3",
+        "favicon": "https://stream.radiox.sk/favicon.ico"
+    },
+    {
+        "name": "RadioX - DnB X",
+        "url": "http://158.193.82.41:8000/dnb.mp3",
+        "favicon": "https://stream.radiox.sk/favicon.ico"
+    },
+    {
+        "name": "RadioX - Folklore X",
+        "url": "http://158.193.82.41:8000/ludovky.mp3",
+        "favicon": "https://stream.radiox.sk/favicon.ico"
+    },
+    {
+        "name": "RadioX - Metal X",
+        "url": "http://158.193.82.41:8000/metal.mp3",
+        "favicon": "https://stream.radiox.sk/favicon.ico"
+    },
+    {
+        "name": "RadioX - Mood X",
+        "url": "http://158.193.82.41:8000/mood.mp3",
+        "favicon": "https://stream.radiox.sk/favicon.ico"
+    },
+    {
+        "name": "RadioX - Oldies X",
+        "url": "http://158.193.82.41:8000/oldies.mp3",
+        "favicon": "https://stream.radiox.sk/favicon.ico"
+    },
+    {
+        "name": "Repete",
+        "url": "http://stream.rusyn.fm/rusyny-low.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Rock Radio",
+        "url": "https://stream.bauermedia.sk/rock-hi.mp3",
+        "favicon": "https://radiorock.sk/favicon.ico"
+    },
+    {
+        "name": "RTVS Litera256",
+        "url": "http://live.slovakradio.sk:8000/Litera_256.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "RTVS Pyramida256",
+        "url": "http://live.slovakradio.sk:8000/Pyramida_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "RTVS Pyramida256",
+        "url": "http://live.slovakradio.sk:8000/Pyramida_256.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "RTVS Pyramida256",
+        "url": "http://live.slovakradio.sk:8000/Pyramida_256.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Rusyn FM",
+        "url": "https://stream.rusyn.fm/rusyny.mp3",
+        "favicon": "https://www.rusyn.fm/favicon.ico"
+    },
+    {
+        "name": "RusynFM",
+        "url": "http://stream.rusyn.fm/rusyny.mp3",
+        "favicon": "http://www.rusyn.fm/favicon.ico"
+    },
+    {
+        "name": "SKY R\u00e1dio",
+        "url": "http://stream.skyradio.sk:8000/sky128",
+        "favicon": "http://www.skyradio.sk/img/fav.png"
+    },
+    {
+        "name": "SKY R\u00e1dio",
+        "url": "http://stream.skyradio.sk:8000/sky128",
+        "favicon": "http://skyradio.sk/img/fav.png"
+    },
+    {
+        "name": "Sllobodn\u00fd vysiela\u010d",
+        "url": "http://159.69.219.5:8010//aac",
+        "favicon": ""
+    },
+    {
+        "name": "SLOBODN\u00dd VYSIELA\u010c",
+        "url": "http://vysielanie.online/radio/8020/SV128.mp3",
+        "favicon": "https://i.imgur.com/1ytixYb.png"
+    },
+    {
+        "name": "Slobodn\u00fd vysiela\u010d",
+        "url": "http://159.69.219.5:8010/mp3",
+        "favicon": "https://slobodnyvysielac.b-cdn.net/wp-content/uploads/2015/10/cropped-fav-150x150.png"
+    },
+    {
+        "name": "Slobodn\u00fd vysiela\u010d",
+        "url": "http://vysielanie.online/radio/8020/SV128.mp3",
+        "favicon": "https://slobodnyvysielac.b-cdn.net/wp-content/uploads/2015/10/cropped-fav-150x150.png"
+    },
+    {
+        "name": "SRo1 R\u00e1dio Slovensko",
+        "url": "http://live.slovakradio.sk:8000/Slovensko_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SRo1 R\u00e1dio Slovensko",
+        "url": "http://live.slovakradio.sk:8000/Slovensko_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SRo1 R\u00e1dio Slovensko (256k)",
+        "url": "http://live.slovakradio.sk:8000/Slovensko_256.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SRo2 R\u00e1dio Regina Stred",
+        "url": "http://icecast.stv.livebox.sk/regina-bb_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SRo2 R\u00e1dio Regina V\u00fdchod",
+        "url": "http://icecast.stv.livebox.sk/regina-ke_128.mp3",
+        "favicon": "https://www.rtvs.sk/media/images/radiostations/radio_regina.png"
+    },
+    {
+        "name": "SRo2 R\u00e1dio Regina Z\u00e1pad",
+        "url": "http://icecast.stv.livebox.sk/regina-ba_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SRo3: R\u00e1dio Dev\u00edn",
+        "url": "http://icecast.stv.livebox.sk/devin_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SRo4 R\u00e1dio FM",
+        "url": "http://live.slovakradio.sk:8000/FM_256.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SRo5 R\u00e1dio P\u00e1tria /RSI",
+        "url": "http://live.slovakradio.sk:8000/Patria_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SRo6 Radio Slovakia International",
+        "url": "http://icecast.stv.livebox.sk/rsi_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SRo7 R\u00e1dio Pyramida",
+        "url": "http://live.slovakradio.sk:8000/Pyramida_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SRo8 R\u00e1dio Litera",
+        "url": "http://icecast.stv.livebox.sk/litera_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SRo9 R\u00e1dio Junior",
+        "url": "http://live.slovakradio.sk:8000/Junior_128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SRo9 R\u00e1dio Junior (256k)",
+        "url": "http://live.slovakradio.sk:8000/Junior_256.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SUB:FM",
+        "url": "http://stream.subfm.sk/subfm",
+        "favicon": "https://www.subfm.sk/wp-content/uploads/2021/11/cropped-android-chrome-512x512-1-180x180.png"
+    },
+    {
+        "name": "TA3",
+        "url": "https://n13.stv.livebox.sk/ta3/685d9a141bd846e8facf83bc378da26b/1.smil/chunklist_b2691072.m3u8",
+        "favicon": "https://www.ta3.com/ta3static/images/favicon.ico?62d93f"
+    },
+    {
+        "name": "TLIS R\u00e1dio",
+        "url": "http://stream.tlis.sk/tlis.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Top R\u00e1dio",
+        "url": "https://solid1.streamupsolutions.com/proxy/vhhggmih/stream",
+        "favicon": "https://www.radiotop.sk/wp-content/uploads/2021/10/cropped-favico-180x180.png"
+    },
+    {
+        "name": "TRNAVSK\u00c9 R\u00c1DIO",
+        "url": "http://stream.trnavskeradio.sk/trnavske",
+        "favicon": "https://imgur.com/X0gqKgE"
+    },
+    {
+        "name": "TRNAVSK\u00c9 R\u00c1DIO",
+        "url": "http://stream.trnavskeradio.sk/trnavske",
+        "favicon": "https://i.imgur.com/ECVh6em.png"
+    },
+    {
+        "name": "Trnavsk\u00e9 r\u00e1dio",
+        "url": "http://stream.trnavskeradio.sk/trnavske",
+        "favicon": ""
+    },
+    {
+        "name": "TV Doktor",
+        "url": "https://live.tvdoktor.sk/high/index.m3u8",
+        "favicon": "https://www.tvdoktor.sk/assets/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "Z\u00e1hor\u00e1cke R\u00e1dio",
+        "url": "http://live.zahorackeradio.sk:8080/zr128.mp3",
+        "favicon": "https://www.zahorackeradio.sk/i/show/256x0/logo/zahoracke_radio_02mwb.png"
+    }
+]

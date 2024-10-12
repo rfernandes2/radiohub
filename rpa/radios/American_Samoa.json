@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Christmas 356 Santa's Radio",
+        "url": "https://us3.streamingpulse.com/ssl/7038",
+        "favicon": "https://us7.streamingpulse.com/2826/index.php"
+    },
+    {
+        "name": "Christmas Classics",
+        "url": "http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836",
+        "favicon": "http://player.181fm.com/?station=181-xtraditional"
+    },
+    {
+        "name": "Christmas Classics",
+        "url": "http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836",
+        "favicon": "http://player.181fm.com/?station=181-xtraditional"
+    },
+    {
+        "name": "EXA FM: Pop musika i le Igilisi ma le Sipaniolo",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "favicon": "https://www.exafm.com/favicon.ico"
+    },
+    {
+        "name": "Fm Christmas classics",
+        "url": "https://listen.181fm.com/181-xtraditional_128k.mp3",
+        "favicon": "http://www.181.fm/favicon.ico"
+    },
+    {
+        "name": "Fox news",
+        "url": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "National Public Radio",
+        "url": "https://npr-ice.streamguys1.com/live.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Planet black",
+        "url": "http://mp3.planetradio.de/plrchannels/hqblackbeats.aac",
+        "favicon": ""
+    },
+    {
+        "name": "S1lhoutte - Rock FM",
+        "url": "http://rockfm.rockfm.com.tr:9450/",
+        "favicon": ""
+    },
+    {
+        "name": "Youtube",
+        "url": "http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836",
+        "favicon": "http://player.181fm.com/?station=181-xtraditional"
+    },
+    {
+        "name": "\u5275\u4e16",
+        "url": "https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8",
+        "favicon": "http://www.creation-tv.com/favicon.ico"
+    },
+    {
+        "name": "\u5e0c\u671b\u4e4b\u58f0",
+        "url": "https://livecast1.soundofhope.org:2087/soh-live",
+        "favicon": "https://www.soundofhope.org/img/logo.svg"
+    }
+]

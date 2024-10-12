@@ -1,0 +1,172 @@
+[
+    {
+        "name": "101.1 BIG HEART FM",
+        "url": "http://162.220.162.10:8011/stream",
+        "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqDYrujwxE2yBwEKh2u8RjH7tmi6LGsImmWeCugDjLUQ&s"
+    },
+    {
+        "name": "101.1 Smooth FM",
+        "url": "https://stream-icy.bauermedia.pt/smooth.aac",
+        "favicon": "https://smoothfm.pt/favicon.ico"
+    },
+    {
+        "name": "101.7 BIG HEART FM",
+        "url": "https://62.138.18.102:8133/stream",
+        "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlv53fkkLJDk_Kfdz2kv20-Rad_UnpdEgUKjuHbnKHmwoL7lSyYTsZLe6&s=10"
+    },
+    {
+        "name": "91.5 HIT FM MACAU (\u6210\u90fd\uff09",
+        "url": "http://lhttp.qingting.fm/live/15318703/64k.mp3",
+        "favicon": "https://upload.wikimedia.org/wikipedia/zh/1/1b/CRI_Hit_FM_logo.png"
+    },
+    {
+        "name": "Asia FM 106.9",
+        "url": "https://lhttp.qingting.fm/live/20071/64k.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Asia FM 106.9",
+        "url": "https://lhttp.qingting.fm/live/20071/64k.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "CGTN Radio - Macau 1341 AM",
+        "url": "https://sk.cri.cn/am846.m3u8",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png"
+    },
+    {
+        "name": "Channel [V] International",
+        "url": "https://listen.radioking.com/radio/453221/stream/508076",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/800px-Channel_V_Logo.svg.png"
+    },
+    {
+        "name": "CityFM Macau - 90.5 FM",
+        "url": "https://lhttp.qtfm.cn/live/20500153/64k.mp3",
+        "favicon": "https://pic.qtfm.cn/2022/0703/20220703121159.jpeg"
+    },
+    {
+        "name": "Lotus FM Macau HD - 97.4 FM",
+        "url": "https://lhttp.qtfm.cn/live/20533/64k.mp3",
+        "favicon": "https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg"
+    },
+    {
+        "name": "Lotus Macau Radio - 1062 AM",
+        "url": "https://lhttp.qtfm.cn/live/20133/64k.mp3",
+        "favicon": "https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg"
+    },
+    {
+        "name": "M80 Radio Macau - 107.1 FM",
+        "url": "https://stream-icy.bauermedia.pt/m80.mp3",
+        "favicon": "https://m80.pt/favicon.ico"
+    },
+    {
+        "name": "M80 Radio Macau - 80s",
+        "url": "https://stream-icy.bauermedia.pt/m8080.aac",
+        "favicon": "https://m80.pt/favicon.ico"
+    },
+    {
+        "name": "M80 Radio Macau - 90s",
+        "url": "https://stream-icy.bauermedia.pt/m8090.aac",
+        "favicon": "https://bauermedia.pt/static/m80/favicon.ico?v=2.0"
+    },
+    {
+        "name": "M80 Radio Macau - Rock",
+        "url": "https://stream-icy.bauermedia.pt/m80rock.aac",
+        "favicon": "https://bauermedia.pt/static/m80/favicon.ico?v=2.0"
+    },
+    {
+        "name": "Mega Hits Macau 88.9 FM",
+        "url": "http://25703.live.streamtheworld.com:3690/MEGA_HITS_SC",
+        "favicon": "https://megasite-images.azureedge.net/images/apple-touch-icon-114x114.png"
+    },
+    {
+        "name": "Mega Hits Macau 88.9 FM",
+        "url": "http://25703.live.streamtheworld.com:3690/MEGA_HITS_SC",
+        "favicon": "https://megasite-images.azureedge.net/images/apple-touch-icon-114x114.png"
+    },
+    {
+        "name": "R\u00e1dio de not\u00edcias de Guangzhou - 96.2 FM",
+        "url": "https://radios2.justweb.pt/8008/stream",
+        "favicon": "https://upload.wikimedia.org/wikipedia/zh/2/2b/GZBN_FM962_Logo.jpg"
+    },
+    {
+        "name": "R\u00e1dio Macau FM98.0",
+        "url": "https://mo.ufofm.com/live/rch1.live/chunklist_w1881620473.m3u8?audio",
+        "favicon": ""
+    },
+    {
+        "name": "RADIO MARIA MACAU",
+        "url": "http://dreamsiteradiocp2.com:8038/stream",
+        "favicon": "http://www.voiceofmary.org.mo/favicon.ico"
+    },
+    {
+        "name": "Radio Top 80 Macau \u5f37\u96fb\u53f0 - 89.9 FM",
+        "url": "http://live.top80.fm:8086/;",
+        "favicon": "https://img.radios.com.br/radio/xl/radio232214_1699645003.jpg"
+    },
+    {
+        "name": "Radio Veritas Asia 1044 AM",
+        "url": "http://icecast.eradioportal.com:8000/radyo-veritas-846",
+        "favicon": "https://www.rvasia.org/%3a/favicon.ico.png"
+    },
+    {
+        "name": "Radio Vilaverde Lda",
+        "url": "https://fm995.ddns.net/hls1/fm995.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Record FM 100.3 Macau",
+        "url": "https://nl.digitalrm.pt:8028/stream",
+        "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxzia_Bkrj8iaa6iQ7uAbi1eem1GcDGKDFYGmE_HYjdlILYB2R9hKtMoF&s=10"
+    },
+    {
+        "name": "RFM Macau \u5728\u7ebf\u5e7f\u64ad - 92.2 FM",
+        "url": "https://27823.live.streamtheworld.com/OCEANPACIFIC.mp3",
+        "favicon": "https://rfm.sapo.pt/ouvir-emissao-rfm-oceano-pacifico/favicon.ico"
+    },
+    {
+        "name": "Romance Radio 95.5 FM",
+        "url": "http://162.220.162.10:8011/stream",
+        "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ZaX_MeobQXgZYNlYWuf1F_UdPiX_QHNuHQ&usqp=CAU"
+    },
+    {
+        "name": "RTP Macau - 97.1 FM",
+        "url": "https://radiocast.rtp.pt/antena1madeira80a.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SZR \u57ce\u5e02 FM 97.1 Macau - HD2",
+        "url": "https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8",
+        "favicon": "https://upload.wikimedia.org/wikipedia/en/9/95/Szr.jpg?20060826171746"
+    },
+    {
+        "name": "VOA Macau",
+        "url": "https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8",
+        "favicon": "https://www.voachinese.com/content/responsive/voa/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "VOA Macau",
+        "url": "http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8",
+        "favicon": "https://www.voachinese.com/content/responsive/voa/img/webapp/ico-128x128.png"
+    },
+    {
+        "name": "YW City Radio - Macau 954 AM",
+        "url": "https://lhttp.qingting.fm/live/1259/64k.mp3?app_id=web",
+        "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAloACLs4j25afKVh2uzyJX3NGhCBaZTLSo_Ud6VcuDiP358zYKXSPuw&s=10"
+    },
+    {
+        "name": "\u6fb3\u9580\u7da0\u90a8\u96fb\u53f0",
+        "url": "https://fm995.ddns.net/hls1/fm995.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "\u6fb3\u9580\u96fb\u53f0 FM100.7",
+        "url": "https://mo.ufofm.com/live/rch2.live/chunklist_w905210118.m3u8?audio",
+        "favicon": ""
+    },
+    {
+        "name": "\u7da0\u90a8",
+        "url": "https://fm995.ddns.net/hls1/fm995.m3u8",
+        "favicon": ""
+    }
+]

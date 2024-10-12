@@ -1,0 +1,692 @@
+[
+    {
+        "name": "\tRadio Te\u0161anj 92.2MHz",
+        "url": "http://radio.daj.ba:8082/stream",
+        "favicon": "https://www.radiotesanj.ba/assets/site/assets/images/logo-white-mobile.png"
+    },
+    {
+        "name": " Radio DA\u0160",
+        "url": "http://158.69.119.6:8095/;&type=mp3",
+        "favicon": ""
+    },
+    {
+        "name": " Radiopostaja Mir - Me\u0111ugorje",
+        "url": "http://mirm.live/mir.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Antena Radio, Jelah Te\u0161anj",
+        "url": "https://radio.tnt.ba/radio/8020/live?1616060583",
+        "favicon": ""
+    },
+    {
+        "name": "Antena Sarajevo",
+        "url": "http://116.203.7.166:9020/stream",
+        "favicon": ""
+    },
+    {
+        "name": "avaz radio",
+        "url": "http://51.254.61.148:8222/",
+        "favicon": "https://www.radioavaz.net/photos/muzicki%20radio%20avaz.png"
+    },
+    {
+        "name": "Balkan Hip-Hop Radio",
+        "url": "http://centova.dukahosting.com:2022/stream",
+        "favicon": ""
+    },
+    {
+        "name": "BALKAN HiT RADIO - SARAJEVO",
+        "url": "https://cast2.asurahosting.com/proxy/balkanhi/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Bet Radio Grada\u010dac",
+        "url": "https://radiobet.eu/preuzimanja/playlist.pls",
+        "favicon": "https://radiobet.eu/wp-content/uploads/2020/01/bet-radio-logo.png"
+    },
+    {
+        "name": "BH Radio 1",
+        "url": "https://webtvstream.bhtelecom.ba/bh_radio1.m3u8",
+        "favicon": "https://bhrt.ba/favicon.ico"
+    },
+    {
+        "name": "BIG 3",
+        "url": "http://big3.bigportal.ba:8100/big3?1548653014620",
+        "favicon": "http://www.bigradiobl.com/favicon.png"
+    },
+    {
+        "name": "Big Radio 1 Banja Luka",
+        "url": "http://big1.bigportal.ba:8100/big1",
+        "favicon": "http://www.bigradiobl.com/favicon.png"
+    },
+    {
+        "name": "BIG radio 1 Banja Luka",
+        "url": "http://big1.bigportal.ba:8100/big1",
+        "favicon": "https://bigportal.ba/wp-content/uploads/2023/09/cropped-big-1-180x180.png"
+    },
+    {
+        "name": "Big Radio 4 Doma\u0107ica",
+        "url": "http://domacica.bigportal.ba:8100/domacica",
+        "favicon": "https://bigportal.ba/wp-content/uploads/2023/09/cropped-big-1-180x180.png"
+    },
+    {
+        "name": "Big2",
+        "url": "http://big2.bigportal.ba:8100/big2",
+        "favicon": "https://bigportal.ba/wp-content/uploads/2023/09/cropped-big-1-180x180.png"
+    },
+    {
+        "name": "Day Dee Eurodance Radio",
+        "url": "http://daydeeeurodance.stream.laut.fm/daydeeeurodance",
+        "favicon": ""
+    },
+    {
+        "name": "federalni RADIO",
+        "url": "https://s2.free-shoutcast.com/stream/18170",
+        "favicon": ""
+    },
+    {
+        "name": "Federalni Radio",
+        "url": "https://webtvstream.bhtelecom.ba/radio_fbih.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "HIT Radio Br\u010dko",
+        "url": "http://51.254.61.148:8152/;autostart=1",
+        "favicon": "http://www.rtvhit.com/favicon.ico"
+    },
+    {
+        "name": "Imperia Radio",
+        "url": "https://webtvstream.bhtelecom.ba/imperia_radio.m3u8",
+        "favicon": "https://upload.wikimedia.org/wikipedia/bs/5/58/Imperia_logo.jpg?20200315174653"
+    },
+    {
+        "name": "Islamski Radio",
+        "url": "http://eu3.fastcast4u.com:5762/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Kakanj, Radio Kakanj",
+        "url": "http://cast2.name.ba:8067/",
+        "favicon": "https://cdn-profiles.tunein.com/s9967/images/logog.png"
+    },
+    {
+        "name": "Kalesijski Ba",
+        "url": "https://stream1.srvnetplus.com:18102/listen.pls",
+        "favicon": "https://kalesijski.ba/wp-content/uploads/2024/09/cropped-images-180x180.png"
+    },
+    {
+        "name": "Kalman Radio",
+        "url": "https://ssl.surfmusic.de/s.php?s=http://188.40.62.20:8004/stream?1707015516",
+        "favicon": "http://kalmanradio.ba/wp-content/uploads/2018/02/web-logo.png"
+    },
+    {
+        "name": "Kalman Radio",
+        "url": "http://188.40.62.20:8004/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Kontakt Radio",
+        "url": "http://mojstream.eu:8114/kontaktradio",
+        "favicon": "https://mojkontakt.com/wp-content/uploads/2022/11/Mediamodifier-Design-2.svg"
+    },
+    {
+        "name": "Koprivljanski radio",
+        "url": "http://cast2.name.ba:8101/",
+        "favicon": "https://www.koprivljanskiradio.com/images/13654287_1017881974927424_7392547567572622816_n.jpg"
+    },
+    {
+        "name": "Kraji\u0161ki Radio Dubica",
+        "url": "https://stream1.srvnetplus.com:18039/",
+        "favicon": ""
+    },
+    {
+        "name": "Kupre\u0161ki Radio",
+        "url": "http://www.kupreskiradio.com/kupreski.m3u",
+        "favicon": "https://www.kupreskiradio.com/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "KUPRESKIRADIO",
+        "url": "https://ec2s.crolive.com.hr:1265/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Megamix",
+        "url": "https://eu1.fastcast4u.com/proxy/megamix?mp=/1",
+        "favicon": ""
+    },
+    {
+        "name": "Moj Radio",
+        "url": "https://webtvstream.bhtelecom.ba/moj_radio.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Narodni Radio - Sarajevo",
+        "url": "http://server1.tnt.ba:8010/",
+        "favicon": "https://narodni.ba/wp-content/uploads/2020/08/cropped-narodni-logo-512-180x180.png"
+    },
+    {
+        "name": "Narodni Radio Tuzla",
+        "url": "http://server1.tnt.ba:9080/",
+        "favicon": "https://narodni.ba/wp-content/uploads/2020/07/logos.png"
+    },
+    {
+        "name": "Narodni Radio Zenica",
+        "url": "http://server1.tnt.ba:9010/",
+        "favicon": "https://narodni.ba/wp-content/uploads/2020/08/cropped-narodni-logo-512-180x180.png"
+    },
+    {
+        "name": "Nes Radio",
+        "url": "http://188.40.62.20:8070/;",
+        "favicon": ""
+    },
+    {
+        "name": "Novi Radio Biha\u0107",
+        "url": "https://webtvstream.bhtelecom.ba/novi_radio_bihac.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "novii",
+        "url": "http://s37.myradiostream.com:8120/",
+        "favicon": ""
+    },
+    {
+        "name": "Pakao Radio",
+        "url": "https://www.pakaoradio.net/pakaoradio.m3u",
+        "favicon": "https://www.pakaoradio.net/img/bigthumb.jpg"
+    },
+    {
+        "name": "Pop FM",
+        "url": "http://188.40.62.20:8032/",
+        "favicon": "https://popfm.ba/slike/popfm-logo.png"
+    },
+    {
+        "name": "Pop FM - Slusaj glasno!!!",
+        "url": "http://188.40.62.20:8032/;stream.nsv",
+        "favicon": "http://www.popfm.ba/apple-icon-120x120.png"
+    },
+    {
+        "name": "Pop FM Bosnia and Herzegovina",
+        "url": "http://188.40.62.20:8032/;stream.nsv",
+        "favicon": "http://www.popfm.ba/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio - Livno",
+        "url": "http://cast2.name.ba:8127/stream/",
+        "favicon": "https://radiolivno.ba/portal/wp-content/themes/radiolivno/img/favicon-32.png"
+    },
+    {
+        "name": "Radio 7 Tuzla",
+        "url": "https://webtvstream.bhtelecom.ba/radio_7_tuzla.m3u8",
+        "favicon": "https://rtv7.ba/favicon.ico"
+    },
+    {
+        "name": "Radio 8 Sarajevo",
+        "url": "https://radio8-bhcloud.radioca.st/1.mp3",
+        "favicon": "https://www.radio8.ba/img/radio8-logo-white.png"
+    },
+    {
+        "name": "Radio ASK Ilid\u017ea",
+        "url": "https://webtvstream.bhtelecom.ba/radio_ask.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Avlija",
+        "url": "http://51.255.127.128:8900/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio BA",
+        "url": "https://webtvstream.bhtelecom.ba/radio_ba.m3u8",
+        "favicon": "https://www.radioba.ba/assets/images/dedo_120x160.png"
+    },
+    {
+        "name": "Radio Biha\u0107",
+        "url": "http://radiobihaclive.radioca.st:8249/stream",
+        "favicon": "https://www.radiobihac.com/images/logo/logo.png"
+    },
+    {
+        "name": "Radio Biha\u0107 Caffe",
+        "url": "http://5.9.13.39:8075/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Biha\u0107 Folk",
+        "url": "http://5.9.13.39:8071/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Bir",
+        "url": "http://opml.radiotime.com/Tune.ashx?id=s102873",
+        "favicon": "https://www.bir.ba/images/bir_favicon.png"
+    },
+    {
+        "name": "Radio BN",
+        "url": "http://stream.rtvbn.com:8522/;.mp3",
+        "favicon": "https://rtvbn.com/storage/settings/res_1720552469_favicon.png"
+    },
+    {
+        "name": "Radio Bobar",
+        "url": "http://94.130.11.28:9010/",
+        "favicon": "https://radiobobar.com/favicon.ico"
+    },
+    {
+        "name": "Radio Bosanska Posavina",
+        "url": "http://78.46.64.6:7000/;",
+        "favicon": "http://radio-bosanska-posavina.at/images/stories/logorot.gif"
+    },
+    {
+        "name": "Radio Bosanski Brod",
+        "url": "https://zpilipov-geckohost.radioca.st/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Bosanski Petrovac",
+        "url": "https://webtvstream.bhtelecom.ba/radio_bosanski_petrovac.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Brcko District",
+        "url": "http://91.191.0.45:8000/listen.pls",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Breza",
+        "url": "https://sonicpanel.vmakerhost.com/8192/stream",
+        "favicon": "https://www.phonostar.de/images/auto_created/Radio_Breza2124x124.png"
+    },
+    {
+        "name": "Radio Bugojno",
+        "url": "https://s3.free-shoutcast.com/stream/18156",
+        "favicon": "https://rtvbugojno.ba/favicon.ico"
+    },
+    {
+        "name": "Radio Busova\u010da",
+        "url": "https://ec2s.crolive.com.hr:1510/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio \u010capljina",
+        "url": "http://s8.iqstreaming.com:8016/",
+        "favicon": "https://radio-capljina.com/wp-content/uploads/2023/01/radio-capljina-box2-bijela.png"
+    },
+    {
+        "name": "RADIO CAROLINE",
+        "url": "http://radiocaroline.ice.infomaniak.ch/radiocaroline-128.mp3",
+        "favicon": "https://www.radiocaroline.bzh/upload/5dc3f129ee0c50.48486604.ico"
+    },
+    {
+        "name": "Radio Cazin",
+        "url": "http://195.222.33.217:8095/",
+        "favicon": "https://crt.ba/wp-content/uploads/2021/11/crtLogo.png"
+    },
+    {
+        "name": "Radio Donji Vakuf",
+        "url": "http://5.9.71.122:8134/;stream.mp3",
+        "favicon": "https://radiodonjivakuf.com.ba/wp-content/uploads/2024/05/cropped-logo-radio-donji-vakuf-ckis-180x180.png"
+    },
+    {
+        "name": "Radio D\u017eungla Doboj",
+        "url": "http://5.9.25.50:9302/stream",
+        "favicon": "https://dzungla.net/radio-live/wp-content/uploads/2019/11/dzungla-radio-wh-m.png"
+    },
+    {
+        "name": "Radio D\u017eungla Doboj 2",
+        "url": "http://cast2.name.ba:9054/",
+        "favicon": "https://dzungla.net/radio-live/wp-content/uploads/2019/11/dzungla-radio-wh-m.png"
+    },
+    {
+        "name": "Radio D\u017eungla Doboj 3",
+        "url": "http://cast2.name.ba:8006/",
+        "favicon": "https://dzungla.net/radio-live/wp-content/uploads/2019/11/dzungla-radio-wh-m.png"
+    },
+    {
+        "name": "Radio Feniks",
+        "url": "https://solid55.streamupsolutions.com/proxy/umzjpgrm/stream",
+        "favicon": "https://www.radiofeniks.com/wp-content/uploads/2017/10/cropped-favicon-300x300-180x180.png"
+    },
+    {
+        "name": "Radio Feral 100.4 Sarajevo",
+        "url": "http://185.50.56.3/;stream.nsv",
+        "favicon": "http://www.uzivoradio.com/favicon.ico"
+    },
+    {
+        "name": "Radio Feral Kalesija",
+        "url": "https://webtvstream.bhtelecom.ba/radio_feral_kalesija.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Glas Drine",
+        "url": "http://109.105.201.90:8028/;",
+        "favicon": "https://rtvglasdrine.com/favicon.ico"
+    },
+    {
+        "name": "Radio Gora\u017ede",
+        "url": "https://webtvstream.bhtelecom.ba/radio_gorazde.m3u8",
+        "favicon": "https://rtvbpk.ba/wp-content/uploads/2017/12/radio-gz.jpg"
+    },
+    {
+        "name": "Radio Gra\u010danica",
+        "url": "https://webtvstream.bhtelecom.ba/radio_gracanica.m3u8",
+        "favicon": "https://i1.wp.com/radiogracanica.ba/wp-content/uploads/2018/09/cropped-favicon-1.png?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "Radio Grada\u010dac",
+        "url": "https://webtvstream.bhtelecom.ba/radio_gradacac.m3u8",
+        "favicon": "https://radiogradacac.ba/favicon.ico"
+    },
+    {
+        "name": "Radio Grude",
+        "url": "http://radio.pa-hosting.de:1040/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio HIT FM",
+        "url": "https://webtvstream.bhtelecom.ba/radio_hit_fm.m3u8",
+        "favicon": "https://hitfm.ba/wp-content/uploads/2022/08/Logo-hitfmradio.png"
+    },
+    {
+        "name": "Radio Kameleon",
+        "url": "https://webtvstream.bhtelecom.ba/radio_kameleon.m3u8",
+        "favicon": "https://radiokameleon.ba/wp-content/uploads/2022/01/cropped-favico-180x180.png"
+    },
+    {
+        "name": "RADIO KISS KISELJAK",
+        "url": "http://stream.kissfm.ba:8010/live",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Klju\u010d",
+        "url": "http://195.222.33.217:8093/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Konjic",
+        "url": "https://webtvstream.bhtelecom.ba/radio_konjic.m3u8",
+        "favicon": "https://radiokonjic.ba/favicon.ico"
+    },
+    {
+        "name": "Radio Ljubu\u0161ki",
+        "url": "https://s8.iqstreaming.com:8044/stream",
+        "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaI3lhMhQrBrc3EkwkguvmYxa0NMChBnaS2zdLOhy91w&s"
+    },
+    {
+        "name": "Radio Lukavac",
+        "url": "http://195.222.33.217:8022/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio M",
+        "url": "http://www.team-data.ba:8030/stream/",
+        "favicon": "https://radiom.ba/wp-content/uploads/2021/06/Radio-M-rotacija.gif"
+    },
+    {
+        "name": "Radio Magic",
+        "url": "http://stream.iradio.pro:8034/radiomagic",
+        "favicon": "https://www.magic.ba/wp-content/uploads/2023/02/logofav-magic-cv2.gif"
+    },
+    {
+        "name": "RADIO MARIA BOSNIA",
+        "url": "http://dreamsiteradiocp.com:8034/stream",
+        "favicon": "https://www.radiomarija.ba/templates/t3_bs3_blank/favicon.ico"
+    },
+    {
+        "name": "Radio Marija",
+        "url": "http://cloudrad.io/radiomariabosnia/listen.pls",
+        "favicon": "http://www.radiomarija.ba/templates/t3_bs3_blank/favicon.ico"
+    },
+    {
+        "name": "Radio Merak",
+        "url": "http://176.9.113.180:8084/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Merak",
+        "url": "http://79.143.187.96:8092/stream/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Miljacka",
+        "url": "https://radiomiljacka-bhcloud.radioca.st/stream.mp3",
+        "favicon": "https://www.phonostar.de/images/auto_created/Radio_Miljacka184x184.png"
+    },
+    {
+        "name": "Radio Miljacka",
+        "url": "https://radiomiljacka-bhcloud.radioca.st/stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Novi Grad 100MHz",
+        "url": "http://s37.myradiostream.com:8120/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Olovo",
+        "url": "http://sonicpanel.vmakerhost.com:8038/stream",
+        "favicon": "https://radio.olovo.ba/storage/2020/04/logo_radio_olovo@2x.png"
+    },
+    {
+        "name": "Radio Ora\u0161je",
+        "url": "http://188.40.62.20:8024/",
+        "favicon": "https://www.radioorasje.com/favicon.ico"
+    },
+    {
+        "name": "Radio Posavina Zagreb",
+        "url": "http://cmr-hosting.com:8500/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio postaja Od\u017eak",
+        "url": "https://stream.rcast.net/70602",
+        "favicon": "https://radioodzak.com/favicon.ico"
+    },
+    {
+        "name": "Radio Posu\u0161je",
+        "url": "http://136.243.144.93:9994/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Pra\u010da",
+        "url": "https://webtvstream.bhtelecom.ba/radio_praca.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Preporod Odzak 95,2",
+        "url": "http://s1.voscast.com:7986/;",
+        "favicon": "https://www.radiopreporod.com/mobile/index_htm_files/4889@2x.png"
+    },
+    {
+        "name": "Radio RTRS",
+        "url": "https://webtvstream.bhtelecom.ba/radio_rtrs.m3u8",
+        "favicon": "https://lat.rtrs.tv/_bmp/logo-127x37.png"
+    },
+    {
+        "name": "Radio Rujnica Zavidovici",
+        "url": "https://r.name.ba:7115/stream",
+        "favicon": "http://www.radiorujnica.net/assets/img/favicon-96x96.png"
+    },
+    {
+        "name": "Radio Sana",
+        "url": "http://109.169.15.21:4441/",
+        "favicon": "https://sanartv.ba/wp-content/uploads/2017/03/malilogortvsanabjanko-e1612439895726.png"
+    },
+    {
+        "name": "Radio Sarajevo",
+        "url": "https://securestreams5.autopo.st:1853/?type=http",
+        "favicon": "https://radiosarajevo.ba/assets/img/logo.svg"
+    },
+    {
+        "name": "Radio Sehara",
+        "url": "https://r.name.ba:7320/;",
+        "favicon": "https://radiosehara.net/wp-content/uploads/2017/02/logo-2.png"
+    },
+    {
+        "name": "Radio Slobodna Evropa",
+        "url": "https://n11.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABihgJBEQA_ptijcBtD6_jYw",
+        "favicon": "https://www.slobodnaevropa.org/Content/responsive/RFE/sh-SH/img/logo.svg"
+    },
+    {
+        "name": "Radio Slon",
+        "url": "http://31.47.0.130:88/broadwavehigh.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Srebrenik",
+        "url": "http://live.radiosrebrenik.ba:7600/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Studio 99 Sarajevo",
+        "url": "https://c2.radioboss.fm:18249/stream",
+        "favicon": "https://balkans.aljazeera.net/favicon.ico"
+    },
+    {
+        "name": "Radio Studio D",
+        "url": "http://radio.studiod.ba:8018/",
+        "favicon": "https://studiod.ba/wp-content/uploads/2020/04/cropped-blue-d-1-180x180.png"
+    },
+    {
+        "name": "Radio TK",
+        "url": "https://webtvstream.bhtelecom.ba/radio_tk.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Trebinje",
+        "url": "https://radio.dukahosting.com:7002/",
+        "favicon": "https://radiotrebinje.com/assets/rt/images/logo.jpg"
+    },
+    {
+        "name": "Radio Trebinje",
+        "url": "https://radio.dukahosting.com:7002/;",
+        "favicon": "https://radiotrebinje.com/assets/rt/images/logo.jpg"
+    },
+    {
+        "name": "Radio USK",
+        "url": "https://webtvstream.bhtelecom.ba/radio_usk.m3u8",
+        "favicon": "https://www.rtvusk.ba/wp-content/uploads/2022/04/rtvuskheader-logo.png"
+    },
+    {
+        "name": "Radio USK",
+        "url": "https://radiousk.radioca.st/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Usora",
+        "url": "https://webtvstream.bhtelecom.ba/radio_usora.m3u8",
+        "favicon": "https://www.radio-usora-dijaspora.com/img/favicon.png"
+    },
+    {
+        "name": "Radio Valentino",
+        "url": "https://webtvstream.bhtelecom.ba/radio_valentino.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Veseli Bosanac",
+        "url": "http://opportunity.shoutca.st:8038/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Vihor",
+        "url": "https://r.name.ba:7500/stream",
+        "favicon": "http://www.radiovihor.ba/wp-content/uploads/elementor/thumbs/Heart_Brunette_girl_481576-okphpsoxy0o4yji6hrf9fit74dj0ioyw5h886hst74.png"
+    },
+    {
+        "name": "Radio Vihror",
+        "url": "https://r.name.ba:7500/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Visoko",
+        "url": "http://188.40.62.20:8080/",
+        "favicon": "https://www.visoko-rtv.ba/wp-content/uploads/2019/07/visocka_icon.png"
+    },
+    {
+        "name": "RADIO VITEZ",
+        "url": "https://radio.iti.hr/listen/radio_vitez/radio.mp3",
+        "favicon": "https://www.radiovitez.ba/favicon.ico"
+    },
+    {
+        "name": "Radio Vogo\u0161\u0107a",
+        "url": "https://webtvstream.bhtelecom.ba/radio_vogosca.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "RADIO ZENICA",
+        "url": "http://stream.rtvze.ba:8000/stream",
+        "favicon": ""
+    },
+    {
+        "name": "RADIO ZENIT",
+        "url": "http://5.189.168.133:8020/1",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Zenit - caffe",
+        "url": "http://5.189.168.133:8020/stream/2/;",
+        "favicon": "https://www.zenit.ba/favicon.ico"
+    },
+    {
+        "name": "Radio ZENIT Zenica",
+        "url": "http://5.189.168.133:8020/1",
+        "favicon": "https://www.zenit.ba/logo/zenit-header.png"
+    },
+    {
+        "name": "RadioAktivan",
+        "url": "https://stream-152.zeno.fm/4qe0awx37wquv?zs=LaZXevHRRP2c8j2V0O-NOA",
+        "favicon": ""
+    },
+    {
+        "name": "Radios 8 Sarajevo",
+        "url": "https://radio8-bhcloud.radioca.st/1.mp3",
+        "favicon": "http://radio8.ba/img/radio_favicon.png"
+    },
+    {
+        "name": "RDV",
+        "url": "http://www.shoutcastunlimited.com:8892/stream/1/",
+        "favicon": ""
+    },
+    {
+        "name": "ROBOT HIT RADIO",
+        "url": "https://slusaj.off.ba/radio/8000/robot",
+        "favicon": "http://robothitradio.com/pause.png"
+    },
+    {
+        "name": "RVK",
+        "url": "http://rvk2021.radioca.st:8206/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Skala Radio",
+        "url": "http://cast2.name.ba:9049/;",
+        "favicon": ""
+    },
+    {
+        "name": "Slon Radio Tuzla",
+        "url": "http://31.47.0.130:88/broadwavehigh.mp3?src=1;",
+        "favicon": ""
+    },
+    {
+        "name": "Srce Krajine",
+        "url": "https://srv.mediastriming.com/8330/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Takt Radio",
+        "url": "https://taktradio.ba/listen/stream/radio.mp3",
+        "favicon": "https://i.ibb.co/b67DFY3/takt-premature.png"
+    },
+    {
+        "name": "Thrash Metal",
+        "url": "http://79.120.77.11:8000/thrashmetal",
+        "favicon": ""
+    },
+    {
+        "name": "TNT Travnik",
+        "url": "http://server1.tnt.ba/proxy/tntradio?mp=/stream1",
+        "favicon": ""
+    },
+    {
+        "name": "Velkaton",
+        "url": "http://188.40.62.20:8044/;stream.mp3?_=1",
+        "favicon": ""
+    }
+]

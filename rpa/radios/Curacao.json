@@ -1,0 +1,132 @@
+[
+    {
+        "name": "DIRECT 92.1FM",
+        "url": "https://s9.voscast.com:7369/921fm",
+        "favicon": "https://directmediacuracao.com/images/logo-dmc.png"
+    },
+    {
+        "name": "Direct Life 92.1 FM",
+        "url": "https://s9.voscast.com:7369/921fm",
+        "favicon": ""
+    },
+    {
+        "name": "Dolfijn FM",
+        "url": "http://85.214.231.253:8080/",
+        "favicon": ""
+    },
+    {
+        "name": "Dolfijn FM 97.3 Seaquarium Beach",
+        "url": "http://85.214.231.253:8080/stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Easy 97.9 FM",
+        "url": "http://64.150.176.42:8011/live",
+        "favicon": ""
+    },
+    {
+        "name": "Easy FM 79.9",
+        "url": "http://64.150.176.42:8011/live",
+        "favicon": ""
+    },
+    {
+        "name": "HITradio 915 Curacao",
+        "url": "http://stream.paradisefm.cw/HITradio915",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240809_131957009.jpg?alt=media&token=94a543cd-b615-42d6-9650-f01cbb525ec3"
+    },
+    {
+        "name": "Paradise FM 00's & 10's",
+        "url": "https://stream.paradisefm.cw/00s10s",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240830_090036010.jpg?alt=media&token=a1458f19-fb94-4f54-85e6-449b151630b4"
+    },
+    {
+        "name": "Paradise FM 103.1 Curacao",
+        "url": "http://stream.paradisefm.cw/ParadiseFM",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240809_131655662.jpg?alt=media&token=3b0fd44f-02ec-483e-b0c5-2842e00d4ea0"
+    },
+    {
+        "name": "Paradise FM 60s & 70s",
+        "url": "https://stream.paradisefm.cw/60s70s",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240830_085815429.jpg?alt=media&token=96ee0b32-9993-4842-916d-450162276bce"
+    },
+    {
+        "name": "Paradise FM 80's & 90's",
+        "url": "https://stream.paradisefm.cw/80s90s",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240830_085927930.jpg?alt=media&token=c3f2d6dd-6706-436b-bae6-57807357228c"
+    },
+    {
+        "name": "Paradise FM Disco Inferno",
+        "url": "https://stream.paradisefm.cw/ParadiseDiscoInferno",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240830_090259478.jpg?alt=media&token=d7b6447d-0f85-4983-97c1-31b02344c9da"
+    },
+    {
+        "name": "Paradise FM Latin",
+        "url": "https://stream.paradisefm.cw/ParadiseLatin",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240830_090405154.jpg?alt=media&token=437e3ee6-845b-43b1-9b35-1b717b5dcb09"
+    },
+    {
+        "name": "Paradise FM Nonstop",
+        "url": "https://stream.paradisefm.cw/ParadiseNonstop",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240830_090125214.jpg?alt=media&token=7c3b8daa-ae45-4725-9104-bf8a716c17c4"
+    },
+    {
+        "name": "Radio 94 Korsou - 94.5 Willemstad",
+        "url": "http://162.243.94.61:8028/;stream.mp3",
+        "favicon": "http://www.vozdibonaire.com/favicon.ico"
+    },
+    {
+        "name": "Radio Active 104.5 FM",
+        "url": "https://kadushi.westream.cloud/listen/radioactive/RadioActive",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240830_085450771.jpg?alt=media&token=7c8e0059-545b-4ba7-b15c-292e966d3e5f"
+    },
+    {
+        "name": "Radio Deltha 92.7 FM",
+        "url": "https://kadushi.westream.cloud/listen/delta/live",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240830_090816288.jpg?alt=media&token=60607aaa-889a-4415-aa2e-9d0e4442f84c"
+    },
+    {
+        "name": "Radio Direct 107.1FM",
+        "url": "https://edge1.direct107.com/;?type=http&nocache=28",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Direct 107.1FM",
+        "url": "https://edge1.direct107.com/;?type=http&nocache=28",
+        "favicon": "https://direct107.com/avatar.png"
+    },
+    {
+        "name": "Radio Hoyer 1 101.9",
+        "url": "https://s1.voscast.com:10487/live",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240830_091231820.jpg?alt=media&token=398d9154-8593-41ba-b77c-922cd20e590f"
+    },
+    {
+        "name": "Radio Hoyer 2 105.1",
+        "url": "https://s1.voscast.com:10489/live",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240830_091429905.jpg?alt=media&token=ea408416-6244-4787-840b-e4b56ec881c2"
+    },
+    {
+        "name": "Radio Krioyo 89.7 FM",
+        "url": "https://radios.wakenext.com/hls/radio_kriyoyo_2/live.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Mas",
+        "url": "https://radios.wakenext.com/public/radio_mas99/playlist.pls",
+        "favicon": "https://www.mas99.cw/wp-content/uploads/2024/04/cropped-Logo-Mas99-512-1.png"
+    },
+    {
+        "name": "Radio Mas 99.7 FM",
+        "url": "https://kadushi.westream.cloud/listen/mas99/live",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240830_090508953.jpg?alt=media&token=a9471841-6673-4ec0-8a81-421775e672ef"
+    },
+    {
+        "name": "Radio Semiya 98.5 FM",
+        "url": "http://11331.cloudrad.io:9172/",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240830_091051372.jpg?alt=media&token=02add06c-cb16-48f7-b7c9-fc09f308670f"
+    },
+    {
+        "name": "radio semiya FM 98.5",
+        "url": "http://11331.cloudrad.io:9172/live",
+        "favicon": ""
+    }
+]

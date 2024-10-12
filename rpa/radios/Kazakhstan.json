@@ -1,0 +1,252 @@
+[
+    {
+        "name": "((beu))",
+        "url": "https://stream.beufm.kz/beufm",
+        "favicon": "https://beufm.kz/template/logo_white.png"
+    },
+    {
+        "name": "Auto Radio Kazakhstan",
+        "url": "http://178.88.167.62:8080/AVTORADIO_192",
+        "favicon": "https://avtoradio.kz/wp-content/uploads/2020/05/cropped-mainicon-180x180.png"
+    },
+    {
+        "name": "Avtoradio",
+        "url": "http://178.88.167.62:8080/AVTORADIO_192",
+        "favicon": "https://avtoradio.kz/wp-content/uploads/2020/05/cropped-mainicon-180x180.png"
+    },
+    {
+        "name": "Business FM 89.6",
+        "url": "http://94.247.130.243:5050/business",
+        "favicon": ""
+    },
+    {
+        "name": "DIMusic Club Trance Kazakhstan \ud83c\uddf0\ud83c\uddff ",
+        "url": "http://stream2.dimusic.club:11499/dim2?type=.aac",
+        "favicon": ""
+    },
+    {
+        "name": "iFree FM",
+        "url": "https://fm.ifree.pro:1045/stream",
+        "favicon": ""
+    },
+    {
+        "name": "KTK TV",
+        "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
+        "favicon": "http://www.ktk.kz/favicons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Love Radio Kazakhstan",
+        "url": "https://stream.gakku.tv:8443/love128.mp3",
+        "favicon": "https://loveradio.kz/img/touch-icon-ipad.png"
+    },
+    {
+        "name": "NS 106 FM",
+        "url": "http://89.219.35.26:8000/radions",
+        "favicon": ""
+    },
+    {
+        "name": "NS-Lounge",
+        "url": "https://icecast.ns.kz/radions-lounge",
+        "favicon": ""
+    },
+    {
+        "name": "NS-Rock",
+        "url": "https://icecast.ns.kz/radions",
+        "favicon": ""
+    },
+    {
+        "name": "Orda FM",
+        "url": "https://85.29.129.134:8443/orda",
+        "favicon": ""
+    },
+    {
+        "name": "Pioner FM",
+        "url": "https://live.zhanafm.kz:8443/pionerfm",
+        "favicon": "https://zhanafm.kz/favicon-16x16.png"
+    },
+    {
+        "name": "Pioner FM",
+        "url": "https://live.zhanafm.kz:8443/pionerfm",
+        "favicon": "http://zhanafm.kz/favicon-16x16.png"
+    },
+    {
+        "name": "Qazaq radiosy",
+        "url": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+        "favicon": "https://qazradio.fm/images/qazradio.png"
+    },
+    {
+        "name": "Radio 90s Eurodance",
+        "url": "https://listen1.myradio24.com/5967",
+        "favicon": "https://pp.userapi.com/c837231/v837231617/5990/ChfZPOJgSmA.jpg"
+    },
+    {
+        "name": "Radio Astana",
+        "url": "https://radio-streams.kaztrk.kz/astana/astana/icecast.audio",
+        "favicon": "https://qazradio.fm/images/live-cover2.jpg"
+    },
+    {
+        "name": "Radio Azamat",
+        "url": "https://listen4.myradio24.com/8162",
+        "favicon": "https://vmeste.eu/img/services/96/myradio24.png"
+    },
+    {
+        "name": "Radio Bulbul",
+        "url": "https://radiobulbul.stream.laut.fm/radiobulbul",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/7/3257.v8.png"
+    },
+    {
+        "name": "Radio City",
+        "url": "https://kvs01.businessfm.kz/city",
+        "favicon": "https://cityradio.kz/favicon.ico"
+    },
+    {
+        "name": "Radio Nostalgie (Kazakhstan)",
+        "url": "https://listen7.myradio24.com/alexx333",
+        "favicon": "http://www.resurs.kz/favicon.ico"
+    },
+    {
+        "name": "Radio Tengri FM",
+        "url": "http://91.201.214.229:8000/tengrifm",
+        "favicon": ""
+    },
+    {
+        "name": "Radio TMK",
+        "url": "https://listen.myrh.ru/radiotmk",
+        "favicon": "https://radiotmk.ru/wp-content/uploads/2020/02/client1-free-img-4.png"
+    },
+    {
+        "name": "Radio TMK",
+        "url": "https://listen.myrh.ru/radiotmk",
+        "favicon": "https://radiotmk.ru/wp-content/uploads/2020/02/client1-free-img-4.png"
+    },
+    {
+        "name": "Radio TMK ",
+        "url": "https://a4.radioheart.ru:9036/RH13170",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240422_113249093.jpg?alt=media&token=f4c478dc-d724-4936-8fd1-50a22dcf3539"
+    },
+    {
+        "name": "Russian Dance Radio",
+        "url": "https://lux-radio.com:8015/stream",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/1/99521.v1.png"
+    },
+    {
+        "name": "Russkoye Radio Asia 104.7 FM",
+        "url": "http://31.148.22.35:9000/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Shalqar",
+        "url": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
+        "favicon": "https://qazradio.fm/images/icon-114x114.png?9"
+    },
+    {
+        "name": "Space Beat",
+        "url": "http://95.182.123.100/listen/space_beat/radio.mp3",
+        "favicon": "https://tihbus.droppages.com/sbr-logo.png"
+    },
+    {
+        "name": "Tengri FM",
+        "url": "http://91.201.214.229:8000/tengrifm",
+        "favicon": ""
+    },
+    {
+        "name": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+        "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+        "favicon": ""
+    },
+    {
+        "name": "Zhulduz Radio",
+        "url": "http://91.201.214.229:8000/zhulduz",
+        "favicon": "http://zhuldyzfm.kz/sites/default/files/favicon.png"
+    },
+    {
+        "name": "\u0412\u0410\u0428\u0415 \u0420\u0410\u0414\u0418\u041e",
+        "url": "https://live.zhanafm.kz:8443/vasheradio",
+        "favicon": ""
+    },
+    {
+        "name": "\u0416\u0410\u041d\u0410 FM",
+        "url": "https://live.zhanafm.kz:8443/zhanafm_onair",
+        "favicon": "https://zhanafm.kz/favicon-16x16.png"
+    },
+    {
+        "name": "\u0416\u0430\u04a3\u0430 Lounge",
+        "url": "https://live.zhanafm.kz:8443/zhanalounge",
+        "favicon": "https://zhanafm.kz/favicon-16x16.png"
+    },
+    {
+        "name": "\u0416\u0430\u04a3\u0430 MIX",
+        "url": "https://live.zhanafm.kz:8443/zhanamix",
+        "favicon": "https://zhanafm.kz/favicon-16x16.png"
+    },
+    {
+        "name": "\u0416\u0430\u04a3\u0430 Rock",
+        "url": "https://live.zhanafm.kz:8443/zhanarock",
+        "favicon": "https://zhanafm.kz/favicon-16x16.png"
+    },
+    {
+        "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u043e\u0435 \u0420\u0430\u0434\u0438\u043e",
+        "url": "http://178.88.167.62:8080/DALA_192",
+        "favicon": "https://static.tildacdn.com/tild6336-3866-4639-b664-353833373961/GIF.gif"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e 7 (\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d)",
+        "url": "https://listen2.myradio24.com/8334",
+        "favicon": "https://radio7.kz/images/logo.png"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e Classic",
+        "url": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
+        "favicon": "https://qazradio.fm/images/classicfm.png?v=0.133"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e NS-Jazz",
+        "url": "https://icecast.ns.kz/radions-jazz",
+        "favicon": ""
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e NS-Rock",
+        "url": "https://icecast.ns.kz/radions-rock",
+        "favicon": ""
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e NS-\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0445\u0438\u0442",
+        "url": "https://icecast.ns.kz/radions-russian",
+        "favicon": ""
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e SANA",
+        "url": "https://listen4.myradio24.com/radiosana",
+        "favicon": "http://hordelo.kz/files/4616/6597/6684/Banner_Radio_2021.jpg"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u041a\u041d ",
+        "url": "https://radiokn.ddns.net:8080/",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radio-kn.jpg"
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u041c\u0438\u043a\u0441 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+        "url": "http://streaming.radionomy.com/JamendoLounge",
+        "favicon": "http://registan.kz/wp-content/uploads/2013/03/logo2.png   "
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u0420\u0430\u0443\u0430\u043d",
+        "url": "https://listen4.myradio24.com/rauan",
+        "favicon": ""
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u0422\u0430\u043b\u0430\u043f",
+        "url": "https://okeyradio.ru/okey",
+        "favicon": ""
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u0422\u0430\u043b\u0430\u043f",
+        "url": "https://okeyradio.ru/okey",
+        "favicon": ""
+    },
+    {
+        "name": "\u0420\u0430\u0434\u0438\u043e \u0422\u041c\u041a",
+        "url": "https://listen.myrh.ru/radiotmk",
+        "favicon": "https://radiotmk.ru/wp-content/uploads/2020/02/client1-free-img-4.png"
+    }
+]

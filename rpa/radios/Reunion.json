@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Exo FM",
+        "url": "https://exofmreunion.ice.infomaniak.ch/exofmreunion-64.aac",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Konect Radio",
+        "url": "https://listen.radioking.com/radio/129973/stream/169819",
+        "favicon": "https://assets.comingsoonwp.com//themes/default/csmm-favicon.png"
+    },
+    {
+        "name": "Le passage du chat blanc",
+        "url": "https://play.radioking.io/wa-ho",
+        "favicon": ""
+    },
+    {
+        "name": "louange radio ",
+        "url": "https://radio13.pro-fhi.net:19079/",
+        "favicon": ""
+    },
+    {
+        "name": "louange radio ",
+        "url": "https://radio13.pro-fhi.net:19079/",
+        "favicon": ""
+    },
+    {
+        "name": "NRJ R\u00e9union",
+        "url": "https://scdn.nrjaudio.fm/fr_re/55759/mp3_128.mp3?cdn_path=adswizz_lbs9&adws_out_2",
+        "favicon": "https://static.wixstatic.com/media/21ae91_b17592cfda5145dcaa7d877132c0124c%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/21ae91_b17592cfda5145dcaa7d877132c0124c%7Emv2.png"
+    },
+    {
+        "name": "NRJ R\u00e9union 100,0 FM",
+        "url": "http://cdn.nrjaudio.fm/adwz1/fr_re/55759/mp3_128.mp3",
+        "favicon": "https://static.wixstatic.com/media/21ae91_b17592cfda5145dcaa7d877132c0124c%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/21ae91_b17592cfda5145dcaa7d877132c0124c%7emv2.png"
+    },
+    {
+        "name": "Radio Babouk",
+        "url": "https://listen.radioking.com/radio/244351/stream/288496",
+        "favicon": "https://static.wixstatic.com/media/3dc804_add6b2f86b75418d97babe2007a702b2%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/3dc804_add6b2f86b75418d97babe2007a702b2%7emv2.png"
+    },
+    {
+        "name": "R\u00e9union La 1\u00e8re",
+        "url": "https://reunion.ice.infomaniak.ch/reunion-128.mp3",
+        "favicon": "https://la1ere.francetvinfo.fr/favicon.ico"
+    },
+    {
+        "name": "R\u00e9union la 1\u00e8re (La1er)",
+        "url": "https://reunion.ice.infomaniak.ch/reunion-128.mp3",
+        "favicon": "https://la1ere.francetvinfo.fr/favicon.png"
+    }
+]

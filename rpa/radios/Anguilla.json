@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Klass FM 92.9",
+        "url": "https://klassfm929.radioca.st/;",
+        "favicon": "https://klass929.com/wp-content/uploads/2020/01/headerlogo.png"
+    },
+    {
+        "name": "Klass FM 92.9",
+        "url": "https://klassfm929.radioca.st/listen.pls",
+        "favicon": "https://klass929.com/wp-content/uploads/2019/12/cropped-faviconlogo-180x180.png"
+    },
+    {
+        "name": "Kool FM 103.3",
+        "url": "https://s29.myradiostream.com:20299/listen.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "PJD2 102.7 FM Sint Maarten",
+        "url": "http://142.4.219.8:8181/",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240710_225347764.jpg?alt=media&token=be5277fc-cbfa-4ff8-a3db-1b338621a001"
+    }
+]

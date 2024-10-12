@@ -1,0 +1,32 @@
+[
+    {
+        "name": "5fm Radio Zambia",
+        "url": "http://ca9.rcast.net:8014/;stream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Energy Broadcst Accouant",
+        "url": "https://sv2.famcast.co.za/proxy/energyfm?mp=/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Hot 102.7FM",
+        "url": "https://edge.iono.fm/xice/57_medium.aac?ref=https%3A%2F%2Fhot1027.co.za%2F&adToken=",
+        "favicon": "https://hot1027.co.za/wp-content/uploads/2023/11/cropped-hot-1027-fm-logo-1-180x180.png"
+    },
+    {
+        "name": "Hot FM 87.7",
+        "url": "http://s2.yesstreaming.net:7091/stream?type=.mp3%2F%3Bstream.mp3&_=1",
+        "favicon": "https://hot877.com/wp-content/plugins/under-construction-page/themes/images/favicon.png"
+    },
+    {
+        "name": "Sun Fm Zambia",
+        "url": "http://11233.cloudrad.io:9102/live",
+        "favicon": ""
+    },
+    {
+        "name": "ThaBiggRadio",
+        "url": "http://stream.zeno.fm/c17yxm6rrg0uv",
+        "favicon": ""
+    }
+]

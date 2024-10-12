@@ -1,0 +1,292 @@
+[
+    {
+        "name": "=KECO=70s ROCK ",
+        "url": "http://jfm1.hostingradio.ru:14536/rock70.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "=KECO=ROCK BALLADS",
+        "url": "http://online.radioroks.ua/RadioROKS_Ballads_HD",
+        "favicon": ""
+    },
+    {
+        "name": "=KECO=ROCK FM ",
+        "url": "https://thassos.cdnstream.com/proxy/exaltmed/?mp=%2Fstream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "=KECO=ROCK FM ",
+        "url": "https://thassos.cdnstream.com/proxy/exaltmed/?mp=%2Fstream.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "5fm",
+        "url": "https://5fm.mk:8000/",
+        "favicon": "https://5fm.mk/favicon.ico"
+    },
+    {
+        "name": "5FM Veles",
+        "url": "http://5fm.mk:8000/;",
+        "favicon": "http://5fm.mk/favicon.ico"
+    },
+    {
+        "name": "Antenna 5 Macedonia",
+        "url": "http://antenna5stream.neotel.mk:8000/live128",
+        "favicon": ""
+    },
+    {
+        "name": "BISER RADIO",
+        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/2/",
+        "favicon": ""
+    },
+    {
+        "name": "Bum Kumanovo",
+        "url": "http://iandonov.radioca.st/;stream/1",
+        "favicon": ""
+    },
+    {
+        "name": "EX-YU Stil Trap",
+        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/4/",
+        "favicon": "https://stilradio.com/wp-content/uploads/2021/08/STIL-TRAP-TRANSPARENT-170x170.png"
+    },
+    {
+        "name": "Hits Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+        "url": "https://s1.skyradio.com.mk/hits.mp3",
+        "favicon": "https://skyradio.com.mk/img/logo.png"
+    },
+    {
+        "name": "Jazz FM",
+        "url": "https://radio.jazzfm.mk/listen/jazzfm/live",
+        "favicon": "https://jazzfm.mk/wp-content/uploads/2024/07/cropped-jazzfm200x200-180x180.png"
+    },
+    {
+        "name": "Just Music Radio",
+        "url": "https://radiostream.neotel.mk/justmusicradio",
+        "favicon": "https://justmusicradio.mk/wp-content/uploads/2020/05/95997763_1489679141241833_2955882538482008064_n-1.png"
+    },
+    {
+        "name": "Kanal 103",
+        "url": "http://radiostream.neotel.mk/kanal103",
+        "favicon": ""
+    },
+    {
+        "name": "Lider FM 107,4",
+        "url": "https://liderfm.ipradio.mk/",
+        "favicon": ""
+    },
+    {
+        "name": "Life Radio",
+        "url": "http://liferadio.ddns.net:8000/",
+        "favicon": "http://www.life.com.mk/favicon.ico"
+    },
+    {
+        "name": "Life Radio 89.1 Macedonia",
+        "url": "http://liferadio.ddns.net:8000/;",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "Metropolis Radio Network",
+        "url": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1",
+        "favicon": ""
+    },
+    {
+        "name": "ORO RADIO",
+        "url": "http://uk14freenew.listen2myradio.com:35358/",
+        "favicon": "https://www.instagram.com/favicon.ico"
+    },
+    {
+        "name": "radio 22",
+        "url": "https://radio.server14.kariha.net:8008/",
+        "favicon": "https://www.wix.com/favicon.ico"
+    },
+    {
+        "name": "radio 22",
+        "url": "https://radio.server14.kariha.net:8008/",
+        "favicon": "https://www.wix.com/favicon.ico"
+    },
+    {
+        "name": "Radio Bravo 1",
+        "url": "http://80.77.157.10:8000/stream/2;live.mp3",
+        "favicon": "http://radiobravo.com.mk/wp-content/uploads/2015/11/logo-star.png"
+    },
+    {
+        "name": "Radio Bravo Smooth Jazz Mix Radio",
+        "url": "http://server.webnetradio.net:5490/stream?",
+        "favicon": "http://radiobravo.com.mk/wp-content/uploads/2015/11/logo-star.png"
+    },
+    {
+        "name": "Radio Buba Mara 105.2 FM",
+        "url": "http://88.85.99.2/live-128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Bubamara 105.2 Skopje, Macedonia",
+        "url": "https://stream.bubamara.com.mk/live",
+        "favicon": "https://radiobubamara.mk/"
+    },
+    {
+        "name": "Radio Fortuna 96.8 FM",
+        "url": "https://radiofortuna.ipradio.mk/;*.mp3",
+        "favicon": "https://radiofortuna.com.mk/wp-content/uploads/2024/06/fortuna_herer_logo_544.png"
+    },
+    {
+        "name": "Radio Fortuna 96.8 FM",
+        "url": "https://radiofortuna.ipradio.mk/;*.mp3",
+        "favicon": "https://radiofortuna.com.mk/wp-content/uploads/2024/06/fortuna_herer_logo_544.png"
+    },
+    {
+        "name": "Radio Fortuna 96.8 Skopje, Macedonia",
+        "url": "https://radiofortuna.ipradio.mk/;*.mp3%22",
+        "favicon": "https://makedonijafm.net/images/radio/fortuna-small.png"
+    },
+    {
+        "name": "Radio G - Gostivar",
+        "url": "https://live.mkdstream.com/listen/ragostivar/radiog",
+        "favicon": "https://radiogostivar.com/wp-content/uploads/2021/06/cropped-radig-icon-2.png"
+    },
+    {
+        "name": "Radio Kanal 77 Skopje, Macedonia",
+        "url": "https://radiocnd.mms.mk/proxy/offnet/stream",
+        "favicon": "https://www.makedonijafm.net/images/radio/kanal77-small.png"
+    },
+    {
+        "name": "Radio Maria Macedonia",
+        "url": "http://dreamsiteradiocp.com:8118/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Meff",
+        "url": "https://s32.myradiostream.com:16040/;?type=http&nocache=1688299470?0.591044522318551",
+        "favicon": ""
+    },
+    {
+        "name": "Radio valandovo ",
+        "url": "https://live.mkdstream.com/listen/valan/valand",
+        "favicon": ""
+    },
+    {
+        "name": "RadioBar",
+        "url": "https://visual.shoutca.st:8122/stream",
+        "favicon": ""
+    },
+    {
+        "name": "RADIOBAR",
+        "url": "https://cp1.sednastream.com/proxy/radiobar?mp=/stream",
+        "favicon": "https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img/http://radiobar-on.com/wp-content/uploads/2015/05/radiobar-hera-logo-final-300x100.png"
+    },
+    {
+        "name": "Retro Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+        "url": "https://s1.skyradio.com.mk/retro.mp3",
+        "favicon": "https://skyradio.com.mk/img/logo.png"
+    },
+    {
+        "name": "Samo MK",
+        "url": "https://radiostream.neotel.mk/samomk",
+        "favicon": ""
+    },
+    {
+        "name": "SamoMK",
+        "url": "http://radiostream.neotel.mk/samomk",
+        "favicon": ""
+    },
+    {
+        "name": "SKY FOLK",
+        "url": "https://eu.live.skyfolk.mk/live.m3u8",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20231216_202847554.jpg?alt=media&token=a5081a24-3ac3-41ab-9848-b36f628185a4"
+    },
+    {
+        "name": "Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+        "url": "https://skyradio.com.mk/listen.m3u",
+        "favicon": "https://skyradio.com.mk/img/logo.png"
+    },
+    {
+        "name": "Sky Radio 102.5 Skopje, Macedonia",
+        "url": "https://s1.skyradio.com.mk/;*.mp3",
+        "favicon": "https://skyradio.com.mk/img/logo.png"
+    },
+    {
+        "name": "Sky Radio Hits Skopje, Macedonia",
+        "url": "https://s1.skyradio.com.mk/hits.mp3",
+        "favicon": "https://skyradio.com.mk/img/logo.png"
+    },
+    {
+        "name": "Star Radio (Boemi) Skopje, Macedonia",
+        "url": "https://radiostar.pro/stream/boemi.php",
+        "favicon": "https://radiostar.pro/wp-content/uploads/2023/08/BOEMI-300x300.png"
+    },
+    {
+        "name": "Star Radio (Ex-YU Retro) Skopje, Macedonia",
+        "url": "https://radiostar.pro/stream/exyuretro.php",
+        "favicon": "https://radiostar.pro/wp-content/uploads/2023/08/EX-YU-RETRO-300x300.png"
+    },
+    {
+        "name": "Star Radio (Live) Skopje, Macedonia",
+        "url": "https://radiostar.pro/stream/starlive.php",
+        "favicon": "https://radiostar.pro/wp-content/uploads/2023/08/LIVE-300x300.png"
+    },
+    {
+        "name": "Star Radio (MK Narodna) Skopje, Macedonia",
+        "url": "https://radiostar.pro/stream/mknarodna.php",
+        "favicon": "https://radiostar.pro/wp-content/uploads/2023/10/MK-NARODNA-300x300.png"
+    },
+    {
+        "name": "Star Radio (Plus) Skopje, Macedonia",
+        "url": "https://radiostar.pro/stream/starplus.php",
+        "favicon": "https://radiostar.pro/wp-content/uploads/2023/08/PLUS-300x300.png"
+    },
+    {
+        "name": "Star Radio (Urban Folk) Skopje, Macedonia",
+        "url": "https://radiostar.pro/stream/narodna.php",
+        "favicon": "https://radiostar.pro/wp-content/uploads/2023/08/NARODNA-URBAN-300x300.png"
+    },
+    {
+        "name": "Star Radio (World Hits) Skopje, Macedonia",
+        "url": "https://radiostar.pro/stream/worldretro.php",
+        "favicon": "https://radiostar.pro/favicon.ico"
+    },
+    {
+        "name": "STIL RADIO",
+        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1",
+        "favicon": ""
+    },
+    {
+        "name": "Stil Radio Live Macedonia",
+        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1",
+        "favicon": "https://stilradio.com/wp-content/uploads/2022/01/STIL-RADIO-TRANSPARENT-170x170.png"
+    },
+    {
+        "name": "Stil Radio MKD Narodna",
+        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/3/",
+        "favicon": "https://stilradio.com/wp-content/uploads/2022/01/STIL-MK-TRANSPARENT-170x170.png"
+    },
+    {
+        "name": "Time FM Gevgelija",
+        "url": "https://s2.free-shoutcast.com/stream/18058",
+        "favicon": ""
+    },
+    {
+        "name": "University Radio UGD FM",
+        "url": "http://ugdfm-stream.ugd.edu.mk:8000/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Urban FM 90.8 Skopje",
+        "url": "https://securestreams4.autopo.st:1668/stream",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    },
+    {
+        "name": "\u0415\u043a\u0441\u043f\u0440\u0435\u0441 \u0420\u0430\u0434\u0438\u043e 101.1 \u0421\u0442\u0440\u0443\u043c\u0438\u0446\u0430, \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+        "url": "http://ekspresradio.dyndns.org:8000/",
+        "favicon": ""
+    },
+    {
+        "name": "\u041a\u0430\u043d\u0430\u043b 77 \u0420\u0430\u0434\u0438\u043e \u041c\u0440\u0435\u0436\u0430 ",
+        "url": "https://radiocnd.mms.mk/proxy/player/stream",
+        "favicon": "https://kanal77.mk/favicon.ico"
+    },
+    {
+        "name": "\u0421\u043a\u0430\u0458 \u0420\u0430\u0434\u0438\u043e",
+        "url": "https://skyradio.com.mk/listen.m3u",
+        "favicon": "https://skyradio.com.mk/favicon-32x32.png?v=gAepAyvLkw"
+    }
+]

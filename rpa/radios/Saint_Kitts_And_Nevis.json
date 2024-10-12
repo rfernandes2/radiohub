@@ -1,0 +1,22 @@
+[
+    {
+        "name": "2020 Vision Radio",
+        "url": "http://perseus.shoutca.st:8218/;",
+        "favicon": "https://static.wixstatic.com/media/81047c_64d863257898485fbb650bf567558a32~mv2.png/v1/fill/w_107,h_107,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/81047c_64d863257898485fbb650bf567558a32~mv2.png"
+    },
+    {
+        "name": "Sugar City 90.3 FM",
+        "url": "http://104.131.13.48:8000/radio.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "VON Radio",
+        "url": "http://vonradio.streamon.fm:8000/vonradio-24k.aac?type=.mp3/;stream.mp3",
+        "favicon": "https://vonradio.com/wp-content/uploads/2019/02/logo-von-fav.png"
+    },
+    {
+        "name": "ZIZ Radio",
+        "url": "http://media.slactech.com:8014/stream",
+        "favicon": "https://zizonline.com/wp-content/uploads/2021/04/ziz-logo-web-2021-v1.jpg"
+    }
+]

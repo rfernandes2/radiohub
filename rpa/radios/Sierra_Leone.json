@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Choice FM 93.3",
+        "url": "http://stream.zeno.fm/ct0gvk9149puv",
+        "favicon": "https://static.wixstatic.com/media/247284_502bcb35bb7d4262880f9ea7fa748868~mv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/247284_502bcb35bb7d4262880f9ea7fa748868~mv2.jpg"
+    },
+    {
+        "name": "RADIO BINKONGOH",
+        "url": "http://cressida.shoutca.st:8079/",
+        "favicon": ""
+    },
+    {
+        "name": "Sierra Network Radio",
+        "url": "http://45.79.181.148:8004/;",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/0/47840.v6.png"
+    },
+    {
+        "name": "Sierra Network Radio",
+        "url": "http://45.79.181.148:8004/;",
+        "favicon": ""
+    },
+    {
+        "name": "Voice of Salone Radio",
+        "url": "https://a1.asurahosting.com:8160/radio.mp3",
+        "favicon": "https://vosradio.com/images/liveradio/logo.gif"
+    }
+]

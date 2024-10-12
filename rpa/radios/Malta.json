@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Bay 89.7",
+        "url": "https://stream.v3.network/proxy/897bay/stream.mp3?_=1",
+        "favicon": "https://bay.com.mt/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHBzJTNBJTJGJTJGYmF5LmNvbS5tdCUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyMCUyRjEwJTJGU2l0ZUxvZ28ucG5nJmNhY2hlTWFya2VyPTE2NjIwNDc3MjQtNTA3OCZ0b2tlbj1jZTE2YTcwZTBiOTdkMTYy.q.png"
+    },
+    {
+        "name": "Bay Easy 100.2",
+        "url": "https://stream.v3.network/proxy/easy/stream.mp3",
+        "favicon": "https://bayeasy.mt/wp-content/uploads/2023/07/BayEasy_BLU-copy.png"
+    },
+    {
+        "name": "Bay Retro",
+        "url": "https://stream.v3.network/proxy/retro/stream.mp3?_=1",
+        "favicon": "https://bay.com.mt/wp-content/uploads/2020/10/ListenToBayRetro.png.webp"
+    },
+    {
+        "name": "Calypso Radio",
+        "url": "https://s4.radio.co/sf3aa4c25a/listen",
+        "favicon": "https://img1.wsimg.com/isteam/ip/cb21df74-856b-42e1-a8fe-bc24d4311d14/favicon/d3247829-803d-4f26-8709-620bb7b8109f.png/:/rs=w:120,h:120,m"
+    },
+    {
+        "name": "Campus 103.7",
+        "url": "https://campusfm.radioca.st/campusfm_live",
+        "favicon": "https://cdn-profiles.tunein.com/s18846/images/logod.png?t=638303682800000000"
+    },
+    {
+        "name": "Christmas Radio Malta",
+        "url": "http://philae.shoutca.st:8402/stream?type=http&nocache=165",
+        "favicon": "https://www.christmasradiomalta.com/images/img0001.png"
+    },
+    {
+        "name": "DIMusic Club Trance Malta \ud83c\uddf2\ud83c\uddf9 ",
+        "url": "http://stream2.dimusic.club:11499/dim2?type=.aac",
+        "favicon": ""
+    },
+    {
+        "name": "MALTIN BISS",
+        "url": "https://s4.voscast.com:8837/default",
+        "favicon": ""
+    },
+    {
+        "name": "One Radio",
+        "url": "http://cdn.voscast.com/resources/?key=249f148a69ad7268c63c10098840e4d6&c=wmp",
+        "favicon": "http://www.one.com.mt/favicon.ico"
+    },
+    {
+        "name": "One Radio",
+        "url": "http://s10.voscast.com:8202/stream",
+        "favicon": "http://one.com.mt/favicon.ico"
+    },
+    {
+        "name": "Radju Luminarja",
+        "url": "http://stream.radjuluminaria.com:8000/radjuluminaria",
+        "favicon": "https://www.nadurparish.com/wp-content/uploads/2020/06/cropped-nadur-parish-emblem_e8822df9-180x180.png"
+    },
+    {
+        "name": "Radju Maria Malta",
+        "url": "http://dreamsiteradiocp.com:8102/",
+        "favicon": "http://radjumarija.org/wp-content/uploads/2016/01/favicon-1.ico"
+    },
+    {
+        "name": "RADJU MARIJA MALTA",
+        "url": "http://dreamsiteradiocp.com:8102/stream",
+        "favicon": "https://radjumarija.org/wp-content/uploads/2016/01/favicon-1.ico"
+    },
+    {
+        "name": "Vibe FM",
+        "url": "https://s9.voscast.com:7825/1",
+        "favicon": "https://vibe.mt/wp-content/uploads/2022/04/SHOW-Music-768x402.jpg"
+    },
+    {
+        "name": "Vibe FM",
+        "url": "https://s9.voscast.com:7825/1",
+        "favicon": "https://vibe.mt/wp-content/uploads/2022/04/cropped-vibemt-icon-180x180.png"
+    },
+    {
+        "name": "Vibe FM",
+        "url": "https://s9.voscast.com:7825/1",
+        "favicon": "https://vibe.mt/wp-content/uploads/2022/04/SHOW-Music-768x402.jpg"
+    }
+]

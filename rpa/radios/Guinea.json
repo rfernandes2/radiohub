@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Asonga Radio 107.0 Malabo",
+        "url": "https://servidor15-5.brlogic.com:7058/live",
+        "favicon": "https://public-rf-upload.minhawebradio.net/228031/favicon/f687cdb9f785f2ac16c9e1728fe7f6ad.jpg"
+    },
+    {
+        "name": "Exa FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac"
+    },
+    {
+        "name": "NauFM",
+        "url": "https://27163.live.streamtheworld.com/NAUFM.mp3",
+        "favicon": "https://naufm.net/wp-content/uploads/2021/05/Nau-FM-Logo-300x213.png"
+    },
+    {
+        "name": "NBC PNG",
+        "url": "https://stream-152.zeno.fm/8dhz9ksa8f0uv?zs=9LzXWOwYTU69VMKXx0FuWA&adtonosListenerId=01HG0J80DVF8MTJ9829WK7SDVF&aw_0_req_lsid=3e71891a2ab3ea7ea8d47bc8231e34b5",
+        "favicon": "https://nbc.com.pg/apple-touch-icon.png"
+    },
+    {
+        "name": "R\u00e1dio Voz da Guin\u00e9",
+        "url": "https://stream.zeno.fm/iwioelqe6qwtv",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "RTG Radio Nationale Guin\u00e9enne",
+        "url": "https://node-23.zeno.fm/4bz4xabr2ehvv",
+        "favicon": "https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg4-m5mAkMCxIOU3RhdGlvblByb2ZpbGUYgICI6Pv-uQoMogEEemVubw/images/logo?keep=w&resize=350x350"
+    },
+    {
+        "name": "YumiFM",
+        "url": "https://27163.live.streamtheworld.com/YUMIFM.mp3",
+        "favicon": ""
+    }
+]

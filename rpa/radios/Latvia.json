@@ -1,0 +1,387 @@
+[
+    {
+        "name": "Alise Plus",
+        "url": "http://fm2inet.aliseplus.lv:8080/",
+        "favicon": ""
+    },
+    {
+        "name": "AlisePlus",
+        "url": "http://fm2inet.aliseplus.lv:8080/",
+        "favicon": ""
+    },
+    {
+        "name": "EHR Fresh",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_25.aac",
+        "favicon": ""
+    },
+    {
+        "name": "EHR TOP-40",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_27.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Eiropas H\u012btu Radio",
+        "url": "http://stream.europeanhitradio.com:8000/ehr.mp3",
+        "favicon": "https://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "European Hit Radio",
+        "url": "http://stream.europeanhitradio.com:8000/ehr.aac",
+        "favicon": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "European Hit Radio - Acoustic",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_18.aac",
+        "favicon": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "European Hit Radio - Dance",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_24.aac",
+        "favicon": ""
+    },
+    {
+        "name": "European Hit Radio - Darbam",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_23.aac",
+        "favicon": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "European Hit Radio - Eurochart",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_31.aac",
+        "favicon": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "European Hit Radio - Fresh",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_25.aac",
+        "favicon": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "European Hit Radio - Latvie\u0161u Hiti",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_22.aac",
+        "favicon": ""
+    },
+    {
+        "name": "European Hit Radio - Love Songs",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_28.aac",
+        "favicon": ""
+    },
+    {
+        "name": "European Hit Radio - Party Service",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_12.aac",
+        "favicon": ""
+    },
+    {
+        "name": "European Hit Radio - Remixes",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_32.aac",
+        "favicon": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "European Hit Radio - RNB",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_11.aac",
+        "favicon": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "European Hit Radio - Rock",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_37.aac",
+        "favicon": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "European Hit Radio - Russkie Hiti",
+        "url": "http://stream.europeanhitradio.com:8000/khr.aac",
+        "favicon": "http://www.russkiehiti.lv/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "European Hit Radio - SuperHits",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_21.aac",
+        "favicon": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "European Hit Radio - Top 40",
+        "url": "http://stream.europeanhitradio.com:8000/Stream_27.aac",
+        "favicon": "https://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "Kurzemes Radio",
+        "url": "http://31.170.16.6:8000/",
+        "favicon": "http://kurzemesradio.lv/wp-content/themes/kr/img/favicon.png"
+    },
+    {
+        "name": "Latgales Radio",
+        "url": "http://www.radiolg.lv:8000/128_aac.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "Latvijas Krist\u012bgais Radio",
+        "url": "https://radio.lkr.lv/;?type=http&nocache=40",
+        "favicon": "https://lkr.lv/icon-128x128.png"
+    },
+    {
+        "name": "Latvijas Krist\u012bgais Radio",
+        "url": "https://radio.lkr.lv/;?type=http&nocache=40",
+        "favicon": "https://lkr.lv/icon-128x128.png"
+    },
+    {
+        "name": "Latvijas Radio 1",
+        "url": "http://lr1mp1.latvijasradio.lv:8012/;",
+        "favicon": "http://lr1.lsm.lv/favicon/lr1-favicon-180x180.png"
+    },
+    {
+        "name": "Latvijas Radio 2",
+        "url": "http://lr2mp1.latvijasradio.lv:8002/;",
+        "favicon": "http://lr2.lsm.lv/favicon/lr2-favicon-180x180.png"
+    },
+    {
+        "name": "Latvijas Radio 3 - Klasika",
+        "url": "http://lr3mp0.latvijasradio.lv:8004/;",
+        "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZRsZ-GV51S6hs4kQcT_QaM1BKdoGfqAomjATuY0XgZQ444zqfiw"
+    },
+    {
+        "name": "Latvijas Radio 4",
+        "url": "http://lr4mp1.latvijasradio.lv:8020/;",
+        "favicon": "http://lr4.lsm.lv/favicon/lr4-favicon-180x180.png"
+    },
+    {
+        "name": "Latvijas Radio 5",
+        "url": "http://lr5mp1.latvijasradio.lv:8012/;",
+        "favicon": "https://pieci.lv/favicon/lr5-favicon-180x180.png"
+    },
+    {
+        "name": "LRMAROCKRADIO",
+        "url": "https://c22.radioboss.fm:18318/stream",
+        "favicon": ""
+    },
+    {
+        "name": "LV Radio 1",
+        "url": "http://lr1mp1.latvijasradio.lv:8012/",
+        "favicon": ""
+    },
+    {
+        "name": "LV Radio 2",
+        "url": "http://lr2mp1.latvijasradio.lv:8002/",
+        "favicon": ""
+    },
+    {
+        "name": "LV Radio 4",
+        "url": "http://lr4mp1.latvijasradio.lv:8020/",
+        "favicon": ""
+    },
+    {
+        "name": "NewDanceRadio",
+        "url": "http://stream.newdanceradio.ru/",
+        "favicon": "https://www.newdanceradio.ru/wp-content/themes/newdanceradio/images/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "NewDanceRadio",
+        "url": "http://stream.newdanceradio.ru/",
+        "favicon": "https://www.newdanceradio.ru/wp-content/themes/newdanceradio/images/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Nordic Chillout Radio",
+        "url": "https://play.radioking.io/nordic-chillout-radio/736489",
+        "favicon": "https://nordichilloutradio.com/wp-content/themes/nordichillout/media/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio 7",
+        "url": "http://stream.radio7.lv:8024/Radio7.m3u",
+        "favicon": "https://radio7.lv/wp-content/uploads/2021/03/cropped-radio7-symbol-180x180.png"
+    },
+    {
+        "name": "Radio 7",
+        "url": "https://listen.radio7.lv:2053/Radio7",
+        "favicon": "https://radio7.lv/wp-content/uploads/2021/03/cropped-radio7-symbol-32x32.png"
+    },
+    {
+        "name": "Radio ENERGY.LV",
+        "url": "http://www.radioenergy.lv:8000/listen.pls",
+        "favicon": ""
+    },
+    {
+        "name": "Radio ENERGY.LV - Russian",
+        "url": "http://www.radioenergy.lv:9000/listen.pls",
+        "favicon": ""
+    },
+    {
+        "name": "RADIO MARIA LATVIA",
+        "url": "http://dreamsiteradiocp2.com:8046/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio NABA",
+        "url": "http://nabamp0.latvijasradio.lv:8016/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Roks",
+        "url": "https://live.relaxfm.lv/06",
+        "favicon": "https://radioroks.lv/upload/design/63891096d7cfc0.23308165.png"
+    },
+    {
+        "name": "Radio Skonto",
+        "url": "https://stream.radioskonto.lv:8443/mp3",
+        "favicon": "https://www.bing.com/images/search?view=detailV2&ccid=8ctQXQUT&id=450F431455AFE4307A40F8807686EC85F2B03E0D&thid=OIP.8ctQXQUTjwb-Ro512y9Z_QHaHa&mediaurl=https%3a%2f%2fstatic-media.streema.com%2fmedia%2fcache%2faf%2fe0%2fafe08c6842dd242dad662d944aac6734.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f1cb505d05138f06fe468e75db2f59fd%3frik%3dDT6w8oXshnaA%252bA%26pid%3dImgRaw%26r%3d0&exph=600&expw=600&q=radio+skonto+ico&simid=608030402955840843&FORM=IRPRST&ck=E686FEEA63539D7C5DE36EE4ECA80BB5&selectedIndex=0"
+    },
+    {
+        "name": "Radio Skonto Plus",
+        "url": "https://stream.radioskontoplus.lv:8443/st128",
+        "favicon": "https://radioskontoplus.lv/wp-content/themes/radioskontoplus/images/rsp_logo@2x.png?1"
+    },
+    {
+        "name": "Radio Skonto Riga",
+        "url": "https://stream.radioskonto.lv:8443/mp3",
+        "favicon": "https://radioskonto.lv/favicon.ico"
+    },
+    {
+        "name": "Radio SWH",
+        "url": "http://80.232.162.149:8000/swh96mp3.m3u",
+        "favicon": "http://www.radioswh.lv/favicon.ico"
+    },
+    {
+        "name": "Radio SWH",
+        "url": "http://80.232.162.149:8000/swh96mp3",
+        "favicon": "https://radioswh.lv/favicon.ico"
+    },
+    {
+        "name": "Radio SWH - Spin FM",
+        "url": "http://80.232.162.149:8000/spin96mp3.m3u",
+        "favicon": ""
+    },
+    {
+        "name": "Radio SWH Gold",
+        "url": "http://80.232.162.149:8000/gold96mp3.m3u",
+        "favicon": "http://www.radioswh.lv/favicon.ico"
+    },
+    {
+        "name": "Radio SWH LV",
+        "url": "https://live.radioswh.lv:8443/swh_lv",
+        "favicon": ""
+    },
+    {
+        "name": "Radio SWH Rock",
+        "url": "http://80.232.162.149:8000/rock96mp3.m3u",
+        "favicon": "https://radioswhrock.lv/wp-content/uploads/2019/11/cropped-favicon-1-180x180.png"
+    },
+    {
+        "name": "Radio SWH+",
+        "url": "http://80.232.162.149:8000/plus96mp3.m3u",
+        "favicon": "http://www.radioswhplus.lv/favicon.ico"
+    },
+    {
+        "name": "Radio SWH+",
+        "url": "https://live.radioswh.lv:8443/plusmp3",
+        "favicon": "https://www.radioswhplus.lv/favicon.ico"
+    },
+    {
+        "name": "Radio TEV",
+        "url": "http://stream.radiotev.lv:8002/radiov",
+        "favicon": ""
+    },
+    {
+        "name": "Relax ",
+        "url": "https://live.relaxfm.lv/02",
+        "favicon": ""
+    },
+    {
+        "name": "Relax ",
+        "url": "https://live.relaxfm.lv/02",
+        "favicon": ""
+    },
+    {
+        "name": "Skonto",
+        "url": "https://stream.radioskonto.lv:8443/stereo",
+        "favicon": ""
+    },
+    {
+        "name": "Skonto",
+        "url": "https://stream.radioskonto.lv:8443/stereo",
+        "favicon": ""
+    },
+    {
+        "name": "Skonto ",
+        "url": "https://stream.radioskonto.lv:8443/stereo",
+        "favicon": ""
+    },
+    {
+        "name": "Skonto Plus",
+        "url": "https://stream.radioskontoplus.lv:8443/st128",
+        "favicon": ""
+    },
+    {
+        "name": "Skonto Plus",
+        "url": "https://stream.radioskontoplus.lv:8443/st128",
+        "favicon": ""
+    },
+    {
+        "name": "Star Fm",
+        "url": "http://starfm.live.advailo.com/audio/mp3/icecast.audio",
+        "favicon": ""
+    },
+    {
+        "name": "SWH",
+        "url": "http://80.232.162.149:8000/swh96mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SWH",
+        "url": "http://80.232.162.149:8000/swh96mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SWH",
+        "url": "http://80.232.162.149:8000/swh96mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SWH Plus",
+        "url": "http://80.232.162.149:8000/plus96mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SWHPlus",
+        "url": "http://80.232.162.149:8000/plus96mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SWHPlus",
+        "url": "http://80.232.162.149:8000/plus96mp3",
+        "favicon": ""
+    },
+    {
+        "name": "SWHPlus",
+        "url": "http://80.232.162.149:8000/plus96mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Talsi Lounge",
+        "url": "http://radio.kuums.lv:5555/listen.pls",
+        "favicon": "http://www.kuums.lv/img/kuums-draugiem.jpg"
+    },
+    {
+        "name": "Talsi Remix",
+        "url": "http://radio.kuums.lv:5555/",
+        "favicon": "http://www.kuums.lv/favicon.ico"
+    },
+    {
+        "name": "TOP radio",
+        "url": "https://topradio.live.advailo.com/topradio/mp3/icecast.audio",
+        "favicon": "https://topradio.lv/favicon.ico"
+    },
+    {
+        "name": "TOP radio",
+        "url": "https://topradio.live.advailo.com/topradio/mp3/icecast.audio",
+        "favicon": "https://tv3cdn.lv/skaties/images/topradio/apple-touch-icon.png"
+    },
+    {
+        "name": "XO.FM",
+        "url": "https://live.xo.fm/xofm128",
+        "favicon": "https://xo.fm/view/site/favicons/apple-touch-icon.png"
+    },
+    {
+        "name": "\u0410\u0432\u0442\u043e\u0440\u0430\u0434\u0438\u043e \u041b\u0430\u0442\u0432\u0438\u044f",
+        "url": "https://live.relaxfm.lv/03",
+        "favicon": "https://avtoradio.lv/upload/design/64df68073caa85.35482071.png"
+    },
+    {
+        "name": "\u0420\u0435\u0442\u0440\u043e FM \u0420\u0438\u0433\u0430 (Retro FM)",
+        "url": "https://live.retrofm.lv/retrofmlatvia",
+        "favicon": "http://retrofm.lv/view/site/favicons/apple-touch-icon.png"
+    }
+]

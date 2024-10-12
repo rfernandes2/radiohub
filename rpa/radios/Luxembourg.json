@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Braintrip Radio",
+        "url": "https://stream.laut.fm/braintrip-radio",
+        "favicon": "https://assets.laut.fm/3e5e39b59b48da2d4d07f5fb8eecd8d3?t=_640x640"
+    },
+    {
+        "name": "Eldo Radio Chill",
+        "url": "https://stream.rtl.lu/live/hls/radio/eldochill",
+        "favicon": "https://www.eldo.lu/assets/icon/favicon.ico"
+    },
+    {
+        "name": "Eldoradio",
+        "url": "http://81.92.238.33/",
+        "favicon": ""
+    },
+    {
+        "name": "Free Radio Luxembourg FRL",
+        "url": "https://www.radioking.com/play/rfm-luxembourg/137599",
+        "favicon": ""
+    },
+    {
+        "name": "Generation Dance Radio",
+        "url": "http://generationdance.lu/radio/8030/hd",
+        "favicon": "https://generation.dance/logo_500x500.png"
+    },
+    {
+        "name": "Generation Dance Radio",
+        "url": "http://generationdance.lu/radio/8030/hd",
+        "favicon": "https://generation.dance/logo_500x500.png"
+    },
+    {
+        "name": "Generation Dance Radio",
+        "url": "http://generationdance.lu/radio/8030/mobile",
+        "favicon": "https://generation.dance/logo_500x500.png"
+    },
+    {
+        "name": "Generation Dance Radio",
+        "url": "http://generationdance.lu/radio/8030/mobile",
+        "favicon": "https://generation.dance/logo_500x500.png"
+    },
+    {
+        "name": "Groovetime",
+        "url": "http://kotdt.com:8000/groovetime",
+        "favicon": "https://groovetime.lu/favicon.ico"
+    },
+    {
+        "name": "L'Essentiel Radio",
+        "url": "http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3",
+        "favicon": "http://lessentielradio.lu/upload/602fd5fe8a8987.60975527.ico"
+    },
+    {
+        "name": "Opus 100,7",
+        "url": "https://100komma7--di--nacs-ice-01--02--cdn.cast.addradio.de/100komma7/opus/mp3/320/stream.mp3",
+        "favicon": "https://www.opus.radio/static/images/meta/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio 100,7",
+        "url": "http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3",
+        "favicon": "https://www.100komma7.lu/static/logo-radio.png"
+    },
+    {
+        "name": "Radio 100komma7",
+        "url": "https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3",
+        "favicon": "https://100komma7.lu/static/logo-radio.png"
+    },
+    {
+        "name": "Radio 100komma7",
+        "url": "http://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3",
+        "favicon": "https://100komma7.lu/static/logo-radio.png"
+    },
+    {
+        "name": "Radio Aktiv",
+        "url": "http://zeus.lrb.lu:8000/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio ARA",
+        "url": "https://s1.voscast.com:11187/RadioARA.mp3",
+        "favicon": "https://www.ara.lu/favicon.ico"
+    },
+    {
+        "name": "Radio ARA Luxembourg",
+        "url": "https://s1.voscast.com:11187/RadioARA.mp3",
+        "favicon": "https://usercontent.one/wp/www.radioara.org/wp-content/uploads/elementor/thumbs/Picture5-qgppm5u6ho2lux2g9t8dvm5r8r8160pfntuuxifojk.png?media=1703258920"
+    },
+    {
+        "name": "Radio ARA Luxembourg",
+        "url": "https://s1.voscast.com:11187/RadioARA.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "Radio C Luxembourg",
+        "url": "https://edge02.streamonkey.net/radioc-live",
+        "favicon": "https://radioc.eu/wp-content/uploads/2020/06/cropped-radioc_330-180x180.png"
+    },
+    {
+        "name": "Radio Gutt Laun",
+        "url": "https://streams.radio.co/sa631ff66a/listen",
+        "favicon": ""
+    },
+    {
+        "name": "R\u00e1dio Larochette ",
+        "url": "https://servidor14.brlogic.com:8150/live",
+        "favicon": "https://public-rf-upload.minhawebradio.net/191715/mobileicon/d343bd782a3a1661465a3c3771c2a36cx192.png"
+    },
+    {
+        "name": "R\u00e1dio Larochette",
+        "url": "https://servidor14.brlogic.com:8150/live",
+        "favicon": "https://public-rf-upload.minhawebradio.net/191715/mobileicon/d343bd782a3a1661465a3c3771c2a36cx192.png"
+    },
+    {
+        "name": "Radio Puls Luxembourg",
+        "url": "https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream",
+        "favicon": "https://radiopuls.lu/wp-content/uploads/2016/02/cropped-original_radio_puls_logo_3d_png_1000px-180x180.png"
+    },
+    {
+        "name": "Radio Tsonami",
+        "url": "https://stream.zeno.fm/lklh3cf28s5tv",
+        "favicon": "https://radiotsonami.org/wp-content/uploads/fbrfg/apple-touch-icon.png"
+    },
+    {
+        "name": "RTL Die besten Hits aller Zeiten",
+        "url": "http://stream.rtlradio.de/rtl-de-beste-hits/aac-64",
+        "favicon": "http://www.rtlradio.de/favicon.ico"
+    },
+    {
+        "name": "RTL Gold",
+        "url": "https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "RTL Gold",
+        "url": "https://shoutcast.rtl.lu/rtlgold",
+        "favicon": "https://www.rtl.lu/components/images/5e0dff17b0d8bf7fda79103a20b011b7-logo_rtl-gold.svg"
+    },
+    {
+        "name": "RTL Radio - Deutschlands Hit-Radio",
+        "url": "http://stream.rtlradio.de/rtl-de-national/mp3-192/",
+        "favicon": "https://www.rtlradio.de/assets/fallback/fallback_1x1.jpg"
+    },
+    {
+        "name": "RTL Radio - Die besten Hits aller Zeiten",
+        "url": "http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192",
+        "favicon": ""
+    },
+    {
+        "name": "RTL Radio Letzebuerg",
+        "url": "http://sc-rtllive.newmedia.lu/",
+        "favicon": "http://www.rtl.lu/assets/images/favicon-rtllu/apple-touch-icon.png?v=202304271020"
+    },
+    {
+        "name": "RTL Radio L\u00ebtzebuerg",
+        "url": "https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
+        "favicon": "http://www.rtl.lu//assets/images/favicon-rtl/favicon.ico"
+    },
+    {
+        "name": "RTL Schlagerliebe",
+        "url": "http://stream.rtlradio.de/schlagerliebe/mp3-192/",
+        "favicon": ""
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "104.3 Boss FM",
+        "url": "https://ice10.securenetsystems.net/KIJI",
+        "favicon": "https://boss104.gu/images/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "I Want TFC - GMA News TV HD",
+        "url": "https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8",
+        "favicon": "https://static.wikia.nocookie.net/logopedia/images/c/c1/IWantTFClogo.png/revision/latest?cb=20200905145154"
+    },
+    {
+        "name": "KUSG",
+        "url": "https://ice10.securenetsystems.net/KUSG",
+        "favicon": "http://thepoint.gu/images/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "TFC Guam",
+        "url": "https://tfcguam-abscbn-ono.amagi.tv/index.m3u8",
+        "favicon": "https://img.mytfc.com/cmsroot/abscms/media/mytfctv/favicons/apple-touch-icon.png"
+    }
+]

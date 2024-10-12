@@ -1,0 +1,37 @@
+[
+    {
+        "name": "NIA Radio - Pacifique",
+        "url": "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac",
+        "favicon": "https://nia.nc/static/icons/apple-touch-icon.png"
+    },
+    {
+        "name": "NIA Radio Lo-Fi",
+        "url": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac",
+        "favicon": "https://nia.nc/static/icons/apple-touch-icon.png"
+    },
+    {
+        "name": "Nouvelle-Cal\u00e9donie La Premi\u00e8re",
+        "url": "https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3",
+        "favicon": ""
+    },
+    {
+        "name": "NRJ Nouvelle Cal\u00e9donie 93,5 FM",
+        "url": "http://testradio01.ice.infomaniak.ch/testradio01-192.mp3",
+        "favicon": "https://upload.wikimedia.org/wikipedia/fr/7/74/Nrjnc.png"
+    },
+    {
+        "name": "Radio Djiido",
+        "url": "http://radiodjiido.nc:8002/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Paraiso",
+        "url": "http://stream-uk1.radioparadise.com/aac-320",
+        "favicon": "http://www.radioparadise.com/apple-touch-icon.png"
+    },
+    {
+        "name": "RRB",
+        "url": "http://radio.lagoon.nc/rrb",
+        "favicon": ""
+    }
+]

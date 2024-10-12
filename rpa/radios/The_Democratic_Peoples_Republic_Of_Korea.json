@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Pyongyang Radio FM",
+        "url": "https://listen7.myradio24.com/69366",
+        "favicon": "https://kfaspain.es/wp-content/uploads/2022/01/KCBS-LOGO.png"
+    },
+    {
+        "name": "Voice of Korea",
+        "url": "https://listen7.myradio24.com/69366",
+        "favicon": "http://www.vok.rep.kp/mark.png"
+    },
+    {
+        "name": "Voice of Korea (Russian)",
+        "url": "https://listen4.myradio24.com/60315",
+        "favicon": "http://www.vok.rep.kp/resources/img/logo_r.png"
+    },
+    {
+        "name": "\ud3c9\uc591FM105.2",
+        "url": "http://listen7.myradio24.com/69366",
+        "favicon": "https://www.behindthecurtain-northkorea.com/favicon.ico"
+    }
+]

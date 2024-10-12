@@ -1,0 +1,187 @@
+[
+    {
+        "name": "104.1 FM Redentor",
+        "url": "https://livestreamcdn.net:2000/stream/Redentor104.1FM/stream",
+        "favicon": "https://facebook.com/favicon.ico"
+    },
+    {
+        "name": "92.1 FM Estaci\u00f3n de la Familia / Candelita7",
+        "url": "https://stream.eleden.com:8320/laestaciondelafamiliapr.mp3",
+        "favicon": "https://candelita7.com/wp-content/uploads/2023/04/YouTube-C7TV-PF.png"
+    },
+    {
+        "name": "AZ Rock",
+        "url": "http://cassini.shoutca.st:9300/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Catolica Radio",
+        "url": "https://live.turadio.stream:7017/catolicaradiopr",
+        "favicon": "https://catolicaradiopr.com/wp-content/uploads/2020/07/cropped-lo-catolica-radio-web-1-180x180.png"
+    },
+    {
+        "name": "Club One World",
+        "url": "https://streams.radio.co/sa0b5d970a/listen",
+        "favicon": "https://www.cluboneworldradio.com/uploads/1/3/1/0/131070830/cow-radio-back-alpha-white.png"
+    },
+    {
+        "name": "Cumbre 1470 AM - 106.3 FM",
+        "url": "https://sp.unoredcdn.net/8158/stream",
+        "favicon": "https://cumbre1470am.com/wp-content/uploads/2021/12/avatar.png"
+    },
+    {
+        "name": "Echo 355",
+        "url": "http://stream.zeno.fm/hssq9ydayf9uv",
+        "favicon": ""
+    },
+    {
+        "name": "Exa FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "favicon": "https://www.exafm.com/favicon.ico"
+    },
+    {
+        "name": "Fidelity 95.7 fm PR",
+        "url": "https://server7.servistreaming.com/proxy/fidelity?mp=%2Fstream%3Ftype%3D.mp3&_=1",
+        "favicon": "https://fidelitypr.com/favicon.ico"
+    },
+    {
+        "name": "FM 96",
+        "url": "http://149.56.155.73:8105/stream",
+        "favicon": "https://fm96puertorico.com/favicon.ico"
+    },
+    {
+        "name": "Fuzed Club Radio",
+        "url": "https://radio.fuzedclubradio.com/listen/fuzed_club_radio/stream",
+        "favicon": "https://fuzedclubradio.com/wp-content/uploads/2019/11/cropped-icon-3-180x180.png"
+    },
+    {
+        "name": "Fuzed Club Radio",
+        "url": "https://radio.fuzedclubradio.com/listen/fuzed_club_radio/stream",
+        "favicon": "https://fuzedclubradio.com/wp-content/uploads/2019/11/cropped-icon-3-192x192.png"
+    },
+    {
+        "name": "Hot 102",
+        "url": "https://server7.servistreaming.com/proxy/hot?mp=%2Fstream%3Ftype%3D.mp3&_=1",
+        "favicon": "https://hot102pr.com/favicon.ico"
+    },
+    {
+        "name": "La X 100.7",
+        "url": "http://stream.eleden.com:1935/lax.aac/lax.aac.stream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "La X 100.7 FM",
+        "url": "http://stream.eleden.com:8235/lax.ogg",
+        "favicon": ""
+    },
+    {
+        "name": "LA X94 - RADIO CRISTIANA",
+        "url": "https://securestreams6.autopo.st:2128/stream",
+        "favicon": "https://static.wixstatic.com/media/c933a8_fa1999ee9534460d9ce4d36e03e46996~mv2.png/v1/fill/w_506,h_506,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c933a8_fa1999ee9534460d9ce4d36e03e46996~mv2.png"
+    },
+    {
+        "name": "MAGIC 97.3",
+        "url": "https://stream.eleden.com:8210/magic.aac",
+        "favicon": ""
+    },
+    {
+        "name": "Magic 97.3 FM",
+        "url": "https://stream.eleden.com:8210/magic.aac",
+        "favicon": "https://www.magic973.com/assets/icon.b59a0ef8.png"
+    },
+    {
+        "name": "NotiunoPR",
+        "url": "https://server20.servistreaming.com:9022/stream",
+        "favicon": "https://bloximages.newyork1.vip.townnews.com/notiuno.com/content/tncms/custom/image/1910fac6-b6a6-11e8-bedc-73fa7469f5d8.png?resize=200%2c200"
+    },
+    {
+        "name": "Radio Atenas 1500 AM",
+        "url": "https://radioatenas-webctgena.radioca.st/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Casa Pueblo",
+        "url": "http://s1.voscast.com:9906/;stream1523840050300/1",
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s21779q.png"
+    },
+    {
+        "name": "Radio Costa Calidad Normal",
+        "url": "https://radio.archipielago.uno/radiocosta",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Paraiso 92.9 FM",
+        "url": "http://stream.eleden.com:8240/wtpm.aac",
+        "favicon": "https://static.wixstatic.com/media/40af02_89e36a03a4e14aa385dab6105615ed24~mv2.png/v1/fill/w_105,h_81,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo-dig_1.png"
+    },
+    {
+        "name": "RADIO TROPICAL PR",
+        "url": "https://cast.miradio.in/proxy/radiotropical/stream",
+        "favicon": "https://static.wixstatic.com/media/474154_e286efc4ce8848d49778dfeb297fbaa7~mv2.png/v1/fill/w_490,h_259,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/image000000.png"
+    },
+    {
+        "name": "RadioORO PR",
+        "url": "https://us2.internet-radio.com/proxy/woro?mp=/stream",
+        "favicon": "https://sep.turbifycdn.com/yf/common/favicon-32x32.png"
+    },
+    {
+        "name": "Spot Radio",
+        "url": "https://c9.radioboss.fm/stream/141",
+        "favicon": ""
+    },
+    {
+        "name": "Super K FM",
+        "url": "http://grupomedrano.stream-audio.com:8856/SuperK",
+        "favicon": "http://superkfm.com/wp-content/uploads/2015/10/superk.png"
+    },
+    {
+        "name": "Vid 90",
+        "url": "http://s3.voscast.com:7720/;stream1726930102886/1",
+        "favicon": "http://www.vid90.com/images/logo_vid_sm.png"
+    },
+    {
+        "name": "WABA",
+        "url": "https://stream.eleden.com/waba.aac/waba.aac.stream/playlist.m3u8",
+        "favicon": ""
+    },
+    {
+        "name": "WALO 1240 \"Radio Oriental\" Humacao",
+        "url": "http://68.235.35.243:9031/stream?type=.mp3",
+        "favicon": "http://waloradio.com/favicon.ico"
+    },
+    {
+        "name": "WKVM Radio Paz 810",
+        "url": "http://us2.internet-radio.com:8085/",
+        "favicon": "http://810am.bellezamag.com/favicon.png"
+    },
+    {
+        "name": "WPAB 550 PONCE",
+        "url": "http://68.235.35.243:9059/stream",
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s21849q.png"
+    },
+    {
+        "name": "WRTU 89.7 Radio Universidad de Puerto Rico, San Juan",
+        "url": "http://streaming.radiouniversidad.pr:8062/;",
+        "favicon": "http://www.wrtu.pr/favicon.ico"
+    },
+    {
+        "name": "WSKN Radio Isla1320 am",
+        "url": "http://server7.servistreaming.com:10070/stream",
+        "favicon": "https://i.pinimg.com/originals/6f/9b/6f/6f9b6f6a3dced7c612823e3b75afebf0.png"
+    },
+    {
+        "name": "WUNO 630 \"Noti Uno\" San Juan",
+        "url": "http://68.235.35.243:9027/;stream.mp3",
+        "favicon": "https://bloximages.newyork1.vip.townnews.com/notiuno.com/content/tncms/custom/image/1910fac6-b6a6-11e8-bedc-73fa7469f5d8.png?resize=200%2c200"
+    },
+    {
+        "name": "WUPR \u00c9xitos 1530",
+        "url": "https://exitos1530.radioca.st/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Yunque93",
+        "url": "http://server7.servistreaming.com:10021/stream?type=.mp3",
+        "favicon": ""
+    }
+]

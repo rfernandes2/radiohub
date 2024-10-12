@@ -1,0 +1,12 @@
+[
+    {
+        "name": "National Radio of Kampuchea",
+        "url": "http://119.82.252.6:8080/broadwave.mp3",
+        "favicon": "https://storage.googleapis.com/rnk/notification-icon-150x150.png"
+    },
+    {
+        "name": "Vayo FM",
+        "url": "http://50.21.176.38:8010/vayofm",
+        "favicon": "https://vayofm.com/images/vayofm.png"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "name": "CAWtv",
+        "url": "https://stream.zeno.fm/m8aakwyw9u8uv",
+        "favicon": ""
+    },
+    {
+        "name": "Clasica 101.9FM",
+        "url": "http://streaming.clasicafm.com.ni:8050/clasica.mp3",
+        "favicon": "https://clasicafm.com.ni/favicon.ico"
+    },
+    {
+        "name": "Est\u00e9reo Romance",
+        "url": "https://stereoromance.radioca.st/streams/128kbps.m3u",
+        "favicon": "https://www.stereo-romance.com/favicon-96x96.png"
+    },
+    {
+        "name": "Exa FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac"
+    },
+    {
+        "name": "Fiesta Latina 89.1 FM",
+        "url": "https://radios.solumedia.com/6596/stream",
+        "favicon": "https://fiestalatina.com.ni/wp-content/uploads/2019/08/cropped-Fiesta-Latina-Logo-FIN-ALFA-1-e1687229871337.png"
+    },
+    {
+        "name": "La Nueva Radio | Nicaragua",
+        "url": "https://stream.zenolive.com/axr92qawesmtv",
+        "favicon": "https://nuevaya.com.ni/apple-touch-icon-120x120.png"
+    },
+    {
+        "name": "La Voz del Norte",
+        "url": "https://stream.zeno.fm/cbd1wweamzzuv",
+        "favicon": "https://4.bp.blogspot.com/-ipArh5aF-_o/XnfT9w4nwFI/AAAAAAAASwQ/mGVFLZGKs3o04nz8Es7B-lqmIpVoFzKwwCK4BGAYYCw/s1600/lavoz.png"
+    },
+    {
+        "name": "Masaya Rebelde",
+        "url": "https://stream.zeno.fm/bhutktvbfv8uv",
+        "favicon": "https://nicarebeldetv.com/favicon.ico"
+    },
+    {
+        "name": "Nicaragua Reggae Radio.com",
+        "url": "http://online.radiodifusion.net:8054/stream/1/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Cat\u00f3lica de Nicaragua",
+        "url": "http://198.27.68.65:8555/listen.pls?sid=1",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Comunidad",
+        "url": "https://stream.zeno.fm/q70e6btc2d0uv",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Estereo M\u00fasica",
+        "url": "http://stream.zenolive.com/8mwf6ssgtceuv.m3u",
+        "favicon": "https://www.wix.com/favicon.ico"
+    },
+    {
+        "name": "Radio Estrella del Mar",
+        "url": "https://streamer.radio.co/sd5242d0b6/listen",
+        "favicon": "https://www.radioestrelladelmar.org/favicon.ico"
+    },
+    {
+        "name": "RADIO FABULOSA 99.3 FM",
+        "url": "https://eu1-sonic.serverse.com/8008/stream",
+        "favicon": "https://www.radiofabulosafm.com/img/logo.png"
+    },
+    {
+        "name": "Radio Hermanos",
+        "url": "https://stream.zenolive.com/vq7z0a3u7mruv",
+        "favicon": "https://cdn.webrad.io/images/logos/radios-co-ni/hermanos-96-3.png"
+    },
+    {
+        "name": "Radio Juan Pablo Segundo 97.7 fm",
+        "url": "https://dc2.serverse.com:8040/stream",
+        "favicon": "http://radiojuanpablosegundo.com/assets/images/favicon/apple-touch-icon.png"
+    },
+    {
+        "name": "RADIO MARIA NICARAGUA",
+        "url": "http://dreamsiteradiocp4.com:8048/stream",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Nicaragua",
+        "url": "https://online.radionicaragua.com.ni/stream.mp3",
+        "favicon": "https://radionicaragua.com.ni/wp-content/plugins/under-construction-page/themes/images/favicon.png"
+    },
+    {
+        "name": "Radio Oxigeno",
+        "url": "https://polaris.hostingnica.net/8060/stream/1/",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Rep\u00fablica",
+        "url": "https://stream.zeno.fm/3kruxu5a9s8uv",
+        "favicon": "https://i0.wp.com/radio-republica.com/wp-content/uploads/2020/11/cropped-5fbc416d1eb34.png?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "Radio Sendas FM",
+        "url": "http://74.91.125.187:8028/listen.pls?sid=1",
+        "favicon": "https://radiosendasfm.com/wp-content/uploads/2018/11/logosendas.png"
+    },
+    {
+        "name": "Radio Vandalica Nicaragua",
+        "url": "https://stream.zeno.fm/caq3fwn1fnruv",
+        "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png"
+    },
+    {
+        "name": "Radio Vos Matagalpa",
+        "url": "https://c13.radioboss.fm:18504/radiovosmatagalpa",
+        "favicon": "https://radiovos.org/wp-content/uploads/cropped-300x300-1-180x180.png"
+    },
+    {
+        "name": "Rock FM 105.5",
+        "url": "https://securestream.us/radio/8050/radio.mp3",
+        "favicon": "https://www.onlineradiowall.com/wp-content/uploads/elementor/thumbs/Rock-FM-105.5-Logo-qdjdglsxpc6yh4npmz0m1c9knzfee4qo1dmme514gg.png"
+    },
+    {
+        "name": "Stereo Beso 94.5 FM",
+        "url": "https://a9.asurahosting.com:7140/",
+        "favicon": "https://cdn-profiles.tunein.com/s240544/images/logod.png"
+    },
+    {
+        "name": "Stereo Beso 94.5 FM",
+        "url": "https://a9.asurahosting.com:7140/radio.mp3",
+        "favicon": "https://cdn-profiles.tunein.com/s240544/images/logod.png"
+    },
+    {
+        "name": "Union Nacional Patriotica",
+        "url": "https://stream.zeno.fm/ap6umv11pzzuv",
+        "favicon": "https://www.facebook.com/favicon.ico"
+    }
+]

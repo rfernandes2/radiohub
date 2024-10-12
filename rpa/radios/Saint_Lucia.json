@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Caribbean Hot FM 105.3 - Castries",
+        "url": "http://auds2.intacs.com/caribbeanhotfm",
+        "favicon": ""
+    },
+    {
+        "name": "Caribbean KISS FM 105.5 Castries",
+        "url": "http://auds2.intacs.com/caribbeankissfm",
+        "favicon": ""
+    },
+    {
+        "name": "Power 97.9",
+        "url": "https://usa10.fastcast4u.com/power979fm",
+        "favicon": "https://images.app.goo.gl/DUuAVcZB3WeDg2rS6"
+    },
+    {
+        "name": "REV-UP SLU",
+        "url": "https://caribspy.com/proxy/revupslu/stream",
+        "favicon": ""
+    },
+    {
+        "name": "RFI 102.1 FM",
+        "url": "http://167.114.131.90:5908/",
+        "favicon": "http://img.sedoparking.com/templates/logos/sedo_logo.png"
+    },
+    {
+        "name": "Sky FM 93.1",
+        "url": "https://caribspy.com/proxy/skyfm931/stream/;?type=http&nocache=107036",
+        "favicon": "https://skyfm931.com/favicon.ico"
+    },
+    {
+        "name": "The Wave 94.5 & 93.7 Castries",
+        "url": "http://ice66.securenetsystems.net/THEWAVE",
+        "favicon": "https://static.wixstatic.com/media/7d4435_7b92a4f288274c54a86dd8ea48b985a6~mv2.png/v1/fill/w_208,h_92,al_c,usm_0.66_1.00_0.01/7d4435_7b92a4f288274c54a86dd8ea48b985a6~mv2.png"
+    },
+    {
+        "name": "Vibe Radio 100.9 & 92.9 Vigie",
+        "url": "http://45.79.186.124/proxy/vyberadio?mp=/stream",
+        "favicon": "http://www.vyberadio.com/favicon.ico"
+    }
+]
