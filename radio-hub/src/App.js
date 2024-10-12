@@ -1,56 +1,67 @@
 import React, { useEffect, useState } from 'react';
-import './App.css'; // Ensure this import is present
+import './App.css';
 
 function App() {
     const [files, setFiles] = useState([]);
     const [error, setError] = useState(null);
     const [currentPage, setCurrentPage] = useState(1);
-    const [itemsPerPage] = useState(12); // Show 12 countries per page (4 rows with 3 countries each)
-    const [filter, setFilter] = useState(''); // Filter state
+    const [itemsPerPage] = useState(12);
+    const [filter, setFilter] = useState('');
+    const [selectedCountryContent, setSelectedCountryContent] = useState(null); // State for selected country content
 
     useEffect(() => {
-        fetch('http://localhost:5000/api/files') // Fetch from the Express server
+        fetch('http://localhost:5000/api/files')
             .then((response) => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
                 }
                 return response.json();
             })
-            .then((data) => setFiles(data)) // Set the fetched files to state
-            .catch((error) => setError(error)); // Handle errors
+            .then((data) => setFiles(data))
+            .catch((error) => setError(error));
     }, []);
 
-    // Calculate the current countries to display
-    const indexOfLastFile = currentPage * itemsPerPage; // Last country index
-    const indexOfFirstFile = indexOfLastFile - itemsPerPage; // First country index
+    const indexOfLastFile = currentPage * itemsPerPage;
+    const indexOfFirstFile = indexOfLastFile - itemsPerPage;
     const currentFiles = files
-        .filter(file => file.toLowerCase().startsWith(filter.toLowerCase())) // Filter files
-        .slice(indexOfFirstFile, indexOfLastFile); // Current countries to display
+        .filter(file => file.toLowerCase().startsWith(filter.toLowerCase()))
+        .slice(indexOfFirstFile, indexOfLastFile);
 
-    // Change page
     const paginate = (pageNumber) => setCurrentPage(pageNumber);
 
-    // Calculate total pages
     const pageNumbers = [];
     for (let i = 1; i <= Math.ceil(files.length / itemsPerPage); i++) {
         pageNumbers.push(i);
     }
 
+    // Function to fetch content for the selected country
+    const fetchCountryContent = (country) => {
+        fetch(`http://localhost:5000/api/files/${country.replace('.json', '')}`)
+            .then((response) => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then((data) => setSelectedCountryContent(data))
+            .catch((error) => setError(error));
+    };
+
     return (
         <div>
             <h1>Files List</h1>
-            {error && <p>Error: {error.message}</p>} {/* Display error if it occurs */}
-            <input 
-                type="text" 
-                placeholder="Filter by country" 
-                className="filter-input" 
+            {error && <p>Error: {error.message}</p>}
+            <input
+                type="text"
+                placeholder="Filter by country"
+                className="filter-input"
                 value={filter}
-                onChange={(e) => setFilter(e.target.value)} // Update filter state on input change
+                onChange={(e) => setFilter(e.target.value)}
             />
             <div className="container">
                 {currentFiles.map((file, index) => (
-                    <div className="cub" key={index}>
-                        {file.replace('.json', '').replace(/_/g, ' ')} {/* Format country name */}
+                    <div className="cub" key={index} onClick={() => fetchCountryContent(file)}>
+                        {file.replace('.json', '').replace(/_/g, ' ')}
                     </div>
                 ))}
             </div>
@@ -61,6 +72,13 @@ function App() {
                     </button>
                 ))}
             </div>
+            {/* Display selected country content */}
+            {selectedCountryContent && (
+                <div className="country-content">
+                    <h2>Content for {selectedCountryContent.name}</h2>
+                    <pre>{JSON.stringify(selectedCountryContent, null, 2)}</pre>
+                </div>
+            )}
         </div>
     );
 }
