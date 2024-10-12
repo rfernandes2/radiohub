@@ -11,7 +11,7 @@ app.use(cors());
 
 // Endpoint to get files from a specific folder
 app.get('/api/files', (req, res) => {
-    const directoryPath = path.join(__dirname, 'radios'); // Ensure this path is correct
+    const directoryPath = path.join(__dirname, 'radios');
 
     fs.readdir(directoryPath, (err, files) => {
         if (err) {
