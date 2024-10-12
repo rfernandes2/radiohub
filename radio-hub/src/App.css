@@ -1,14 +1,15 @@
 /* App.css */
 body {
-  font-family: 'Arial', sans-serif;
-  background-color: #000; /* Set background to black */
-  background-image: url('https://www.transparenttextures.com/patterns/marble.png'); /* Add a marble texture */
-  background-size: cover; /* Cover the entire background */
-  color: white; /* Change text color to white for contrast */
-  margin: 0; /* Remove default margin */
-  padding: 20px; /* Add padding around the body */
+  font-family: 'Arial', sans-serif; /* Fonte padrão */
+  background-color: #000; /* Fundo preto */
+  background-image: url('https://www.transparenttextures.com/patterns/marble.png'); /* Adiciona textura de mármore */
+  background-size: cover; /* Cobre toda a tela */
+  background-attachment: fixed; /* Mantém a textura fixa durante o rolar */
+  color: white; /* Texto em branco para contraste */
+  margin: 0; /* Remove a margem padrão */
+  padding: 20px; /* Espaçamento interno ao redor do corpo */
+  min-height: 90vh; /* Garante que a altura mínima seja 100% da janela de visualização */
 }
-
 /* Style for the main container */
 .container {
   display: flex;              
@@ -18,14 +19,13 @@ body {
 }
 
 /* Style for each country box */
-/* Style for each country box */
 .cub {
   background-color: rgba(255, 255, 255, 0.1); /* Semi-transparent white for luxury look */
   color: white;              
   border-radius: 10px;       /* Rounded corners for a smooth look */
   padding: 8px;              /* Adjusted padding for smaller boxes */
   margin: 10px;             
-  width: 150px;              /* Adjust width for larger cubes */
+  width: 320px;              /* Adjust width for larger cubes */
   min-height: 50px;         /* Decreased minimum height */
   text-align: center;       
   box-shadow: 0 4px 15px rgba(255, 255, 255, 0.2); /* Soft white shadow for elegance */
@@ -61,21 +61,25 @@ input {
 /* Style for pagination buttons */
 .pagination {
   display: flex;
-  justify-content: center;  
-  flex-wrap: wrap;          /* Allow wrapping of buttons */
-  margin-top: 20px;        
+  justify-content: center;
+  flex-wrap: wrap; /* Allow wrapping of buttons */
+  margin-top: 20px;
 }
 
 .pagination button {
-  margin: 0 5px;             
-  padding: 8px 12px;        /* Adjust padding for smaller buttons */
-  border: none;             
-  border-radius: 5px;       
+  margin: 0 5px;
+  width: 40px;              /* Set a fixed width */
+  height: 40px;             /* Set a fixed height to create perfect circles */
+  border: none;
+  border-radius: 50%;       /* Make the button a circle */
   background-color: rgba(255, 255, 255, 0.3); /* Semi-transparent background */
-  color: white;              
-  cursor: pointer;           
+  color: white;
+  cursor: pointer;
   font-size: 14px;          /* Responsive font size */
   transition: background-color 0.3s; /* Smooth background color transition */
+  display: flex;
+  align-items: center;      /* Vertically center the content */
+  justify-content: center;  /* Horizontally center the content */
 }
 
 .pagination button:hover {
@@ -84,7 +88,7 @@ input {
 
 .pagination button.active {
   background-color: rgba(255, 255, 255, 0.5); /* Highlight active button */
-  font-weight: bold;         
+  font-weight: bold;
 }
 
 /* Responsive Styles */
@@ -113,7 +117,8 @@ input {
       width: 120px;           /* Further adjust input field */
   }
 }
-/* App.css */
+
+/* Radio stations styling */
 .radio-stations {
     margin-top: 20px;
 }
@@ -141,3 +146,180 @@ input {
 .play-button:hover {
     background-color: #0056b3; /* Darker blue on hover */
 }
+
+/* Flex container to align items horizontally */
+.radio-container {
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping to a new line if the screen is too small */
+    gap: 20px; /* Space between radio items */
+    justify-content: center; /* Center the items horizontally */
+}
+
+/* Each radio item will have its own box */
+.radio-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    width: 200px; /* Define a fixed width for each radio item */
+    background-color: rgba(255, 255, 255, 0.1); /* Slight background for the container */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Slight shadow for a card effect */
+    text-align: center;
+}
+
+/* Style for the favicon image */
+.radio-favicon {
+    width: 50px;   /* Slightly bigger for better visibility */
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+/* Style for the radio details (name and link) */
+.radio-details h3 {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+.radio-details a {
+    color: blue;
+    text-decoration: underline;
+    font-size: 14px;
+}
+
+/* Rádios Pagination Styles */
+.radio-pagination {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /* Allow wrapping of buttons */
+    margin-top: 20px;
+}
+
+.radio-pagination button {
+    margin: 0 5px;
+    width: 40px;              /* Set a fixed width */
+    height: 40px;             /* Set a fixed height to create perfect circles */
+    border: none;
+    border-radius: 50%;       /* Make the button a circle */
+    background-color: rgba(255, 255, 255, 0.3); /* Semi-transparent background */
+    color: white;
+    cursor: pointer;
+    font-size: 14px;          /* Responsive font size */
+    transition: background-color 0.3s; /* Smooth background color transition */
+    display: flex;
+    align-items: center;      /* Vertically center the content */
+    justify-content: center;  /* Horizontally center the content */
+}
+
+.radio-pagination button:hover {
+    background-color: rgba(255, 255, 255, 0.5); /* Lighten on hover */
+}
+
+.radio-pagination button.active {
+    background-color: rgba(255, 255, 255, 0.5); /* Highlight active button */
+    font-weight: bold;
+}
+
+/* Navigation styles for radio stations */
+.radio-navigation {
+    display: flex;                  /* Use flexbox to organize the items */
+    align-items: center;           /* Align vertically the items */
+    justify-content: space-between; /* Create space between buttons and container */
+    margin-top: 20px;              /* Top margin for spacing */
+}
+
+.navigation-button {
+    background-color: rgba(255, 255, 255, 0.3); /* Semi-transparent background */
+    color: white;                  /* White text */
+    border: none;                  /* No border */
+    border-radius: 50%;           /* Rounded corners */
+    cursor: pointer;               /* Pointer cursor to indicate clickability */
+    font-size: 20px;               /* Font size for arrows */
+    width: 30px;                   /* Width for buttons */
+    height: 30px;                  /* Height for buttons */
+    display: flex;                 /* Use flexbox to center content */
+    align-items: center;           /* Center vertically */
+    justify-content: center;       /* Center horizontally */
+    transition: background-color 0.3s; /* Smooth background transition */
+}
+
+.navigation-button:hover {
+    background-color: rgba(255, 255, 255, 0.5); /* Change color on hover */
+}
+.navigation-button:disabled {
+  background-color: rgba(255, 255, 255, 0.1); /* Cor de fundo mais clara */
+  cursor: not-allowed; /* Cursor de bloqueio */
+  opacity: 0.5; /* Define a opacidade para desbotar o botão */
+  filter: grayscale(100%); /* Aplica um filtro em escala de cinza */
+  transition: opacity 0.3s, filter 0.3s; /* Transição suave para opacidade e filtro */
+}
+.play-button, .stop-button {
+  background-color: #28a745; /* Cor verde para o botão */
+  color: white; /* Cor do texto */
+  border: none; /* Remove a borda padrão */
+  border-radius: 50%; /* Botão circular */
+  padding: 10px; /* Padding para o botão */
+  cursor: pointer; /* Muda o cursor para pointer */
+  width: 30px; /* Largura do botão */
+  height: 30px; /* Altura do botão */
+  justify-content: center; /* Centralizar horizontalmente */
+  transition: background-color 0.3s; /* Transição suave para a cor de fundo */
+}
+
+.play-button:hover {
+  background-color: #218838; /* Escurece o botão ao passar o mouse */
+}
+
+.stop-button {
+  background-color: #dc3545; /* Cor vermelha para o botão de parar */
+}
+
+.stop-button:hover {
+  background-color: #c82333; /* Escurece o botão ao passar o mouse */
+}
+
+.hide {
+  display: none; /* Oculta elementos */
+}
+
+.volume-control {
+  margin-top: 20px; /* Espaçamento acima do controle de volume */
+}
+
+.volume-control label {
+  margin-right: 10px; /* Espaçamento à direita do rótulo */
+  color: white; /* Cor do texto */
+}
+
+.volume-control input[type="range"] {
+  height: 5px; /* Altura da barra do controle */
+  background: #ddd; /* Cor da barra do controle */
+  border-radius: 5px; /* Bordas arredondadas */
+  outline: none; /* Remove contorno ao focar */
+}
+
+.volume-control input[type="range"]::-webkit-slider-thumb {
+  width: 15px; /* Largura do thumb */
+  height: 15px; /* Altura do thumb */
+  border-radius: 50%; /* Bordas arredondadas */
+  background: #4CAF50; /* Cor do thumb */
+  cursor: pointer; /* Cursor para indicar que é interativo */
+}
+
+.volume-control input[type="range"]::-moz-range-thumb {
+  width: 15px; /* Largura do thumb */
+  height: 15px; /* Altura do thumb */
+  border-radius: 50%; /* Bordas arredondadas */
+  background: #4CAF50; /* Cor do thumb */
+  cursor: pointer; /* Cursor para indicar que é interativo */
+}
+
+.volume-control input[type="range"]::-ms-thumb {
+  width: 15px; /* Largura do thumb */
+  height: 15px; /* Altura do thumb */
+  border-radius: 50%; /* Bordas arredondadas */
+  background: #4CAF50; /* Cor do thumb */
+  cursor: pointer; /* Cursor para indicar que é interativo */
+}
+
+
