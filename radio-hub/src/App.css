@@ -1,325 +1,359 @@
 /* App.css */
 body {
-  font-family: 'Arial', sans-serif; /* Fonte padrão */
-  background-color: #000; /* Fundo preto */
-  background-image: url('https://www.transparenttextures.com/patterns/marble.png'); /* Adiciona textura de mármore */
-  background-size: cover; /* Cobre toda a tela */
-  background-attachment: fixed; /* Mantém a textura fixa durante o rolar */
-  color: white; /* Texto em branco para contraste */
-  margin: 0; /* Remove a margem padrão */
-  padding: 20px; /* Espaçamento interno ao redor do corpo */
-  min-height: 90vh; /* Garante que a altura mínima seja 100% da janela de visualização */
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0; /* Soft light gray background */
+  background-image: url('https://www.transparenttextures.com/patterns/marble.png'); /* Retained texture */
+  background-size: cover;
+  background-attachment: fixed;
+  color: #333; /* Dark gray text for contrast */
+  margin: 0;
+  padding: 20px;
+  min-height: 90vh;
 }
+
 /* Style for the main container */
 .container {
-  display: flex;              
-  flex-wrap: wrap;           
-  justify-content: center;   
-  margin: 20px;             
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
 }
 
 /* Style for each country box */
 .cub {
-  background-color: rgba(255, 255, 255, 0.1); /* Semi-transparent white for luxury look */
-  color: white;              
-  border-radius: 10px;       /* Rounded corners for a smooth look */
-  padding: 8px;              /* Adjusted padding for smaller boxes */
-  margin: 10px;             
-  width: 320px;              /* Adjust width for larger cubes */
-  min-height: 50px;         /* Decreased minimum height */
-  text-align: center;       
-  box-shadow: 0 4px 15px rgba(255, 255, 255, 0.2); /* Soft white shadow for elegance */
-  transition: transform 0.2s, box-shadow 0.2s; /* Smooth transition for hover effects */
-  overflow: hidden;         /* Hide overflow text */
-  text-overflow: ellipsis;  /* Show ellipsis for overflowing text */
-  white-space: nowrap;      /* Prevent text from wrapping */
-  font-size: 18px;          /* Increased font size */
-  
-  /* Flexbox styles to center text */
-  display: flex;            /* Use flexbox layout */
-  justify-content: center;  /* Center horizontally */
-  align-items: center;      /* Center vertically */
+  background-color: rgba(255, 255, 255, 0.9); /* Slightly more opaque */
+  color: #444; /* Soft dark gray text */
+  border-radius: 10px;
+  padding: 8px;
+  margin: 10px;
+  width: 320px;
+  min-height: 50px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  transition: transform 0.2s, box-shadow 0.2s; /* Smooth transition */
+  overflow: hidden;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .cub:hover {
-  transform: translateY(-5px); /* Lift effect on hover */
-  box-shadow: 0 8px 25px rgba(255, 255, 255, 0.4); /* Intensified shadow on hover */
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+}
+
+/* Style for the active radio station */
+.radio-item.active {
+  background-color: #ffeb3b; /* Bright yellow for the active radio station */
+  color: #000; /* Dark text for contrast */
+  border: 2px solid #fbc02d; /* Darker border for emphasis */
 }
 
 /* Style for the filter input */
 input {
-  width: 200px;               /* Set width for the input */
-  padding: 10px;             /* Padding for the input */
-  margin: 20px auto;         /* Center the input with margin */
-  display: block;            /* Block display for the input */
-  border: 1px solid #007bff; /* Border color */
-  border-radius: 5px;       /* Rounded corners */
-  background-color: rgba(255, 255, 255, 0.2); /* Light background */
-  color: white;              /* White text for input */
+  width: 200px;
+  padding: 10px;
+  margin: 20px auto;
+  display: block;
+  border: 1px solid #aaa; /* Light gray border */
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9); /* Slightly lighter */
+  color: #333; /* Dark gray text */
+  transition: border-color 0.3s; /* Transition for focus */
+}
+
+input:focus {
+  border-color: #007bff; /* Change border color on focus */
+  outline: none; /* Remove outline */
 }
 
 /* Style for pagination buttons */
 .pagination {
   display: flex;
   justify-content: center;
-  flex-wrap: wrap; /* Allow wrapping of buttons */
+  flex-wrap: wrap;
   margin-top: 20px;
 }
 
 .pagination button {
   margin: 0 5px;
-  width: 40px;              /* Set a fixed width */
-  height: 40px;             /* Set a fixed height to create perfect circles */
+  width: 40px;
+  height: 40px;
   border: none;
-  border-radius: 50%;       /* Make the button a circle */
-  background-color: rgba(255, 255, 255, 0.3); /* Semi-transparent background */
-  color: white;
+  border-radius: 50%;
+  background-color: rgba(100, 150, 200, 0.5); /* Soft blue */
+  color: #fff; /* White text */
   cursor: pointer;
-  font-size: 14px;          /* Responsive font size */
-  transition: background-color 0.3s; /* Smooth background color transition */
+  font-size: 14px;
+  transition: background-color 0.3s, transform 0.2s; /* Add transform */
   display: flex;
-  align-items: center;      /* Vertically center the content */
-  justify-content: center;  /* Horizontally center the content */
+  align-items: center;
+  justify-content: center;
 }
 
 .pagination button:hover {
-  background-color: rgba(255, 255, 255, 0.5); /* Lighten on hover */
+  background-color: rgba(100, 150, 200, 0.7); /* Darker blue on hover */
+  transform: scale(1.1); /* Scale effect on hover */
 }
 
 .pagination button.active {
-  background-color: rgba(255, 255, 255, 0.5); /* Highlight active button */
+  background-color: rgba(100, 150, 200, 0.7);
   font-weight: bold;
 }
 
-/* Responsive Styles */
+/* Radio stations styling */
+.radio-stations {
+  margin-top: 20px;
+}
+
+.radio-station {
+  background-color: rgba(255, 255, 255, 0.9); /* Lighter transparent background */
+  color: #333; /* Dark gray text */
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background-color 0.3s; /* Smooth background transition */
+}
+
+.radio-station:hover {
+  background-color: rgba(240, 240, 240, 0.8); /* Slightly darken on hover */
+}
+
+/* Flex container to align items horizontally */
+.radio-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+/* Each radio item will have its own box */
+.radio-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px; /* Reduced padding for compactness */
+  width: 200px;
+  background-color: rgba(255, 255, 255, 0.9); /* Slightly lighter */
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Softer shadow */
+  text-align: center;
+  cursor: pointer; /* Add pointer cursor */
+  transition: transform 0.2s, box-shadow 0.2s; /* Add transition for radio item */
+}
+
+.radio-item:hover {
+  transform: scale(1.05); /* Scale up on hover */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Darker shadow on hover */
+}
+
+/* Style for the favicon image */
+.radio-favicon {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+/* Style for the radio details (name and link) */
+.radio-details h3 {
+  font-size: 16px;
+  margin: 5px 0;
+  color: #333; /* Dark gray */
+}
+
+.radio-details a {
+  color: #007bff; /* Soft blue link color */
+  text-decoration: underline;
+  font-size: 14px;
+  transition: color 0.3s; /* Smooth color transition */
+}
+
+.radio-details a:hover {
+  color: #0056b3; /* Darker blue on hover */
+}
+
+/* Rádios Pagination Styles */
+.radio-pagination {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.radio-pagination button {
+  margin: 0 5px;
+  width: 40px;
+  height: 40px;
+  border: none;
+  border-radius: 50%;
+  background-color: rgba(100, 150, 200, 0.5); /* Soft blue */
+  color: #fff; /* White text */
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s, transform 0.2s; /* Add transform */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.radio-pagination button:hover {
+  background-color: rgba(100, 150, 200, 0.7); /* Darker blue on hover */
+  transform: scale(1.1); /* Scale effect on hover */
+}
+
+.radio-pagination button.active {
+  background-color: rgba(100, 150, 200, 0.7); /* Active state */
+  font-weight: bold;
+}
+
+/* Navigation styles for radio stations */
+.radio-navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.navigation-button {
+  background-color: rgba(255, 255, 255, 0.5); /* Light background */
+  color: #333; /* Dark gray text */
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 20px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s; /* Smooth transition */
+}
+
+.navigation-button:hover {
+  background-color: rgba(255, 255, 255, 0.7); /* Lighter background on hover */
+}
+
+.navigation-button:disabled {
+  background-color: rgba(255, 255, 255, 0.1);
+  cursor: not-allowed;
+  opacity: 0.5;
+  filter: grayscale(100%);
+  transition: opacity 0.3s, filter 0.3s;
+}
+
+.play-button,
+.stop-button {
+  background-color: #28a745; /* Soft green for play button */
+  color: white;
+  border: none;
+  border-radius: 50%;
+  padding: 10px;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  justify-content: center;
+  transition: background-color 0.3s;
+}
+
+.play-button:hover {
+  background-color: #218838; /* Darker green */
+}
+
+.stop-button {
+  background-color: #dc3545; /* Soft red for stop button */
+}
+
+.stop-button:hover {
+  background-color: #c82333; /* Darker red */
+}
+
+.hide {
+  display: none; /* Hide elements */
+}
+
+.volume-control {
+  display: flex; /* Use flexbox for alignment */
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  margin-top: 20px; /* Spacing above the volume control */
+  width: 50%; /* Adjust width as needed */
+  margin-left: auto; /* Centering the container */
+  margin-right: auto; /* Centering the container */
+}
+
+.volume-control label {
+  margin-right: 10px; /* Spacing to the right of the label */
+  color: #333; /* Dark gray */
+}
+
+.volume-control input[type="range"] {
+  height: 5px; /* Height of the control bar */
+  background: #ddd; /* Light gray background */
+  border-radius: 5px; /* Rounded borders */
+  outline: none; /* Remove outline when focused */
+  flex-grow: 1; /* Allow the slider to take available space */
+  margin-right: 10px; /* Space between slider and percentage */
+}
+
+.volume-control input[type="range"]::-webkit-slider-thumb {
+  width: 15px; /* Width of the thumb */
+  height: 15px; /* Height of the thumb */
+  border-radius: 50%; /* Rounded borders */
+  background: #28a745; /* Green for the thumb */
+  cursor: pointer; /* Pointer cursor to indicate interactivity */
+}
+
+.volume-control input[type="range"]::-moz-range-thumb {
+  width: 15px; /* Width of the thumb */
+  height: 15px; /* Height of the thumb */
+  border-radius: 50%; /* Rounded borders */
+  background: #28a745; /* Green for the thumb */
+  cursor: pointer; /* Pointer cursor to indicate interactivity */
+}
+
+.volume-control input[type="range"]::-ms-thumb {
+  width: 15px; /* Width of the thumb */
+  height: 15px; /* Height of the thumb */
+  border-radius: 50%; /* Rounded borders */
+  background: #28a745; /* Green for the thumb */
+  cursor: pointer; /* Pointer cursor to indicate interactivity */
+}
+
+/* Responsive styles */
 @media (max-width: 768px) {
   .cub {
-      width: 120px;           /* Smaller cub size on smaller screens */
-      min-height: 40px;       /* Further decreased minimum height */
-      padding: 8px;           /* Less padding on smaller screens */
-      font-size: 16px;        /* Adjust font size for smaller screens */
+    width: 120px; /* Adjusted width */
+    min-height: 40px; /* Adjusted height */
+    padding: 8px; /* Adjusted padding */
+    font-size: 16px; /* Adjusted font size */
   }
 
   input {
-      width: 150px;           /* Smaller input field */
+    width: 150px; /* Adjusted input width */
+  }
+
+  .radio-item {
+    width: 150px; /* Adjusted radio item width */
   }
 }
 
 @media (max-width: 480px) {
   .cub {
-      width: 100px;            /* Further adjusted size for mobile screens */
-      min-height: 30px;       /* Further adjusted minimum height */
-      padding: 5px;           /* Less padding on smaller screens */
-      font-size: 14px;        /* Adjust font size for mobile screens */
+    width: 100px; /* Adjusted width */
+    min-height: 30px; /* Adjusted height */
+    padding: 5px; /* Adjusted padding */
+    font-size: 14px; /* Adjusted font size */
   }
 
   input {
-      width: 120px;           /* Further adjust input field */
+    width: 120px; /* Adjusted input width */
+  }
+
+  .radio-item {
+    width: 100px; /* Adjusted radio item width */
   }
 }
-
-/* Radio stations styling */
-.radio-stations {
-    margin-top: 20px;
-}
-
-.radio-station {
-    background-color: rgba(255, 255, 255, 0.1); /* Light transparent background */
-    color: white; /* White text color */
-    padding: 10px;
-    margin: 10px;
-    border-radius: 5px; /* Rounded corners */
-    display: flex; /* Flexbox layout */
-    justify-content: space-between; /* Space between name and button */
-    align-items: center; /* Center align items */
-}
-
-.play-button {
-    background-color: #007bff; /* Blue background */
-    color: white; /* White text */
-    padding: 5px 10px; /* Padding */
-    border: none; /* No border */
-    border-radius: 5px; /* Rounded corners */
-    text-decoration: none; /* Remove underline */
-}
-
-.play-button:hover {
-    background-color: #0056b3; /* Darker blue on hover */
-}
-
-/* Flex container to align items horizontally */
-.radio-container {
-    display: flex;
-    flex-wrap: wrap; /* Allow wrapping to a new line if the screen is too small */
-    gap: 20px; /* Space between radio items */
-    justify-content: center; /* Center the items horizontally */
-}
-
-/* Each radio item will have its own box */
-.radio-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 50px;
-    width: 200px; /* Define a fixed width for each radio item */
-    background-color: rgba(255, 255, 255, 0.1); /* Slight background for the container */
-    border-radius: 10px; /* Rounded corners */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Slight shadow for a card effect */
-    text-align: center;
-}
-
-/* Style for the favicon image */
-.radio-favicon {
-    width: 50px;   /* Slightly bigger for better visibility */
-    height: 50px;
-    margin-bottom: 10px;
-}
-
-/* Style for the radio details (name and link) */
-.radio-details h3 {
-    font-size: 16px;
-    margin: 5px 0;
-}
-
-.radio-details a {
-    color: blue;
-    text-decoration: underline;
-    font-size: 14px;
-}
-
-/* Rádios Pagination Styles */
-.radio-pagination {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap; /* Allow wrapping of buttons */
-    margin-top: 20px;
-}
-
-.radio-pagination button {
-    margin: 0 5px;
-    width: 40px;              /* Set a fixed width */
-    height: 40px;             /* Set a fixed height to create perfect circles */
-    border: none;
-    border-radius: 50%;       /* Make the button a circle */
-    background-color: rgba(255, 255, 255, 0.3); /* Semi-transparent background */
-    color: white;
-    cursor: pointer;
-    font-size: 14px;          /* Responsive font size */
-    transition: background-color 0.3s; /* Smooth background color transition */
-    display: flex;
-    align-items: center;      /* Vertically center the content */
-    justify-content: center;  /* Horizontally center the content */
-}
-
-.radio-pagination button:hover {
-    background-color: rgba(255, 255, 255, 0.5); /* Lighten on hover */
-}
-
-.radio-pagination button.active {
-    background-color: rgba(255, 255, 255, 0.5); /* Highlight active button */
-    font-weight: bold;
-}
-
-/* Navigation styles for radio stations */
-.radio-navigation {
-    display: flex;                  /* Use flexbox to organize the items */
-    align-items: center;           /* Align vertically the items */
-    justify-content: space-between; /* Create space between buttons and container */
-    margin-top: 20px;              /* Top margin for spacing */
-}
-
-.navigation-button {
-    background-color: rgba(255, 255, 255, 0.3); /* Semi-transparent background */
-    color: white;                  /* White text */
-    border: none;                  /* No border */
-    border-radius: 50%;           /* Rounded corners */
-    cursor: pointer;               /* Pointer cursor to indicate clickability */
-    font-size: 20px;               /* Font size for arrows */
-    width: 30px;                   /* Width for buttons */
-    height: 30px;                  /* Height for buttons */
-    display: flex;                 /* Use flexbox to center content */
-    align-items: center;           /* Center vertically */
-    justify-content: center;       /* Center horizontally */
-    transition: background-color 0.3s; /* Smooth background transition */
-}
-
-.navigation-button:hover {
-    background-color: rgba(255, 255, 255, 0.5); /* Change color on hover */
-}
-.navigation-button:disabled {
-  background-color: rgba(255, 255, 255, 0.1); /* Cor de fundo mais clara */
-  cursor: not-allowed; /* Cursor de bloqueio */
-  opacity: 0.5; /* Define a opacidade para desbotar o botão */
-  filter: grayscale(100%); /* Aplica um filtro em escala de cinza */
-  transition: opacity 0.3s, filter 0.3s; /* Transição suave para opacidade e filtro */
-}
-.play-button, .stop-button {
-  background-color: #28a745; /* Cor verde para o botão */
-  color: white; /* Cor do texto */
-  border: none; /* Remove a borda padrão */
-  border-radius: 50%; /* Botão circular */
-  padding: 10px; /* Padding para o botão */
-  cursor: pointer; /* Muda o cursor para pointer */
-  width: 30px; /* Largura do botão */
-  height: 30px; /* Altura do botão */
-  justify-content: center; /* Centralizar horizontalmente */
-  transition: background-color 0.3s; /* Transição suave para a cor de fundo */
-}
-
-.play-button:hover {
-  background-color: #218838; /* Escurece o botão ao passar o mouse */
-}
-
-.stop-button {
-  background-color: #dc3545; /* Cor vermelha para o botão de parar */
-}
-
-.stop-button:hover {
-  background-color: #c82333; /* Escurece o botão ao passar o mouse */
-}
-
-.hide {
-  display: none; /* Oculta elementos */
-}
-
-.volume-control {
-  margin-top: 20px; /* Espaçamento acima do controle de volume */
-}
-
-.volume-control label {
-  margin-right: 10px; /* Espaçamento à direita do rótulo */
-  color: white; /* Cor do texto */
-}
-
-.volume-control input[type="range"] {
-  height: 5px; /* Altura da barra do controle */
-  background: #ddd; /* Cor da barra do controle */
-  border-radius: 5px; /* Bordas arredondadas */
-  outline: none; /* Remove contorno ao focar */
-}
-
-.volume-control input[type="range"]::-webkit-slider-thumb {
-  width: 15px; /* Largura do thumb */
-  height: 15px; /* Altura do thumb */
-  border-radius: 50%; /* Bordas arredondadas */
-  background: #4CAF50; /* Cor do thumb */
-  cursor: pointer; /* Cursor para indicar que é interativo */
-}
-
-.volume-control input[type="range"]::-moz-range-thumb {
-  width: 15px; /* Largura do thumb */
-  height: 15px; /* Altura do thumb */
-  border-radius: 50%; /* Bordas arredondadas */
-  background: #4CAF50; /* Cor do thumb */
-  cursor: pointer; /* Cursor para indicar que é interativo */
-}
-
-.volume-control input[type="range"]::-ms-thumb {
-  width: 15px; /* Largura do thumb */
-  height: 15px; /* Altura do thumb */
-  border-radius: 50%; /* Bordas arredondadas */
-  background: #4CAF50; /* Cor do thumb */
-  cursor: pointer; /* Cursor para indicar que é interativo */
-}
-
-

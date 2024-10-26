@@ -10,15 +10,17 @@ function App() {
     const [filter, setFilter] = useState('');
     const [selectedCountryContent, setSelectedCountryContent] = useState(null);
     
-    // Estado para a paginação das rádios
+    // State for radio pagination
     const [currentRadioPage, setCurrentRadioPage] = useState(1);
     const itemsPerRadioPage = 10;
 
-    // Estado para controle do áudio
+    // State for audio control
     const [audio, setAudio] = useState(null);
     const [isPlaying, setIsPlaying] = useState(false);
     const [currentRadioUrl, setCurrentRadioUrl] = useState('');
-    const [volume, setVolume] = useState(1); // Volume padrão é 100%
+    const [volume, setVolume] = useState(1); // Volume default is 100%
+    const [volumePercentage, setVolumePercentage] = useState(100); // Initial volume percentage
+    const [radioFilter, setRadioFilter] = useState(''); // State for radio filtering
 
     useEffect(() => {
         fetch('http://localhost:5000/api/files')
@@ -41,7 +43,7 @@ function App() {
     const paginate = (pageNumber) => setCurrentPage(pageNumber);
 
     const pageNumbers = [];
-    const filteredFilesCount = files.filter(file => file.toLowerCase().startsWith(filter.toLowerCase())).length; // Contar arquivos filtrados
+    const filteredFilesCount = files.filter(file => file.toLowerCase().startsWith(filter.toLowerCase())).length;
     for (let i = 1; i <= Math.ceil(filteredFilesCount / itemsPerPage); i++) {
         pageNumbers.push(i);
     }
@@ -56,12 +58,12 @@ function App() {
             })
             .then((data) => {
                 setSelectedCountryContent(data);
-                setCurrentRadioPage(1); // Resetar a página das rádios
+                setCurrentRadioPage(1); // Reset radio page
             })
             .catch((error) => setError(error));
     };
 
-    // Lógica para a paginação das rádios
+    // Logic for radio pagination
     const indexOfLastRadio = currentRadioPage * itemsPerRadioPage;
     const indexOfFirstRadio = indexOfLastRadio - itemsPerRadioPage;
     const currentRadios = selectedCountryContent ? selectedCountryContent.slice(indexOfFirstRadio, indexOfLastRadio) : [];
@@ -78,145 +80,162 @@ function App() {
         }
     };
 
-    const playRadio = (url) => {
-        // Se já houver um áudio tocando e não for a mesma URL, pause-o
-        if (audio && currentRadioUrl !== url) {
-            audio.pause();
+    const playRadio = async (url) => {
+        if (currentRadioUrl === url) {
+            if (isPlaying) {
+                pauseRadio(); // Pause if it's currently playing
+            } else {
+                audio.play(); // Resume playing
+                setIsPlaying(true);
+            }
+            return; // Exit to avoid further processing
+        }
+
+        if (audio) {
+            audio.pause(); // Pause the current audio
             setIsPlaying(false);
         }
 
-        // Verifica se a URL do rádio atual é diferente da nova URL
-        if (!audio || currentRadioUrl !== url) {
-            const newAudio = new Audio(url);
-            newAudio.volume = volume; // Definir o volume
-            newAudio.play();
+        const newAudio = new Audio(url);
+        newAudio.volume = volume; // Set the volume
+        try {
+            await newAudio.play(); // Use await to handle play request
             setAudio(newAudio);
             setIsPlaying(true);
-            setCurrentRadioUrl(url);
+            setCurrentRadioUrl(url); // Set the current radio URL for highlighting
 
-            // Para pausar o áudio quando ele termina
             newAudio.onended = () => {
                 setIsPlaying(false);
-                setAudio(null); // Resetar o estado do áudio quando terminar
+                setAudio(null); // Reset audio state when it finishes
+                setCurrentRadioUrl(''); // Clear current radio URL when playback ends
             };
-        } else if (audio.paused) {
-            // Se o áudio estiver pausado, apenas retome a reprodução
-            audio.play();
-            setIsPlaying(true);
+        } catch (error) {
+            console.error("Error playing audio:", error);
         }
     };
 
     const pauseRadio = () => {
         if (audio) {
-            audio.pause();
-            setIsPlaying(false);
+            audio.pause(); // Pause the audio
+            setIsPlaying(false); // Update state to reflect that audio is not playing
         }
     };
 
     const stopRadio = () => {
         if (audio) {
-            audio.pause();
-            audio.currentTime = 0; // Reseta o tempo do áudio para 0
+            audio.pause(); // Pause the audio
+            audio.currentTime = 0; // Reset audio time to 0
             setIsPlaying(false);
-            setAudio(null); // Resetar o estado do áudio
-            setCurrentRadioUrl(''); // Limpar a URL da rádio atual
+            setAudio(null); // Reset audio state
+            setCurrentRadioUrl(''); // Clear current radio URL
         }
     };
 
     const handleVolumeChange = (event) => {
         const newVolume = event.target.value;
         setVolume(newVolume);
+        setVolumePercentage(Math.round(newVolume * 100)); // Update volume percentage
         if (audio) {
-            audio.volume = newVolume; // Ajustar volume do áudio
+            audio.volume = newVolume; // Adjust audio volume
         }
     };
+
+    // Apply radio filter
+    const filteredRadios = selectedCountryContent
+        ? selectedCountryContent.filter(radio => radio.name.toLowerCase().includes(radioFilter.toLowerCase()))
+        : [];
 
     return (
         <div>
             <h1>RadioHub</h1>
-            {error && <p>Error: {error.message}</p>} {/* Exibir erro se ocorrer */}
-            <input 
-                type="text" 
-                placeholder="Filter by country" 
-                className="filter-input" 
+            {error && <p>Error: {error.message}</p>}
+            <input
+                type="text"
+                placeholder="Filter by country"
+                className="filter-input"
                 value={filter}
-                onChange={(e) => setFilter(e.target.value)} // Atualizar estado do filtro na mudança do input
+                onChange={(e) => setFilter(e.target.value)}
             />
             <div className="container">
                 {currentFiles.map((file, index) => (
                     <div className="cub" key={index} onClick={() => fetchCountryContent(file)}>
-                        {file.replace('.json', '').replace(/_/g, ' ')} {/* Formatar nome do arquivo */}
+                        {file.replace('.json', '').replace(/_/g, ' ')}
                     </div>
                 ))}
             </div>
             <div className="pagination">
                 {pageNumbers.map(number => (
-                    <button 
-                        key={number} 
-                        onClick={() => paginate(number)} 
-                        className={`pagination-button ${number === currentPage ? 'active' : ''}`} // Adicionando classe para estilo circular
+                    <button
+                        key={number}
+                        onClick={() => paginate(number)}
+                        className={`pagination-button ${number === currentPage ? 'active' : ''}`}
                     >
                         {number}
                     </button>
                 ))}
             </div>
-            {/* Display selected country content */}
+
             {selectedCountryContent && (
                 <div className="country-content">
-                    {/* Controle de volume */}
                     <div className="volume-control">
-                        <input 
-                            type="range" 
-                            id="volume" 
-                            min="0" 
-                            max="1" 
-                            step="0.01" // Passo reduzido para permitir ajuste fino
-                            value={volume} 
-                            onChange={handleVolumeChange} 
-                            style={{ width: '20%' }} // Certifique-se de que a largura é 100%
+                        <input
+                            type="range"
+                            id="volume"
+                            min="0"
+                            max="1"
+                            step="0.01"
+                            value={volume}
+                            onChange={handleVolumeChange}
+                            style={{ width: '20%' }}
                         />
+                        <span>{volumePercentage}%</span>
+                        <button 
+                            onClick={stopRadio} 
+                            className="stop-button" 
+                            style={{ marginLeft: '10px' }}>
+                            Stop
+                        </button>
                     </div>
 
-                    {/* Navegação para as rádios */}
+                    {/* New Radio Filter */}
+                    <input
+                        type="text"
+                        placeholder="Search for a radio"
+                        className="radio-filter-input"
+                        value={radioFilter}
+                        onChange={(e) => setRadioFilter(e.target.value)}
+                    />
+
                     <div className="radio-navigation">
-                        <button 
-                            className="navigation-button" 
-                            onClick={handlePreviousRadioPage} 
+                        <button
+                            className="navigation-button"
+                            onClick={handlePreviousRadioPage}
                             disabled={currentRadioPage === 1}
                         >
                             {'←'}
                         </button>
                         <div className="radio-container">
-                            {currentRadios.map((radio, index) => (
-                                <div key={index} className="radio-item">
-                                    <img 
+                            {filteredRadios.slice(indexOfFirstRadio, indexOfLastRadio).map((radio, index) => (
+                                <div
+                                    key={index}
+                                    className={`radio-item ${currentRadioUrl === radio.url ? 'playing' : ''}`} // Apply 'playing' class if it's currently playing
+                                    onClick={() => playRadio(radio.url)}
+                                >
+                                    <img
                                         src={radio.favicon || defaultImage}
-                                        alt={`${radio.name} icon`} 
-                                        className="radio-favicon" 
+                                        alt={`${radio.name} icon`}
+                                        className="radio-favicon"
                                     />
                                     <div className="radio-details">
                                         <h3>{radio.name}</h3>
-                                        <button 
-                                            onClick={() => playRadio(radio.url)} 
-                                            className="play-button"
-                                        >
-                                            <i className={`fas fa-play ${isPlaying && currentRadioUrl === radio.url ? 'hide' : ''}`}></i>
-                                            <i className={`fas fa-pause ${isPlaying && currentRadioUrl === radio.url ? '' : 'hide'}`}></i>
-                                        </button>
-                                        <button 
-                                            onClick={stopRadio} 
-                                            className="stop-button"
-                                        >
-                                            <i className="fas fa-stop"></i>
-                                        </button>
                                     </div>
                                 </div>
                             ))}
                         </div>
-                        <button 
-                            className="navigation-button" 
-                            onClick={handleNextRadioPage} 
-                            disabled={currentRadioPage >= Math.ceil(selectedCountryContent.length / itemsPerRadioPage)}
+                        <button
+                            className="navigation-button"
+                            onClick={handleNextRadioPage}
+                            disabled={currentRadioPage >= Math.ceil(filteredRadios.length / itemsPerRadioPage)}
                         >
                             {'→'}
                         </button>
