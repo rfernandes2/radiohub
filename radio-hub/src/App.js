@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
-import defaultImage from './default-image-url.png';
-import pauseIcon from './img/pause_icon.png'
+import defaultImage from './img/default-image-url.png';
+import pauseIcon from './img/pause_icon.png';
 
 function App() {
     const [files, setFiles] = useState([]);
@@ -10,6 +10,9 @@ function App() {
     const [itemsPerPage] = useState(10);
     const [filter, setFilter] = useState('');
     const [selectedCountryContent, setSelectedCountryContent] = useState(null);
+
+    // New state for the selected country
+    const [selectedCountry, setSelectedCountry] = useState(null);
 
     // State for radio pagination
     const [currentRadioPage, setCurrentRadioPage] = useState(1);
@@ -60,6 +63,7 @@ function App() {
     }
 
     const fetchCountryContent = (country) => {
+        setSelectedCountry(country); // Set the selected country
         fetch(`http://localhost:5000/api/files/${country.replace('.json', '')}`)
             .then((response) => {
                 if (!response.ok) {
@@ -169,7 +173,11 @@ function App() {
             />
             <div className="container">
                 {currentFiles.map((file, index) => (
-                    <div className="cub" key={index} onClick={() => fetchCountryContent(file)}>
+                    <div 
+                        className={`cub ${selectedCountry === file ? 'selected' : ''}`} 
+                        key={index} 
+                        onClick={() => fetchCountryContent(file)}
+                    >
                         {file.replace('.json', '').replace(/_/g, ' ')}
                     </div>
                 ))}
