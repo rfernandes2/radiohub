@@ -34,6 +34,16 @@ function App() {
             .catch((error) => setError(error));
     }, []);
 
+    // Cleanup audio on unmount or when it changes
+    useEffect(() => {
+        return () => {
+            if (audio) {
+                audio.pause();
+                setAudio(null); // Reset audio state when the component unmounts
+            }
+        };
+    }, [audio]);
+
     const indexOfLastFile = currentPage * itemsPerPage;
     const indexOfFirstFile = indexOfLastFile - itemsPerPage;
     const currentFiles = files
@@ -192,7 +202,8 @@ function App() {
                         <button 
                             onClick={stopRadio} 
                             className="stop-button" 
-                            style={{ marginLeft: '10px' }}>
+                            style={{ marginLeft: '10px' }}
+                        >
                             Stop
                         </button>
                     </div>
@@ -211,31 +222,37 @@ function App() {
                             className="navigation-button"
                             onClick={handlePreviousRadioPage}
                             disabled={currentRadioPage === 1}
+                            aria-label="Previous page"
                         >
                             {'←'}
                         </button>
                         <div className="radio-container">
-                            {filteredRadios.slice(indexOfFirstRadio, indexOfLastRadio).map((radio, index) => (
-                                <div
-                                    key={index}
-                                    className={`radio-item ${currentRadioUrl === radio.url ? 'playing' : ''}`} // Apply 'playing' class if it's currently playing
-                                    onClick={() => playRadio(radio.url)}
-                                >
-                                    <img
-                                        src={radio.favicon || defaultImage}
-                                        alt={`${radio.name} icon`}
-                                        className="radio-favicon"
-                                    />
-                                    <div className="radio-details">
-                                        <h3>{radio.name}</h3>
+                            {filteredRadios.length === 0 ? (
+                                <p>No radios found.</p>
+                            ) : (
+                                filteredRadios.slice(indexOfFirstRadio, indexOfLastRadio).map((radio, index) => (
+                                    <div
+                                        key={index}
+                                        className={`radio-item ${currentRadioUrl === radio.url ? 'playing' : ''}`}
+                                        onClick={() => playRadio(radio.url)}
+                                    >
+                                        <img
+                                            src={radio.favicon || defaultImage}
+                                            alt={`${radio.name} icon`}
+                                            className="radio-favicon"
+                                        />
+                                        <div className="radio-details">
+                                            <h3>{radio.name}</h3>
+                                        </div>
                                     </div>
-                                </div>
-                            ))}
+                                ))
+                            )}
                         </div>
                         <button
                             className="navigation-button"
                             onClick={handleNextRadioPage}
                             disabled={currentRadioPage >= Math.ceil(filteredRadios.length / itemsPerRadioPage)}
+                            aria-label="Next page"
                         >
                             {'→'}
                         </button>

@@ -50,6 +50,13 @@ body {
   border: 2px solid #fbc02d; /* Darker border for emphasis */
 }
 
+/* New styles for the playing radio item */
+.radio-item.playing {
+  background-color: rgba(173, 216, 230, 0.8); /* Light blue background for playing */
+  color: #000; /* Dark text for contrast */
+  border: 2px solid #00f; /* Blue border for emphasis */
+}
+
 /* Style for the filter input */
 input {
   width: 200px;
