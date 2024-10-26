@@ -252,30 +252,23 @@ input:focus {
   transition: opacity 0.3s, filter 0.3s;
 }
 
-.play-button,
-.stop-button {
-  background-color: #28a745; /* Soft green for play button */
-  color: white;
-  border: none;
-  border-radius: 50%;
-  padding: 10px;
-  cursor: pointer;
-  width: 30px;
-  height: 30px;
-  justify-content: center;
-  transition: background-color 0.3s;
+.hide {
+  display: none;
 }
 
 .play-button:hover {
   background-color: #218838; /* Darker green */
 }
 
-.stop-button {
-  background-color: #dc3545; /* Soft red for stop button */
+.stop-icon {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  transition: transform 0.2s;
 }
 
 .stop-button:hover {
-  background-color: #c82333; /* Darker red */
+  transform: scale(1.1);
 }
 
 .hide {
@@ -287,7 +280,7 @@ input:focus {
   align-items: center; /* Center vertically */
   justify-content: center; /* Center horizontally */
   margin-top: 20px; /* Spacing above the volume control */
-  width: 50%; /* Adjust width as needed */
+  width: 15%; /* Adjust width as needed */
   margin-left: auto; /* Centering the container */
   margin-right: auto; /* Centering the container */
 }

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
 import defaultImage from './default-image-url.png';
+import pauseIcon from './img/pause_icon.png'
 
 function App() {
     const [files, setFiles] = useState([]);
@@ -9,7 +10,7 @@ function App() {
     const [itemsPerPage] = useState(10);
     const [filter, setFilter] = useState('');
     const [selectedCountryContent, setSelectedCountryContent] = useState(null);
-    
+
     // State for radio pagination
     const [currentRadioPage, setCurrentRadioPage] = useState(1);
     const itemsPerRadioPage = 10;
@@ -18,8 +19,8 @@ function App() {
     const [audio, setAudio] = useState(null);
     const [isPlaying, setIsPlaying] = useState(false);
     const [currentRadioUrl, setCurrentRadioUrl] = useState('');
-    const [volume, setVolume] = useState(1); // Volume default is 100%
-    const [volumePercentage, setVolumePercentage] = useState(100); // Initial volume percentage
+    const [volume, setVolume] = useState(0.5); // Volume default is 100%
+    const [volumePercentage, setVolumePercentage] = useState(50); // Initial volume percentage
     const [radioFilter, setRadioFilter] = useState(''); // State for radio filtering
 
     useEffect(() => {
@@ -199,12 +200,12 @@ function App() {
                             style={{ width: '20%' }}
                         />
                         <span>{volumePercentage}%</span>
-                        <button 
-                            onClick={stopRadio} 
-                            className="stop-button" 
-                            style={{ marginLeft: '10px' }}
+                        <button
+                            onClick={stopRadio}
+                            className={`stop-button ${isPlaying ? '' : 'hide'}`} // Hide when not playing
+                            style={{ marginLeft: '10px', cursor: 'pointer' }}
                         >
-                            Stop
+                            <img src={pauseIcon} alt="Pause Music" className="stop-icon" /> {/* Show the pause icon */}
                         </button>
                     </div>
 
